@@ -1,20 +1,19 @@
-**[Read from 1st lesson
-](https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html)**
+**[Đọc từ bài học đầu tiên / Read from 1st lesson](https://dovahkrid.github.io/cure-dolly-vietnamese/1-the-basic-types-of-sentences.html)**
 
-# Intro
+# Cure Dolly Vietnamese
 
-First and foremost, this project only exists because Mordraug and Nunko spent a lot of time transcribing all of Cure Dolly's videos and sharing them in [this Google Docs](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/). Many thanks to them!
+Bản dịch tiếng Việt của hướng dẫn ngữ pháp tiếng Nhật Cure Dolly.
 
-For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, changed the formatting slightly, and published it using Vitepress, which I find more convenient than Google Docs or PDF.
+Vietnamese translation of the Cure Dolly Japanese grammar guide.
 
-<img src="https://i.imgur.com/YOWRijj.png">
+## Credits
 
-## What's changed
+- **Original transcript**: [Mordraug](https://discord.com/users/501133947044888605) and [nunko/dinuz](https://discordapp.com/users/367391904343523339) - [Google Docs](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/)
+- **Markdown conversion & Vitepress site**: [Kellen](https://bento.me/kln) - [Original site](https://kellenok.github.io/cure-script/)
+- **Vietnamese translation**: [dovahkrid](https://github.com/dovahkrid) with [Claude](https://claude.ai)
 
-1. Changed the <u>underlined text</u> to **bold** due to personal preference.
-2. All text in "quotes" became `highlighted` in color
-3. Changed note type from *italic text* to speсial containers
-4. I have added a very rough and imprecise grouping of lessons. This was only done to allow the list to be collapsed.
-5. Merge line-by-line text into readable paragraph text
+## What's in this version
 
-Something else may have broken during all the changes, but there shouldn't be any critical breaks.
+- Full Vietnamese translation of all 97 lessons
+- Preserved all Japanese text (kanji, hiragana, katakana)
+- Bilingual support (English + Vietnamese)

@@ -14,7 +14,9 @@
     "docs:preview": "vitepress preview config",
     "translate": "node translate-openrouter.js",
     "translate:list": "node translate-openrouter.js --list",
-    "translate:test": "node translate-openrouter.js --test"
+    "translate:test": "node translate-openrouter.js --test",
+    "qa": "node qa-translations.js",
+    "qa:file": "node qa-translations.js --file"
   },
   "dependencies": {
     "fs": "^0.0.1-security",
