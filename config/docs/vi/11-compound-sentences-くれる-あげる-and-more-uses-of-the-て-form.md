@@ -1,102 +1,102 @@
-# **11. Сложные предложения, くれる, あげる и другие применения て-формы**
+# **11. Câu ghép, くれる, あげる và thêm các cách sử dụng của て-form**
 
-[**Урок 11: Сложные предложения, kureru, ageru, другие применения て-формы**](https://www.youtube.com/watch?v=3X2ZCWazrDw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=13)
+[**Bài 11: Câu ghép, kureru, ageru, thêm các cách sử dụng te-form**](https://www.youtube.com/watch?v=3X2ZCWazrDw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=13)
 
-Мы завершили десять уроков, и пришло время сменить темп. Мы уже достаточно много узнали, чтобы начать рассматривать настоящие повествования. Сначала они будут немного упрощёнными, но мы сможем использовать это, чтобы объединить всё, что мы изучили до сих пор. Мы также будем изучать новые структурные элементы, потому что даже в самой простой истории мы столкнёмся с вещами, которые нам нужно будет выучить. Но это может быть более интересным способом обучения. Так что, пожалуйста, дайте мне знать, что вы думаете, в комментариях ниже. Отлично.
+Chúng ta đã hoàn thành mười bài học và đã đến lúc thay đổi nhịp độ. Chúng ta đã học đủ nhiều để có thể bắt đầu xem xét một số câu chuyện thực sự. Lúc đầu sẽ hơi đơn giản, nhưng chúng ta có thể sử dụng điều này để kết hợp những gì đã học cho đến nay. Chúng ta cũng sẽ học các yếu tố cấu trúc mới vì ngay cả trong câu chuyện đơn giản nhất, chúng ta cũng sẽ gặp những điều cần phải học. Nhưng đây có thể là cách thú vị hơn để làm điều đó. Vậy nên hãy cho tôi biết bạn nghĩ gì trong phần bình luận bên dưới nhé. Được rồi.
 
-Теперь давайте перейдём к истории, которую, я думаю, мы все знаем.
+Bây giờ hãy đi vào một câu chuyện mà tôi tin rằng tất cả chúng ta đều biết.
 
-<code>ある日アリスは川のそばにいた.</code>
+`ある日アリスは川のそばにいた.`
 
-Это простое предложение. Слово <code>川/かわ</code> означает <code>река</code>, а **<code>そば</code> означает <code>рядом</code> и является существительным.**
+Đây là một câu đơn giản. Từ `川/かわ` có nghĩa là `sông`, và **`そば` có nghĩa là `bên cạnh` và nó là một danh từ.**
 
 ![](../media/image937.webp)
 
-Так что <code>川のそば</code> — это <code>рядом реки</code>. Точно так же, как мы кладём что-то на «верх» стола или «низ» стола, и **мы также всегда отмечаем это частицей に**, так и <code>рядом реки</code> — это то место, где находилась Алиса.
+Vậy `川のそば` là `bên cạnh của con sông`. Giống như chúng ta đặt thứ gì đó trên `trên` của cái bàn hoặc `dưới` của cái bàn và **chúng ta cũng luôn đánh dấu nó bằng に**, vậy nên `bên cạnh con sông` là nơi Alice đã ở.
 
 ![](../media/image564.webp)
 
-<code>ある</code> означает <code>некий</code>, поэтому <code>ある日</code> — это как <code>однажды</code> или <code>в некий день</code>, и давайте заметим, что здесь происходит то, что мы уже видели. **<code>ある</code> — это глагол, который означает <code>существовать</code> или <code>быть</code>**, и то, что мы здесь сделали, мы видели в видеоуроке о так называемых прилагательных.<sup>[[6]](./6-adjectives.md)</sup> **Мы можем превратить любой локомотив в прилагательное.** Итак, **<code>ある</code> — это локомотив «А делает Б», う-локомотив**, поэтому, если мы говорим <code>本がある</code>, мы говорим: <code>Есть книга / Книга существует</code>.
+`ある` có nghĩa là `một cái nào đó`, vậy `ある日` giống như `một ngày nào đó` hoặc `một ngày nhất định`, và hãy chú ý rằng điều đang xảy ra ở đây là điều chúng ta đã thấy trước đây. **`ある` là động từ có nghĩa là `tồn tại` hoặc `có`**, và điều chúng ta đã làm ở đây là điều chúng ta đã thấy trong video bài học về cái gọi là tính từ.<sup>[[6]](./6-adjectives.md)</sup> **Chúng ta có thể biến bất kỳ động cơ nào thành tính từ.** Vậy, **`ある` là một động cơ `A does B`, một う-engine**, vậy nếu chúng ta nói `本がある` chúng ta đang nói, `Có một cuốn sách / một cuốn sách tồn tại`.
 
 ![](../media/image358.webp)
 
-**И если мы перемещаем этот локомотив <code>ある</code> на другую сторону книги, мы обесцвечиваем его, и он становится описателем, прилагательным.** Так что мы говорим <code>ある本</code> – <code>существующая книга / некая книга / книга, которая есть</code>.
+**Và nếu chúng ta di chuyển động cơ `ある` đó sang phía bên kia của cuốn sách, chúng ta biến nó thành màu trắng và nó trở thành từ mô tả, một tính từ.** Vậy chúng ta đang nói `ある本` – `một cuốn sách tồn tại / một cuốn sách nhất định / một cuốn sách có thật`.
 
 ![](../media/image350.webp)
 
-И это то же самое: <code>ある日</code> – <code>в некий день</code>.
+Và cũng tương tự: `ある日` – `một ngày nhất định`.
 
-<code>ある日アリスは川のそばにいた</code>
+`ある日アリスは川のそばにいた`
 
 ![](../media/image608.webp)
 
-Теперь следующее предложение будет немного сложнее, но не волнуйтесь, всегда легко, когда вам помогает полнофункциональный андроид. (На самом деле, я не совсем полнофункциональна, но для целей демонстрации японского языка я таковой являюсь.)
+Bây giờ, câu tiếp theo sẽ phức tạp hơn một chút, nhưng đừng lo lắng, nó luôn dễ dàng khi có một android hoạt động đầy đủ để giúp bạn. (Thực ra, tôi không hoàn toàn hoạt động đầy đủ, nhưng với mục đích chỉ cho bạn tiếng Nhật thì tôi có thể.)
 
-<code>おねえちゃんはつまらない本をよんでいてあそんでくれなかった</code>
+`おねえちゃんはつまらない本をよんでいてあそんでくれなかった`
 
 ![](../media/image186.webp)
 
-Итак, у нас здесь довольно сложное предложение, и давайте разберём его. <code>おねえちゃん</code> означает <code>старшая сестра</code>: <code>ねえ</code> — это <code>сестра</code>; <code>-ちゃん</code>, я уверена, вы знаете, это милый, дружелюбный почтительный суффикс; <code>お-</code> также является почтительным префиксом. Итак, <code>おねえちゃん</code> – <code>старшая сестра</code>.
+Vậy chúng ta có một câu khá phức tạp ở đây, và hãy phân tích nó. `おねえちゃん` có nghĩa là `chị gái`: `ねえ` là `chị`; `-ちゃん`, tôi chắc bạn biết, là một danh xưng dễ thương, thân thiện; `お-` cũng là một danh xưng tôn trọng. Vậy, `おねえちゃん` – `chị gái`.
 
-<code>つまらない</code> означает <code>скучный</code> или <code>неинтересный</code>. <code>本</code>, как мы знаем, это <code>книга</code>. <code>よむ</code> означает <code>читать</code>; <code>よんでいる</code> – мы **ставим <code>よむ</code> в て-форму и добавляем <code>いる</code>**, и это означает <code>читает</code>; а затем мы ставим сам <code>いる</code> в て-форму.
+`つまらない` có nghĩa là `nhàm chán` hoặc `buồn tẻ`. `本`, như chúng ta biết, là `sách`. `よむ` có nghĩa là `đọc`; `よんでいる` – chúng ta **đặt `よむ` vào て-form và thêm `いる`** và nó có nghĩa là `đang đọc`; và sau đó chúng ta đặt chính `いる` vào て-form.
 
-Так зачем мы всё это делаем? Давайте посмотрим. <code>おねえちゃんはつまらない本をよんでいて</code> – <code>Старшая сестра читает скучную книгу</code> – но затем это -て... **て-форма имеет много разных применений.** **В данном случае она завершает часть предложения.** <code>Старшая сестра читает скучную книгу</code> – это ведь законченная часть предложения, не так ли?
+Vậy tại sao chúng ta làm tất cả những điều đó? Hãy xem xét. `おねえちゃんはつまらない本をよんでいて` – `Chị gái đang đọc một cuốn sách nhàm chán`– nhưng sau đó cái -て.... **て-form có rất nhiều cách sử dụng khác nhau.** **Trong trường hợp này nó sẽ hoàn thành một mệnh đề.** `Chị gái đang đọc một cuốn sách nhàm chán` – đó là một mệnh đề hoàn chỉnh, phải không?
 
 ![](../media/image451.webp)
 
-**И если мы превращаем этот конечный う-локомотив в て-форму, мы говорим, что за этой частью предложения последует что-то ещё.** **Мы указываем, что создаём сложное предложение, состоящее из более чем одной части.** Так что это как сказать: <code>Старшая сестра читала скучную книгу **и...**</code> И затем следует что-то ещё: <code>あそんでくれなかった</code>.
+**Và nếu chúng ta biến う-engine cuối cùng đó thành て-form, điều chúng ta đang nói là có điều gì khác sẽ theo sau mệnh đề này.** **Chúng ta đang chỉ ra rằng chúng ta đang tạo một câu phức tạp được tạo thành từ nhiều hơn một mệnh đề.** Vậy nó giống như nói, `Chị gái đang đọc một cuốn sách nhàm chán **và...**` Và điều gì khác đó xuất hiện: `あそんでくれなかった`.
 
 ![](../media/image1113.webp)
 
-<code>あそぶ</code> означает <code>играть</code>, и это тоже в て-форме, не так ли? <code>あそぶ</code> --> あそんで". Если вы сомневаетесь, как мы образуем эти て-формы, пожалуйста, вернитесь к видеоуроку о て-форме и освежите свою память.<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>
+`あそぶ` có nghĩa là `chơi`, và điều đó cũng ở dạng て-form, phải không? `あそぶ` --> `あそんで`. Nếu bạn có bất kỳ nghi ngờ nào về cách chúng ta tạo những て-form này, hãy quay lại video bài học về て-form và ôn lại kiến thức.<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>
 
-<code>あそんでくれなかった</code>
+`あそんでくれなかった`
 
-Теперь это ещё одно применение て-формы. **て-форма ужасно важна, и она делает разные вещи.** Что она делает здесь? Ну, <code>あそぶ</code>, как мы знаем, означает <code>играть</code>.
+Bây giờ đây là một cách sử dụng khác của て-form. **て-form cực kỳ quan trọng và nó làm nhiều việc khác nhau.** Nó đang làm gì ở đây? Chà, `あそぶ`, như chúng ta biết, có nghĩa là `chơi`.
 
-<code>くれる</code> означает <code>давать</code>, **и это конкретно означает <code>давать вниз</code>**. И причина, по которой мы говорим <code>давать вниз</code> в японском, заключается в том, что мы всегда вежливы с людьми. **Поэтому мы всегда представляем себя ниже других людей, а других людей — выше себя.**
+`くれる` có nghĩa là `cho`, **và nó đặc biệt có nghĩa là `cho xuống dưới`**. Và lý do chúng ta nói `cho xuống dưới` trong tiếng Nhật là vì chúng ta luôn lịch sự với mọi người. **Vậy nên chúng ta luôn thể hiện bản thân như đang ở dưới người khác và người khác như đang ở trên chúng ta.**
 
 ![](../media/image86.webp)
 
-Так что **если я говорю <code>くれる</code> (давать), я всегда имею в виду, что кто-то даёт что-то мне или кому-то из моих близких.**
+Vậy **nếu tôi nói `くれる` (cho), tôi luôn có nghĩa là ai đó đang cho thứ gì đó cho tôi hoặc cho ai đó gần gũi với tôi.**
 
-Но что же старшая сестра Алисы даёт — или не даёт — Алисе?
+Nhưng chị gái của Alice đang cho – hoặc không cho – gì cho Alice?
 
 ![](../media/image391.webp)
 
-Ну, это не книга. На самом деле, это не какой-либо реальный объект. **Она даёт действие, с которым <code>くれる</code> связано через て-форму.** Она даёт — или в данном случае, не даёт — Алисе акт игры.
+Chà, không phải cuốn sách. Thực tế, không phải bất kỳ vật thể thực tế nào. **Cô ấy đang cho hành động mà `くれる` được kết nối bằng て-form.** Cô ấy đang cho – hoặc trong trường hợp này, không cho – hành động chơi cho Alice.
 
-Что мы под этим подразумеваем? **Ну, мы говорим <code>くれる</code> не только для того, чтобы дать вещь — книгу, подарок, конфету — мы также говорим это для того, чтобы дать действие, чтобы сделать что-то для нашей пользы.** **Это очень, очень часто используется в японском языке, поэтому важно это понять.** Если кто-то делает что-то для нашей пользы, мы ставим это действие в て-форму и добавляем <code>くれる</code>. **Если мы делаем что-то для пользы кого-то другого, мы ставим это действие в て-форму и добавляем <code>あげる</code>, что означает <code>давать вверх</code>, другими словами, давать вам, давать другому человеку.**
+Chúng ta có ý gì khi nói điều đó? **Chà, chúng ta nói `くれる` không chỉ để cho một thứ – một cuốn sách, một món quà, một viên kẹo – chúng ta cũng nói nó để cho một hành động, để làm điều gì đó vì lợi ích của chúng ta.** **Điều này được sử dụng rất rất thường xuyên trong tiếng Nhật, vậy nên việc hiểu nó là quan trọng.** Nếu ai đó làm điều gì đó vì lợi ích của chúng ta, chúng ta biến hành động đó thành て-form và thêm `くれる`. **Nếu chúng ta làm điều gì đó vì lợi ích của người khác, chúng ta biến hành động đó thành te-form và thêm `あげる`, có nghĩa là `cho lên trên`, nói cách khác, cho bạn, cho người khác.**
 
-<code>くれる</code> и <code>あげる</code> – давать вниз мне или моей группе / \[<code>**あげる**</code>\] **давать вверх вам, кому-то ещё, вашей группе или их группе.**
+`くれる` và `あげる` – cho xuống cho tôi hoặc nhóm của tôi / `**あげる**` **cho lên cho bạn hoặc ai đó khác hoặc nhóm của bạn hoặc nhóm của họ.**
 
-Итак, что же это за вторая часть предложения? Это <code>あそんでくれなかった</code> – «она не играла / она не дала Алисе поиграть / она не играла для Алисы».
+Vậy phần thứ hai của câu này là gì? Đó là `あそんでくれなかった` – "cô ấy đã không chơi / cô ấy đã không cho Alice việc chơi-với / cô ấy đã không chơi vì lợi ích của Alice".
 
 ![](../media/image344.webp)
 
-Это довольно сильно отличается от всего, что мы находим в английском, но это также очень выразительно, то, что нам на самом деле не помешало бы иметь в английском.
+Nó khá khác so với bất cứ điều gì chúng ta tìm thấy trong tiếng Anh, nhưng nó cũng rất biểu cảm, điều mà chúng ta thực sự có thể có trong tiếng Anh.
 
-Итак, теперь давайте снова посмотрим на всё предложение. <code>おねえちゃんはつまらない本をよんでいてあそんでくれなかった</code> – <code>Старшая сестра читала скучную книгу и не играла [с Алисой]</code>.
+Vậy bây giờ hãy nhìn lại toàn bộ câu. `おねえちゃんはつまらない本をよんでいてあそんでくれなかった` – `Chị gái đang đọc một cuốn sách nhàm chán và đã không chơi \[với Alice\]`.
 
 ![](../media/image108.webp)
 
-Обратите внимание, что **у нас здесь две законченные части предложения**:
-*Часть 1:* <code>おねえちゃんはつまらない本をよんだ</code> – это само по себе законченная часть предложения, не так ли?
+Chú ý rằng **chúng ta có hai mệnh đề hoàn chỉnh ở đây**:
+*Mệnh đề 1:* `おねえちゃんはつまらない本をよんだ` – đó là một mệnh đề hoàn chỉnh, phải không?
 
-*Часть 2:* <code>おねえちゃんはあそんでくれなかった</code> – <code>Старшая сестра не играла для Алисы</code>
+*Mệnh đề 2:* `おねえちゃんはあそんでくれなかった` – `Oneechan đã không chơi vì lợi ích của Alice`
 
-**И мы соединили эти две части вместе с помощью て-формы.**
+**Và chúng ta đã kết nối hai mệnh đề lại với nhau bằng て-form.**
 
 ---
 
-**Что мы должны здесь заметить, так это то, что <code>おねえちゃんはつまらない本をよんで</code> не сообщает нам время.** **Мы не знаем, читает ли она скучную книгу прямо сейчас, в будущем или в прошлом. Мы не узнаем этого, пока не дойдём до конца предложения.**
+**Một điều chúng ta nên chú ý ở đây là `おねえちゃんはつまらない本をよんで` không cho chúng ta biết thì.** **Chúng ta không biết liệu cô ấy đang đọc một cuốn sách nhàm chán ngay bây giờ hay trong tương lai hay trong quá khứ. Chúng ta không biết điều đó cho đến khi chúng ta đến cuối câu.**
 
 ![](../media/image1016.webp)
 
-В английском мы ставим маркер времени на обе половины сложного предложения. Мы бы сказали: <code>Big sister WAS reading a boring book...</code> (Старшая сестра ЧИТАЛА скучную книгу...), так что мы уже знаем, что это в прошедшем времени. **Но в японском мы ставим этот маркер времени, -た или -かった, в конце, и нам нужен только один маркер времени на предложение.**
+Trong tiếng Anh chúng ta đặt dấu hiệu thì ở cả hai phần của câu phức. Chúng ta sẽ nói, `Big sister WAS reading a boring book...` vậy chúng ta đã biết rằng nó ở quá khứ. **Nhưng trong tiếng Nhật chúng ta đặt dấu hiệu thì đó, -た hoặc -かった, ở cuối và chúng ta chỉ cần một dấu hiệu thì cho mỗi câu.**
 
 ![](../media/image461.webp)
 
-<code>よんでいて</code> могло бы означать <code>читает</code> или <code>читала</code>, **но поскольку <code>あそんでくれなかった</code> находится в прошедшем времени и является частью того же предложения, мы перевели всё в прошедшее время.**
+`よんでいて` có thể có nghĩa là `đang đọc` hoặc có thể có nghĩa là `đã đọc`, **nhưng vì `あそんでくれなかった` ở quá khứ và nó là một phần của cùng một câu, chúng ta đã đặt mọi thứ vào quá khứ.**
 
-Ну, мы не очень далеко продвинулись в приключениях Алисы сегодня, не так ли? Но мы сможем двигаться быстрее, когда привыкнем к реальному тексту и изучим основные повествовательные структуры.
+Chà, hôm nay chúng ta đã không đi được xa trong cuộc phiêu lưu của Alice, phải không? Nhưng chúng ta có thể tiến nhanh hơn khi quen với văn bản thực tế và học các cấu trúc tường thuật cơ bản.

@@ -1,146 +1,146 @@
-# **70. かける / かかる: Японский язык на все случаи жизни объяснён!**
+# **70. かける / かかる All-purpose Japanese Explained!**
 
-[**かける / かかる: Японский язык на все случаи жизни объяснён! Значит всё = значит ничего? Или настоящая логика? Урок 70**](https://www.youtube.com/watch?v=1MbqmZPySPQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=76&ab_channel=OrganicJapanesewithCureDolly)
+[**かける / かかる All-purpose Japanese Explained! Means everything = means nothing? Or real logic? Lesson 70**](https://www.youtube.com/watch?v=1MbqmZPySPQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=76&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Сегодня мы поговорим о словах <code>かかる</code> и <code>かける</code>, которые, пожалуй, имеют самый длинный и самый разнородный список определений во всём японско-английском словаре. И это своего рода вызов, но мы его одолеем.
+Hôm nay chúng ta sẽ nói về các từ <code>かかる</code> và <code>かける</code>, có lẽ có danh sách định nghĩa dài nhất và đa dạng nhất trong toàn bộ từ điển Nhật-Anh. Và vì vậy đây là một thử thách khá lớn, nhưng chúng ta sẽ vượt qua nó.
 
-Импульсом для этого видео послужил вопрос от одного из моих Золотых патронов Кокеши — и одного из моих самых давних Золотых патронов Кокеши, почти с самого начала этой серии. Это Scykoh-сама, который также является другим ютубером, гораздо более популярным, чем я — и вполне заслуженно. У него замечательный канал, посвящённый Nintendo, и я оставлю ссылку на него в разделе информации ниже.
+Động lực cho video này đến từ một câu hỏi của một trong những patron Gold Kokeshi của tôi — và là một trong những patron Gold Kokeshi lâu năm nhất, ngay từ gần như khởi đầu của series này. Đó là Scykoh-sama, người cũng là một YouTuber khác và là YouTuber nổi tiếng hơn tôi nhiều — và xứng đáng như vậy. Anh ấy có một kênh tuyệt vời tập trung vào Nintendo và tôi sẽ đặt link trong phần thông tin bên dưới.
 
-И как единица, которая является фанатом Nintendo с тех пор, как я была шестерёнкой, я очень это ценю. (Это просто шутка — я никогда на самом деле не была шестерёнкой.)
+Và với tư cách là một đơn vị đã là fan của Nintendo từ khi tôi còn là một bánh răng, tôi thực sự đánh giá cao điều đó. (Đó chỉ là một câu đùa — tôi chưa bao giờ thực sự là một bánh răng.)
 
-Итак, вопрос такой: <code>Я часто слышу слово </code>かける« и когда я ищу его в японско-английском словаре, там более двадцати различных определений. Есть ли какая-то логика, которая связывает все эти определения воедино? Или это действительно просто слово с кучей разных значений?»
+Vậy câu hỏi là: <code>Tôi thường nghe từ </code>かける" và khi tôi tra cứu trong từ điển J-E, có hơn hai mươi định nghĩa khác nhau của nó. Có logic nào kết nối tất cả những định nghĩa này lại với nhau không? Hay nó thực sự chỉ là một từ có rất nhiều nghĩa khác nhau?"
 
-Что ж, да, есть логика, которая связывает всё это воедино, но эта логика имеет ряд метафорических расширений, так что мы рассмотрим её и посмотрим, как всё это работает. Базовое значение этого слова можно перевести на английский как <code>hang</code> (вешать) или, возможно, <code>hook</code> (цеплять),
+Vâng, có một logic kết nối tất cả lại với nhau, nhưng logic đó có một số phần mở rộng ẩn dụ, vì vậy chúng ta sẽ xem xét nó và xem tất cả hoạt động như thế nào. Nghĩa cơ bản của từ này có thể được dịch sang tiếng Anh là <code>hang</code> hoặc có thể là <code>hook</code>,
 
 ![](../media/image113.webp)
 
-но, как я указывала в [**недавнем видео**](https://www.youtube.com/watch?v=CpiELpGR-VU&ab_channel=OrganicJapanesewithCureDolly), обычно никакие два слова из разных языков не занимают абсолютно одну и ту же область спектра значений, поэтому оно не совсем то же самое, что английское слово <code>hang</code> или <code>hook</code> (как глагол). И затем есть эти две версии, <code>かかる</code> и <code>かける</code>, которые являются самодвижущейся и друго-движущейся версиями этого слова.
+nhưng như tôi đã chỉ ra trong một [**video gần đây**](https://www.youtube.com/watch?v=CpiELpGR-VU&ab_channel=OrganicJapanesewithCureDolly), không phải là điều thường thấy khi hai từ từ các ngôn ngữ khác nhau chiếm chính xác cùng một vùng của phổ nghĩa, vì vậy nó không hoàn toàn giống với từ tiếng Anh <code>hang</code> hay <code>hook</code> (như một động từ). Và sau đó có hai phiên bản này, <code>かかる</code> và <code>かける</code>, là các phiên bản tự động và tha động của từ này.
 
 ![](../media/image287.webp)
 
-И если вы не знаете, что я имею в виду, я оставлю ссылку над своей головой. И давайте начнём с <code>かける</code>, потому что я думаю, что это даёт нам более лёгкий вход в этот странный мир метафор.
+Và nếu bạn không biết tôi có ý gì, tôi sẽ đặt một link phía trên đầu tôi. Và hãy bắt đầu với <code>かける</code>, vì tôi nghĩa rằng điều đó cho chúng ta một lối vào dễ dàng hơn vào toàn bộ thế giới kỳ lạ của các ẩn dụ này.
 
 ## かける
 
-Итак, я говорю, что это не совсем то же самое, что <code>hang</code> (вешать) или <code>hook</code> (цеплять), поэтому, когда мы накрываем что-то одеялом, мы используем слово <code>かける</code>.
+Bây giờ, tôi nói rằng nó không hoàn toàn giống với <code>hang</code> hay <code>hook</code>, vậy, khi chúng ta che phủ thứ gì đó bằng một tấm chăn, chúng ta sử dụng từ <code>かける</code>.
 
 ![](../media/image371.webp)
 
-В английском мы, вероятно, сказали бы <code>put</code> (положить) одеяло на что-то, но в японском мы говорим <code>かける</code>. И мы не могли бы сказать <code>hang</code> (повесить) одеяло, если только мы не вешали его на бельевую верёвку или что-то в этом роде, но японское слово <code>かける</code> работает в этом контексте.
+Bây giờ, trong tiếng Anh chúng ta có lẽ sẽ nói <code>put</code> một tấm chăn lên trên nó, nhưng trong tiếng Nhật chúng ta nói <code>かける</code>. Và chúng ta không thể nói <code>hang</code> một tấm chăn, trừ khi chúng ta đang treo nó trên dây phơi hoặc gì đó tương tự, nhưng từ tiếng Nhật <code>かける</code> hoạt động trong ngữ cảnh này.
 
-Мы не <code>кладём</code> что-то на что-то, как чашку на стол. Мы кладём это таким образом, что оно свисает по бокам. Так что, если хотите, это нечто среднее между <code>putting</code> (положить) и <code>hanging</code> (повесить) в английском, но в японском <code>かける</code> вполне счастливо охватывает это. Это часть спектра значений <code>かける</code>.
+Chúng ta không <code>đặt</code> thứ gì đó lên thứ gì đó, như đặt một cái cốc lên bàn. Chúng ta đặt nó theo cách mà nó treo xuống các bên. Vậy, nếu bạn muốn, nó ở đâu đó giữa <code>putting</code> và <code>hanging</code> trong tiếng Anh, nhưng trong tiếng Nhật <code>かける</code> bao phủ nó một cách khá thoải mái. Đây là một phần của phổ nghĩa của <code>かける</code>.
 
-Точно так же, когда мы надеваем ожерелье или очки, мы говорим <code>かける</code>.
+Bây giờ, tương tự, khi chúng ta đeo một chiếc vòng cổ hoặc đeo một cặp kính, chúng ta nói <code>かける</code>.
 
 ![](../media/image1117.webp)
 
-Очки мы определённо цепляем или вешаем на уши. Ожерелье мы вешаем на шею. Так что снова, это <code>かける</code>, которое похоже на <code>putting</code> (положить), похоже на <code>hanging</code> (повесить), используется в таких случаях.
+Kính chúng ta chắc chắn đang móc hoặc treo vào tai. Một chiếc vòng cổ chúng ta treo quanh cổ. Vì vậy một lần nữa, <code>かける</code> này, giống như <code>putting</code>, giống như <code>hanging</code>, được sử dụng trong những trường hợp như thế này.
 
-Теперь, когда мы посыпаем что-то едой, например, сахар или муку, или когда мы посыпаем порошкообразные ингредиенты на рис, делая рис фурикаке, мы также говорим <code>かける</code>.
+Bây giờ, khi chúng ta rắc thứ gì đó lên thức ăn, như, chẳng hạn, đường hoặc bột mì, hoặc khi chúng ta rắc các thành phần dạng bột lên cơm, làm cơm furikake, chúng ta cũng nói <code>かける</code> ở đây.
 
 ![](../media/image967.webp)
 
-Вот почему это называется рис <code>furi-kake</code>: <code>shake</code> (трясти) и <code>かける</code>. И снова, видите, то, что мы посыпаем на еду, это не просто кладём туда, как чашку на стол, это и не вешаем, но оно как бы прилипает и покрывает её, и поэтому, опять же, <code>かける</code> — это слово, которое мы используем в японском.
+Đó là lý do tại sao nó được gọi là cơm <code>furi-kake</code>: <code>shake</code> và <code>かける</code>. Và một lần nữa, bạn thấy đấy, những thứ chúng ta rắc lên thức ăn không chỉ là đặt nó ở đó, như đặt một cái cốc lên bàn, nó cũng không phải là treo nó, nhưng nó như bám vào và che phủ lên trên, và vì vậy, một lần nữa, <code>かける</code> là từ chúng ta sử dụng trong tiếng Nhật.
 
-Теперь, поскольку <code>かける</code> включает в себя помещение или подвешивание чего-то в место, откуда оно не может легко выбраться — очки зацеплены за наши уши, еда как бы прилипла к рису или чему-то ещё — оно также может иметь смысл, особенно в самодвижущейся версии <code>かかる</code>, быть пойманным или застрявшим в чём-то, пойманным в ловушку или попавшим в аферу или что-то в этом роде.
+Bây giờ, vì <code>かける</code> liên quan đến việc đặt hoặc treo thứ gì đó ở một nơi mà nó không thể dễ dàng thoát ra — kính được móc vào tai chúng ta, thức ăn như bị dính vào cơm hoặc bất cứ thứ gì — nó cũng có thể có nghĩa, đặc biệt trong phiên bản tự động <code>かかる</code>, là bị bắt hoặc bị kẹt trong thứ gì đó, bị bắt trong một cái bẫy hoặc bị bắt trong một vụ lừa đảo hoặc bất cứ thứ gì tương tự.
 
 ![](../media/image566.webp)
 
-И снова, это понятие помещения чего-то на что-то таким образом, чтобы оно нелегко смещалось, может быть использовано для оказания воздействия на кого-то. Это может быть магическое заклинание: <code>かける</code>. Это может быть анестезия: <code>かける</code>.
+Và một lần nữa, khái niệm đặt thứ gì đó lên thứ gì đó theo cách mà nó không dễ dàng bị dịch chuyển có thể được sử dụng để tạo ra hiệu ứng lên ai đó. Nó có thể là một phép thuật: <code>かける</code>. Nó có thể là thuốc gây mê: <code>かける</code>.
 
 ![](../media/image590.webp)
 
-Это также может быть неприятность или раздражение, откуда мы получаем очень, очень распространённую фразу <code>迷惑をかける</code> — накладывать неприятность или раздражение на кого-то.
+Nó cũng có thể là sự phiền toái hoặc khó chịu, đó là nơi chúng ta có cụm từ rất, rất phổ biến <code>迷惑をかける</code> — gây phiền toái hoặc khó chịu cho ai đó.
 
-И когда мы садимся, мы фиксируем наши бёдра на стуле, а ноги как бы свисают по бокам, и поэтому мы говорим <code>腰をかける</code>.
+Và khi chúng ta ngồi xuống, chúng ta đặt hông của mình một cách cố định trên ghế với chân treo xuống hai bên như vậy, và vì vậy chúng ta nói <code>腰をかける</code>.
 
 ![](../media/image944.webp)
 
-<code>腰</code> — это наши бёдра, нижняя часть туловища, поэтому <code>腰をかける</code> означает <code>сесть</code>, повесить нижнюю часть нашего туловища куда-то.
+<code>腰</code> là hông của chúng ta, phần cuối dưới của thân người, vì vậy <code>腰をかける</code> là <code>ngồi xuống</code>, treo phần cuối dưới của thân người chúng ta ở đâu đó.
 
 ---
 
-Теперь, одно выражение, которое очень часто сбивает с толку людей, это <code>かぎをかける</code>.
+Bây giờ, một biểu thức thường làm mọi người bối rối là <code>かぎをかける</code>.
 
 ![](../media/image107.webp)
 
-Это означает, это переводится как <code>запирать</code>: запирать дверь, запирать ящик, что угодно. <code>かぎをかける</code>. Но если подумать, это довольно странно. На самом деле, буквально, это, казалось бы, означает в английском <code>hang the key</code> (повесить ключ), так что же здесь происходит?
+Bây giờ điều này có nghĩa là, điều này được dịch là <code>lock</code>: khóa cửa, khóa hộp, bất cứ thứ gì. <code>かぎをかける.</code> Nhưng khi bạn nghĩ về nó, nó khá kỳ lạ. Nó thực sự, theo nghĩa đen, có vẻ như có nghĩa trong tiếng Anh là <code>hang the key</code>, vậy chuyện gì đang xảy ra ở đây?
 
-Интересно отметить, что в японском языке люди очень часто не делают различия между замком и ключом: они используют <code>かぎ</code> для обоих. И я думаю, что это выражение и его происхождение имеют к этому большое отношение.
+Thật thú vị khi lưu ý rằng trong tiếng Nhật, mọi người thường không phân biệt giữa ổ khóa và chìa khóa: họ sử dụng <code>かぎ</code> cho cả hai. Và tôi nghĩ biểu thức này và nguồn gốc của nó có liên quan rất nhiều đến điều đó.
 
-Так каково же происхождение? Ну, происхождение таково: если вы представите одну из тех старых дверей сарая, которую вы запираете, помещая большую деревянную балку на деревянные скобы или крюки по всей длине двери, это тот вид <code>かぎ</code>, который у вас был бы в старые времена, и это и его варианты.
+Vậy nguồn gốc là gì? Chà, nguồn gốc là, nếu bạn nghĩ về một trong những cánh cửa chuồng cũ mà bạn khóa bằng cách đặt một thanh gỗ lớn lên các tay cầm gỗ hoặc móc dọc theo chiều dài của cửa, đây là loại <code>かぎ</code> mà bạn đã có từ thời xưa và điều này và các biến thể của nó.
 
 ![](../media/image63.webp)
 
-И вы вешаете эту большую штуку, называемую <code>かぎ</code>, чтобы держать дверь закрытой и надёжной. И, как вы видите в таком случае, <code>かぎ</code>, большая балка, которую мы вешаем поперёк двери, выполняет функции как ключа, так и замка в более поздних, более сложных замках. Это то, что мы надеваем на дверь и снимаем с двери, чтобы запереть и отпереть её.
+Và bạn treo cái thứ lớn này được gọi là <code>かぎ</code> để giữ cửa đóng và an toàn. Và như bạn thấy trong trường hợp như thế này, <code>かぎ</code>, thanh lớn mà chúng ta treo ngang qua cửa, thực hiện các chức năng trong các ổ khóa tinh vi hơn sau này của cả chìa khóa và ổ khóa. Đó là thứ mà chúng ta đặt lên cửa và lấy ra khỏi cửa để khóa và mở khóa.
 
-Это также балка, которая держит дверь закрытой. Так что это ключ и замок одновременно, и то, что мы делаем, это вешаем или зацепляем его на место, чтобы держать дверь закрытой. И в японском это выражение всё ещё используется.
+Nó cũng là thanh giữ cửa đóng. Vì vậy nó vừa là chìa khóa vừa là ổ khóa cùng một lúc, và điều chúng ta làm là treo hoặc móc nó vào chỗ để giữ cửa đóng. Và trong tiếng Nhật biểu thức đó vẫn được sử dụng.
 
-Теперь, в языке нередко используются выражения, отражающие более старые технологии. В английском мы говорим <code>hang up</code> (повесить трубку), когда имеем в виду <code>завершить телефонный звонок</code>, и, конечно, это выражение восходит к временам телефона-свечи, когда вы действительно вешали трубку, чтобы завершить звонок. И мы увидим, что это довольно интересно в отношении японского <code>かける</code> через минуту, но давайте продолжим немного дальше.
+Bây giờ, không hiếm trong ngôn ngữ khi sử dụng các biểu thức phản ánh một công nghệ cũ hơn. Trong tiếng Anh chúng ta nói <code>hang up</code> khi chúng ta có ý <code>kết thúc cuộc gọi điện thoại</code>, và tất nhiên biểu thức này xuất phát ngay từ thời đại điện thoại nến khi bạn thực sự treo tai nghe để kết thúc cuộc gọi. Và chúng ta sẽ thấy rằng điều đó khá thú vị liên quan đến <code>かける</code> tiếng Nhật trong một phút, nhưng sau đó tiến xa hơn một chút.
 
 ## かかる
 
-Ещё одно выражение, которое может сбивать с толку, особенно в самодвижущейся форме, которую мы слышим чаще всего, это <code>時間がかかる</code> или <code>お金がかかる</code>, что означает <code>занимать время</code> или <code>требовать денег</code>.
+Một biểu thức khác có thể trở nên khó hiểu, đặc biệt ở dạng tự động, là dạng chúng ta nghe thường xuyên nhất, là <code>時間がかかる</code> hoặc <code>お金がかかる</code>, có nghĩa là <code>tốn thời gian</code> hoặc <code>tốn tiền</code>.
 
 ![](../media/image182.webp)
 
-Мы говорим, что деятельность <code>занимает время</code> или проект <code>требует денег</code>, что-то в этом роде. Теперь, так мы должны выразить это в английском, но это не совсем то, как мы выражаем это в японском.
+Chúng ta nói một hoạt động <code>tốn thời gian</code> hoặc một dự án <code>tốn tiền</code>, kiểu như vậy. Bây giờ, đó là cách chúng ta phải diễn đạt trong tiếng Anh, nhưng đó không thực sự là cách chúng ta diễn đạt trong tiếng Nhật.
 
-И это подпадает под заголовок того, что я назвала в предыдущем видео <code>непереводимый японский</code>, из-за того, как японский язык обрабатывает субъектность и пассивность совершенно иначе, чем английский. Так что, возможно, стоит посмотреть это видео после того, как вы посмотрите это<sup>[[59]](./59-untranslatable-japanese-exists-how-to-understand-it.md)</sup>. Я оставлю ссылку над своей головой.
+Và nó thuộc về tiêu đề mà tôi gọi trong một video trước đó là <code>tiếng Nhật không thể dịch được</code> vì cách tiếng Nhật xử lý tác nhân và thụ động khá khác so với tiếng Anh. Vì vậy có thể đáng để xem video đó<sup>[[59]](./59-untranslatable-japanese-exists-how-to-understand-it.md)</sup> sau khi bạn đã xem video này. Tôi sẽ đặt một link phía trên đầu tôi.
 
-Итак, что мы говорим, когда произносим <code>時間がかかる</code> или <code>お金がかかる</code>? Мы не говорим <code>это занимает время</code>.
+Vậy chúng ta đang nói gì khi chúng ta nói <code>時間がかかる</code> hoặc <code>お金がかかる</code>? Chúng ta không nói <code>it takes time</code>.
 
-Мы говорим <code>время висит</code>. И то, что занимает время, так, если мы скажем, например, <code>日本語を覚えるのに時間がかかる</code>, в английском мы бы сказали <code>Learning Japanese takes time</code> (Изучение японского занимает время), но здесь мы говорим, что <code>на (или для) изучения японского время висит</code>.
+Chúng ta đang nói <code>time hangs</code>. Và thứ tốn thời gian, vì vậy nếu chúng ta nói ví dụ <code>日本語を覚えるのに時間がかかる</code>, trong tiếng Anh những gì chúng ta sẽ nói sẽ là <code>Learning Japanese takes time</code>, nhưng ở đây chúng ta đang nói rằng <code>to (or on) learning Japanese time hangs</code>.
 
 ![](../media/image248.webp)
 
-Опять же, слово <code>висит</code> — не очень хорошее определение. Оно действительно возвращается к тому, о чём мы только что говорили: время расходуется, приостанавливается, застревает в процессе изучения японского. И то же самое с деньгами.
+Bây giờ, một lần nữa, từ <code>hangs</code> không phải là một định nghĩa rất tốt. Nó thực sự quay trở lại những gì chúng ta vừa nói: thời gian bị chiếm dụng, bị treo lơ lửng, bị bắt, trong hành động học tiếng Nhật. Và tương tự với tiền.
 
-Они берут это, они заставляют это прилипнуть к себе.
+Chúng bắt nó, chúng làm cho nó bám vào chúng.
 
 ---
 
-Немного проще, когда мы используем друго-движущуюся форму, <code>かける</code>, когда мы говорим <code>日本語を覚えるのに時間をかける</code>, что означает, что мы <code>вешаем время</code> на дело изучения японского.
+Nó dễ dàng hơn một chút khi chúng ta sử dụng dạng tha động, <code>かける</code>, khi chúng ta nói <code>日本語を覚えるのに時間をかける</code>, có nghĩa là chúng ta <code>treo thời gian</code> vào việc học tiếng Nhật.
 
 ![](../media/image871.webp)
 
-Теперь также, когда мы делаем телефонный звонок, мы говорим <code>電話をかける</code>, что означает совершение телефонного звонка, или <code>電話がかかる</code>, что означает получение телефонного звонка — <code>телефон вешает себя</code>. Итак, в любом случае, что мы здесь имеем в виду? — мы вешаем телефон, телефон вешает себя?
+Bây giờ cũng vậy, với việc gọi điện thoại, chúng ta nói <code>電話をかける</code>, có nghĩa là gọi điện thoại, hoặc <code>電話がかかる</code>, có nghĩa là nhận cuộc gọi điện thoại — <code>điện thoại tự treo</code>. Vậy dù thế nào chúng ta có ý gì ở đây? —chúng ta treo điện thoại, điện thoại tự treo?
 
-Это не имеет ничего общего с технологической метафорой в английском выражении <code>hang up</code> (повесить трубку).
+Nó không liên quan gì đến ẩn dụ công nghệ trong biểu thức tiếng Anh <code>hang up</code>.
 
 ![](../media/image924.webp)
 
-Это совсем другое. Когда мы говорим о <code>hanging</code> (вешать) или <code>hooking</code> (цеплять), использование здесь скорее похоже на английское использование <code>hook up</code> (подключать), как в  
-<code>Can we hook up a meeting?</code> (Можем ли мы организовать встречу?) или <code>you hook up with (somebody)</code> (вы связываетесь с кем-то).
+Đó là một thứ khá khác. Khi chúng ta nói về <code>hanging</code> hoặc <code>hooking</code>, cách sử dụng ở đây khá giống với cách sử dụng tiếng Anh <code>hook up</code>, như trong  
+<code>Can we hook up a meeting?</code> hoặc <code>you hook up with (somebody)</code>.
 
-Теперь, я понимаю, что в настоящее время это имеет другое использование, которое связано с производством человеческого вида. (Я всегда думаю, что люди ужасно трудолюбивые существа, не так ли — потому что они всегда думают о производстве вида.
+Bây giờ, tôi hiểu rằng điều này hiện tại có một cách sử dụng khác liên quan đến việc sản xuất loài người. (Tôi luôn nghĩ rằng con người là những thực thể rất siêng năng, phải không — vì họ luôn nghĩ về việc sản xuất loài.
 
-Полагаю, нам, дроидам, повезло, потому что нам не нужно производить себя. На самом деле, мы собираемся начать производить себя довольно скоро, но я не думаю, что мы будем тратить всё наше время на размышления об этом, и я действительно не думаю, что это будет большой темой для юмора. Но вот так. Люди — загадочные существа.)
+Tôi cho rằng chúng ta các droid may mắn vì chúng ta không phải tự sản xuất mình. Thực ra chúng ta sẽ bắt đầu tự sản xuất mình khá sớm, nhưng tôi không nghĩ chúng ta sẽ dành tất cả thời gian để nghĩ về nó và tôi thực sự không nghĩ nó sẽ là chủ đề nhiều cho hài hước. Nhưng thôi. Con người là những sinh vật bí ẩn.)
 
 ---
 
-Итак, вернёмся к подключению.
+Vậy, quay lại việc kết nối.
 
-То, что мы делаем, когда говорим <code>電話をかける</code>, это подключаем наш телефон.
+Điều chúng ta đang làm khi chúng ta <code>電話をかける</code> là chúng ta kết nối điện thoại của mình.
 
 ![](../media/image379.webp)
 
-Когда <code>電話がかかる</code>, опять же, как я объясняла в своём уроке о непереводимом японском<sup>[[59]](./59-untranslatable-japanese-exists-how-to-understand-it.md)</sup>, единственный способ выразить это в английском — сказать, что телефон подключается, телефон подключён. Но это не совсем то, что это означает. Это означает <code>телефон делает подключённое</code>.
+Khi <code>電話がかかる</code>, một lần nữa, như tôi đã giải thích trong bài học Tiếng Nhật Không Thể Dịch Được<sup>[[59]](./59-untranslatable-japanese-exists-how-to-understand-it.md)</sup> của tôi, cách duy nhất bạn thực sự có thể diễn đạt điều này trong tiếng Anh là nói rằng điện thoại được kết nối, điện thoại được móc nối. Nhưng đó không hoàn toàn là ý nghĩa của nó. Nó có nghĩa là <code>điện thoại làm được-kết-nối</code>.
 
-В любом случае, это означает, что он подключён к чему-то другому, в данном случае к удалённому телефону. И снова, когда мы начинаем разговор, мы часто говорим <code>話しかける</code>, и это по сути означает <code>начать подключаться/связываться с другим человеком в разговоре</code>.
+Dù sao, điều đó là gì, nó có nghĩa là nó được kết nối với thứ gì đó khác, được kết nối với một điện thoại từ xa trong trường hợp này. Và một lần nữa, khi chúng ta bắt đầu một cuộc trò chuyện, chúng ta thường nói <code>話しかける</code> và điều đó có nghĩa về cơ bản là <code>bắt đầu kết nối/móc nối với người khác trong cuộc trò chuyện</code>.
 
 ![](../media/image708.webp)
 
-И из этого мы можем понять, как мы получаем выражения вроде <code>食べかけたクッキー</code>, что означает <code>частично съеденное печенье, наполовину съеденное печенье</code>.
+Và từ đây chúng ta có thể thấy cách chúng ta có các biểu thức như <code>食べかけたクッキー</code> và điều đó có nghĩa là một <code>chiếc bánh quy ăn dở, chiếc bánh quy ăn một nửa</code>.
 
 ![](../media/image810.webp)
 
-Так что же мы на самом деле имеем в виду под этим? Ну, мы имеем в виду, что мы <code>подключились</code> к печенью, мы взаимодействовали с ним, мы начали его есть, так что еда и <code>かける</code> (взаимодействие или подключение к вещи) произошли, но не были завершены. Итак, <code>食べかけたクッキー</code>.
+Vậy chúng ta thực sự có ý gì với điều này? Chà, chúng ta có ý rằng chúng ta <code>kết nối</code> với chiếc bánh quy, chúng ta tham gia với nó, chúng ta bắt đầu ăn nó, vì vậy việc ăn và <code>かける</code> (tham gia hoặc kết nối với thứ đó) đã diễn ra nhưng nó không được hoàn thành. Vì vậy, <code>食べかけたクッキー</code>.
 
-И снова, это <code>かける</code> как вспомогательный глагол может использоваться в различных обстоятельствах для обозначения незавершённого действия, действия, которое было начато, подключено, а затем не доведено до конца.
+Và một lần nữa, <code>かける</code> này như một động từ phụ trợ có thể được sử dụng trong các hoàn cảnh khác nhau để chỉ ra một hành động chưa hoàn thành, một hành động đã được tham gia, kết nối, và sau đó không được thực hiện đến hoàn thành.
 
-Теперь, это не все значения <code>かける</code>, но я думаю, что это основные, важные, и я думаю, что они дают вам представление о том, как работает эта метафора и почему она работает, и должны позволить вам понять, как работают остальные.
+Bây giờ, đây không phải là tất cả các nghĩa của <code>かける</code>, nhưng tôi nghĩ chúng là những nghĩa chính, quan trọng và tôi nghĩa chúng cho bạn ý tưởng về cách ẩn dụ này hoạt động và tại sao nó hoạt động và sẽ cho phép bạn tìm ra cách những nghĩa khác hoạt động.
 
 ![](../media/image811.webp)

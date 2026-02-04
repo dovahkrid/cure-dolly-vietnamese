@@ -1,58 +1,58 @@
-# **12. Частица цитирования と, составные глаголы и существительные**
+# **12. Trợ từ trích dẫn と, động từ ghép & danh từ ghép** 
 
-[**Урок 12: Секрет частицы цитирования と — плюс составные глаголы, составные существительные — и ещё Алиса!**](https://www.youtube.com/watch?v=7dYT6Xf1BkA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=14)
+[**Bài 12: Bí mật trợ từ trích dẫn と - cộng với động từ ghép, danh từ ghép - và thêm Alice!**](https://www.youtube.com/watch?v=7dYT6Xf1BkA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=14)
 
 こんにちは。
 
-Сегодня мы продолжим наши повествовательные уроки, которые начали на прошлой неделе. И на этот раз мы сможем продвинуться немного быстрее. Итак, давайте освежим в памяти историю, которую мы прочитали до сих пор.
+Hôm nay chúng ta sẽ tiếp tục với các bài học tường thuật mà chúng ta đã bắt đầu tuần trước. Và lần này chúng ta sẽ có thể tiến bộ nhanh hơn một chút. Vậy hãy ôn lại câu chuyện mà chúng ta đã đọc cho đến nay.
 
 >ある日アリスは川のそばにいた。
 
-(Однажды Алиса была у реки.)
+(Một ngày nọ Alice đang ở bên bờ sông.)
 
 >お姉ちゃんはつまらない本をよんでいてあそんでくれなかった。
 
-(Старшая сестра читала скучную книгу и не играла с Алисой.)
+(Chị gái đang đọc một cuốn sách nhàm chán và không chơi với Alice.)
 
 >「おもしろいことがない」とアリスは言った。
 
 ![](../media/image1099.webp)
 
-「おもしろい」 означает <code>интересный</code> или <code>забавный</code>; 「こと」 означает <code>вещь</code>. И в японском языке у нас есть два распространённых слова для <code>вещи</code>, и это もの и こと.
+「おもしろい」 có nghĩa là `thú vị hoặc vui nhộn`; 「こと」 có nghĩa là `một thứ`. Và trong tiếng Nhật chúng ta có hai từ phổ biến cho `thứ`, đó là もの và こと.
 
 ![](../media/image369.webp)
 
-Итак, **もの — это вещь в самом обычном смысле: физическая вещь — шляпа, книга, очки, гора Фудзи.** **こと — это более абстрактный вид <code>вещи</code>: дело, обстоятельство, ситуация.** Так что, когда мы говорим: <code>Есть ли что-нибудь в этой коробке?</code>, мы имеем в виду もの. А когда мы говорим: <code>Дело в том, что...</code>, мы обычно имеем в виду こと.
+Bây giờ, **もの là một thứ theo nghĩa thông thường nhất: một vật thể - một chiếc mũ, một cuốn sách, một cặp kính, núi Phú Sĩ.** **こと là một loại `thứ` trừu tượng hơn: một việc, một vấn đề, một hoàn cảnh.** Vậy, khi chúng ta nói, `Có gì trong cái hộp đó không?` chúng ta có ý là もの. Và khi chúng ta nói, `Vấn đề là...` chúng ta thường có ý là こと. 
 
-Итак, 「おもしろいことがない」 означает <code>Здесь ничего интересного не происходит, никаких интересных обстоятельств.</code>
+Vậy, 「おもしろいことがない」có nghĩa là `Không có gì thú vị xảy ra ở đây, không có hoàn cảnh thú vị nào.`
 
-言った － 言う означает <code>говорить</code>, и вы можете видеть, что это похоже на рот со звуковыми волнами, исходящими из него.
+言った － 言う có nghĩa là `nói` và bạn có thể thấy nó giống như một cái miệng với sóng âm phát ra. 
 
 ![](../media/image539.webp)
 
-**Но важно здесь заметить эту маленькую частицу と.**
+**Nhưng điều quan trọng cần chú ý ở đây là trợ từ と nhỏ đó.**
 
 ![](../media/image431.webp)
 
-**На самом деле существует две частицы と:** одна означает <code>и</code> и очень проста; **другая — это то, что мы называем <code>частицей цитирования</code>**, и именно с ней мы имеем дело здесь. **Когда мы цитируем кого-то, кто что-то говорит или даже что-то думает, мы используем эту частицу と. Это что-то вроде кавычек, которые можно услышать.**
+**Thực ra có hai trợ từ と:** một có nghĩa là `và` và nó rất đơn giản; **cái kia là thứ chúng ta gọi là `trợ từ trích dẫn`**, và đó là thứ chúng ta đang xử lý ở đây. **Khi chúng ta trích dẫn ai đó nói gì hoặc thậm chí nghĩ gì, chúng ta sử dụng trợ từ と này. Nó giống như một dấu ngoặc kép mà bạn có thể nghe thấy.** 
 
-Как вы видите, в японском языке мы используем квадратные кавычки, которые эквивалентны английским кавычкам, **но мы также используем と.** Так что мы не просто говорим: <code>«Ничего интересного не происходит», — сказала Алиса</code>. Мы говорим: <code>«Ничего интересного не происходит», **と** сказала Алиса</code>. Теперь と — это очень интересная частица с точки зрения структуры, и мы рассмотрим это немного глубже через несколько минут.
+Như bạn thấy, chúng ta sử dụng dấu ngoặc kép vuông trong tiếng Nhật, tương đương với dấu ngoặc kép tiếng Anh, **nhưng chúng ta cũng sử dụng と.** Vậy chúng ta không chỉ nói, ` 'Không có gì thú vị xảy ra,' Alice nói`. Chúng ta nói, ` 'Không có gì thú vị xảy ra,' **と** Alice nói`. Bây giờ, と là một trợ từ rất thú vị về mặt cấu trúc và chúng ta sẽ tìm hiểu sâu hơn một chút trong vài phút nữa.
 
 >そのとき、白いウサギがとおりすぎた。
 
 ![](../media/image580.webp)
 
-「そのとき」: その означает <code>тот</code>, а とき означает <code>время</code>, так что буквально мы говорим <code>то время</code>, но это больше похоже на <code>в тот момент / в то время</code>. **Итак, мы используем это так же, как и другие относительные выражения времени: нам не нужно добавлять に или что-либо ещё, мы просто указываем время, а затем продолжаем рассказывать, что происходило в это время.**
+「そのとき」: その có nghĩa là `đó` và とき có nghĩa là `thời gian`, vậy chúng ta đang nói theo nghĩa đen là thời gian đó, `nhưng điều này giống như nói` ngay lúc đó / vào lúc đó / vào thời điểm đó. **Vậy chúng ta sử dụng giống như cách chúng ta sử dụng các cách diễn đạt thời gian tương đối khác: chúng ta không cần đặt に hoặc bất cứ thứ gì khác với nó, chúng ta chỉ cần nêu thời gian và sau đó tiếp tục với những gì đang xảy ra vào thời điểm đó.**
 
-В этом конкретном предложении смысл 「そのとき」 заключается в том, что именно в тот момент, когда Алиса говорила, что ничего интересного не происходит, именно в это время это и случилось.
+Trong câu cụ thể này, ý nghĩa của 「そのとき」 là ngay vào lúc Alice vừa nói rằng không có gì thú vị xảy ra, ngay vào thời điểm đó, điều này đã xảy ra.
 
 そのとき、白いウサギがとおりすぎた。
 
-白い означает <code>белый</code>; это い-прилагательное. ウサギ означает <code>кролик</code>. А 「とおりすぎた」 состоит из двух слов, и это то, что мы будем видеть снова и снова в японском языке. **Это использование い-основы одного глагола для присоединения другого глагола, чтобы придать ему дополнительное значение.** Итак, とおる означает <code>проходить насквозь</code>, а すぎる означает <code>превышать</code> или <code>выходить за пределы</code>. Таким образом, とおりすぎる соединяет эти два слова вместе: とおる (проходить насквозь); すぎる (выходить за пределы), и это означает <code>проходить мимо</code>. Белый кролик прошёл мимо.
+白い có nghĩa là `trắng`; đó là một い-adjective. ウサギ có nghĩa là `thỏ`. Và 「とおりすぎた」được tạo thành từ hai từ, và nó đang làm điều mà chúng ta sẽ thấy lặp đi lặp lại trong tiếng Nhật. **Nó đang sử dụng い-stem của một động từ để gắn một động từ khác để tạo thêm ý nghĩa.** Vậy とおる có nghĩa là `đi qua` và すぎる có nghĩa là `vượt quá hoặc đi xa hơn`. Vậy とおりすぎる kết nối hai từ đó lại với nhau: とおる (đi qua); すぎる (đi xa hơn) và nó có nghĩa là `đi ngang qua`. Một con thỏ trắng đi ngang qua. 
 
 ![](../media/image46.webp)
 
-そのとき、白いウサギ (белый кролик) とおりすぎた (прошёл мимо)。
+そのとき、白いウサギ (thỏ trắng) とおりすぎた (đi ngang qua)。
 
 ---
 
@@ -62,19 +62,19 @@
 
 > ふつうのウサギではなくて…
 
-Итак, ふつう означает <code>обычный</code>, а остальное вы уже знаете. **ではない означает <code>это не / это не было</code>, и мы ставим это в て-форму, потому что это часть сложного предложения** — а мы ведь рассматривали сложные предложения на прошлой неделе, не так ли?
+Bây giờ, ふつう có nghĩa là `bình thường`, và phần còn lại bạn đã biết rồi. **ではない có nghĩa là `nó không phải / nó đã không phải` và chúng ta đang đặt vào て-form vì đây là một phần của câu phức** – và chúng ta đã xem xét câu phức tuần trước, phải không? 
 
-*(Урок 11, Долли даёт 7, но это может быть ошибка, так как て-формы там нет… но проверьте также 5)*
+*(Bài 11, Dolly đưa ra 7, nhưng có thể là lỗi vì て-form không có ở đó… nhưng cũng kiểm tra 5)*
 
-Итак, 「ふつうのウサギではなくて」 = <code>Это был не обычный кролик.</code>
+Vậy, 「ふつうのウサギではなくて」= `Nó không phải là một con thỏ bình thường.`
 
 > …チョッキをきているウサギだった。
 
-チョッキ означает <code>жилет</code>; きる означает <code>носить</code>, так что 「きている」 означает <code>носить / быть в процессе ношения</code>. **И <code>だった</code>, конечно, является прошедшим временем связки.**
+チョッキ có nghĩa là áo vest; きる có nghĩa là `mặc`, vậy 「きている」 có nghĩa là `đang mặc / đang trong hành động mặc`. **Và `だった`, tất nhiên, là thì quá khứ của copula.** 
 
 ![](../media/image857.webp)
 
-Итак, это: <code>Это был не обычный кролик, это был кролик, носящий жилет / это был кролик, который носил жилет.</code>
+Vậy đây là: `Nó không phải là một con thỏ bình thường, nó là một con thỏ đang mặc áo vest / nó là một con thỏ đang mặc áo vest.`
 
 >ウサギはかいちゅうどけいを見て「おそい！おそい！」と言って、はしり出した。
 
@@ -82,91 +82,91 @@
 
 > ウサギはかいちゅうどけいを見て…
 
-かいちゅうどけい — это не то слово, которое мы будем часто встречать, потому что в наши дни их не так много, но это пример того, что мы будем видеть очень часто, а именно: в японском языке, как вы знаете, **мы можем модифицировать одно существительное другим, помечая первое частицей の** (или な, которая является формой だ), **но мы также можем, когда мы не просто модифицируем одно существительное другим, а образуем новое существительное, просто сталкивать их вместе.**
+かいちゅうどけい không phải là một từ chúng ta sẽ gặp thường xuyên vì ngày nay không có nhiều cái như vậy, nhưng nó là một ví dụ về điều chúng ta sẽ thấy rất nhiều, đó là trong tiếng Nhật, như bạn biết, **chúng ta có thể bổ nghĩa cho một danh từ bằng một danh từ khác bằng cách đánh dấu từ đầu tiên với の** (hoặc な, là một dạng của だ) **nhưng chúng ta cũng có thể, khi chúng ta không chỉ bổ nghĩa một danh từ với một danh từ khác mà tạo thành một danh từ mới, chúng ta có thể đơn giản ghép chúng lại với nhau.** 
 
-**Нам не нужно модифицировать их каким-либо образом, как мы это делаем с глаголами** (мы превращаем их в い-основу), **но вы не можете сделать это с существительными, у существительных нет основ, они никак не модифицируются — поэтому, когда вы соединяете два существительных, чтобы образовать новое существительное, вы просто сталкиваете их друг с другом. Это то же самое, что мы делаем в английском, со словами вроде <code>seaweed</code> (морские водоросли) или <code>bookshelf</code> (книжная полка). Мы просто сталкиваем два существительных вместе, чтобы образовать новое существительное.**
+**Chúng ta không cần phải bổ nghĩa chúng theo bất kỳ cách nào, như cách chúng ta làm với động từ** (chúng ta biến chúng thành い-stem), **nhưng bạn không thể làm điều đó với danh từ, danh từ không có stem nào, chúng không bổ nghĩa theo bất kỳ cách nào – vậy, khi bạn ghép hai danh từ lại với nhau để tạo thành một danh từ mới, bạn chỉ cần đẩy chúng vào nhau. Điều này giống như những gì chúng ta làm trong tiếng Anh, với các từ như seaweed hoặc bookshelf. Chúng ta chỉ đẩy hai danh từ lại với nhau để tạo thành một danh từ mới.**
 
 ---
 
-Итак, части этого существительного, 「かいちゅうどけい」: かいちゅう/懐中 — это немного необычное существительное — оно означает <code>в кармане</code> или <code>внутри кармана</code>, а とけい/時計 — очень распространённое слово — оно означает <code>часы</code> (у нас одно и то же слово для часов в японском, будь то маленькие или большие), так что かいちゅうどけい/懐中時計 — это карманные часы.
+Vậy các phần của danh từ này, 「かいちゅうどけい」: かいちゅう/懐中 là một danh từ hơi bất thường – nó có nghĩa là `trong túi của ai đó hoặc bên trong túi của ai đó` và とけい/時計 là một từ rất phổ biến – nó có nghĩa là `đồng hồ` (chúng ta có cùng một từ cho đồng hồ trong tiếng Nhật dù nó là cái nhỏ hay cái lớn), vậy かいちゅうどけい/懐中時計 là đồng hồ bỏ túi.
 
-И причина, по которой мы говорим 「**ど**けい」 вместо 「とけい」, это то, что Алиса в «Алисе в Стране Кандзи» называет «крючком тен-тен», **и это означает, что когда вы сталкиваете два существительных вместе, как мы это делаем здесь, и второе начинается с резкого звука, такого как <code>т</code> или <code>к</code>, мы превращаем его в эквивалентный глухой звук, такой как <code>д</code> или <code>б</code>.**
+Và lý do chúng ta nói 「**ど**けい」thay vì 「とけい」 là điều mà Alice trong "Alice in Kanji Land gọi là "ten-ten hooking", **và đây là khi bạn đẩy hai danh từ lại với nhau, theo cách chúng ta đang làm ở đây, và từ thứ hai bắt đầu bằng âm sắc như `t` hoặc `k`, chúng ta biến nó thành âm tù tương đương như `d` hoặc `b`.** *(=Rendaku - sequential voicing)*
 
 ![](../media/image899.webp)
 
 ::: info
-Это ОБЫЧНО происходит, когда второе существительное в составе имеет резкий звук кунъёми, который имеет эквивалентный глухой звук — h -> b, t -> d, k -> g, tsu/s -> z, sh -> j и т.д. Составные слова с онъёми ОБЫЧНО не имеют этого изменения, ИНОГДА, если перед ним стоит <code>n</code>, это тоже может его вызвать.
+Nó THƯỜNG dường như xảy ra khi danh từ thứ 2 trong từ ghép có âm Kun'yomi sắc có âm tù tương đương - h -> b, t -> d, k -> g, tsu/s -> z, sh -> j v.v. Từ ghép On'yomi THƯỜNG không có sự thay đổi này, ĐÔI KHI, nếu `n` đứng trước, nó cũng có thể kích hoạt nó.
 :::
 
-И, конечно, в японском вы делаете это, добавляя эти две маленькие отметки ゛*(дакутэн)* к кане, так と становится ど, た становится だ, く становится ぐ, さ становится ざ и т.д.
+Và tất nhiên trong tiếng Nhật bạn làm điều này bằng cách thêm hai dấu nhỏ đó ゛*(だくてん)* vào kana, vậy と trở thành ど, た trở thành だ, く trở thành ぐ, さ trở thành ざ v.v. 
 
-Так, например, あお — это синий, как вы знаете, そら — это <code>небо</code>, и когда вы соединяете их вместе, вы получаете не あおそら, а あお**ぞ**ら. Мы ставим тен-тен на это резкое слово, и Алиса называет это <code>крючком тен-тен</code>. *(тен-тен, букв. <code>точка-точка</code>, кажется, это разговорное название для дакутэн* ゛*)*
+Vậy, ví dụ, あお là màu xanh, như bạn biết, そら là `bầu trời` và khi bạn ghép chúng lại bạn được không phải あおそら mà là あお**ぞ**ら. Chúng ta đặt ten-ten lên từ sắc đó, và Alice gọi đó là `ten-ten hooking`. *(ten-ten, nghĩa đen là `chấm-chấm`, dường như là tên thông tục cho dakuten* ゛*)*
 
-Это как если бы эти две маленькие точки, эти два маленьких коготка, цеплялись за предыдущее слово, чтобы превратить их в одно слово. **Это то, что вы будете видеть очень часто.**
+Nó như thể hai chấm nhỏ đó, hai móng vuốt nhỏ đó, móc vào từ trước nó để biến chúng thành một từ duy nhất. **Đây là điều bạn sẽ thấy rất thường xuyên.** 
 
-И точно так же, как в английском вы не можете сделать это с любыми двумя существительными, но есть много существительных, которые состоят из двух существительных, и пока одно из существительных не является немного необычным, как かいちゅう, их очень легко понять, так же, как и в английском.
+Và giống như trong tiếng Anh bạn không thể làm điều này với bất kỳ hai danh từ nào, nhưng có rất nhiều danh từ được tạo thành từ hai danh từ và miễn là một trong các danh từ không phải là từ hơi bất thường như かいちゅう, chúng rất dễ hiểu, giống như trong tiếng Anh.
 
-А затем у нас есть:
+Và sau đó chúng ta có: 
 
 『…「おそい！おそい！」と言って…』
 
-## Частица цитирования と
+## Trợ từ trích dẫn と
 
-Теперь мы рассмотрим, что на самом деле делает と, и по мере того, как мы будем переходить к более сложным предложениям, трёхуровневым составным предложениям, подобным этому, мы начнём видеть, насколько полезным оно становится.
+Bây giờ, chúng ta sẽ xem xét と thực sự làm gì, và khi chúng ta đi vào các câu phức tạp hơn, câu ghép ba tầng như câu này, chúng ta bắt đầu thấy nó hữu ích như thế nào.
 
 ![](../media/image2.webp)
 
-**Что と на самом деле делает структурно, так это то, что оно берёт всё, что оно помечает** — а это могут быть два слова, как здесь, или это может быть целый абзац со всевозможной другой грамматикой — **оно берёт всё, что оно помечает как цитату, и превращает это, по сути, в единое существительное.**
+**と thực sự làm về mặt cấu trúc là nó lấy bất cứ thứ gì nó đánh dấu** – và đó có thể là hai từ như thế này hoặc có thể là cả một đoạn văn với tất cả các loại ngữ pháp khác diễn ra trong đó – **nó lấy bất cứ thứ gì nó đánh dấu như một trích dẫn và biến nó thành một danh từ duy nhất một cách hiệu quả.**
 
 ---
 
-Итак, と-вагон — это белый вагон-существительное, помеченный と. И мы обнаружим по мере продвижения, что **это используется не только для обозначения того, что люди говорят и что люди думают, но и для всевозможных других вещей.** И у нас будет пример этого чуть позже в этом уроке. **Но эта と-структура, по сути, создаёт квази-существительное из всего, что помечено と, и と затем заставляет его функционировать как модификатор для следующего глагола.**
+Vậy một toa と là một toa danh từ trắng được đánh dấu bằng と. Và chúng ta sẽ thấy khi tiếp tục rằng **điều này được sử dụng không chỉ để đánh dấu những thứ mọi người nói và những thứ mọi người nghĩ, mà còn tất cả các loại thứ khác.** Và chúng ta sẽ có một ví dụ về điều đó một chút sau trong bài học này. **Nhưng cấu trúc と này về cơ bản đang tạo ra một quasi-noun từ bất cứ thứ gì được đánh dấu bằng と, và と sau đó làm cho nó hoạt động như một modifier cho động từ theo sau.**
 
 ![](../media/image322.webp)
 
-Когда это простая цитата, как здесь, глаголом будет 言う (говорить), но это также может быть 考える (думать) или 思う (думать или чувствовать), но это могут быть и многие другие вещи, как вы увидите через мгновение. **Итак, это структура と-помеченного утверждения любого рода.**
+Khi đó là một trích dẫn đơn giản như vậy, động từ sẽ là 言う (nói), nhưng nó cũng có thể là 考える (nghĩ) hoặc 思う (nghĩ hoặc cảm thấy), nhưng nó có thể là nhiều thứ khác nữa, như bạn sẽ thấy trong giây lát. **Vậy đây là cấu trúc của một câu được đánh dấu と thuộc bất kỳ loại nào.**
 
 『「おそい！おそい！」と言って、はしり出した。』
 
-おそい означает <code>поздно</code>. **И чтобы сделать это предложением, очевидно, у нас здесь должно быть zero-местоимение.** Так что кролик либо говорит: <code>Поздно!</code> либо <code>Я опаздываю!</code>
+おそい có nghĩa là `muộn`. **Và để tạo thành một câu, rõ ràng chúng ta phải có một zero-pronoun ở đây.** Vậy con thỏ đang nói `Muộn rồi!` hoặc `Tôi muộn rồi!`
 
 ![](../media/image56.webp)
 
 ***ウサギは(zeroが)かいちゅうどけいを見て「おそい！おそい！」と言って、はしり出した。***
 
-***Кролик что касается (он/оно) на карманные часы посмотрел-и <code>поздно! поздно!</code> сказал-и побежал-вырвался.***
+***Thỏ thì (nó/hắn) đồng hồ bỏ túi nhìn-và `muộn! muộn!` nói-và chạy-bùng phát.***
 
-В версии Диснея, конечно, это было <code>Я опаздываю!</code>
+Trong phiên bản Disney, tất nhiên, đó là `Tôi muộn rồi!`
 
-「おそい！おそい!」( <code>Я опаздываю! Я опаздываю!</code>)
+「おそい！おそい!」( `Tôi muộn rồi! Tôi muộn rồi!`)
 
-**Нам не нужно говорить と с ウサギは言って на этот раз, потому что у нас есть ウサギは в начале предложения, и это сложное предложение.** Так что вторая часть сложного предложения имеет тот же главный вагон, тот же субъект, что и первая половина.
+**Chúng ta không cần nói と với ウサギは言って lần này vì chúng ta có ウサギは ở đầu câu và đây là một câu ghép.** Vậy phần thứ hai của câu ghép có cùng toa chính, cùng chủ ngữ với nửa đầu.
 
 『「おそい！おそい！」と言って…』
 
-( <code>Кролик сказал: «Я опаздываю! Я опаздываю!»</code>)
+( `Con thỏ nói, 'Tôi muộn rồi! Tôi muộn rồi!'`)
 
-И это 言って — ещё одно составное 言って, так что на этот раз у нас трёхсложное составное предложение.
+Và 言って đó là một 言って ghép khác, vậy lần này chúng ta có một câu ghép ba tầng.
 
 ![](../media/image175.webp)
 
 ::: info
-Синяя рамка — цитируемые слова кролика также, кажется, имеют zeroが, поскольку означают (Я) опаздываю.
+Hộp xanh - lời nói được trích dẫn của con thỏ cũng dường như có một zeroが vì nghĩa (Tôi) muộn.
 :::
 
-Кролик посмотрел на свои часы, он сказал 「おそい！おそい！」, а затем... он сделал что-то ещё:
+Con thỏ nhìn đồng hồ, nó nói 「おそい！おそい！」, và sau đó... nó làm điều gì khác:
 
 > はしり出した。
 
-はしる означает <code>бежать</code>, а 出す буквально означает <code>вынимать</code>, но это комбинация, которую мы будем очень часто видеть в японском языке. Опять же, мы используем эту い-основу, которая является основной соединительной основой, чтобы соединить はしる с 出す. И что это означает здесь?
+はしる có nghĩa là `chạy` và 出す theo nghĩa đen có nghĩa là `lấy ra`, nhưng đây là một sự kết hợp chúng ta sẽ thấy rất thường xuyên trong tiếng Nhật. Một lần nữa, chúng ta đang sử dụng い-stem đó, là stem kết nối chính, để kết nối はしる với 出す. Và nó có nghĩa gì ở đây?
 
 ![](../media/image480.webp)
 
-Ну, **этот 出す, когда он соединён с глаголом, означает, что действие глагола <code>внезапно началось</code>.** Так что мы можем сказать, что кто-то 泣き出した: 泣く/なく — это <code>плакать</code>, и мы соединяем い-основу 泣く с 出す, и 泣き出す означает <code>разразиться плачем</code>. Мы можем сказать 笑い出す: 笑う — это <code>смеяться</code>, и если мы соединяем い-основу 笑う с 出す, мы говорим <code>разразиться смехом</code>. И в этом случае что произошло? Кролик внезапно бросился бежать — он сорвался с места.
+Chà, **出す đó khi được kết nối với một động từ có nghĩa là hành động của động từ `bùng phát`.** Vậy chúng ta có thể nói rằng ai đó 泣き出した: 泣く/なく là `khóc`, và chúng ta kết nối い stem của 泣く với 出す, và 泣き出す có nghĩa là `bùng khóc`. Chúng ta có thể nói 笑い出す: 笑う là `cười` và nếu chúng ta kết nối い-stem của 笑う với 出す, chúng ta đang nói `bùng cười`. Và trong trường hợp này điều gì đã xảy ra? Con thỏ đột nhiên bùng chạy – nó bắt đầu chạy.
 
 ウサギはかいちゅうどけいを見て「おそい！おそい！」と言って、はしり出した。
 
-(Кролик посмотрел на свои карманные часы, он воскликнул: «Я опаздываю! Я опаздываю!» и бросился бежать.)
+(Con thỏ nhìn đồng hồ bỏ túi, nó kêu 'Tôi muộn rồi! Tôi muộn rồi!' và nó bắt đầu chạy.)
 
 ![](../media/image793.webp)
 
@@ -174,46 +174,46 @@
 
 ![](../media/image228.webp)
 
-「ちょっとまってください」 — это фраза, которую вы будете часто слышать в японском языке. Иногда ください будет опущено. Что это означает?
+「ちょっとまってください」là một cụm từ bạn sẽ nghe rất nhiều trong tiếng Nhật. Đôi khi ください sẽ bị bỏ đi. Nó có nghĩa gì? 
 
-ちょっと означает <code>немного</code>; まって — это て-форма от <code>待つ/まつ</code>, что означает <code>ждать</code>; а ください означает <code>пожалуйста</code>. На самом деле это связано с くれる, о котором мы говорили в прошлый раз<sup>[[11]](./11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form.md)</sup>; что также относится к <code>давать вниз</code> — это <code>пожалуйста, дайте мне / пожалуйста, опустите до моего уровня</code>, так что это вежливый способ сказать <code>пожалуйста, дайте</code>. Но это не просто давать вещь, как и в случае с くれる и あげる, это не просто давать вещь, **это также может быть, если вы соединяете это с て-формой глагола, давать действие этого глагола.** Так что вы видите, это очень связано с くれる и あげる, которые мы выучили на прошлой неделе.
+ちょっと có nghĩa là `một chút`; まって là て-form của `待つ/まつ`, có nghĩa là `đợi`; và ください có nghĩa là `xin hãy`. Nó thực sự được kết nối với くれる, mà chúng ta đã nói về lần trước *(bài 11)*; cũng đề cập đến việc cho xuống – đó là `xin hãy cho xuống cho tôi / xin hãy hạ xuống mức độ của tôi`, vậy đó là cách lịch sự để nói `xin hãy cho`. Nhưng nó không chỉ cho một thứ, giống như với くれる và あげる, nó không chỉ cho một thứ, **nó cũng có thể, nếu bạn kết nối nó với て-form của một động từ, cho hành động của động từ đó.** Vậy bạn có thể thấy nó rất liên quan đến くれる và あげる mà chúng ta đã học tuần trước.
 
 > ちょっとまってください
 
-Итак, поскольку это так распространено, очень часто, когда мы ставим глагол в て-форму и обращаемся к кому-то, это как бы сокращение от てください. 「ちょっとまってください」 означает <code>Пожалуйста, подождите немного</code>. Так что она просит кролика остановиться; она хочет встретиться с кроликом.
+Bây giờ, vì điều này rất phổ biến, rất thường khi chúng ta đặt một động từ vào て-form và hướng nó đến ai đó, nó giống như viết tắt của てください. 「ちょっとまってください」có nghĩa là `Xin hãy đợi một chút`. Vậy cô ấy đang yêu cầu con thỏ dừng lại; cô ấy muốn gặp con thỏ.
 
 「ちょっとまってください」とアリスはよんだ。
 
-Итак, у нас снова эта частица と, частица цитирования, которая нам нужна, когда мы что-либо цитируем, а затем よんだ. 「よんだ」: что это означает? Ну, мы уже встречали よんだ раньше, не так ли? И это означает <code>читать</code>, <code>читал</code> в прошедшем времени. Это た-форма — в данном случае だ-форма — от 読む. **Но в этом случае это другое. Это だ-форма от 呼ぶ.**
+Vậy chúng ta có trợ từ と đó một lần nữa, trợ từ trích dẫn, mà chúng ta cần khi trích dẫn bất cứ thứ gì, và sau đó よんだ. 「よんだ」: điều đó có nghĩa gì? Chà, chúng ta đã gặp よんだ trước đây rồi tôi nghĩ, phải không? Và nó có nghĩa là `đọc`, `đọc` trong quá khứ. Đó là た form —dạng だ trong trường hợp này—của 読む. **Nhưng trong trường hợp này nó khác. Đó là dạng だ của 呼ぶ.**
 
 ![](../media/image801.webp)
 
-Если вы помните из нашего урока о て- и た-формах<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>, группа глаголов New Boom, глаголы, оканчивающиеся на ぬ, ぶ и む, все образуют свою て-форму с んで и свою た-форму с んだ. **Так что и 読む, и 呼ぶ имеют прошедшую форму よんだ.** К счастью, мы не так часто путаем чтение и зов, не так ли? Этот 呼ぶ означает <code>звать</code>, <code>кричать</code>. Он может означать <code>звать</code> в любом из смыслов, в которых <code>звать</code> используется в английском. Вы можете назвать кого-то по имени, вы можете назвать яблоко лимоном (но вы будете неправы) или вы можете позвать.
+Nếu bạn nhớ từ bài học て và た form của chúng ta<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>, nhóm New Boom của động từ, động từ kết thúc bằng ぬ, ぶ, và む, tất cả đều tạo thành て form với んで và た form với んだ. **Vậy cả 読む và 呼ぶ đều có dạng quá khứ よんだ.** May mắn thay, chúng ta không thường xuyên có khả năng nhầm lẫn giữa đọc và gọi, phải không? 呼ぶ này có nghĩa là `gọi`, `hét lên`. Nó có thể có nghĩa là `gọi` trong bất kỳ nghĩa nào mà `gọi` được sử dụng trong tiếng Anh. Bạn có thể gọi ai đó bằng một cái tên, bạn có thể gọi một quả táo là một quả chanh (nhưng bạn sẽ sai) hoặc bạn có thể hét lên.
 
 「ちょっとまってください」とアリスはよんだ。
 
-(«Пожалуйста, подождите минутку!» — позвала Алиса.)
+('Xin hãy đợi một phút!' Alice gọi.)
 
 でもウサギはピョンピョンとはしりつづけた。
 
 ![](../media/image836.webp)
 
 ::: tip
-Если вы хотите напечатать 続ける/つづける, вы должны напечатать tsuDUkeru. Dzu даёт <code>ｄず</code>.
+Nếu bạn muốn gõ 続ける/つづける, bạn phải gõ tsuDUkeru. Dzu cho `ｄず`.
 :::
 
-でも означает <code>но</code>. はしる означает <code>бежать</code>. И мы пока оставим ピョンピョン на мгновение. つづける означает <code>продолжать</code>. Итак, снова у нас есть эта форма взятия い-основы глагола, はしる становится はしり, а затем мы добавляем к ней глагол つづける (продолжать). Так что 「ウサギははしりつづけた」 означает <code>Кролик продолжал бежать</code>.
+でも có nghĩa là `nhưng`. はしる có nghĩa là `chạy`. Và chúng ta sẽ bỏ qua ピョンピョン một lúc ở đây. つづける có nghĩa là `tiếp tục`. Vậy một lần nữa chúng ta có dạng lấy い-stem của một động từ, はしる trở thành はしり và sau đó chúng ta thêm vào đó động từ つづける (tiếp tục). Vậy 「ウサギははしりつづけた」có nghĩa là `Con thỏ tiếp tục chạy`. 
 
 ---
 
-**ピョンピョン — это то, что мы будем очень часто встречать в японском языке, и это удвоенное слово, которое является звукоподражанием.** В японском языке их очень много, \[например,\] 「シクシク」, что является звукоподражанием плача. И некоторые из них будут буквальными звуками, а некоторые будут описывать различные состояния. Так что мы будем встречаться со многими из них позже.
+**ピョンピョン là thứ chúng ta sẽ thấy rất thường xuyên trong tiếng Nhật và đó là, một từ được nhân đôi là một hiệu ứng âm thanh.** Có rất nhiều từ như vậy trong tiếng Nhật, \[ví dụ\] 「シクシク」, là hiệu ứng âm thanh cho việc khóc. Và một số trong số chúng sẽ là âm thanh theo nghĩa đen và một số mô tả các trạng thái khác nhau. Vậy chúng ta sẽ gặp rất nhiều từ này sau. 
 
-ピョンピョン — это почти буквальное звукоподражание. Это звук маленького существа, прыгающего по земле, и вы будете слышать это очень часто. Я, во всяком случае, слышу, но тогда, многие из моих друзей — это маленькие существа, которые прыгают по земле. Итак, ピョンピョン — это звук, или не совсем звук, это... если бы это было аниме, вы, вероятно, услышали бы звук, не так ли, ピョンピョンピョンピョン… – но в этом случае это не обязательно звук, который вы слышите, но это ощущение, звукоподобное ощущение маленького существа, маленького животного, прыгающего, прыгающего, маленькими прыжками.
+ピョンピョン gần như là một hiệu ứng âm thanh theo nghĩa đen. Đó là âm thanh của một thứ nhỏ nhảy dọc, và bạn sẽ nghe điều này rất nhiều. Ít nhất tôi thì có, nhưng sau đó, rất nhiều bạn bè của tôi là những thứ nhỏ nhảy dọc. Vậy ピョンピョン là âm thanh, hoặc không hoàn toàn là âm thanh, nó là... nếu đó là anime bạn có thể sẽ nghe thấy âm thanh, phải không, ピョンピョンピョンピョン… – nhưng trong trường hợp này nó không nhất thiết là âm thanh bạn nghe thấy, mà là cảm giác, cảm giác giống âm thanh của một thứ nhỏ, một con vật nhỏ, nhảy, nhảy, những cú nhảy nhỏ. 
 
-Итак, поскольку это кролик, он не бежал так, как бежите вы, он бежит маленькими прыжками, подпрыгивая, как это делают кролики. И здесь следует отметить, что мы говорим ピョンピョンと. **Итак, снова мы используем эту частицу цитирования. В этом случае мы используем её, чтобы показать, как бежал кролик, и поскольку это своего рода техническое звукоподражание, мы <code>цитируем</code> звук, который издал кролик, чтобы рассказать о манере, в которой кролик бежал. Он бежал в манере <code>маленьких-прыжков</code>.**
+Vậy, vì đó là con thỏ, nó không chạy theo cách bạn chạy, nó chạy theo kiểu nhảy nhỏ, nảy theo cách mà thỏ làm. Và điều cần lưu ý ở đây là chúng ta nói ピョンピョンと. **Vậy một lần nữa chúng ta đang sử dụng trợ từ trích dẫn đó. Trong trường hợp này chúng ta đang sử dụng nó để cho thấy con thỏ chạy như thế nào, và vì đây là một loại hiệu ứng âm thanh về mặt kỹ thuật, chúng ta đang `trích dẫn` âm thanh mà con thỏ tạo ra để nói về cách thức mà con thỏ chạy. Nó chạy theo kiểu nhảy nhỏ.**
 
-Хорошо. Итак, на следующей неделе мы узнаем, что произошло. Как вы думаете, что могла сделать Алиса?
+Được rồi. Vậy tuần sau chúng ta sẽ tìm hiểu điều gì đã xảy ra. Bạn nghĩ Alice có thể đã làm gì?
 
 ::: info
-Этот урок был довольно длинным и немного утомительным для редактирования, хех, но я справилась, ура (•̀o•́)ง
+Bài này khá dài và hơi khó chỉnh sửa, heh, nhưng tôi đã xoay sở được, yee (•̀o•́)ง
 :::

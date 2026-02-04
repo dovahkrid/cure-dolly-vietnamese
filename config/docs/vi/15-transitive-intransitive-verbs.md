@@ -1,149 +1,154 @@
-# **15. Переходные и непереходные глаголы**
+# **15. Động từ tự động & tha động**
 
-[**Урок 15: Переходность — 3 факта, которые делают её простой. Переходные/непереходные глаголы разгаданы**](https://www.youtube.com/watch?v=ELk1dqaEmyk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=17)
+[**Bài 15: Tính chuyển tiếp - 3 sự thật giúp bạn hiểu dễ dàng. Giải mã động từ tự động/tha động**](https://www.youtube.com/watch?v=ELk1dqaEmyk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=17)
 
-こんにちは.
+こんにちは。
 
-Сегодня мы рассмотрим слова, обозначающие «движение себя» и «движение другого». Если вы заглянете в стандартный японский учебник или словарь, вы обычно увидите, что они определяются как <code>переходные</code> и <code>непереходные</code> глаголы. Конечно, это не так далеко от истины, как некоторые другие вещи, которые вы найдёте в этих книгах, например, спряжение, которого в японском не существует; пассив (в японском нет пассива). **Переходность и непереходность действительно существуют в японском языке, и в большинстве случаев между ними и глаголами «движения себя» и «движения другого» есть большое совпадение.** Однако это работает не всегда, и это не совсем то, что подразумевается под «движением себя» и «движением другого» в японском языке.
+Hôm nay chúng ta sẽ tìm hiểu về từ tự chuyển động và từ tha chuyển động. Nếu bạn xem trong sách giáo khoa hoặc từ điển tiếng Nhật tiêu chuẩn, bạn thường thấy chúng được định nghĩa là động từ <code>transitive</code> và <code>intransitive</code>. Điều này không sai lệch nhiều như một số thứ bạn tìm thấy trong những cuốn sách này, chẳng hạn như chia động từ, vốn không tồn tại trong tiếng Nhật; thể bị động (không có thể bị động trong tiếng Nhật). **Tính chuyển tiếp và không chuyển tiếp thực sự tồn tại trong tiếng Nhật và hầu hết thời gian có sự chồng chéo lớn giữa điều đó và động từ tự chuyển động và tha chuyển động.** Tuy nhiên, nó không hoạt động mọi lúc và không hoàn toàn giống với ý nghĩa của tự chuyển động và tha chuyển động trong tiếng Nhật.
 
-Поэтому, если вы знакомы и вам комфортно с западными терминами <code>переходные</code> и <code>непереходные</code>, то их использование не сильно повредит, по крайней мере, в большинстве случаев. Но если вы с ними не знакомы, не пытайтесь их выучить только ради японского, потому что они не совсем точны.
+Vì vậy, nếu bạn đã quen thuộc và thoải mái với các thuật ngữ phương Tây <code>transitive</code> và <code>intransitive</code>, việc sử dụng chúng không gây hại nhiều, ít nhất là hầu hết thời gian. Nhưng nếu bạn không quen thuộc với chúng, đừng cố gắng học chúng chỉ vì tiếng Nhật, bởi vì chúng không thực sự chính xác.
 
 ::: info
-Моё предположение касается английского, поскольку многие глаголы, переходные в английском, не являются таковыми в японском и т.д., по сути, лучше рассматривать эти два понятия как отдельные сущности, чтобы избежать путаницы.
+Tôi đoán là liên quan đến tiếng Anh, vì rất nhiều động từ chuyển tiếp trong tiếng Anh lại không phải trong tiếng Nhật, v.v., về cơ bản tốt hơn là coi hai thứ này như những thực thể riêng biệt để tránh nhầm lẫn.
 :::
 
 ---
 
-Так что же такое слова «движения себя» и «движения другого»? **В японском языке «слово-движение», <code> 動詞 (doushi)</code>, — это глагол, слово, обозначающее действие или движение.**
+Vậy từ tự chuyển động và tha chuyển động là gì? **Trong tiếng Nhật, từ chuyển động, <code>動詞 (doushi)</code>, là động từ, một từ biểu thị hành động hoặc chuyển động.**
 
 ---
 
-**Итак, слово «движения себя» — это любой глагол, который движет сам себя. Например, если я встаю, это действие «движения себя». Я не двигаю что-то другое, я двигаю себя.** **Если я бросаю мяч, это действие «движения другого». Я не бросаю себя, я бросаю мяч.** И на самом деле, это так просто.
+**Vậy từ tự chuyển động là bất kỳ động từ nào tự chuyển động. Vì vậy nếu tôi đứng dậy, đó là hành động tự chuyển động. Tôi không di chuyển thứ gì khác, tôi đang di chuyển chính mình.** **Nếu tôi ném một quả bóng, đó là hành động tha chuyển động. Tôi không ném chính mình, tôi đang ném quả bóng.** Và thực sự nó đơn giản như vậy.
 
 ---
 
-**В японском языке есть много пар слов — можно сказать, что это либо две формы одного и того же слова, либо два очень тесно связанных слова — где у нас есть версия «движения себя» и версия «движения другого».** Итак, очень хороший пример — <code>出る(でる)</code> и <code>出す(だす)</code>.
+**Bây giờ, tiếng Nhật có rất nhiều cặp từ - vì vậy chúng ta có thể nói chúng là hai dạng của cùng một từ hoặc hai từ có liên quan rất chặt chẽ - trong đó chúng ta có phiên bản tự chuyển động và tha chuyển động.** Vì vậy, một ví dụ rất tốt là <code>出る(でる)</code> và <code>出す(だす)</code>.
 
 ![](../media/image986.webp)
 
-Оба используют один и тот же кандзи, который означает <code>выходить</code>. **Базовая форма — <code>出る(でる)</code>, и она означает просто <code>выходить</code> или <code>появляться</code>, и это версия «движения себя».** **Версия «движения другого» — <code>出す(だす)</code>, и она означает <code>вынимать</code> или <code>выносить</code>: заставлять что-то выходить. */ Вынимать что-то и т.д…***
+Cả hai đều sử dụng cùng một kanji có nghĩa là <code>ra ngoài</code>. **Dạng cơ bản là <code>出る(でる)</code> và có nghĩa đơn giản là <code>ra ngoài</code> hoặc <code>xuất hiện</code>, và đó là phiên bản tự chuyển động.** **Phiên bản tha chuyển động là <code>出す(だす)</code> và có nghĩa là <code>lấy ra</code> hoặc <code>đưa ra</code>: làm cho cái gì đó ra ngoài. */ Lấy cái gì đó ra, v.v...***
 
 ::: info
-Не путать перевод <code>заставлять что-то</code> как обозначение каузатива<sup>[[19]](./19-causative-causative-receptive.md)</sup>,
-出す имеет свою собственную <code>каузативную</code> форму - 出させる(ださせる), которая обозначает **[её каузативную форму](https://www.weblio.jp/content/%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B).
-*Здесь вы совершаете действие по перемещению чего-либо. Вы не заставляете кого-то другого делать это.*
+Không nhầm lẫn bản dịch <code>làm cho cái gì đó</code> như biểu thị thể sai khiến<sup>[[19]](./19-causative-causative-receptive.md)</sup>,  
+出す có dạng <code>sai khiến</code> riêng của nó - 出させる(ださせる) biểu thị **[dạng sai khiến của nó](https://www.weblio.jp/content/%E5%87%BA%E3%81%95%E3%81%9B%E3%82%8B).  
+*Ở đây, bạn đang thực hiện hành động di chuyển cái gì đó. Bạn không bắt người khác làm điều đó.*
 :::
 
-Итак, в первом случае то, что движется, движется само; оно выходит; оно появляется. **Во втором случае актор предложения, актор глагола, выносит что-то другое или вынимает что-то другое.**
+Vì vậy trong trường hợp đầu tiên, bất cứ thứ gì đó đang tự di chuyển; nó đang ra ngoài; nó đang xuất hiện. **Trong trường hợp thứ hai, chủ thể của câu, chủ thể của động từ, đang đưa cái gì đó khác ra ngoài hoặc lấy cái gì đó khác ra ngoài.**
 
 ::: info
-Итак, как и переходный, «движение другого» ПОХОЖЕ, подразумевает что-то для грамматического объекта, тогда как непереходный глагол/«движение себя» не имеет прямого объекта, поскольку он описывает/<code>движет</code> только себя.
+vì vậy, giống như chuyển tiếp, tha chuyển động DẠO như ngụ ý cái gì đó đối với tân ngữ ngữ pháp, trong khi động từ không chuyển tiếp/tự chuyển động không có tân ngữ trực tiếp, vì nó mô tả/<code>di chuyển</code> chỉ chính nó.
 :::
 
-Это часто очень полезно, потому что во многих случаях это даёт нам два различных слова, которые легко понять, потому что они тесно связаны.
+Bây giờ, điều này thường rất hữu ích, bởi vì trong nhiều trường hợp nó cho chúng ta hai từ riêng biệt dễ hiểu vì chúng có liên quan chặt chẽ.
 
 ---
 
-Например, <code>負ける (まける)</code> означает <code>проигрывать</code> – это не означает потерять предмет или деньги, а проиграть соревнование, проиграть войну, проиграть битву, проиграть игру – другими словами, быть побеждённым. А <code>**負かす(まかす)**</code>, которая является версией «движения другого» от <code>**負ける (まける)**</code>, означает <code>побеждать</code> – другими словами, заставлять кого-то проиграть / *побеждать кого-то*. Итак, там, где в английском у нас есть два слова, <code>lose</code> и <code>defeat</code>, в японском у нас, по сути, одно и то же слово в его версиях «движения себя» и «движения другого».
+Ví dụ, <code>負ける (まける)</code> có nghĩa là <code>thua</code> - nó không có nghĩa là mất một vật thể hoặc mất tiền, mà là thua một cuộc thi, thua một cuộc chiến, thua một trận đấu, thua một trò chơi - nói cách khác là bị đánh bại. Bây giờ, <code>**負かす(まかす)**</code>, là phiên bản tha chuyển động của <code>**負ける (まける)**</code>, có nghĩa là <code>đánh bại</code> - nói cách khác, làm cho người khác thua / *đánh bại ai đó*. Vì vậy trong khi chúng ta có hai từ trong tiếng Anh, <code>lose</code> và <code>defeat</code>, trong tiếng Nhật chúng ta có về cơ bản cùng một từ ở phiên bản tự chuyển động và tha chuyển động của nó.
 
 ---
 
-Так что это очень полезно – но не так полезно, если вы не понимаете, как образовывать версии «движения себя» и «движения другого» от слова. Если вы заглянете в стандартные учебники, в большинстве случаев вам скажут, что вы просто должны выучить все слова «движения себя» и «движения другого» по отдельности. Иногда они дают списки пар «движения себя» и «движения другого» – пары переходности, как они их называют. Но это неправда и не нужно.
+Vì vậy điều đó rất hữu ích - nhưng không hữu ích lắm nếu bạn không hiểu cách tạo ra các phiên bản tự chuyển động và tha chuyển động của một từ. Nếu bạn xem trong các sách giáo khoa tiêu chuẩn, hầu hết thời gian họ sẽ nói với bạn rằng bạn chỉ cần học tất cả các từ tự chuyển động và tất cả các từ tha chuyển động một cách riêng biệt. Đôi khi họ đưa cho bạn danh sách các cặp tự chuyển động và tha chuyển động - các cặp tính chuyển tiếp, như họ gọi. Nhưng điều này không đúng và không cần thiết.
 
-В большинстве случаев мы можем определить, какое слово является «движением себя», а какое – «движением другого». Есть несколько очень простых правил, которые охватывают большинство пар слов-движений. И эти правила ещё проще, если вы понимаете логику, которая лежит в их основе. И это то, что мы сейчас узнаем.
+Hầu hết thời gian chúng ta có thể biết từ nào là từ tự chuyển động và từ nào là từ tha chuyển động. Có một vài quy tắc rất đơn giản bao phủ hầu hết các cặp từ chuyển động. Và những quy tắc đó thậm chí còn dễ hơn nếu bạn hiểu logic cơ bản của chúng. Và đó là điều chúng ta sẽ học ngay bây giờ.
 
-## ある и する
+## ある ＆ する
 
-Первое, что нужно знать, это то, что существует, так сказать, Адам и Ева слов «движения себя» и «движения другого», их мать и отец. И это <code>ある</code> и <code>する</code>.
+Điều đầu tiên cần biết là có, có thể nói, một Adam và Eva của các từ tự chuyển động và tha chuyển động, cha mẹ của tất cả chúng. Và đó là <code>ある</code> và <code>する</code>.
 
 ![](../media/image147.webp)
 
-**<code>ある</code> — мать всех слов «движения себя». Оно просто означает <code>быть</code>. Таким образом, это полностью внутренне направленный глагол. Вы не можете быть или существовать чем-то другим; вы можете быть и существовать только в себе. Оно фундаментально и абсолютно внутренне направлено, самонаправлено.**
+**<code>ある</code> là mẹ của tất cả các từ tự chuyển động. Nó đơn giản có nghĩa là <code>tồn tại</code>. Vì vậy nó là một động từ hoàn toàn hướng nội. Bạn không thể tồn tại cái gì khác; bạn chỉ có thể tồn tại trong chính mình. Nó về cơ bản và tuyệt đối hướng nội, tự hướng.**
 
 ---
 
-**<code>する</code>, с другой стороны, означает <code>делать</code>. Итак, они означают <code>быть</code> и <code>делать</code>. И <code>する</code> само по себе, просто «делание», никогда не может существовать само по себе, вы должны что-то делать. Так что это отец всех глаголов «движения другого».**
+**<code>する</code>, mặt khác, có nghĩa là <code>làm</code>. Vì vậy chúng có nghĩa là <code>tồn tại</code> và <code>làm</code>. Và <code>する</code> tự nó, chỉ làm, không bao giờ có thể tồn tại một mình, bạn phải đang làm cái gì đó. Vì vậy đây là cha của tất cả các động từ tha chuyển động.**
 
-## Правило семьи する
+## Quy tắc họ する
 
-Теперь, почему нам нужно это знать, почему это важно знать? Потому что, когда мы это знаем, это открывает большинство пар слов-движений, с которыми мы столкнёмся. Как это происходит? Ну, есть то, что я называю 3 законами пар слов-движений. **И первый из этих законов заключается в том, что если одно из пары заканчивается на -す, то это всегда будет слово «движения другого». Почему? Потому что это -す связано с <code>する</code>.**
+Bây giờ tại sao chúng ta cần biết điều đó, tại sao việc biết điều đó lại quan trọng? Bởi vì khi chúng ta biết điều đó, nó mở khóa hầu hết các cặp từ chuyển động mà chúng ta sẽ gặp phải. Nó làm điều đó như thế nào? Chà, có những gì tôi gọi là 3 quy luật của các cặp từ chuyển động. **Và quy luật đầu tiên trong số đó là nếu một trong số một cặp kết thúc bằng -す, đó sẽ là từ tha chuyển động, luôn luôn. Tại sao? Bởi vì -す đó có liên quan đến <code>する</code>.**
 
 ![](../media/image983.webp)
 
-Итак, в примере, который мы приводили ранее, <code>出る (でる) / 出す (だす)</code>, <code>出る(でる)</code> означает <code>выходить</code>, а <code>出す（だす)</code>, **которое заканчивается на -す, является глаголом «движения другого»** – это то, что означает <code>вынимать **(что-то другое)**</code>. *- оно требует грамматического объекта.*
+Vì vậy, trong ví dụ chúng ta đã đưa ra trước đó, <code>出る (でる) / 出す (だす)</code>, <code>出る(でる)</code> có nghĩa là <code>ra ngoài</code> và <code>出す（だす)</code>, **kết thúc bằng -す, là động từ tha chuyển động** - đó là từ có nghĩa là <code>lấy **(cái gì đó khác)** ra</code>. *- nó yêu cầu một Tân ngữ ngữ pháp.*
 
-В <code>負ける(まける) / 負かす(まかす)</code> **мы знаем, что глагол «движения другого»**, глагол, который означает <code>заставлять (кого-то другого) проигрывать</code>, это <code>負か**す**(まかす)</code>, **потому что он заканчивается на -す.** И очень многие из этих пар на -す фактически совершают именно это преобразование, -える в -す. **Но не всегда.**
+Trong <code>負ける(まける) / 負かす(まかす)</code>, **chúng ta biết rằng động từ tha chuyển động**, động từ có nghĩa là <code>làm cho (ai đó khác) thua</code> là <code>負か**す**(まかす)</code> **bởi vì nó kết thúc bằng -す.** Và rất nhiều trong số những cặp -す đó thực sự thực hiện sự biến đổi cụ thể đó, -える thành -す. **Nhưng không phải lúc nào cũng vậy.**
 
 ![](../media/image131.webp)
 
-В некоторых случаях... у нас есть, например, <code> 落ちる (おちる)</code>, что означает <code>падать</code>, и <code>落とす (おとす)</code>, что означает <code>ронять</code>. У них один и тот же кандзи; они образуют пару, у них нет этого обычного окончания -える в -す, но <code>落とす (おとす)</code> всё равно имеет -す на конце, поэтому мы всё равно знаем, что это партнёр «движения другого» в паре.
+Trong một số trường hợp... chúng ta có, ví dụ, <code>落ちる (おちる)</code>, có nghĩa là <code>rơi</code>, và <code>落とす (おとす)</code>, có nghĩa là <code>thả</code>. Chúng có cùng kanji; chúng là một cặp, chúng không có kết thúc -える thành -す thông thường đó, nhưng <code>落とす (おとす)</code> vẫn có -す ở cuối, vì vậy chúng ta vẫn biết rằng đó là đối tác tha chuyển động của cặp.
 
-## Правило семьи ある
+## Quy tắc họ ある
 
-Теперь, **второе правило заключается в том, что если одно из пары заканчивается на любую из あ-основ + -る**, то есть оно заканчивается на звук -ある, **это будет партнёр «движения себя» в паре**. Почему? Потому что это -ある связано с <code>ある</code>, матерью всех глаголов «движения себя».
+Bây giờ, **quy tắc thứ hai là nơi một trong số một cặp kết thúc bằng bất kỳ âm あ + -る**, vì vậy nó kết thúc bằng âm -ある, **đó sẽ là đối tác tự chuyển động của cặp**. Tại sao? Bởi vì -ある đó có liên quan đến <code>ある</code>, mẹ của tất cả các động từ tự chuyển động.
 
 ![](../media/image532.webp)
 
-Обычный шаблон здесь — -える в -ある. Мы уже рассматривали это в прошлом уроке, где у нас есть <code>上がる (あがる)</code>, что означает <code>подниматься/вставать</code>, и <code>上げる (あげる)</code>, что означает <code>поднимать (что-то)</code>. Очень часто используется в значении <code>давать (что-то) вверх (другому человеку)</code>. Итак, у нас есть <code>上がる (あがる)</code> и <code>上げる(あげる)</code>, и мы знаем, что партнёр «движения себя» в паре — это <code>上がる (あがる)</code>, потому что он заканчивается на -ある. Обычная форма здесь — -える в -ある, **но опять же, это не обязательно.**
+Mẫu thông thường ở đây là -える thành -ある. Chúng ta đã xem xét điều đó trong bài học trước, nơi chúng ta có <code>上がる (あがる)</code>, có nghĩa là <code>tăng lên/đứng dậy</code>, và <code>上げる (あげる)</code>, có nghĩa là <code>nâng (cái gì đó) lên</code>. Nó rất thường được sử dụng để có nghĩa là <code>tặng (cái gì đó) lên trên (cho người khác)</code>. Vì vậy chúng ta có <code>上がる (あがる)</code> và <code>上げる(あげる)</code>, và chúng ta biết rằng đối tác tự chuyển động của cặp là <code>上がる (あがる)</code> bởi vì nó kết thúc bằng -ある. Dạng thông thường ở đây là -える thành -ある, **nhưng một lần nữa nó không nhất thiết phải như vậy.**
 
 ![](../media/image494.webp)
 
-Есть и другие случаи, например, <code>包む(くるむ)</code>, что означает <code>заворачивать</code>, и <code>包まる(くるまる)</code>, что означает <code>быть завёрнутым</code>, но опять же, это не имеет значения, потому что мы знаем, что **то, что заканчивается на -ある, всегда будет партнёром «движения себя» в паре.**
+Có những trường hợp khác, chẳng hạn như <code>包む(くるむ)</code>, có nghĩa là <code>gói</code>, và <code>包まる(くるまる)</code>, có nghĩa là <code>được gói</code>, nhưng một lần nữa không quan trọng bởi vì chúng ta biết rằng **từ kết thúc bằng -ある luôn luôn sẽ là đối tác tự chuyển động của cặp.**
 
-## Правило переключения
+## Quy tắc chuyển đổi
 
-Теперь, **третий закон заключается в том, что если мы берём любой обычный глагол, заканчивающийся на звук -う** (как они все), **и меняем его на ряд え и добавляем -る, что означает, что он заканчивается на -える, это переворачивает слово «движения себя» в слово «движения другого» или слово «движения другого» в слово «движения себя».** **Проблема в том, что мы не в каждом случае знаем по структуре, в какую сторону будет перевёрнуто слово.**
+Bây giờ, **quy luật thứ ba là nếu chúng ta lấy bất kỳ động từ thông thường nào kết thúc bằng âm -う** (như tất cả chúng đều làm) **và thay đổi nó thành hàng え và thêm -る, có nghĩa là nó kết thúc bằng -える, điều đó lật một từ tự chuyển động thành từ tha chuyển động hoặc một từ tha chuyển động thành từ tự chuyển động.** **Vấn đề là chúng ta không phải trong mọi trường hợp đều biết từ cấu trúc từ sẽ được lật theo hướng nào.**
 
 ![](../media/image577.webp)
 
-Однако это не так сложно, как кажется, потому что, во-первых, это не большое количество глаголов – большинство охватывается первыми двумя правилами – **и из этой группы переключений с -う на -える большинство составляют -む на -める.** И **-める — я бы назвала это почётным членом семьи す.** **Или можно сказать, что -む в -める — это почётный четвёртый закон.** Как бы вы это ни назвали, **в -む в -める, -める всегда является партнёром «движения другого» в паре.** И действительно, по мере того, как вы будете набираться опыта в японском, вы почувствуете, что **глаголы, оканчивающиеся на -める, имеют ощущение «движения другого», похожее на する.**
+Tuy nhiên, điều này không khó như có vẻ, bởi vì trước hết đây không phải là một số lượng lớn động từ - phần lớn được bao phủ bởi hai quy tắc đầu tiên - **và trong nhóm lật -う thành -える này, phần lớn là -む thành -める**. Và **-める là - tôi sẽ gọi đây là thành viên danh dự của họ す.** **Hoặc bạn có thể nói rằng -む thành -める là quy luật thứ tư danh dự.** Dù bạn đặt nó theo cách nào, **trong -む thành -める, -める luôn là đối tác tha chuyển động của cặp.** Và thực sự khi bạn có nhiều kinh nghiệm hơn trong tiếng Nhật, bạn sẽ cảm thấy rằng **các động từ kết thúc bằng める có cảm giác tha chuyển động giống như する.**
 
-И это действительно всё, что вам нужно знать, если вы начинаете изучать глаголы «движения себя»/«движения другого», потому что это охватывает подавляющее большинство всех пар, с которыми вы столкнётесь. Так что не чувствуйте, что вам нужно изучать остальную часть этого урока. Вы можете вернуться к нему позже, когда захотите. Но я просто закончу его, отчасти для того, чтобы у вас была вся информация, которая может понадобиться в будущем, и отчасти потому, что это даст нам больше понимания того, как на самом деле работают «движение себя» и «движение другого».
+---
 
-## Почётные правила
+Và đây thực sự là tất cả những gì bạn cần biết nếu bạn đang bắt đầu với các động từ tự chuyển động/tha chuyển động, bởi vì điều này thực sự bao phủ phần lớn tất cả các cặp bạn sẽ gặp phải. Vì vậy đừng cảm thấy rằng bạn phải học phần còn lại của bài học này. Bạn có thể quay lại với nó sau bất cứ khi nào bạn muốn. Nhưng tôi sẽ chỉ hoàn thành nó, một phần để bạn có tất cả thông tin bạn có thể cần cho tương lai và một phần bởi vì nó sẽ cho chúng ta cái nhìn sâu sắc hơn về cách tự chuyển động và tha chuyển động thực sự hoạt động.
 
-Итак, следующее, что нужно знать, это то, что помимо -む/-める, которое является основным, есть и другие почётные члены семьи す, и это: -ぶ в -べる – **-べる всегда является версией «движения другого»** (а -ぶ и -む очень близки в японском; вы, возможно, знаете <code>さびしい/さみしい</code> и другие подобные слова, где вы можете просто использовать ぶ или む в одном и том же слове, **так что -める и -べる, естественно, являются почётными членами семьи す**). А также -つ/-てる – **-てる всегда является парой «движения другого».**
+## Quy tắc danh dự
 
-Так что в итоге у нас действительно очень мало «джокеров» в этой колоде.
+Vì vậy điều tiếp theo cần biết là cũng như -む/-める, là cái lớn, cũng có những thành viên danh dự khác của họ す và đó là: -ぶ thành -べる - **-べる luôn là phiên bản tha chuyển động** (và -ぶ và -む rất gần nhau trong tiếng Nhật; bạn có thể biết <code>さびしい/さみしい</code> và những từ khác như vậy, nơi bạn chỉ có thể sử dụng ぶ hoặc む trong cùng một từ, **vì vậy -める và -べる một cách tự nhiên đều là thành viên danh dự của họ す**). Và cũng -つ/-てる - **-てる luôn là cặp tha chuyển động.**
+
+Vì vậy cuối cùng chúng ta thực sự có rất ít lá bài hoang dã trong bộ bài này.
 
 ![](../media/image872.webp)
 
-**Единственные, о которых мы действительно не можем сказать, в какую сторону они движутся, это -く и -ぐ, в -ける и -げる, -う в -える, и те глаголы, оканчивающиеся на -る, которые не подходят ни под один из первых двух законов.** Так что это, по сути, единственные исключения, где вы действительно не можете структурно определить, в какую сторону они движутся.
+**Những cái duy nhất mà chúng ta thực sự không thể biết chúng đi theo hướng nào là -く và -ぐ, thành -ける và -げる, -う thành -える, và những động từ kết thúc bằng る không phù hợp với một trong hai quy luật đầu tiên.** Vì vậy đây thực sự là những ngoại lệ duy nhất mà bạn thực sự không thể biết cấu trúc chúng đi theo hướng nào.
 
 ![](../media/image47.webp)
 
-Итак, можем ли мы что-нибудь сделать с этим последним небольшим меньшинством переключений «движения себя»/«движения другого»? И ответ на это — да. Но это немного тоньше, и это станет легче, когда вы станете более компетентными в японском. Так что вам не нужно беспокоиться об этом, если вы на ранней стадии. Правила, которые я вам дала, охватывают большинство случаев. **Но когда мы берём глагол, о котором структурно нельзя сказать, в какую сторону он переключается, очень часто мы можем сказать семантически** – то есть, **когда я говорю, что ряд え плюс -る переворачивает переходность, я имею в виду именно это.** **Версия на -える — это перевёрнутая версия; версия на -う — это оригинал, та, что в базовой форме глагола.**
+Vậy có điều gì chúng ta thực sự có thể làm về thiểu số nhỏ cuối cùng này của các lật tự chuyển động/tha chuyển động không? Và câu trả lời cho điều đó là có. Nhưng nó tinh tế hơn một chút và sẽ trở nên dễ dàng hơn khi bạn trở nên thành thạo hơn trong tiếng Nhật. Vì vậy bạn không cần phải lo lắng về điều này nếu bạn đang ở giai đoạn đầu. Các quy tắc tôi đã đưa cho bạn bao phủ hầu hết các trường hợp. **Nhưng khi chúng ta lấy một động từ mà về mặt cấu trúc bạn không thể biết nó lật theo hướng nào, rất nhiều lần chúng ta có thể biết về mặt ngữ nghĩa** - có nghĩa là, **khi tôi nói rằng hàng え cộng -る lật tính chuyển tiếp, tôi có ý chính xác như vậy.** **Phiên bản -える là phiên bản được lật; phiên bản -う là bản gốc, cái ở dạng cơ bản của động từ.**
 
-Итак, возьмём пример: <code>売る(うる)</code> означает <code>продавать</code>; это очень распространённое слово.
+Vì vậy để lấy một ví dụ, <code>売る(うる)</code> có nghĩa là <code>bán</code>; đó là một từ rất phổ biến.
 
 ![](../media/image367.webp)
 
-Есть менее распространённая версия этого слова — <code>売れる(うれる)</code>, и **это перевёрнутая версия.** Теперь, <code>продавать</code> — это, очевидно, глагол «движения другого» – я продаю **что-то**. Вы не можете просто продавать в абстракции. Я продаю что-то, и таким образом я двигаю эту другую вещь – буквально. Но <code>売れる(うれる)</code> означает <code>продаваться</code> в другом смысле, как в выражении <code>эта игра продаётся как горячие пирожки</code>. Итак, **в этом случае речь идёт о продаже книги или игры, поэтому то, что продаётся здесь, также является тем, что движется, так что это версия «движения себя»**, не так ли? **Таким образом, ясно, что <code>売る(うる)</code> — это, по сути, глагол «движения другого», но когда он перевёрнут, он имеет версию «движения себя».**
+Có một phiên bản ít phổ biến hơn của nó là <code>売れる(うれる)</code>, và **đó là phiên bản được lật.** Bây giờ, <code>bán</code> rõ ràng là một động từ tha chuyển động - tôi bán **cái gì đó**. Bạn không thể chỉ bán một cách trừu tượng. Tôi bán cái gì đó và vì vậy tôi đang di chuyển cái khác đó - khá theo nghĩa đen. Nhưng <code>売れる(うれる)</code> có nghĩa là <code>bán</code> theo nghĩa khác, như trong <code>trò chơi đó đang bán như bánh nóng</code>. Vì vậy **trong trường hợp này, họ đang nói về một cuốn sách bán hoặc một trò chơi bán, vì vậy thứ đang thực hiện việc bán ở đây cũng là thứ đang di chuyển, vì vậy đây là phiên bản tự chuyển động**, phải không? **Vì vậy rõ ràng rằng <code>売る(うる)</code> về cơ bản là một động từ tha chuyển động nhưng khi nó được lật nó có phiên bản tự chuyển động.**
 
 ---
 
-Теперь, если мы возьмём тот, что идёт в другую сторону, <code>従う(したがう)</code> означает <code>подчиняться</code> или <code>следовать</code>, и у него есть перевёрнутая версия, <code>従える(したがえる)</code>, что означает <code>быть сопровождаемым</code> или <code>быть подчиняемым</code>.
+Bây giờ, nếu chúng ta lấy một cái đi theo hướng khác, <code>従う(したがう)</code> có nghĩa là <code>tuân theo</code> hoặc <code>theo</code>, và nó có phiên bản được lật, <code>従える(したがえる)</code>, có nghĩa là <code>được theo</code> hoặc <code>được tuân theo</code>.
 
 ![](../media/image958.webp)
 
-Теперь, здесь ясно, что **основная идея — это подчинение или следование, а расширенная идея — это быть подчиняемым или быть сопровождаемым.** Итак, **здесь ясно, что версия «движения другого» будет версией на -える, потому что это перевёрнутая версия базового понятия — подчиняться или следовать.**
+Bây giờ, rõ ràng ở đây rằng **ý tưởng cơ bản là tuân theo hoặc theo và ý tưởng mở rộng là được tuân theo hoặc được theo.** Vì vậy **ở đây rõ ràng rằng phiên bản tha chuyển động sẽ là phiên bản -える, bởi vì đó là phiên bản được lật của khái niệm cơ bản, tuân theo hoặc theo.**
+
+---
+
+Và chúng ta cũng có thể lưu ý ở đây cho những bạn đã tự hỏi, <code>Tại sao cô ấy nói rằng chuyển tiếp và không chuyển tiếp không đúng?</code> - đây là một ví dụ. Các từ điển Nhật-Anh nói với chúng ta rằng <code>従う(したがう)</code> là phiên bản không chuyển tiếp, nhưng nếu bạn nghĩ về nó <code>従う(したがう)</code> có nghĩa là <code>tuân theo</code> hoặc <code>theo</code>. Đây không phải là một từ không chuyển tiếp. Bạn không thể chỉ tuân theo hoặc theo một cách trừu tượng. Bạn tuân theo ai đó hoặc bạn theo ai đó. Đó là một động từ chuyển tiếp.
 
 ::: info
-Долли написала [**это**](https://www.youtube.com/watch?v=ELk1dqaEmyk&lc=UgxUPDAQZ2p43DA_Z294AaABAg.8pKE8ZA_tQh8pKQIhLE8L6) и [**это**](https://www.youtube.com/watch?v=ELk1dqaEmyk&lc=Ugw4tQMZRgx1xrAmnOh4AaABAg.9CQONWHmDUq9CQeZrqyaG2), также есть [**эта японская статья**](https://ameblo.jp/stravaganza-no2/entry-12013152846.html) о некоторых глаголах «движения себя»/непереходных?, использующих を, что обычно… неграмматично?, я не совсем уверен в объяснении, так как мой японский всё ещё довольно ограничен, так что если что, вы можете написать мне,
-Думаю, было бы полезно не рассматривать их чисто как переходные = всегда «движение другого» и т.д.
-Поэтому я рекомендую вам провести собственное исследование этой проблемы и решить, как к ней подойти.*
+Dolly đã viết [**điều này**](https://www.youtube.com/watch?v=ELk1dqaEmyk&lc=UgxUPDAQZ2p43DA_Z294AaABAg.8pKE8ZA_tQh8pKQIhLE8L6) và [**điều này**](https://www.youtube.com/watch?v=ELk1dqaEmyk&lc=Ugw4tQMZRgx1xrAmnOh4AaABAg.9CQONWHmDUq9CQeZrqyaG2), cũng có [**bài viết tiếng Nhật này**](https://ameblo.jp/stravaganza-no2/entry-12013152846.html) về một số động từ tự chuyển động/không chuyển tiếp? sử dụng を, thường là...không đúng ngữ pháp?, tôi không hoàn toàn tự tin trong việc giải thích nó vì tiếng Nhật của tôi vẫn còn khá hạn chế, vì vậy nếu có gì bạn có thể viết cho tôi,
 :::
 
-И мы также можем отметить здесь для тех из вас, кто спрашивал себя: <code>Почему она говорит, что переходные и непереходные неверны?</code> – это пример. Японско-английские словари говорят нам, что <code>従う(したがう)</code> — это непереходная версия, но если подумать, <code>従う(したがう)</code> означает <code>подчиняться</code> или <code>следовать</code>. Это не непереходное слово. Вы не можете просто подчиняться или следовать в абстракции. Вы подчиняетесь кому-то или следуете за кем-то. Это переходный глагол.
+Tôi đoán sẽ có lợi nếu không xem chúng hoàn toàn theo kiểu chuyển tiếp = luôn tha chuyển động, v.v.  
+Vì vậy tôi khuyên bạn nên tự nghiên cứu về vấn đề này và quyết định cách tiếp cận nó.*
 
-Так почему же словари называют его непереходным? **Потому что они взяли на себя обязательство переводить «движение себя» как непереходное, но хотя это переходный глагол – вы подчиняетесь кому-то, вы следуете за кем-то – это также глагол «движения себя».**
-
----
-
-**Подчиняясь кому-то или следуя за кем-то, вы не двигаете этого другого человека.** **Вы двигаете себя.** **Будучи подчиняемым или сопровождаемым, вы не двигаете себя, вы двигаете этого другого человека.** Итак, это один из случаев, когда «движение себя» и «движение другого» не соответствуют переходным и непереходным глаголам.
+Vậy tại sao các từ điển gọi nó là không chuyển tiếp? **Bởi vì họ đã cam kết dịch tự chuyển động thành không chuyển tiếp, nhưng trong khi nó là một động từ chuyển tiếp - bạn tuân theo ai đó, bạn theo ai đó - nó cũng là một động từ tự chuyển động.**
 
 ---
 
-**Таких случаев не слишком много, поэтому неважно, хотите ли вы использовать «переходные» и «непереходные», просто имейте в виду, что значение в любом случае не совсем то же самое, а в некоторых случаях оно вообще не подходит.**
+**Trong việc tuân theo ai đó hoặc theo ai đó, bạn không di chuyển người khác đó.** **Bạn đang di chuyển chính mình.** **Trong việc được tuân theo hoặc được theo, bạn không di chuyển chính mình, bạn đang di chuyển người khác đó.** Vì vậy đây là một trong những trường hợp mà tự chuyển động và tha chuyển động không tương ứng với chuyển tiếp và không chuyển tiếp.
 
-Теперь, как я уже сказала, если вы просто хотите запомнить три правила и ничего больше, это решит проблему глаголов «движения себя» и «движения другого» для вас. В большинстве случаев вы сможете понять их, имея только это. Так что остальная информация, которую я вам рассказала, очень полезна по мере того, как вы будете совершенствоваться в японском, но если вы просто запомните концепцию «движения себя» и «движения другого» и три основных правила: **версия на -ある всегда является «движением себя»,** **версии на -す и -せる всегда являются «движением другого»** и если вы также запомните, что **версия на -める всегда является «движением другого»**, это стоит добавить, потому что это охватывает многое. И с этим вы действительно держите проблему глаголов «движения себя» и «движения другого» в основном под контролем.
+---
+
+**Không có quá nhiều trường hợp như vậy, vì vậy không quan trọng nếu bạn muốn sử dụng chuyển tiếp và không chuyển tiếp, chỉ cần lưu ý rằng ý nghĩa không hoàn toàn giống nhau trong mọi trường hợp, và trong một số trường hợp nó không phù hợp chút nào.**
+
+Bây giờ, như tôi đã nói, nếu bạn chỉ muốn nhớ ba quy tắc và không gì khác, điều đó sẽ phá vỡ phần lớn các động từ tự chuyển động và tha chuyển động cho bạn. Trong hầu hết các trường hợp, bạn có thể hiểu chúng chỉ với điều đó. Vì vậy phần còn lại của những gì tôi đã nói với bạn rất hữu ích khi bạn trở nên thành thạo hơn trong tiếng Nhật, nhưng nếu bạn chỉ nhớ khái niệm tự chuyển động và tha chuyển động và ba quy tắc cơ bản: **phiên bản -ある luôn là tự chuyển động,** **các phiên bản -す và -せる luôn là tha chuyển động** và nếu bạn cũng nhớ rằng **phiên bản -める luôn là tha chuyển động**, điều đó đáng để thêm vào bởi vì nó bao phủ rất nhiều. Và với những điều đó, bạn thực sự đã kiểm soát được phần lớn vấn đề của các động từ tự chuyển động và tha chuyển động.

@@ -1,174 +1,175 @@
-# **85. まい — отрицательный хелпер**
+# **85. まい - trợ từ phủ định**
 
-[**まい — отрицательный хелпер, который никогда не объясняют правильно | Урок 85**](https://www.youtube.com/watch?v=f4A9DK7Rtcw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=87&ab_channel=OrganicJapanesewithCureDolly)
+[**まい the negative helper that never gets explained properly | Lesson 85**](https://www.youtube.com/watch?v=f4A9DK7Rtcw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=87&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Сегодня мы поговорим о необычном, но не редком элементе японского языка, с которым вы непременно столкнётесь при погружении в язык. Он может сбивать с толку, потому что никто толком не объясняет, что это такое и что он делает — и, конечно, уж тем более не объясняет, почему. Несколько человек недавно спрашивали меня об этом, включая моего патрона Red Kokeshi Боба Наглера, который говорит: «Вы когда-нибудь делали видео о глаголе плюс <code>まい</code>? Я нигде не нашёл очень полезного объяснения, только списки с примерами и переводом, которые дают лишь некоторое представление».
+Hôm nay chúng ta sẽ nói về một yếu tố bất thường nhưng không hiếm gặp trong tiếng Nhật mà bạn chắc chắn sẽ gặp phải trong quá trình học. Nó có thể gây nhầm lẫn vì không ai thực sự giải thích chính xác nó là gì và nó làm gì — và tất nhiên họ chắc chắn không giải thích tại sao. Một số người gần đây đã hỏi tôi về điều này bao gồm cả Bob Nagler, người bảo trợ Red Kokeshi của tôi, người nói: "Bạn đã từng làm video về động từ cộng **まい** chưa? Tôi không tìm thấy lời giải thích hữu ích nào, chỉ có danh sách với ví dụ và bản dịch mang lại ít nhiều ý tưởng."
 
-Что ж, да, это примерно так и есть. Так что давайте сделаем это видео прямо сейчас.
+Vâng, đó khá nhiều là tình hình hiện tại. Vậy hãy làm video ngay bây giờ.
 
-## Что такое まい?
+## まい là gì？
 
-<code>まい</code> — это отрицательный хелпер, как <code>ず</code> и <code>ぬ</code>, о которых [**я недавно делала видео**](https://www.youtube.com/watch?v=E7Qop8dwP4w).
+**<code>まい</code> là một trợ từ phủ định giống như <code>ず</code> và <code>ぬ</code>**, mà [**tôi đã làm một video**](https://www.youtube.com/watch?v=E7Qop8dwP4w) khá gần đây.
 
 ![](../media/image594.webp)
 
-И, как и они, это своего рода реликт, один из тех элементов, который не совсем прижился в современном японском языке. Но он используется довольно часто, поэтому нам нужно его понять.
+**Và giống như chúng, nó là một thứ gì đó như hóa thạch, một trong những yếu tố không hoàn toàn phù hợp với tiếng Nhật hiện đại. Nhưng nó được sử dụng khá nhiều, vì vậy chúng ta cần hiểu nó.**
 
 ---
 
-Первая необычная вещь в нём заключается в том, что, в отличие от большинства хелперов, **он не присоединяется к одной из основ глагола.**
+Điều bất thường đầu tiên về nó là không giống như hầu hết các trợ từ, **nó không gắn vào một trong các thân động từ.**
 
 ![](../media/image904.webp)
 
-**В большинстве случаев он прикрепляется прямо к концу глагола.** Так, если мы хотим присоединить его к <code>行く</code>, мы просто говорим <code>行くまい</code>.
+**Nó được gắn thẳng vào cuối động từ trong hầu hết các trường hợp.** Vì vậy nếu chúng ta muốn gắn nó vào <code>行く</code> chúng ta chỉ nói <code>行くまい</code>.
 
-**Это всегда так с годан-глаголами, потому что нет другого способа присоединить <code>まい</code>.**
+**Điều này luôn đúng với động từ godan vì không có cách nào khác để gắn <code>まい</code>.**
 
-**С итидан-глаголами мы можем присоединить его к универсальной итидан-основе** (как вы знаете, с итидан-глаголами мы всегда, что бы мы с ними ни делали, просто отбрасываем <code>-る</code> и добавляем то, что хотим). Так, например, <code>見る</code> может стать <code>見まい / みまい</code>, **но так же часто это** <code>見るまい</code>.
+**Với động từ ichidan chúng ta có thể gắn nó vào thân ichidan phổ quát** (như bạn biết, với động từ ichidan chúng ta luôn luôn, dù chúng ta làm gì với chúng, chúng ta luôn chỉ bỏ -る và thêm bất cứ thứ gì chúng ta muốn thêm vào). Vì vậy, ví dụ, <code>見る</code> có thể trở thành <code>見まい / みまい</code>, **nhưng cũng thường là** <code>見るまい</code>.
 
-**С двумя неправильными глаголами**, <code>来る</code> и <code>する</code>, **они могут быть** <code>来るまい</code> и <code>するまい</code>, **но они также могут быть** <code>こまい</code> и <code>しまい</code>.
-
----
-
-Строго говоря, особенно в прошлом, использование итидан-глаголов целиком с <code>まい</code> на конце, вероятно, было неграмматичным, но сейчас это настолько широко распространено, что общепринято. Вы увидите это повсюду в телевизионных новостях или где угодно.
+**Với hai động từ bất quy tắc**, <code>来る</code> và <code>する</code>, **chúng có thể là** <code>来るまい</code> và <code>するまい</code>, **nhưng chúng cũng có thể là** <code>こまい</code> và <code>しまい</code>.
 
 ---
 
-Так что же это за <code>まい</code>? Ну, **это на самом деле своего рода сестра вспомогательного прилагательного <code>ない</code>, которое является отрицающим прилагательным.** В чём разница между <code>まい</code> и <code>ない</code>, помимо способа присоединения?
+Bây giờ, **nói một cách nghiêm túc, chắc chắn trong quá khứ, việc sử dụng động từ ichidan nguyên vẹn với <code>まい</code> ở cuối có lẽ là không đúng ngữ pháp, nhưng bây giờ nó được thực hiện rộng rãi đến mức nó được chấp nhận rộng rãi.** Bạn sẽ thấy nó ở khắp mọi nơi trên tin tức truyền hình hoặc bất cứ đâu.
 
-Что ж, **<code>まい</code> на самом деле является волитивной формой.**
+---
+
+Vậy <code>まい</code> này là gì? Vâng, **nó thực sự là một loại chị em với tính từ trợ động <code>ない</code>, là tính từ phủ định hóa.** Sự khác biệt giữa <code>まい</code> và <code>ない</code> ngoài cách nó gắn kết là gì?
+
+Vâng, **<code>まい</code> thực sự là dạng ý chí.**
 
 ![](../media/image148.webp)
 
-Обычно **прилагательные не имеют волитивных форм, но в данном случае мы имеем, и у неё есть определённые применения.**
+Bây giờ, **tính từ thường không có dạng ý chí, nhưng trong trường hợp này chúng ta có, và nó có những cách sử dụng nhất định.**
 
 ---
 
-**Как и <code>ない</code>, <code>まい</code> является прилагательным, но в отличие от <code>ない</code> и почти всех других прилагательных, оно никак не изменяется.**
+**Giống như <code>ない</code>, <code>まい</code> là một tính từ, nhưng không giống như <code>ない</code> và hầu như mọi tính từ khác, nó không biến đổi theo bất kỳ cách nào.**
 
-**Вы не говорите <code>まくて</code> или <code>まかった</code>. Вы используете его только в его простой, неизменённой форме, <code>まい</code>,** так что это, в некотором смысле, статичный элемент в японском языке, а не активный.
+**Bạn không nói <code>まくて</code> hoặc <code>まかった</code>. Bạn chỉ sử dụng nó ở dạng đơn giản, không thay đổi của nó, <code>まい</code>,** vì vậy nó là, theo một cách nào đó, một yếu tố tĩnh trong tiếng Nhật, không phải là một yếu tố hoạt động.
 
-**И это на самом деле вполне естественно, потому что то же самое происходит и с положительной волитивной формой, не так ли?** У нас есть て-формы и прошедшие формы хелперов, таких как рецессивный и каузативный, и, конечно, сам <code>ない</code>, но **у нас нет прошедших и て-форм и т.д. у волитивной формы.**
+**Và điều này thực sự khá tự nhiên, vì nó giống với dạng ý chí tích cực, phải không?** Chúng ta có dạng て và dạng quá khứ của các trợ từ như thụ động và sai khiến và, tất nhiên, chính <code>ない</code>, nhưng **chúng ta không có dạng quá khứ và dạng て, v.v., của dạng ý chí.**
 
-**<code>食べよう</code>: вы не ставите это в прошедшее время, у него нет て-формы, потому что это не имеет особого смысла с волитивной формой.**
+**<code>食べよう</code>: bạn không đưa nó vào quá khứ, nó không có dạng て, vì điều đó thực sự không có ý nghĩa gì với dạng ý chí.**
 
-## Что не может делать отрицательная волитивная форма
+## Dạng ý chí phủ định không thể làm gì
 
-Так что же на самом деле делает отрицательная волитивная форма?
+Vậy dạng ý chí phủ định thực sự làm gì?
 
-**Она не делает всего того, что делает положительная волитивная форма.**
+**Nó không làm tất cả những việc mà dạng ý chí tích cực làm.**
 
-**Вы не можете использовать её как призыв к действию:** <code>行きましょう</code> (давайте пойдём). *(этот пример — положительная волитивная форма)*
+**Bạn không thể sử dụng nó như một lời kêu gọi hành động:** <code>行きましょう</code> (hãy đi). *(ví dụ này là dạng ý chí tích cực)*
 
-**Вы не можете сказать <code>行くまい</code> (давайте не пойдём) — это не означает этого.**
+**Bạn không thể nói <code>行くまい</code> (đừng đi) — nó không có nghĩa đó.**
 
-**Вы не можете использовать её для**, как я показывала в другом видео<sup>[[18]](./18-って-は-mysteries-explained-おうとする-とする-として-という-っていう.md)</sup>, **формирования конструкции, которая означает «пытаться что-то сделать».**
+**Bạn không thể sử dụng nó để**, như tôi đã chỉ ra trong một video khác<sup>[[18]](./18-って-は-mysteries-explained-おうとする-とする-として-という-っていう.md)</sup>, **tạo thành một cấu trúc có nghĩa là <code>cố gắng làm gì đó</code>.**
 
-Так что **вы не можете использовать <code>まい</code> в конструкциях типа «давайте-постараемся-не-делать».**
+Vì vậy **bạn không thể sử dụng <code>まい</code> trong các cấu trúc kiểu hãy-cố-gắng-không-làm.**
 
-## Применения まい
+## Cách sử dụng まい
 
-Его применения довольно ограничены; у него есть пара прямых применений, а затем пара других применений, которые действительно очень полезны. Итак, давайте рассмотрим их.
+Cách sử dụng của nó khá hạn chế; nó có một vài cách sử dụng trực tiếp và sau đó một vài cách sử dụng khác thực sự khá hữu ích. Vậy, hãy xem chúng.
 
-### Использование まい для выражения маловероятности
+### Sử dụng まい để nói rằng điều gì đó không có khả năng xảy ra
 
-**Его наиболее распространённое применение — это выражение маловероятности чего-либо.**
+**Cách sử dụng thông thường nhất của nó là nói rằng điều gì đó không có khả năng xảy ra.**
 
 ![](../media/image119.webp)
 
-**Это волитивная отрицательная форма, поэтому точно так же, как мы можем высказывать предположения или оценки** — и **это очень часто используется с глаголом <code>ある</code>, поэтому мы говорим <code>あるまい</code>.**
+**Nó là một dạng ý chí phủ định, vì vậy giống như cách chúng ta có thể bày tỏ suy đoán hoặc đánh giá** — và **điều này rất thường được sử dụng với động từ <code>ある</code>, vì vậy chúng ta nói <code>あるまい</code>.**
 
-<code>そんなことはあるまい</code> (это просто маловероятно / я вообще не думаю, что такое возможно).
+<code>そんなことはあるまい</code> (điều đó chỉ là không có khả năng / tôi không nghĩ điều như vậy có khả năng xảy ra chút nào).
 
-**Но это работает точно так же с любым другим глаголом.**
+**Nhưng nó hoạt động giống nhau với bất kỳ động từ nào khác.**
 
-<code>この降りでは彼はこまい</code> (В такой ливень, сомневаюсь, что он придёт).
+<code>この降りでは彼はこまい</code> (Trong cơn mưa lớn này, tôi nghi ngờ liệu anh ấy có đến không).
 
 ![](../media/image848.webp)
 
-И **это довольно тесно связано с другими субъективными прилагательными**, которые мы обсуждали в другом месте (и я дам ссылку на это),<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup> **такими как <code>欲しい</code>, которое выражает наше желание чего-либо, или <code>怖い</code>, которое выражает наш страх перед чем-либо.**
+Và **điều này khá liên quan đến các tính từ chủ quan khác** mà chúng ta đã thảo luận ở nơi khác (và tôi sẽ đặt một liên kết cho điều đó),<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup> **chẳng hạn như <code>欲しい</code>, đại diện cho mong muốn của chúng ta về điều gì đó, hoặc <code>怖い</code> đại diện cho nỗi sợ hãi của chúng ta về điều gì đó.**
 
 ![](../media/image440.webp)
 
-Как обычно, эти прилагательные указывают на то, что мы желаем, чего боимся и т.д. И **в данном случае они указывают на то, что мы считаем маловероятным.**
+Như thường lệ, những tính từ này được hướng vào thứ mà chúng ta mong muốn, mà chúng ta sợ hãi, v.v. Và **trong trường hợp này, chúng được hướng vào thứ mà chúng ta cho là không có khả năng.**
 
-**Оно действительно представляет нашу субъективную оценку вероятности чего-либо.**
+**Nó thực sự đại diện cho tính chủ quan của chúng ta về khả năng của điều gì đó.**
 
-#### Точный японский эквивалент あるまい
+#### Một từ tương đương tiếng Nhật chính xác với あるまい
 
-Если мы хотим дать точный японский эквивалент, **<code>あるまい</code> напрямую эквивалентно <code>ないだろう</code> (не существует, я предполагаю) или <code>ないでしょう</code>**, а **<code>ではあるまい</code>** напрямую эквивалентно <code>ではないだろう</code>, <code>ではないでしょう</code>, <code>じゃないだろう</code>, <code>じゃないでしょう</code>, *(всем этим формам)*
+Nếu chúng ta muốn đưa ra một từ tương đương tiếng Nhật chính xác, **<code>あるまい</code> tương đương trực tiếp với <code>ないだろう</code>  
+(không tồn tại, tôi suy đoán) hoặc <code>ないでしょう</code>**, và **<code>ではあるまい</code>** tương đương trực tiếp với <code>ではないだろう</code>, <code>ではないでしょう</code>, <code>じゃないだろう</code>, <code>じゃないでしょう</code>, *(với tất cả những dạng này)*
 
 ![](../media/image518.webp)
 
-другими словами, **<code>А не является В, я бы предположил, это кажется вероятным</code> и т.д.**
+nói cách khác, **<code>A không phải là B, tôi suy đoán, có vẻ như có khả năng</code> v.v.**
 
-И **интересный момент здесь заключается в том, что**, как мы видим, **при этом предположительном использовании волитивной формы в её положительной, более обычной форме**, **мы не присоединяем волитивную форму напрямую к глаголу, о котором мы делаем предположение.**
+Và **điểm thú vị ở đây là**, như chúng ta thấy, **với việc sử dụng suy đoán này của dạng ý chí **ở dạng tích cực, thông thường hơn**, chúng ta không gắn dạng ý chí trực tiếp vào động từ mà chúng ta đang suy đoán.**
 
-Так что **мы не говорим <code>さくらはすぐに帰ろう</code>.**
+Vì vậy **chúng ta không nói <code>さくらはすぐに帰ろう</code>.**
 
-**Это не означает <code>Сакура, вероятно, придёт</code>.**
+**Điều đó không có nghĩa là <code>Sakura có lẽ sẽ đến</code>.**
 
-**Мы говорим** <code>さくらはすぐに**来るでしょう** (или だろう)</code>, потому что так мы это делаем. **Мы делаем это с волитивной связкой, когда делаем такого рода предположения.**
+**Chúng ta nói** <code>さくらはすぐに**来るでしょう** (hoặc だろう)</code>, vì đó là cách chúng ta làm. **Chúng ta làm điều đó với copula ý chí khi chúng ta đưa ra loại suy đoán đó.**
 
 ---
 
-**Но с <code>まい</code> мы можем присоединить его напрямую к глаголу**, как мы это сделали в предыдущем примере.
+**Nhưng với <code>まい</code> chúng ta có thể gắn nó trực tiếp vào động từ** như chúng ta đã làm trong ví dụ trước.
 
-<code>そんなことは**あるまい**</code> напрямую эквивалентно <code>そんなことは**ないでしょう**</code>.
+<code>そんなことは**あるまい**</code> tương đương trực tiếp với <code>そんなことは**ないでしょう**</code>.
 
-**И здесь нет места для двусмысленности, потому что <code>まい</code> имеет более ограниченный диапазон значений,** как мы только что обсуждали, **чем положительная волитивная форма**, поэтому мы не запутаемся, например, с призывом к действию, **потому что <code>まい</code> не делает призывов к бездействию.**
+**Và không có chỗ cho sự mơ hồ ở đây vì <code>まい</code> có phạm vi ý nghĩa hạn chế hơn,** như chúng ta vừa thảo luận, **so với dạng ý chí tích cực**, vì vậy chúng ta sẽ không bị nhầm lẫn với, chẳng hạn, một lời kêu gọi hành động, **vì <code>まい</code> không thực hiện lời kêu gọi không hành động.**
 
-Итак, **наиболее распространённое использование <code>まい</code> — это отрицательное прилагательное этих предположительных конструкций с <code>でしょう / だろう</code>.**
+Vì vậy, **cách sử dụng phổ biến nhất của <code>まい</code> là như tính từ phủ định của những cấu trúc suy đoán <code>でしょう / だろう</code> này.**
 
-### まい используется для выражения твёрдого решения или решимости не делать что-либо
+### まい được sử dụng cho quyết định mạnh mẽ hoặc quyết tâm không làm điều gì đó
 
-**Однако он также используется для одной другой отрицающей структуры, которая напрямую эквивалентна положительной.**
+**Tuy nhiên, nó cũng được sử dụng cho một cấu trúc phủ định khác tương đương trực tiếp với dạng tích cực.**
 
-Так мы можем сказать <code>二度と行くまい</code> (Я больше туда не пойду; буквально, я не пойду второй раз). Это другое распространённое значение.
+Vì vậy chúng ta có thể nói <code>二度と行くまい</code> (tôi sẽ không đi đó nữa; theo nghĩa đen, tôi sẽ không đi lần thứ hai). Đó là ý nghĩa phổ biến khác.
 
-**Когда оно не выражает вероятность или возможность, оно выражает твёрдое решение или решимость не делать что-либо.**
+**Khi nó không thể hiện khả năng hoặc có thể, nó thể hiện quyết định mạnh mẽ hoặc quyết tâm không làm điều gì đó.**
 
 ![](../media/image746.webp)
 
-Теперь, помимо этих нескольких применений, есть также пара других распространённых конструкций, в которых используется <code>まい</code>, и вы почти наверняка их услышите.
+Bây giờ, ngoài những cách sử dụng ít ỏi này, cũng có một vài cấu trúc phổ biến khác trong đó <code>まい</code> được sử dụng, và bạn khá chắc chắn sẽ nghe thấy chúng.
 
-### Использование положительной и отрицательной волитивной формы вместе
+### Sử dụng dạng ý chí tích cực và phủ định cùng nhau
 
-**Одна из них использует положительную и отрицательную волитивные формы вместе, означая «будет ли глагол выполнен или нет».**
+**Một cách sử dụng dạng ý chí tích cực và phủ định cùng nhau, có nghĩa là liệu động từ có được thực hiện hay không.**
 
-Так, например, **<code>行こうか, 行くまいか</code>** означает **<code>пойду ли я или нет</code>.**
+Vì vậy, ví dụ, **<code>行こうか, 行くまいか</code>** có nghĩa là **<code>liệu tôi có đi hay không</code>.**
 
 ![](../media/image541.webp)
 
-Теперь, **это очень похоже на конструкцию**, о которой мы говорили раньше и которую вы, вероятно, уже знаете<sup>[[39]](./39-the-か-particle-buried-questions-かな-もんか-かどうか.md)</sup>, **<code>行くかどうか</code>**, что буквально означает **<code>пойду ли я или как</code>**, что в более естественном английском звучало бы как <code>whether I go or what</code>.
+Bây giờ, **điều này rất giống với một cấu trúc** mà chúng ta đã nói về trước đây và mà bạn có lẽ đã biết<sup>[[39]](./39-the-か-particle-buried-questions-かな-もんか-かどうか.md)</sup>, **<code>行くかどうか</code>** có nghĩa theo nghĩa đen là **<code>liệu tôi có đi hay như thế nào</code>**, trong tiếng Anh tự nhiên hơn sẽ là <code>liệu tôi có đi hay gì</code>.
 
-### Присоединение し к конструкции с まい
+### Gắn し vào cấu trúc まい
 
-**Теперь, другая конструкция, которую вы часто услышите, образуется путём простого присоединения <code>し</code>, которое используется для перечисления причин чего-либо,** но, как мы обсуждали в другом месте<sup>[[63]](./63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい.md)</sup>, **оно часто используется само по себе, чтобы просто подразумевать продолжение списка.**
+**Bây giờ, cấu trúc khác mà bạn thường nghe được hình thành bằng cách đơn giản gắn <code>し</code>, được sử dụng để liệt kê nguyên nhân của điều gì đó,** nhưng như chúng ta đã thảo luận ở nơi khác<sup>[[63]](./63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい.md)</sup>, **nó thường được sử dụng một mình chỉ để ngụ ý một danh sách tiếp tục.**
 
 ![](../media/image797.webp)
 
-И **это даёт конструкцию, которая несколько сопоставима с конструкцией <code>it isn't as if...</code> или <code>it isn't like...</code> в английском языке.**
+Và **điều này tạo ra một cấu trúc có thể so sánh với cấu trúc <code>it isn't as if...</code> hoặc <code>it isn't like...</code> trong tiếng Anh.**
 
-Так, если мы скажем <code>金持ちでは**あるまいし**</code>, что примерно эквивалентно выражению **в английском языке** <code>it's **not as if** we're rich</code>, или <code>世界が終わるわけが**あるまいし**</code> (it's **not as if** the world is going to end).
+Vì vậy nếu chúng ta nói <code>金持ちでは**あるまいし**</code> tương đương với việc nói **trong tiếng Anh** <code>it's **not as if** we're rich</code> (không phải như thể chúng ta giàu có), hoặc <code>世界が終わるわけが**あるまいし**</code> (it's **not as if** the world is going to end - không phải như thể thế giới sắp kết thúc).
 
 ::: info
-В субтитрах видео не записано <code>が</code> после <code>わけ</code>, но Долли, кажется, произносит его, просто очень слабо, если внимательно прислушаться.
+Trong phụ đề video, nó không ghi lại が sau わけ, nhưng Dolly dường như phát âm nó, nó chỉ được phát âm rất yếu bởi cô ấy ở đây nếu bạn nghe cẩn thận.
 :::
 
-**Вот как мы бы это выразили на английском.**
+**Đó là cách chúng ta sẽ diễn đạt trong tiếng Anh.**
 
-**На японском** это больше похоже на <code>это не **то**, что мы богаты **или что-то в этом роде**</code> **(это <code>し</code>, «что-то в этом роде»).** *(Я пытаюсь выделить части, но это ограничено, к счастью, картинка видео выше хорошо это показывает)*
+**Trong tiếng Nhật**, nó giống như nói <code>it isn't **that** we're rich **or something like that**</code> **(đó là <code>し</code>, cái gì đó như thế).** *(Tôi đang cố gắng làm nổi bật các phần, nhưng nó có hạn, may mắn là hình ảnh video ở trên cho thấy nó rõ ràng)*
 
-**И волитивная форма снова отмечает отрицательную гипотезу.**
+**Và dạng ý chí một lần nữa đánh dấu một giả định phủ định.**
 
-Кто-то может вести себя так, будто мир вот-вот рухнет, **но на самом деле это, вероятно, не так.** Мы можем казаться некоторым людям богатыми, **но, ну, мы, кажется, не такие, не так ли?**
+Ai đó có thể hành động như thể thế giới sắp kết thúc, **nhưng thực tế nó có lẽ không phải vậy.** Chúng ta có thể trông với một số người như thể chúng ta giàu có **nhưng, vâng, chúng ta dường như không phải vậy, phải không?**
 
-Вот как работает хелпер <code>まい</code> в различных своих распространённых применениях…
+Vì vậy đây là cách trợ từ <code>まい</code> hoạt động trong các cách sử dụng phổ biến khác nhau của nó…
 
 ::: info
-Это может быть полезно, хотя и не относится к данной теме. Извините, если трудно читать, увеличьте здесь или [**посмотрите здесь**](https://www.youtube.com/watch?v=f4A9DK7Rtcw&lc=UgxlL8--buf4g_Gld_l4AaABAg&ab_channel=OrganicJapanesewithCureDolly)
+Điều này có thể hữu ích, ngay cả khi không liên quan ở đây. Xin lỗi nếu khó đọc, phóng to ở đây hoặc [**xem ở đây**](https://www.youtube.com/watch?v=f4A9DK7Rtcw&lc=UgxlL8--buf4g_Gld_l4AaABAg&ab_channel=OrganicJapanesewithCureDolly)  
 ![](../media/image615.webp)
 :::

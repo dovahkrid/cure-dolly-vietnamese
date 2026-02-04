@@ -1,102 +1,104 @@
-# **57. 込む (Komu) и секрет многозначных японских слов**
+# **57. 込む (Komu) và bí mật của những từ tiếng Nhật đa nghĩa**
 
-[**込む Komu и секрет многозначных японских слов | Урок 57**](https://www.youtube.com/watch?v=31xnxSFUCiw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=59&pp=iAQB)
+[**込む Komu và bí mật của những từ tiếng Nhật đa nghĩa | Bài 57**](https://www.youtube.com/watch?v=31xnxSFUCiw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=59&pp=iAQB)
 
 こんにちは。
 
-Сегодня мы поговорим об одном конкретном слове, которое имеет множество различных значений в разных контекстах и может присоединяться к другим словам. Но, помимо этого, мы поговорим о том, как работают такие слова и как мы можем их понять.
+Hôm nay chúng ta sẽ nói về một từ cụ thể có rất nhiều nghĩa khác nhau trong các ngữ cảnh khác nhau và có thể được gắn vào các từ khác. Nhưng hơn thế nữa, chúng ta sẽ nói về cách loại từ này hoạt động và cách chúng ta có thể hiểu chúng.
 
-Мы часто видим в словарях слова, которые имеют целый ряд различных и, казалось бы, несвязанных значений. Я не говорю здесь о омофонах, где кандзи разные. Они могут быть не связаны, хотя иногда и связаны.
+Chúng ta thường thấy trong từ điển những từ có cả một loạt nghĩa khác nhau và dường như không liên quan. Tôi không nói về từ đồng âm ở đây, nơi mà kanji khác nhau. Chúng có thể không liên quan, mặc dù đôi khi chúng có.
 
-Но я говорю о словах, которые на самом деле являются одним и тем же словом, но имеют ряд различных значений. И в этих случаях важно понимать, что обычно существует базовое, конкретное значение, а затем из него вытекает ряд метафорических значений.
+Nhưng tôi đang nói về những từ thực sự là cùng một từ nhưng có một loạt nghĩa khác nhau. Và trong những trường hợp này, điều quan trọng cần hiểu là thông thường sẽ có một nghĩa cơ bản, cụ thể và sau đó từ đó có một số nghĩa ẩn dụ.
 
-И это не просто побочный вопрос в человеческом языке. Человеческий язык, когда он обсуждает абстракции, использует слова, основанные на конкретных, физических метафорах. И мы можем иногда забывать эти конкретные, физические метафоры, но они всегда там.
+Và đây không chỉ là một vấn đề phụ với ngôn ngữ con người. Ngôn ngữ con người, bất cứ khi nào thảo luận về sự trừu tượng, đều sử dụng những từ dựa trên các ẩn dụ cụ thể, vật lý. Và đôi khi chúng ta có thể quên những ẩn dụ cụ thể, vật lý này, nhưng chúng luôn ở đó.
 
-Даже когда мы говорим о времени, мы должны говорить о нём в терминах пространства. Мы говорим о времени, <code>идущем вперёд</code> или <code>идущем назад</code>. Мы говорим о <code>линии</code> времени — линия — это сущность, которая существует в пространстве.
+Ngay cả khi chúng ta nói về thời gian, chúng ta phải nói về nó theo thuật ngữ không gian. Chúng ta nói về thời gian <code>tiến về phía trước</code> hoặc <code>lùi về phía sau</code>. Chúng ta nói về một <code>đường</code> thời gian — một đường là một thực thể tồn tại trong không gian.
 
-Мы не можем на самом деле обсуждать время, не обсуждая его в терминах пространства. И это продолжается со всеми другими абстракциями в человеческих языках.
+Chúng ta thực sự không thể thảo luận về thời gian mà không thảo luận về nó theo thuật ngữ không gian. Và điều này tiếp tục với tất cả các khái niệm trừu tượng khác trong ngôn ngữ con người.
 
-Слово <code>focus</code> (фокус) изначально означало <code>hearth</code> (очаг). Люди сидели вокруг очага, и это было в центре, в фокусе их деятельности. И из этой физической метафоры происходят все расширенные и абстрактные значения слова <code>focus</code>.
+Từ <code>focus</code> ban đầu có nghĩa là <code>lò sưởi</code>. Mọi người thường ngồi quanh lửa lò sưởi và đó sẽ là trung tâm, tâm điểm của hoạt động của họ. Và từ ẩn dụ vật lý đó đến tất cả các nghĩa mở rộng và trừu tượng của từ <code>focus</code>.
 
-Слово <code>stimulus</code> (стимул) изначально означало <code>ox-goad</code> (погонялка для быков), заострённую палку, которой погоняли быков. И от этого происходят все абстрактные значения <code>stimulus</code>. <code>Politics</code> (политика) происходит от слова, которое просто означает <code>city</code> (город).
+Từ <code>stimulus</code> ban đầu có nghĩa là <code>gậy thúc bò</code>, một cây gậy nhọn mà bạn sẽ dùng để dẫn dắt bò. Và từ đó đến tất cả các nghĩa trừu tượng của <code>stimulus</code>. <code>Politics</code> đến từ một từ đơn giản có nghĩa là <code>thành phố</code>.
 
-<code>Economics</code> (экономика) происходит от слова, которое просто означает <code>house</code> (дом). Нам не нужно знать физические метафоры, на которых основаны подобные слова, но когда мы сталкиваемся со словами в японском, которые, кажется, имеют разные и противоречивые значения, нам действительно нужно понять базовую метафору, чтобы уловить другие значения, не изучая их как длинный список, казалось бы, случайных вещей.
+<code>Economics</code> đến từ một từ đơn giản có nghĩa là <code>nhà</code>. Bây giờ, chúng ta không cần biết các ẩn dụ vật lý mà những từ như thế này dựa trên, nhưng khi chúng ta gặp những từ trong tiếng Nhật dường như có nghĩa khác nhau và mâu thuẫn, chúng ta cần hiểu ẩn dụ cơ bản để nắm bắt các nghĩa khác mà không cần học chúng như một danh sách giặt dài những thứ dường như ngẫu nhiên.
 
-Итак, если мы видим слово <code>切る</code> в словаре — что означает <code>cut</code> (резать) — мы видим множество значений для него, таких как <code>ending a conversation</code> (завершение разговора), <code>severing a relationship</code> (разрыв отношений), <code>crossing a field</code> (пересечение поля).
+Vì vậy, nếu chúng ta thấy từ <code>切る</code> trong từ điển — có nghĩa là <code>cắt</code> — chúng ta thấy rất nhiều nghĩa cho nó như <code>kết thúc cuộc trò chuyện</code>, <code>cắt đứt mối quan hệ</code>, <code>băng qua cánh đồng</code>.
 
 ![](../media/image643.webp)
 
-И все они происходят от базового значения <code>cut</code>. Даже в английском мы говорим о <code>cutting across a field</code> (пересечении поля). Это достаточно легко, если мы понимаем принцип, со словом вроде <code>cut</code>, где у нас есть очень определённый, чёткий (если можно так выразиться) эквивалент в английском.
+Và tất cả những điều này chỉ đến từ nghĩa cơ bản của <code>cắt</code>. Ngay cả trong tiếng Anh chúng ta nói về <code>cutting across a field</code>. Bây giờ, điều đó đủ dễ, miễn là chúng ta hiểu nguyên tắc, với một từ như <code>cut</code>, nơi chúng ta có một từ tương đương rất rõ ràng, rành mạch (nếu tôi có thể nói như vậy) trong tiếng Anh.
 
-Но когда мы сталкиваемся со словами, у которых нет точного английского эквивалента, это может стать немного сложнее, если мы не понимаем, что они означают. И одно из таких слов, которое мы будем видеть повсюду в японском, это слово <code>込む</code>.
+Nhưng khi chúng ta đến với những từ không có từ tương đương chính xác trong tiếng Anh, nó có thể trở nên khó hơn một chút trừ khi chúng ta hiểu chúng có nghĩa gì. Và một trong những từ đó, mà chúng ta sẽ thấy ở khắp mọi nơi trong tiếng Nhật, là từ <code>込む</code>.
 
 ## 込む
 
-Итак, <code>込む</code> не имеет точного значения в английском, но мы можем понять, что оно означает, взглянув на кандзи. Кандзи — это, по сути, кандзи от <code>入る / 入る / 入れる</code> — <code>входить</code> или <code>вставлять</code> — и это на <code>дороге</code>.
+Bây giờ, <code>込む</code> không có nghĩa chính xác trong tiếng Anh, nhưng chúng ta có thể thấy nó có nghĩa gì bằng cách nhìn vào kanji. Kanji về cơ bản là kanji của <code>入る / 入る / 入れる</code> — <code>đi vào</code> hoặc <code>đặt vào</code> — và đó là trên một <code>con đường</code>.
 
-![](../media/image349.webp)
+![](../media/image347.webp)
 
-Это дорога, которую некоторые называют <code>водной горкой</code>. Я всегда вижу её как <code>скоростную дорогу</code>, и это именно то, что здесь происходит.
+Đó là một con đường mà một số người gọi là <code>cầu trượt nước</code>. Tôi luôn thấy nó như một <code>con đường nhanh</code> và đó chính xác là những gì đang diễn ra ở đây.
 
-Это «впихивать на водной горке / впихивать на роликовых коньках / впихивать в больших количествах / впихивать быстро / впихивать энергично». Вот что означает <code>込む</code>.
+Nó là "đặt vào trên cầu trượt nước / đặt vào trên giày trượt patin / nhồi nhét vào với số lượng lớn / đặt vào một cách nhanh chóng / đặt vào một cách mạnh mẽ". Đó là những gì <code>込む</code> có nghĩa.
 
-Итак, мы можем встретить его прежде всего в очень простых, конкретных значениях, таких как <code>込んでいる</code>, состояние <code>込む</code>, и это означает <code>переполненный</code>: много людей, втиснутых в одно и то же пространство, переполненный. Теперь оно может иметь более абстрактные значения, такие как <code>сложный</code>, что, по сути, то же самое: много идей, много концепций, втиснутых в одно и то же ментальное пространство, это и есть сложность.
+Bây giờ, chúng ta có thể gặp nó đầu tiên trong những nghĩa rất đơn giản, cụ thể như <code>込んでいる</code>, trạng thái của việc <code>込む</code>, và điều đó có nghĩa là <code>đông đúc</code>: rất nhiều người bị nhồi nhét vào cùng một không gian, đông đúc. Bây giờ, nó có thể có những nghĩa trừu tượng hơn như <code>phức tạp</code>, về cơ bản là giống nhau: rất nhiều ý tưởng, rất nhiều khái niệm, bị nhồi nhét vào cùng một không gian tinh thần, đó là một sự phức tạp.
 
 ### 飛び込む
 
-А затем оно присоединяется как вспомогательный глагол к い-основе других глаголов. Так, у нас есть <code>飛び込む</code>, что означает <code>впрыгивать</code>.
+Và sau đó nó trở thành động từ phụ trợ gắn vào i-stem của các động từ khác. Vì vậy chúng ta có <code>飛び込む</code>, có nghĩa là <code>nhảy vào</code>.
 
 ![](../media/image752.webp)
 
-Это может означать буквально прыгнуть в воду или что-то в этом роде, но это также может означать энергично впрыгнуть в разговор, ситуацию или любое другое метафорическое использование <code>впрыгивания</code>.
+Nó có thể có nghĩa đen là nhảy xuống nước hoặc gì đó, nhưng nó cũng có thể có nghĩa là nhảy mạnh mẽ vào một cuộc trò chuyện, một tình huống, hoặc bất kỳ cách sử dụng ẩn dụ nào khác của <code>nhảy vào</code>.
 
 ### 黙り込む
 
-Оно может стать более абстрактным, с такими понятиями, как <code>黙り込む</code>. <code>黙る</code> означает <code>молчать</code>. <code>黙り込む</code> означает <code>молчать</code> о чём-то / <code>замкнуться</code> о чём-то, другими словами, молчать и держать всё 込む-нутым внутри себя, ничего не выпуская наружу.
+Nó có thể trở nên trừu tượng hơn, với các khái niệm như <code>黙り込む</code>. <code>黙る</code> có nghĩa là <code>im lặng</code>. <code>黙り込む</code> có nghĩa là <code>im lặng</code> về điều gì đó / <code>câm miệng</code> về điều gì đó, nói cách khác, im lặng và giữ mọi thứ 込む-ed bên trong bản thân, không để bất cứ thứ gì ra ngoài.
 
 ### 読み込む
 
-Итак, слово <code>読み込む</code> — это то, что вы часто будете видеть, если ваш компьютер или планшет или что-то ещё на японском. (А если нет, то почему бы и нет?) Вы часто будете видеть слово <code>読み込み中</code>.
+Bây giờ, từ <code>読み込む</code> là một từ mà bạn sẽ thấy thường xuyên nếu bạn có máy tính hoặc máy tính bảng hoặc bất cứ thứ gì bằng tiếng Nhật. (Và nếu bạn chưa có, tại sao không?) Bạn sẽ thường thấy từ này xuất hiện <code>読み込み中</code>.
 
-Итак, <code>-中</code> означает <code>в процессе</code>. Буквально это означает <code>в середине</code> — ещё одна метафора, потому что буквально это означает <code>середина</code> или <code>центр</code> или <code>внутри</code>. Но в этом случае, когда оно присоединяется к глаголу таким образом, <code>中</code> означает <code>в процессе</code>.
+Bây giờ, <code>-中</code> có nghĩa là <code>trong quá trình</code>. Nó có nghĩa đen là <code>ở giữa</code> — một ẩn dụ khác, vì theo nghĩa đen nó có nghĩa là <code>giữa</code> hoặc <code>trung tâm</code> hoặc <code>bên trong</code>. Nhưng trong trường hợp này, khi nó được gắn vào một động từ như thế này, <code>中</code> có nghĩa là <code>trong quá trình</code>.
 
-Как мы могли бы сказать по-английски, <code>in the middle of doing something</code> (в процессе выполнения чего-либо). <code>読み込み中</code> означает <code>находиться в процессе 読み込む-инга</code>, и <code>読み込む</code> здесь означает <code>загрузка</code>.
+Như chúng ta có thể nói trong tiếng Anh, <code>ở giữa việc làm gì đó</code>. <code>読み込み中</code> là <code>đang trong quá trình 読み込む-ing</code>, và <code>読み込む</code> ở đây có nghĩa là <code>tải</code>.
 
-Это означает <code>читать и впихивать</code>: читать данные и помещать их в память. Но это слово имеет различные другие значения, и хотя они отличаются, все они основаны на одной и той же фундаментальной метафоре.
+Nó có nghĩa là <code>đọc và nhồi nhét vào</code>: đọc dữ liệu và đưa nó vào bộ nhớ. Nhưng từ này có nhiều nghĩa khác, và mặc dù chúng khác nhau, tất cả đều dựa trên cùng một ẩn dụ cơ bản.
 
-Так, <code>読み込む</code> может означать читать что-то несколько раз, читать это тщательно. <code>込む</code> может означать делать что-то многократно, потому что это снова впихивание итераций выполнения, впихивание повторений, можно сказать. Но это может означать тщательное чтение, это может означать многократное чтение, в любом случае это означает впихивание предмета изучения в ваш разум.
+Vì vậy <code>読み込む</code> có thể có nghĩa là đọc gì đó nhiều lần, đọc nó một cách kỹ lưỡng. <code>込む</code> có thể có nghĩa là làm gì đó lặp đi lặp lại, bởi vì một lần nữa nó đang nhồi nhét các lần lặp lại việc làm điều đó, nhồi nhét các lần lặp, bạn có thể nói. Nhưng nó có thể có nghĩa là đọc kỹ lưỡng, nó có thể có nghĩa là đọc lặp đi lặp lại, trong mọi trường hợp nó có nghĩa là nhồi nhét chủ đề vào tâm trí của bạn.
 
-И опять же, <code>読み込む</code> может означать вчитывать что-то во что-то: кто-то что-то говорит или вы видите текст, и вы вкладываете дополнительный смысл, который, как вы считаете, там есть. И очень часто это так. Тексты могут иметь подтекст.
+Và một lần nữa, <code>読み込む</code> có thể có nghĩa là đọc gì đó vào trong gì đó: ai đó nói gì đó hoặc bạn thấy một văn bản, và bạn đưa vào nghĩa thêm mà bạn tin là có ở đó. Và rất thường thì nó có. Văn bản có thể có những hàm ý.
 
-Вчитывать что-то во что-то снова может быть <code>読み込む</code>. И опять же, это очень очевидное и естественное использование метафоры.
+Đọc gì đó vào trong gì đó một lần nữa có thể là <code>読み込む</code>. Và một lần nữa đó là một cách sử dụng rất rõ ràng và tự nhiên của ẩn dụ.
 
-И ещё раз, <code>読み込む</code> может означать чтение поэзии или чего-то с чувством, с эмоцией. Вы не просто читаете это; вы что-то вкладываете в это, вы вкладываете эмоции, вы наполняете это чем-то, эмоциями, чувствами, выражением.
+Và một lần nữa, <code>読み込む</code> có thể có nghĩa là đọc thơ hoặc gì đó với cảm xúc, với tình cảm. Bạn không chỉ đọc nó; bạn đang đưa gì đó vào nó, bạn đang đưa vào cảm xúc, bạn đang nhồi nhét nó với gì đó, với cảm xúc, với cảm giác, với sự biểu đạt.
 
-Итак, все эти значения <code>読み込む</code> различны, и всё же все они, по сути, соответствуют одной и той же метафоре: читать и что-то впихивать.
+Vì vậy, tất cả những nghĩa này của <code>読み込む</code> đều khác nhau và tuy nhiên tất cả chúng về cơ bản đều tuân theo cùng một ẩn dụ: đọc và nhồi nhét gì đó vào.
 
 ### 思い込む
 
-Итак, ещё один распространённый составной глагол с <code>込む</code> — это <code>思い込む</code>. Самое распространённое его использование, я бы сказала, это <code>быть под впечатлением / быть убеждённым в</code> чём-то, обычно в том, что оказывается неправдой, но это не обязательно так.
+Bây giờ, một động từ ghép phổ biến khác với <code>込む</code> là <code>思い込む</code>. Bây giờ, cách sử dụng phổ biến nhất của nó, tôi sẽ nói, là <code>có ấn tượng / bị thuyết phục</code> về điều gì đó, thường là điều gì đó hóa ra không đúng, nhưng điều đó không nhất thiết phải như vậy.
 
-Итак, <code>思い</code> — это <code>мысль</code>, а <code>込む</code> — это <code>впихивание</code>, так что у вас есть эта мысль, втиснутая, или этот набор мыслей, втиснутых в ваш разум. Независимо от того, правдивы они или нет, они там, они засели в вашем разуме.
+Vì vậy, <code>思い</code> là <code>suy nghĩ</code> và <code>込む</code> là <code>nhồi nhét vào</code>, vì vậy bạn có suy nghĩ này được nhồi nhét vào, hoặc tập hợp suy nghĩ này được nhồi nhét vào tâm trí của bạn. Dù chúng có đúng hay không, chúng ở đó, chúng được cắm vào tâm trí của bạn.
 
-И, что интересно, в старом английском люди иногда говорили о том, чтобы <code>cramming</code> (впихивать) кого-то, имея в виду набивать их неправильными идеями, давать им ложные впечатления, впихивать в их разум определённый набор идей, которые, как правило, не были бы правильными, по крайней мере, по мнению говорящего.
+Và, thú vị thay, trong tiếng Anh cũ, mọi người đôi khi thường nói về <code>cramming</code> ai đó, có nghĩa là lấp đầy họ với những ý tưởng sai lầm, cho họ những ấn tượng sai lệch, nhồi nhét vào tâm trí họ một tập hợp ý tưởng cụ thể mà nói chung sẽ không đúng, ít nhất là theo ý kiến của người nói.
 
-Так что <code>思い込む</code> в этом смысле обычно означает иметь сильное впечатление, сильное убеждение, сильное представление о том, что что-то имеет место, что, вероятно, на самом деле не так.
+Vì vậy <code>思い込む</code> theo nghĩa đó thường có nghĩa là có một ấn tượng mạnh mẽ, một niềm tin mạnh mẽ, một quan niệm mạnh mẽ rằng điều gì đó là trường hợp mà có lẽ thực tế không phải vậy.
 
-Но <code>思い込む</code> может означать и другие вещи. Это может означать <code>быть влюблённым</code>, и это может означать <code>всем сердцем желать</code> чего-то. И чтобы понять это, нам нужно знать немного больше о слове <code>思い</code>, которое, как я указывала в конце другого видео, не обязательно означает только <code>мысль</code> или <code>чувство</code>.
+Nhưng <code>思い込む</code> cũng có thể có nghĩa khác. Nó có thể có nghĩa là <code>yêu</code> và nó có thể có nghĩa là <code>đặt tâm huyết</code> vào điều gì đó. Và để hiểu điều đó, chúng ta cần biết thêm một chút về từ <code>思い</code>, mà như tôi đã chỉ ra cuối một video khác, không nhất thiết chỉ có nghĩa là <code>suy nghĩ</code> hoặc <code>cảm giác</code>.
 
-Оно также может означать <code>любовь</code> или <code>желание</code>. Так, например, слово <code>片思い</code> означает <code>односторонняя любовь</code>. <code>片</code> обычно означает <code>сторона</code> или <code>направление</code>, а <code>片思い</code> — это <code>односторонняя или однонаправленная любовь / неразделённая любовь</code>.
+Nó cũng có thể có nghĩa là <code>tình yêu</code> hoặc <code>khao khát</code>. Vì vậy, ví dụ, từ <code>片思い</code> có nghĩa là <code>tình yêu một chiều</code>. <code>片</code> nói chung có nghĩa là <code>bên</code> hoặc <code>hướng</code> và <code>片思い</code> là <code>tình yêu một bên hoặc một hướng / tình yêu không được đáp lại</code>.
 
-Так что <code>思い</code> здесь используется в значении <code>любовь / привязанность / желание</code>. Таким образом, <code>思い込む</code> может означать <code>быть влюблённым</code>. Оно также может означать <code>всем сердцем желать чего-то</code>, и это не обязательно означает любить человека.
+Vì vậy <code>思い</code> ở đó được sử dụng theo nghĩa của <code>tình yêu / tình cảm / khao khát</code>. Vì vậy <code>思い込む</code> có thể có nghĩa là <code>yêu</code>. Nó cũng có thể có nghĩa là <code>đặt tâm huyết vào điều gì đó</code>, và điều đó không nhất thiết có nghĩa là yêu một người.
 
-Это может означать всем сердцем желать пойти на пикник или что угодно. Суть здесь в том, что <code>思い</code> в смысле желания и любви втиснуто в одно.
-Это не просто мимолётная прихоть, это то, к чему стремится всё ваше сердце, что-то <code>впихнутое</code>.
+Nó có thể có nghĩa là đặt tâm huyết vào việc đi dã ngoại, hoặc bất cứ thứ gì. Điểm ở đây là <code>思い</code> theo nghĩa của khao khát và tình yêu được nhồi nhét vào một người.
+Nó không chỉ là một ý thích thoáng qua, nó là điều mà cả trái tim một người đặt vào,
+điều gì đó <code>được nhồi nhét vào</code>.
 
 ---
 
-Мы столкнёмся и с несколькими другими значениями <code>込む</code>, особенно когда оно используется, как это очень часто бывает, в качестве вспомогательного глагола, присоединяемого к い-основе другого глагола. Но как только мы поймём этот момент, что это связано с впихиванием, с наполнением, с тщательностью, полнотой или с запиранием, тогда мы сможем понять, как будут работать эти другие слова, когда мы их услышим.
+Chúng ta cũng sẽ gặp một vài nghĩa khác của <code>込む</code>, đặc biệt là khi nó được sử dụng,
+như nó rất thường xuyên, như một động từ phụ trợ được đặt vào い-stem của động từ khác. Nhưng một khi chúng ta hiểu điểm này, rằng nó liên quan đến việc nhồi nhét, rằng nó liên quan đến việc lấp đầy, rằng nó liên quan đến sự kỹ lưỡng, hoàn chỉnh, hoặc với việc khóa lại, thì chúng ta có thể hiểu những từ khác này sẽ hoạt động như thế nào khi chúng ta nghe chúng.
 
 ::: info
-есть один интересный* [**комментарий**](https://www.youtube.com/watch?v=31xnxSFUCiw&lc=Ugx7rl5ZlBI3QADLH3R4AaABAg&ab_channel=OrganicJapanesewithCureDolly)*. Жаль, что мы не можем услышать мысли Долли по этому поводу :{
+có một [**bình luận**](https://www.youtube.com/watch?v=31xnxSFUCiw&lc=Ugx7rl5ZlBI3QADLH3R4AaABAg&ab_channel=OrganicJapanesewithCureDolly) thú vị này*. Tiếc là chúng ta không thể nghe suy nghĩ của Dolly về nó :{
 :::

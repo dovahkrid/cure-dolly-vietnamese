@@ -1,159 +1,159 @@
-# **10. Вспомогательные глаголы и потенциальный вспомогательный глагол**
+# **10. Động từ trợ giúp & động từ trợ giúp tiềm năng**
 
-[**Урок 10: Миф о «спряжении японских глаголов» развенчан! А также секрет потенциальной формы глагола раскрыт**](https://www.youtube.com/watch?v=qcOhHmU0znI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12)
+[**Bài 10: <code>Chia động từ tiếng Nhật</code> - phá tan huyền thoại! Cũng như mở khóa bí mật của dạng động từ tiềm năng**](https://www.youtube.com/watch?v=qcOhHmU0znI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12)
 
 こんにちは。
 
-Сегодня мы поговорим об основных вспомогательных глаголах и о потенциальной форме. **Когда я говорю <code>основные вспомогательные глаголы</code>, я имею в виду то, что стандартные западные описания японской грамматики называют <code>спряжением</code>.** И я упоминаю это слово только потому, что не хочу, чтобы вы запутались, если увидите упоминание <code>спряжения</code> где-то ещё.
+Hôm nay chúng ta sẽ nói về các động từ trợ giúp chính và về dạng tiềm năng. **Khi tôi nói <code>các động từ trợ giúp chính</code>, tôi đang đề cập đến những gì mà các mô tả ngữ pháp tiếng Nhật phương Tây tiêu chuẩn gọi là <code>chia động từ</code>.** Và tôi chỉ đề cập đến từ này vì tôi không muốn bạn bị nhầm lẫn nếu thấy <code>chia động từ</code> được nhắc đến ở nơi khác.
 
-Когда они говорят о <code>спряжении</code>, они имеют в виду именно это. **Но на самом деле в японском языке нет такого понятия, как спряжение.** **Всё, что мы когда-либо делаем, это добавляем вспомогательные слова к четырём основам глаголов.** И есть много вспомогательных слов, и большинство из них — это просто вопрос дополнительного словарного запаса, если вы не воспринимаете их как спряжение.
+Khi họ nói về <code>chia động từ</code>, đây là điều họ muốn nói. **Nhưng thực tế không có thứ gì gọi là chia động từ trong tiếng Nhật.** **Tất cả những gì chúng ta làm là thêm các từ trợ giúp vào bốn gốc động từ.** Và có rất nhiều từ trợ giúp và hầu hết chúng chỉ là vấn đề từ vựng bổ sung miễn là bạn không nghĩ về chúng như là chia động từ.
 
 ![](../media/image942.webp)
 
-В одних случаях их называют <code>спряжением</code>, в других — нет, а процесс каждый раз абсолютно одинаков. Единственная разница в том, что некоторые из них случайно, и лишь очень смутно, напоминают европейское спряжение, а другие — нет. Всевозможные путаницы возникают из-за смешения японских вспомогательных глаголов и вспомогательных прилагательных со спряжениями, но поскольку мы не будем их использовать, нам не нужно об этом беспокоиться. Хорошо.
+Trong một số trường hợp chúng được gọi là <code>chia động từ</code>, trong các trường hợp khác thì không, và chúng hoàn toàn là cùng một quá trình mỗi lần. Sự khác biệt duy nhất là một số trong số chúng tình cờ, và chỉ rất mơ hồ, giống với chia động từ châu Âu còn những cái khác thì không. Tất cả các loại nhầm lẫn phát sinh từ việc nhầm lẫn các động từ trợ giúp và tính từ trợ giúp tiếng Nhật với chia động từ, nhưng vì chúng ta sẽ không sử dụng chúng, nên chúng ta không cần phải lo lắng về điều đó ở đây. Được rồi.
 
-## Потенциальный вспомогательный глагол
+## Động từ trợ giúp tiềm năng
 
-Итак, первый основной вспомогательный глагол, который мы рассмотрим, — это потенциальный глагол. Мы ведь уже рассматривали вспомогательные слова, не так ли? Мы рассматривали вспомогательные прилагательные <code>ない</code>, которое образует отрицание, и <code>たい</code>, которое используется для выражения желательности действия.
+Vậy, động từ trợ giúp chính đầu tiên mà chúng ta sẽ xem xét là động từ tiềm năng. Bây giờ, chúng ta đã xem xét, phải không, các từ trợ giúp. Chúng ta đã xem xét các tính từ trợ giúp <code>ない</code>, tạo thành phủ định, và <code>たい</code>, được sử dụng cho sự mong muốn của một hành động.
 
 ![](../media/image314.webp)
 
-Мы также рассматривали вспомогательный глагол <code>がる</code>, который присоединяется к прилагательному. **Теперь мы рассмотрим потенциальный вспомогательный глагол, и он присоединяется к え-основе.**
+Chúng ta cũng đã xem xét động từ trợ giúp <code>がる</code>, được gắn vào một tính từ. **Bây giờ chúng ta sẽ xem xét động từ trợ giúp tiềm năng, và nó gắn vào gốc え.**
 
 ![](../media/image973.webp)
 
-**Мы не так много делаем с え-основой**, как с あ- и い-основами, но кое-что делаем. И только одно из них — глагол, так что здесь нет места для путаницы. **Потенциальный вспомогательный глагол имеет две формы: <code>る</code> и <code>られる</code>.**
+**Không có nhiều thứ chúng ta làm với gốc え** như chúng ta làm với gốc あ và い, nhưng có một số. Và chỉ có một trong số chúng là động từ, vì vậy không có chỗ cho sự nhầm lẫn ở đây. **Động từ trợ giúp tiềm năng có hai dạng, và chúng là <code>-る</code> và <code>-られる</code>.**
 
-Людей может немного смущать **форма вспомогательного глагола для глаголов первого спряжения**, потому что это **всего лишь один знак, る(ru).** Но это не должно вас беспокоить, и поскольку он всегда присоединяется только к え-основе, не может использоваться сам по себе, его очень, очень легко распознать.
+Mọi người có thể hơi bối rối bởi **dạng godan của động từ trợ giúp** vì nó **chỉ là một ký tự, る(ru).** Nhưng điều đó không nên làm bạn lo lắng chút nào, và vì nó chỉ đi vào gốc え, không thể được sử dụng một mình, nó rất rất dễ nhận ra.
 
-**<code>られる</code> — это форма потенциального вспомогательного глагола, которая присоединяется к глаголам второго спряжения** — а мы ведь уже обсуждали глаголы первого и второго спряжения, не так ли? Итак, <code>かう</code> (покупать) становится <code>かえる</code> (можно купить); <code>きく</code> (слышать) становится <code>きける</code> (можно слышать); <code>はなす</code> (говорить) становится <code>はなせる</code> (можно говорить); <code>もつ</code> (держать) становится <code>もてる</code> (можно держать) и так далее.
+**<code>-られる</code> là dạng của động từ trợ giúp tiềm năng đi vào các động từ ichidan** – và chúng ta đã thảo luận về động từ godan và ichidan trước đây, phải không? Vậy, <code>かう</code> (mua) trở thành <code>かえる</code> (có thể mua); <code>きく</code> (nghe) trở thành <code>きける</code> (có thể nghe); <code>はなす</code> (nói) trở thành <code>はなせる</code> (có thể nói); <code>もつ</code> (cầm) trở thành <code>もてる</code> (có thể cầm) và vân vân.
 
 ::: info
-измените на え-основу, а затем потенциальную форму первого спряжения る. Также обратите внимание на это…
+chuyển sang gốc え và sau đó là dạng tiềm năng godan る. Cũng lưu ý điều này...
 
 ![](../media/image588.webp)
 
 ![](../media/image824.webp)
 
-**Есть некоторые различия в их значении, Долли проясняет их далее в УРОКЕ 54.
-Долли, ПОХОЖЕ, делает здесь ошибку, называя 聞こえる other-move, но это должно быть self-move, как она подразумевает в начале комментария (+по сравнению с другими источниками, такими как Imabi).**
+**Có một số khác biệt trong ý nghĩa của chúng, Dolly làm rõ chúng thêm trong BÀI 54.  
+Dolly DẺ NHƯ mắc lỗi ở đây khi gọi 聞こえる là other-move, nhưng nó nên là self-move như cô ấy ngụ ý ở đầu bình luận (+so với các nguồn khác như Imabi).**
 :::
 
-**А с <code>たべる</code>, который является глаголом второго спряжения**, мы делаем то, что всегда делаем: **просто убираем る и добавляем то, что собираемся добавить.** Так, <code>たべる</code> (есть) становится <code>たべられる</code> (можно есть). Так что это очень просто, не так ли?
+**Và với <code>たべる</code>, là một động từ ichidan**, chúng ta làm những gì chúng ta luôn làm, **đơn giản là bỏ -る và thêm bất cứ thứ gì chúng ta sẽ thêm vào.** Vậy <code>たべる</code> (ăn) trở thành <code>たべられる</code> (có thể ăn). Vậy điều này rất đơn giản, phải không?
 
-**Есть только два исключения из этого образования потенциальной формы, и это два японских неправильных глагола: <code>くる</code> и <code>する</code>.** <code>くる</code> становится <code>こられる</code>, а <code>する</code> удивительным образом становится <code>できる</code>. **<code>できる</code> — это потенциальная форма глагола <code>する</code>.**
+**Chỉ có hai ngoại lệ đối với việc tạo thành dạng tiềm năng này và chúng là hai động từ bất quy tắc tiếng Nhật, <code>くる</code> và <code>する</code>.** <code>くる</code> trở thành <code>**こ**られる</code>, nhưng <code>する</code> một cách đáng ngạc nhiên trở thành <code>**できる**</code>. **できる là dạng tiềm năng của <code>する</code>.**
 
 ![](../media/image1089.webp)
 
-И **это интересное слово, потому что оно также означает <code>выходить</code>** — буквально оно состоит из кандзи <code>выход</code> и <code>приходить</code> — <code>出来る/できる</code>, 出る (выходить) 来る (приходить)
+Và **đây là một từ thú vị vì nó cũng có nghĩa là <code>ra ngoài</code>** – theo nghĩa đen nó được tạo thành từ kanji <code>ra</code> và <code>đến</code> – <code>出来る/できる</code>, 出る (thoát ra) 来る (đến)
 
 ![](../media/image656.webp)
 
-И если мы говорим <code>にほんごができる</code>, мы не говорим <code>Я могу говорить по-японски</code>, мы говорим <code>Японский **возможен**</code> / ***<code>делает возможным</code>***
+Và nếu chúng ta nói <code>にほんごが**できる**</code>, chúng ta không nói <code>Tôi có thể làm tiếng Nhật</code>, chúng ta đang nói <code>Tiếng Nhật **là có thể**</code> / ***<code>làm</code> có thể***
 
 ![](../media/image1136.webp)
 
-И если мы говорим или подразумеваем <code>わたしはにほんごができる</code>, мы говорим: <code>Для меня японский **возможен**</code>.
+Và nếu chúng ta nói hoặc ngụ ý <code>わたしはにほんごが**できる**</code>, chúng ta đang nói, <code>Đối với tôi, tiếng Nhật **là có thể**</code>.
 
 :::info
-*(Долли даёт <code>делает возможным</code>, чтобы показать, что это А делает Б; а не А есть Б)*
+*(Dolly đưa ra <code>làm có thể</code> để ngụ ý đó là A làm B; không phải A là B)*
 :::
 
-И интересно, если вы видите маленького ребёнка, который, возможно, пытается что-то сделать из бумаги, она может сказать: <code>Я очень стараюсь, но ничего не получается</code> — и это как раз то, как <code>できる</code> используется в японском, не так ли? И есть несколько интересных способов использования <code>できる</code>, которые показывают, как идея чего-то возможного и чего-то получающегося тесно связаны в японском языке. Но мы не будем говорить об этом сейчас — это немного более продвинуто.
+Và thật thú vị nếu bạn thấy một đứa trẻ có lẽ đang cố gắng làm thứ gì đó từ giấy, nó có thể nói, <code>Con đang cố gắng rất chăm chỉ, nhưng nó sẽ không ra đúng</code> – và đây chính là cách できる được sử dụng trong tiếng Nhật, phải không? Và có một số cách thú vị mà できる được sử dụng cho thấy ý tưởng về việc gì đó có thể và việc gì đó ra ngoài được liên kết chặt chẽ như thế nào trong tiếng Nhật. Nhưng chúng ta sẽ không nói về điều đó bây giờ – điều đó hơi nâng cao một chút.
 
-Есть только одна опасная область с потенциальной формой, и она очень, очень близка к тому, с чем мы имели дело на прошлой неделе<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup>. Так что, если вы видели тот урок, этот должен быть для вас очень лёгким. Давайте посмотрим на типичное предложение: <code>ほんがよめる</code>.
+Chỉ có một khu vực nguy hiểm với dạng tiềm năng, và nó rất rất gần với thứ chúng ta đã xử lý tuần trước<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup>. Vậy nếu bạn đã xem bài học đó, bài này sẽ rất dễ dàng với bạn. Hãy xem một câu điển hình: <code>ほんがよめる.</code>
 
 ![](../media/image950.webp)
 
-Стандартные тексты обычно переводят это как <code>Я могу читать книгу</code>. **Но это не то, что это означает**, как вы можете ясно понять, если следили за нашим предыдущим уроком. Посмотрите, где находится が. Что が отмечает? **Оно отмечает книгу!** Так кто же является действующим лицом этого предложения? **Это книга.**
+Bây giờ, các sách giáo khoa tiêu chuẩn thường dịch điều này là <code>Tôi có thể đọc cuốn sách</code>. **Nhưng đó không phải là ý nghĩa của nó**, như bạn có thể hiểu rõ nếu bạn đã theo dõi bài học trước của chúng ta. Hãy xem が ở đâu. が đang đánh dấu cái gì? **Nó đang đánh dấu cuốn sách!** Vậy ai là tác nhân của câu này? **Đó là cuốn sách.**
 
 ![](../media/image177.webp)
 
-Мы говорим что-то о книге. **Так что книга — это главный вагон, а <code>よめる</code> — это локомотив.** Мы говорим, что **книга читаема, её можно прочитать.**
+Chúng ta đang nói điều gì đó về cuốn sách. **Vậy cuốn sách là toa chính và <code>よめる</code> là động cơ.** Chúng ta đang nói **cuốn sách có thể đọc được, có thể đọc cuốn sách.**
 
 ---
 
-Если мы добавим <code>わたしは</code>, мы говорим, что книга читаема <code>для меня</code>. Буквально мы говорим: <code>В отношении меня, книга читаема</code>. **Но это не может означать <code>Я могу читать книгу</code>.** Если бы мы хотели сказать <code>Я могу читать книгу</code>, книга должна была бы быть отмечена を, не так ли? А я должен был бы быть отмечен が. И на самом деле это возможно сделать, **но это не то, что обычно делается.**
+Nếu chúng ta thêm <code>わたしは</code>, chúng ta đang nói cuốn sách có thể đọc được <code>đối với tôi</code>. Điều chúng ta thực sự đang nói là, <code>Liên quan đến tôi, cuốn sách có thể đọc được</code>. **Nhưng điều này không và không thể có nghĩa là, <code>Tôi có thể đọc cuốn sách</code>.** Nếu chúng ta muốn nói <code>Tôi có thể đọc cuốn sách</code>, cuốn sách sẽ phải được đánh dấu bằng を, phải không? Và tôi sẽ phải được đánh dấu bằng が. Và thực tế có thể làm điều này, **nhưng đó không phải là điều thường được làm.**
 
-Но также помните, что если мы хотим сделать акцент на эго, как это принято в английском, то нам придётся изменить частицы. Если мы буквально хотим сказать: <code>**Я** могу читать книгу</code> — <code>**わたしが**ほんをよめる</code>.
+Nhưng cũng hãy nhớ rằng nếu chúng ta muốn nhấn mạnh vào cái tôi, theo cách mà tiếng Anh muốn, thì chúng ta phải thay đổi các trợ từ. Nếu chúng ta thực sự muốn nói, <code>**Tôi** có thể đọc cuốn sách</code> – <code>**わたしが**ほんをよめる</code>.
 
 ---
 
-Многие люди считают это плохим японским.
+Nhiều người nghĩ đây là tiếng Nhật tồi.
 
 ::: info
-Я полагаю, это не то, как японцы обычно говорят. Это можно назвать <code>англизированным</code> японским, поскольку он ставит акцент на эго в первую очередь, как на подлежащее, что не соответствует их обычному мышлению в Японии.
+Tôi đoán đó không phải là cách người Nhật có xu hướng nói. Nó có thể được gọi là tiếng Nhật <code>Anh hóa</code> vì nó nhấn mạnh vào cái tôi trước tiên, như chủ ngữ, điều này không phải là cách họ có xu hướng suy nghĩ ở Nhật Bản.
 :::
 
-Не наше дело выяснять, плохой это японский или нет. Суть в том, что в большинстве случаев вы увидите <code>**ほんがよめる**</code>, и **<code>(わたしは)ほんがよめる</code> не может буквально означать <code>Я могу читать книгу</code>.** **Это означает <code>Книга читаема</code>.**
+Không phải vị trí của chúng ta để tìm ra xem đó có phải là tiếng Nhật tồi hay không. Điểm mấu chốt là hầu hết thời gian bạn sẽ thấy <code>**ほんがよめる**</code>, và **<code>(わたしは)ほんがよめる</code> không thể có nghĩa đen là <code>Tôi có thể đọc cuốn sách</code>.** **Nó có nghĩa là <code>Cuốn sách có thể đọc được</code>.**
 
 ::: info
-Можно сказать わたしは, чтобы подразумевать, что книга делает читаемым ДЛЯ МЕНЯ — это тема, но обычно это не упоминается.
+Có thể nói わたしは để ngụ ý cuốn sách làm có thể đọc được ĐỐI VỚI TÔI - một chủ đề, nhưng nó thường không được đề cập
 :::
 
-Так что это достаточно просто, и если мы это помним, мы не отправляем все эти частицы в безумную нелогичность.
+Vậy điều đó đủ đơn giản, và miễn là chúng ta nhớ điều đó, chúng ta không đưa tất cả những trợ từ đó vào sự phi logic điên rồ.
 
 ![](../media/image429.webp)
 
-Так что на самом деле это очень похоже на вопросы, которые мы обсуждали на прошлой неделе, касающиеся たい и прилагательных желания. **Если мы просто держим が в уме, всё остальное встанет на свои места.** И точно так же, как с たい-формой, если мы говорим <code>(わたしは)ケーキがたべたい</code>,
+Vậy thực sự điều này rất giống với các câu hỏi chúng ta đã thảo luận tuần trước về -たい và tính từ của sự mong muốn. **Nếu chúng ta chỉ giữ が đó thẳng trong tâm trí, mọi thứ khác sẽ rơi vào đúng chỗ.** Và giống như với dạng たい nếu chúng ta nói, <code>(わたしは)ケーキがたべたい</code>,
 
 ![](../media/image665.webp)
 
-**торт является тем, что вызывает желание** *(лично у меня — тема)*, но если мы просто говорим <code>(わたしは)(zeroが)たべたい</code>, мы действительно имеем в виду <code>(В отношении меня) (Я) хочу есть</code> / *есть-хочу-есть*,
+**đó là chiếc bánh đang gây ra sự muốn** *(đối với tôi cá nhân - chủ đề)*, nhưng nếu chúng ta chỉ nói <code>(わたしは)(zeroが)たべたい</code> chúng ta có nghĩa là <code>(Liên quan đến tôi) (Tôi) muốn ăn</code> / *muốn-ăn-là*,
 
 ![](../media/image785.webp)
 
-**потому что когда нет конкретной еды, которая бы вызывала желание, тогда *я* и есть тот, кто желает.**
+**vì khi không có thức ăn cụ thể nào ở đó để làm việc được muốn, thì tôi làm việc muốn.**
 
 ::: info
 
-Я — подлежащее, которое просто хочет что-то съесть, потому что я голоден; здесь я также являюсь темой.
+Tôi là chủ ngữ chỉ muốn ăn thứ gì đó vì tôi đói; ở đây tôi cũng là chủ đề
 
-Однако, обратите внимание, что еды там нет, поэтому по умолчанию это <code>я</code>. Zeroが (а также zeroは) зависит от контекста ситуации/предложения, говорит Долли…
+Tuy nhiên, lưu ý rằng không có thức ăn nào có mặt ở đó, vì vậy nó mặc định là <code>tôi</code>. Zeroが (và cả zeroは) phụ thuộc vào ngữ cảnh của tình huống/câu, Dolly nói...
 
 ![](../media/image31.webp)
 :::
 
-То же самое и с потенциальной формой. Итак, мы говорим <code>(わたしは)ほんがよめる</code> – <code>(для меня) книга читаема</code>,
+Điều tương tự với dạng tiềm năng. Vậy chúng ta nói, <code>(わたしは)ほんがよめる</code> – <code>(đối với tôi) cuốn sách có thể đọc được</code>,
 
 ![](../media/image315.webp)
 
-но если мы просто хотим сказать <code>Я могу читать</code> — не «Я могу читать книгу или я могу читать газету или я могу читать секретный дневник Сакуры», а <code>Я могу читать</code> — тогда мы говорим <code>わたしがよめる</code> или просто <code>よめる</code>, что означает <code>(zeroが)よめる</code>.
+nhưng nếu chúng ta chỉ muốn nói <code>Tôi có thể đọc</code> – không phải "Tôi có thể đọc cuốn sách hoặc tôi có thể đọc báo hoặc tôi có thể đọc nhật ký bí mật của Sakura", mà <code>Tôi có thể đọc</code> – thì chúng ta nói <code>わたしがよめる</code> hoặc chỉ <code>よめる</code>, có nghĩa là <code>(zeroが)よめる</code>.
 
 ![](../media/image335.webp)
 
-**И мы действительно стали подлежащим предложения.** И я уверен, что есть люди, которые находят это запутанным, но если вы следили за прошлым уроком, это должно быть совершенно ясно.
+**Và chúng ta thực sự đã trở thành chủ ngữ của câu.** Và tôi chắc chắn có những người thấy điều này khó hiểu, nhưng nếu bạn đã theo dõi bài học trước thì điều này hoàn toàn rõ ràng.
 
-И давайте помнить, что японский язык всегда собирается, как Лего,
+Và hãy nhớ rằng tiếng Nhật luôn khớp với nhau giống như Lego,
 
 ![](../media/image625.webp)
 
-поэтому потенциальный вспомогательный глагол, даже когда это всего лишь одна кана る(ru), является просто обычным глаголом второго спряжения, как и большинство вспомогательных глаголов, и мы можем делать с ним абсолютно то же самое, что и с другими вспомогательными глаголами.
+vì vậy động từ trợ giúp tiềm năng, ngay cả khi nó chỉ là kana đơn lẻ る(ru), đơn giản là một động từ ichidan thông thường như hầu hết các động từ trợ giúp, và chúng ta có thể làm chính xác những điều tương tự với nó như chúng ta có thể làm với các động từ trợ giúp khác.
 
 ::: info
-Я полагаю, Долли имеет в виду, что потенциальный вспомогательный глагол работает как глагол второго спряжения, поэтому, если что-то добавляется к потенциальной форме, удалите る, как и с любым глаголом второго спряжения, и присоедините к え-основе. Ответы Долли под одним [**комментарием**](https://www.youtube.com/watch?v=qcOhHmU0znI&lc=UgxYARujuNXKheHlgNJ4AaABAg)
+Tôi đoán Dolly có nghĩa là trợ giúp tiềm năng hoạt động như ichidan, vì vậy nếu thêm bất cứ thứ gì vào tiềm năng, hãy bỏ る như với bất kỳ ichidan nào và gắn vào gốc え. Câu trả lời của Dolly dưới một [**bình luận**](https://www.youtube.com/watch?v=qcOhHmU0znI&lc=UgxYARujuNXKheHlgNJ4AaABAg)
 
-<code>Потенциальная форма</code> глаголов первого спряжения является глаголом второго спряжения, потому что вспомогательный る является глаголом второго спряжения… Первое спряжение здесь — это отвлекающий манёвр. Как только мы присоединяем любой вспомогательный глагол второго спряжения к глаголу первого спряжения, мы имеем дело с сущностью второго спряжения, и всё, что мы делаем после этого, следует образцу второго спряжения… Так что нет вопроса о том, что глагол первого спряжения становится глаголом второго спряжения. Происходит то, что глагол первого спряжения присоединяет вспомогательный глагол второго спряжения.
+<code>Dạng tiềm năng</code> của động từ godan là ichidan vì trợ giúp る là ichidan... Godan là một con cá trích đỏ ở đây. Ngay khi chúng ta gắn bất kỳ trợ giúp ichidan nào vào một động từ godan, chúng ta đang xử lý một thực thể ichidan và bất cứ điều gì chúng ta làm sau đó đều theo mẫu ichidan...Vì vậy không có câu hỏi về việc một động từ godan trở thành ichidan. Điều đang xảy ra là một động từ godan đang gắn một trợ giúp ichidan.
 :::
 
-**Мы всегда будем узнавать его, потому что это единственный, который присоединяется к え-основе, и мы можем делать с ним всё, что делаем с любым другим глаголом второго спряжения.**
+**Chúng ta sẽ luôn nhận ra nó, vì nó là cái duy nhất đi vào gốc え, và chúng ta có thể làm mọi thứ với nó như chúng ta làm với bất kỳ động từ ichidan nào khác.**
 
 ![](../media/image169.webp)
 
-Итак: <code>あるける</code> – могу ходить; <code>あるけない</code> – не могу ходить; <code>あるけた</code> – мог ходить; <code>あるけなかった</code> – не мог ходить. **И эта регулярность сохраняется даже с неправильными глаголами.** Итак: <code>できる</code> – возможно; <code>できない</code> – невозможно; <code>できた</code> – было возможно; <code>できなかった</code> – не было возможно.
+Vậy: <code>あるける</code> – có thể đi bộ; <code>あるけない</code> – không thể đi bộ; <code>あるけた</code> – có thể đi bộ; <code>あるけなかった</code> – không thể đi bộ. **Và tính quy tắc này giống nhau ngay cả với các bất quy tắc.** Vậy: できる – có thể; <code>できない</code> – không thể; <code>できた</code> – đã có thể; <code>できなかった</code> – đã không thể.
 
-И это действительно так просто.
+Và thực sự dễ dàng như vậy.
 
 ::: info
-Я довольно сильно запутался, так как я посмотрел 出来る/できる в Jisho, и они на самом деле показывают, что у него есть потенциальная форма <code>できられる</code>, что интересно, поскольку できる уже должно подразумевать потенциальную форму. Я посмотрел некоторые [**японские форумы**](https://ja.hinative.com/questions/6326424) (и другие), и, похоже, даже японцы?? нашли <code>できられる</code> странным. Или это может быть почтительная форма?… Поправьте меня, если я ошибаюсь…
-Например, 分かる также не имеет потенциальной формы, так как она подразумевает её. [**Долли объясняет**](https://japanese.stackexchange.com/questions/5988/why-doesnt-%e5%88%86%e3%81%8b%e3%82%8b-have-a-potential-form/48809#48809) <code>分かれる</code> — это другое слово.
+Tôi khá bối rối, vì tôi đã tra cứu 出来る/できる trong Jisho và họ thực sự cho thấy rằng nó có dạng tiềm năng là <code>できられる</code> điều này thú vị vì できる đã nên ngụ ý dạng tiềm năng. Tôi đã xem một số [**diễn đàn tiếng Nhật**](https://ja.hinative.com/questions/6326424) (và những cái khác) và có vẻ như ngay cả người Nhật?? cũng thấy できられる kỳ lạ. Hoặc nó có thể là một dạng tôn kính?... Sửa tôi nếu sai...  
+Ví dụ 分かる cũng không có dạng tiềm năng, vì nó ngụ ý điều đó. [**Dolly giải thích**](https://japanese.stackexchange.com/questions/5988/why-doesnt-%e5%88%86%e3%81%8b%e3%82%8b-have-a-potential-form/48809#48809) <code>分かれる</code> là một từ khác
 :::
 
 ---
 
 ::: info
-Я также добавлю пример обычного глагола второго спряжения.
+Tôi cũng sẽ thêm một số ví dụ động từ ichidan thông thường.
 
-<code>たべられる</code> - могу есть; <code>たべられない</code> - не могу есть;
-<code>たべられた</code> - мог есть; <code>たべられなかった</code> - не мог есть.
+<code>たべられる</code> - có thể ăn; <code>たべられない</code> - không thể ăn;  
+<code>たべられた</code> - có thể ăn; <code>たべられなかった</code> - không thể ăn.
 :::

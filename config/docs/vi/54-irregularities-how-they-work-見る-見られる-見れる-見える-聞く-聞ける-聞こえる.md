@@ -1,126 +1,128 @@
-# **54. НЕРЕГУЛЯРНОСТИ и как они работают | 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる**
+# **54. NHỮNG BẤT QUY TẮC & cách chúng hoạt động | 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる**
 
-[**НЕРЕГУЛЯРНОСТИ в японском языке и как они работают | 見る、見られる、見れる、見える、聞く、聞ける、聞こえる | Урок 54**](https://www.youtube.com/watch?v=WuMCOHisAvY&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=56&pp=iAQB)
+[**NHỮNG BẤT QUY TẮC trong tiếng Nhật và cách chúng hoạt động | 見る、見られる、見れる、見える、聞く、聞ける、聞こえる | Bài 54**](https://www.youtube.com/watch?v=WuMCOHisAvY&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=56&pp=iAQB)
 
 こんにちは。
 
-Сегодня мы поговорим о некоторых исключениях в японском языке, о том, как они работают и почему они существуют. И, сделав это, я думаю, мы получим некоторое представление о том, как японский язык устроен, и как мы можем его понять.
+Hôm nay chúng ta sẽ nói về một số ngoại lệ trong tiếng Nhật, cách chúng hoạt động và tại sao chúng tồn tại. Và khi làm điều đó, tôi nghĩ chúng ta sẽ có được một số hiểu biết sâu sắc về cách tiếng Nhật gắn kết với nhau và cách chúng ta có thể hiểu nó.
 
-Итак, сегодня мы поговорим о 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる. Кажется, это довольно запутанный набор вещей, не так ли? Но на самом деле всё, что у нас здесь есть, это базовые словарные формы <code>見る</code> и <code>聞く</code> — <code>видеть</code> и <code>слышать</code> — и потенциальная форма каждого, а также одна альтернативная или исключительная потенциальная форма.
+Vậy những gì chúng ta sẽ nói đến hôm nay là 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる. Bây giờ, có vẻ như đó là một loạt những thứ khá khó hiểu, phải không? Nhưng thực tế tất cả những gì chúng ta có ở đó là các dạng từ điển cơ bản của <code>見る</code> và <code>聞く</code> — <code>nhìn</code> và <code>nghe</code> — và dạng khả năng của mỗi từ và một dạng khả năng thay thế hoặc ngoại lệ.
 
 ![](../media/image822.webp)
 
-В случае с <code>見る</code> кажется, что их две, но на самом деле одна, и мы к этому вернёмся через мгновение.
+Bây giờ, có vẻ như có hai dạng trong trường hợp của <code>見る</code>, nhưng thực tế chỉ có một, và chúng ta sẽ đến với điều đó ngay sau đây.
 
-Я всегда говорю, что японский язык — очень, очень регулярный и логичный язык, и общепринятое мнение гласит, что в нём всего два неправильных глагола: <code>来る</code> и <code>する</code>. Как я уже упоминала, на самом деле в нём есть несколько других незначительных нерегулярностей, и под незначительными нерегулярностями я подразумеваю глаголы, которые на самом деле не являются неправильными, но становятся таковыми в одной конкретной области, только в одном единственном месте. И таких глаголов не так много, но несколько есть, и эти два — одни из них.
+Tôi luôn nói rằng tiếng Nhật là một ngôn ngữ rất, rất đều đặn và logic, và quan niệm thông thường là nó chỉ có hai động từ bất quy tắc, <code>来る</code> và <code>する</code>. Bây giờ, như tôi đã đề cập trước đây, nó thực sự có một vài bất quy tắc nhỏ khác, và bằng bất quy tắc nhỏ, ý tôi là những động từ không thực sự là động từ bất quy tắc nhưng chúng trở nên bất quy tắc trong một lĩnh vực cụ thể, chỉ ở một nơi duy nhất. Và không có nhiều những cái này, nhưng có một vài và đây là hai trong số chúng.
 
-И мы хотим рассмотреть, что они собой представляют, и, что более важно, почему они такие, какие есть, что они означают и как мы можем их понять.
+Và chúng ta muốn xem xét chúng là gì và, quan trọng hơn, tại sao chúng là như vậy và chúng có nghĩa gì, cách chúng ta có thể hiểu chúng.
 
-Итак, для начала, мы понимаем, как работает обычная потенциальная форма глаголов, форма <code>быть способным сделать</code>, не так ли? Мы образуем её, просто превращая глагол в его え-основу и добавляя очень простой вспомогательный потенциальный глагол <code>る</code>, который состоит всего из одного символа: る. Это годан-форма.
+Vậy để bắt đầu, chúng ta hiểu cách dạng khả năng thông thường, dạng <code>có thể làm</code>, của động từ hoạt động, phải không? Chúng ta tạo thành nó đơn giản bằng cách biến động từ thành え-stem của nó và thêm động từ trợ khả năng rất đơn giản <code>る</code>, chỉ là một ký tự: る. Đó là dạng godan.
 
-А итидан-форма: в итидан-глаголах мы делаем то, что делаем всегда, мы просто убираем -る и добавляем то, что собираемся добавить. В этом случае итидан-вспомогательный потенциальный элемент — это <code>られる</code>.
+Và dạng ichidan: trong ichidan chúng ta làm những gì chúng ta luôn làm, chúng ta đơn giản loại bỏ -る và đặt vào bất cứ thứ gì chúng ta sẽ đặt vào. Trong trường hợp này, trợ từ khả năng ichidan là <code>られる</code>.
 
 ![](../media/image384.webp)
 
-Итак, как мы видим, <code>見られる</code> — это обычная потенциальная форма <code>見る</code>, который является итидан-глаголом, а <code>聞ける</code> — это обычная потенциальная форма <code>聞く</code>, который, конечно, является годан-глаголом.
+Vậy, như chúng ta có thể thấy, <code>見られる</code> là dạng khả năng thông thường của <code>見る</code>, là một động từ ichidan, và <code>聞ける</code> là dạng khả năng thông thường của <code>聞く</code>, tất nhiên là một động từ godan.
 
-Так почему же я говорю, что у <code>見る</code> только один вариант, а не два? Что ж, это потому, что вариант — это <code>見える</code>, и мы вернёмся к этому через мгновение.
+Vậy tại sao tôi nói rằng chỉ có một biến thể của <code>見る</code> chứ không phải hai? Chà, đó là bởi vì biến thể là <code>見える</code>, và chúng ta sẽ quay lại với điều đó trong giây lát.
 
-<code>見れる</code> на самом деле является итидан-формой, на которую влияет феномен, который мы называем <code>ら抜き</code>. <code>ら抜き</code> буквально означает <code>выбрасывание ら</code>.
+<code>見れる</code> thực tế là dạng ichidan bị ảnh hưởng bởi một hiện tượng mà chúng ta gọi là <code>ら抜き</code>. <code>ら抜き</code> có nghĩa đen là <code>lấy ra ら</code>.
 
 ![](../media/image123.webp)
 
-И это то, что довольно широко встречается в японском языке. Вы будете довольно часто сталкиваться с этим, как только начнёте использовать японский, так что, возможно, это происходит прямо сейчас. Это просто заключается в выбрасывании <code>ら</code>, отбрасывании <code>ら</code>, в итидан-потенциальной форме глаголов.
+Và đây là điều xảy ra khá rộng rãi trong tiếng Nhật. Bạn sẽ gặp phải nó khá thường xuyên khi bạn thực sự sử dụng tiếng Nhật, vậy có thể là ngay bây giờ. Nó đơn giản bao gồm việc lấy ra <code>ら</code>, bỏ <code>ら</code>, trong dạng khả năng ichidan của động từ.
 
-Это считается неправильной грамматикой, не только в англоязычных учебниках японского языка, но и в учебниках грамматики для носителей японского языка. Это считается неправильной грамматикой, но это очень, очень широко распространено, гораздо шире, чем большинство популярных примеров неправильной грамматики, которые вы время от времени слышите. И я бы предположила, что это, вероятно, будет эволюцией языка.
+Điều này được coi là ngữ pháp không chính xác, không chỉ bởi các sách giáo khoa tiếng Nhật tiếng Anh mà còn bởi các sách giáo khoa ngữ pháp tiếng Nhật bản ngữ. Nó được coi là ngữ pháp không chính xác, nhưng nó rất, rất phổ biến, phổ biến hơn nhiều so với hầu hết các phần ngữ pháp không chính xác phổ biến mà bạn sẽ nghe thấy thỉnh thoảng. Và tôi cho rằng đây có thể sẽ là một sự tiến hóa của ngôn ngữ.
 
-Западные люди часто склонны говорить: «Ну, если какое-то количество людей использует неправильное употребление, то как вы можете сказать, что оно неправильное? Наверняка это новое правильное употребление, потому что **правильно** — это просто то, что люди используют».
+Bây giờ, người phương Tây thường có xu hướng nói, "Chà, nếu một số người đang sử dụng một cách sử dụng không chính xác thì làm sao bạn có thể nói nó không chính xác? Chắc chắn đó là một cách sử dụng chính xác mới, bởi vì **chính xác** chỉ là những gì mọi người sử dụng."
 
-И я думаю, что это ошибка, причём довольно опасная и безответственная, потому что, хотя язык действительно эволюционирует, эволюция языка во многом схожа с теоретизированной эволюцией видов. То есть виды развиваются из мутаций. Мутации происходят относительно часто, и большинство из них вымирают.
+Và tôi nghĩ đây là một sai lầm và một sai lầm khá nguy hiểm và vô trách nhiệm, bởi vì mặc dù đúng là ngôn ngữ tiến hóa, sự tiến hóa của ngôn ngữ gần như giống với sự tiến hóa được lý thuyết hóa của các loài. Có nghĩa là, các loài tiến hóa từ những đột biến. Đột biến xảy ra tương đối thường xuyên và hầu hết chúng đều chết đi.
 
-Лишь немногие из них, и обычно в случаях, когда они имеют какое-то особое преимущество, действительно сохраняются и становятся частью эволюции вида. То же самое верно и для языков. Большинство неправильных употреблений, которые подхватываются довольно большим количеством людей, вымирают. Лишь очень немногие из них когда-либо становятся частью реальной эволюции языка.
+Chỉ có một vài trong số chúng, và thường là trong những trường hợp chúng có một số lợi thế đặc biệt, thực sự tồn tại và trở thành một phần của sự tiến hóa của loài. Và điều tương tự cũng đúng với ngôn ngữ. Hầu hết các cách sử dụng không chính xác được một số lượng lớn người sử dụng đều chết đi. Chỉ có rất ít trong số chúng từng trở thành một phần của sự tiến hóa thực sự của ngôn ngữ.
 
-Поэтому, если вы делаете то, что сейчас делается на Западе, а именно вносите неправильное употребление языка в словари, вы фактически закорачиваете самокорректирующую функцию языка. Язык за одно поколение или около того, за пару десятилетий, отвергнет большинство употреблений, которые противоречат его базовой логике. Лишь очень немногие из них в конечном итоге внесут незначительные изменения в базовую логику.
+Vậy nếu bạn làm những gì hiện đang được thực hiện ở phương Tây, đó là đưa việc sử dụng sai ngôn ngữ vào từ điển, những gì bạn đang làm thực sự là làm ngắn mạch chức năng tự điều chỉnh của ngôn ngữ. Ngôn ngữ trong một thế hệ hoặc hơn, có thể trong vài thập kỷ, sẽ từ chối hầu hết các cách sử dụng đi ngược lại logic cơ bản của nó. Rất ít trong số chúng sẽ kết thúc bằng việc tạo ra những thay đổi nhỏ trong logic cơ bản.
 
-Именно поэтому ошибочно вносить неправильное употребление языка в словари на ранней стадии, потому что на этой ранней стадии у нас нет возможности узнать, будут ли они действительно подлинной эволюцией языка или вымрут в течение одного поколения. Что мы знаем, так это то, что в большинстве случаев, в подавляющем большинстве случаев, они вымерли бы в течение одного поколения, и, внося их в словарь, мы вмешиваемся в этот самокорректирующийся процесс языка.
+Và đó là lý do tại sao việc đưa vào từ điển ở giai đoạn đầu việc sử dụng sai ngôn ngữ là một sai lầm, bởi vì chúng ta không có cách nào biết ở giai đoạn đầu đó liệu chúng có thực sự là những tiến hóa thực sự của ngôn ngữ hay liệu chúng có sẽ chết đi trong một thế hệ. Những gì chúng ta biết là trong hầu hết các trường hợp, trong đại đa số các trường hợp, chúng sẽ chết đi trong một thế hệ, và bằng cách đưa chúng vào từ điển, chúng ta đang can thiệp vào quá trình tự điều chỉnh đó của ngôn ngữ.
 
-И это, я бы сказала, важно, потому что именно такой образ мышления делает преподавание японского языка на Западе таким очень плохим. Это образ мышления, который предполагает, что язык — это совершенно иррациональная вещь, которая просто случайно эволюционирует любым способом, каким ей вздумается.
+Và điều này, tôi muốn nói, là quan trọng, bởi vì đó là cách suy nghĩ này làm cho việc dạy tiếng Nhật rất tệ ở phương Tây. Đó là cách suy nghĩ giả định rằng ngôn ngữ là một thứ hoàn toàn phi lý mà chỉ tình cờ tiến hóa theo bất kỳ cách nào nó chọn để tiến hóa.
 
 ![](../media/image1081.webp)
 
-А это не так. Язык управляется логикой. И японский язык управляется логикой больше, чем большинство языков.
+Và không phải vậy. Ngôn ngữ được chi phối bởi logic. Và tiếng Nhật được chi phối bởi logic hơn hầu hết các ngôn ngữ.
 
-Но если вы отвергаете это понятие, если вы думаете, что язык просто иррационален, случаен и произволен, и всё, что кто-либо случайно использует, так же правильно, как и всё остальное, то вы в конечном итоге преподаёте язык так, как будто это просто мешанина из вещей, которые вы должны выучить, потому что они просто так существуют и не имеют никакой лежащей в основе логики.
+Nhưng nếu bạn từ chối quan niệm đó, nếu bạn nghĩ rằng ngôn ngữ chỉ đơn giản là phi lý và tình cờ và ngẫu nhiên và bất cứ thứ gì ai đó tình cờ sử dụng đều chính xác như bất cứ thứ gì khác, thì bạn sẽ kết thúc việc dạy ngôn ngữ như thể nó chỉ là một hỗn hợp của những thứ mà bạn phải học bởi vì chúng chỉ tình cờ ở đó và không có bất kỳ logic cơ bản nào.
 
-И это действительно заблуждение, лежащее в основе современного западного преподавания японского языка. Итак, это было отступление.
+Và đó thực sự là ngụy biện làm nền tảng cho việc dạy tiếng Nhật hiện đại của phương Tây. Vậy, đó là một sự lạc đề.
 
-Вернёмся к <code>見られる</code>. Именно его они будут использовать, потому что это в настоящее время является правильным употреблением.
+Hãy quay lại với <code>見られる</code>. <code>見られる</code> là những gì họ sẽ sử dụng, bởi vì đó hiện tại là cách sử dụng chính xác.
 
-Итак, у нас есть <code>見る</code>, у нас есть <code>見られる</code>, и <code>見える</code>. У нас есть <code>聞く</code>, у нас есть <code>聞ける</code> и у нас есть <code>聞こえる</code>.
+Vậy chúng ta có <code>見る</code>, chúng ta có <code>見られる</code>, và <code>見える</code>. Chúng ta có <code>聞く</code>, chúng ta có <code>聞ける</code> và chúng ta có <code>聞こえる</code>.
 
-## Обычная и неправильная потенциальная форма
+## Dạng khả năng thông thường và bất quy tắc
 
-Итак, в чём разница между двумя потенциальными формами, обычной и неправильной потенциальной формой?
+Vậy sự khác biệt giữa hai dạng khả năng, dạng khả năng thông thường và bất quy tắc là gì?
 
-Итак, в каждом из этих случаев неправильная потенциальная форма — это то, что я назову формой принудительного самодвижения. Как мы знаем из нашего урока о потенциале<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>, потенциал обычно является самодвижением — и если вы не знаете, что такое <code>самодвижение</code>, вам следует посмотреть урок о самодвижущих и друго-движущих глаголах<sup>[[15]](./15-transitive-intransitive-verbs.md)</sup>. Их иногда называют, не совсем точно, переходными и непереходными.
+Bây giờ, trong mỗi trường hợp ở đây, dạng khả năng bất quy tắc là những gì tôi sẽ gọi là dạng tự động bắt buộc. Bây giờ, như chúng ta biết từ bài học về khả năng<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>, khả năng thường là tự động — và nếu bạn không biết <code>tự động</code> là gì, bạn cũng nên xem bài học về động từ tự động và tha động<sup>[[15]](./15-transitive-intransitive-verbs.md)</sup>. Chúng đôi khi được gọi, không hoàn toàn chính xác, là ngoại động và nội động.
 
-Так, например, если мы хотим сказать <code>Я могу прочитать книгу</code>, в японском мы на самом деле говорим <code>книга делает читабельное для меня</code>. Итак, мы говорим <code>*(私は)*本が読める</code>. Это самодвижение.
+Vậy, ví dụ, nếu chúng ta muốn nói <code>Tôi có thể đọc cuốn sách</code>, trong tiếng Nhật chúng ta thực sự nói <code>cuốn sách làm có thể đọc được đối với tôi</code>. Vậy chúng ta nói <code>*(私は)*本が読める</code>. Đây là tự động.
+
+Cuốn sách là chủ thể và nó đang tác động lên chính nó. Nó đang làm cho chính nó có thể đọc được, nó <code>làm có thể đọc được</code> theo nghĩa đen.
 
 ![](../media/image792.webp)
 
 ::: info
-ФУРИГАНА 私 должна быть わたし.
+Furigana của 私 nên là わたし.
 :::
-Для этого нет точного английского перевода, потому что мы не говорим, что книга ЯВЛЯЕТСЯ читабельной; это не прилагательное выражение. Мы говорим, что книга ДЕЛАЕТ читабельное.
+Không có bản dịch tiếng Anh chính xác cho điều này, bởi vì chúng ta không nói cuốn sách LÀ có thể đọc được; đó không phải là một cụm tính từ. Chúng ta đang nói cuốn sách LÀM có thể đọc được.
 
-Поэтому нам просто нужно привыкнуть к тому факту, что японский язык гораздо охотнее, чем английский, рассматривает состояния бытия как глагольные действия.
+Vậy chúng ta chỉ cần quen với thực tế rằng tiếng Nhật hạnh phúc hơn tiếng Anh nhiều khi đối xử với các trạng thái tồn tại như các hành động động từ.
 
-Итак, если мы хотим сказать <code>Я могу прочитать книгу / *Что касается меня, книга делает читабельное*</code>, мы говорим <code>*(私は)*本が読める</code>, но если мы просто хотим сказать <code>Я могу читать / *Я делаю читабельное*</code>, мы можем сказать <code>読める</code> или <code>(私は)私が読める</code>, и снова у нас самодвижущий глагол.
+Vậy nếu chúng ta muốn nói <code>Tôi có thể đọc cuốn sách / *Đối với tôi, cuốn sách làm có thể đọc được*</code>, chúng ta nói <code>*(私は)*本が読める</code>, nhưng nếu chúng ta chỉ muốn nói <code>Tôi có thể đọc / *Tôi làm có thể đọc được*</code>, chúng ta có thể nói <code>読める</code> hoặc <code>(私は)私が読める</code>, và một lần nữa chúng ta có một động từ tự động.
 
 ![](../media/image1123.webp)
 
-В одном случае мы говорим <code>Я делаю читабельное (Я способен читать)</code>, в другом мы говорим <code>книга делает читабельное (книга делает способность быть прочитанной)</code>, и вот как это работает.
+Trong một trường hợp chúng ta đang nói <code>Tôi làm có thể đọc được (Tôi có thể đọc)</code>, trong trường hợp khác chúng ta nói <code>cuốn sách làm có thể đọc được (cuốn sách làm có thể được đọc)</code> và đó là cách nó hoạt động.
 
-Однако, также возможно использовать потенциал в друго-движущих контекстах. Обычно это происходит в модифицирующих придаточных предложениях. Их иногда называют в западных учебниках <code>подчинительными придаточными предложениями</code>, которыми они и являются, но я думаю, что лучше и яснее называть их <code>модифицирующими придаточными предложениями</code>, и я довольно много работала над модифицирующими придаточными предложениями, поэтому я бы порекомендовала это видео, если вы хотите точно понять, что я имею в виду.
+Tuy nhiên, cũng có thể sử dụng khả năng trong ngữ cảnh tha động. Thường điều này xảy ra trong các mệnh đề bổ nghĩa. Những cái này đôi khi được gọi bởi các sách giáo khoa phương Tây là <code>mệnh đề phụ thuộc</code>, đúng là như vậy, nhưng tôi nghĩ tốt hơn và rõ ràng hơn khi gọi chúng là <code>mệnh đề bổ nghĩa</code>, và tôi đã làm khá nhiều công việc về mệnh đề bổ nghĩa, vậy tôi khuyến nghị video này nếu bạn muốn biết chính xác ý tôi là gì.
 
-Итак, в модифицирующих придаточных предложениях, в частности, мы можем использовать потенциал как друго-движущий глагол. Например, мы можем сказать <code>さくらを見られる日を楽しみにしている</code>. Это означает <code>Я с нетерпением жду дня, когда смогу увидеть Сакуру.</code>
+Vậy, trong các mệnh đề bổ nghĩa đặc biệt chúng ta có thể sử dụng khả năng như một động từ tha động. Ví dụ, chúng ta có thể nói <code>さくらを見られる日を楽しみにしている</code> Điều này có nghĩa là <code>Tôi đang mong chờ ngày mà tôi có thể nhìn thấy Sakura.</code>
 
 ![](../media/image157.webp)
 
-И, как вы видите, здесь мы говорим <code>さくらを見られる</code>, используя <code>見られる</code>, потенциал, <code>быть способным увидеть Сакуру</code>, как друго-движущий глагол с объектом, которым является Сакура.
+Và như bạn thấy, ở đây chúng ta đang nói <code>さくらを見られる</code>, sử dụng <code>見られる</code>, khả năng, <code>có thể nhìn thấy Sakura</code>, như một động từ tha động với một tân ngữ, đó là Sakura.
 
-Итак, мы можем сделать это с <code>見られる</code>, мы можем сделать это с <code>聞ける</code>, но мы не можем сделать это с <code>見える</code> или <code>聞こえる</code>. Они вынуждены использоваться только как самодвижущие глаголы.
+Bây giờ, chúng ta có thể làm điều đó với <code>見られる</code>, chúng ta có thể làm điều đó với <code>聞ける</code>, nhưng chúng ta không thể làm điều đó với <code>見える</code> hoặc <code>聞こえる</code>. Chúng bị buộc phải được sử dụng chỉ như các động từ tự động.
 
-И в целом, поскольку потенциальные глаголы в японском языке в основном являются самодвижущими, говорим ли мы о чём-то другом или о себе, мы используем их самодвижущим образом, эти два являются наиболее часто используемыми. На самом деле, мы можем использовать и другие формы, обычные формы, <code>見られる</code> и <code>聞ける</code>, как самодвижущие глаголы, но они также могут использоваться как друго-движущие глаголы.
-
----
-
-В случае с <code>見える</code> и <code>見られる</code> есть разница в нюансах: <code>見える</code> обычно означает быть способным, действительно физически способным, увидеть что-то, а <code>見られる</code> скорее подразумевает наличие возможности увидеть что-то.
-
-Итак, если бы мы сказали <code>芝居/しばいが見られる</code>, мы бы сказали, что у меня есть возможность увидеть пьесу. Если мы скажем <code>芝居が見える</code>, мы можем иметь в виду, что дама передо мной сняла свою большую шляпу, так что я могу видеть пьесу.
-
-Однако, я думаю, этого одного было бы недостаточно, чтобы эти два варианта слов сохранились в современном японском языке. Важная причина, которая основана на самой природе зрения и слуха и выражениях, которые мы используем в связи со зрением и слухом, заключается в следующем: оба они используются там, где в английском мы бы сказали, что что-то <code>выглядит как</code> что-то или что-то <code>звучит как</code> что-то. Вы не можете использовать стандартные версии <code>聞ける</code> и <code>見られる</code> для этого. Вы должны использовать эти варианты.
-
-Итак, если вы говорите <code>さくらはカエルに見える</code>, вы говорите <code>Сакура выглядит как лягушка</code>.
-
-Итак, когда мы говорим <code>выглядит как</code>, мы используем целевую частицу に с существительным, или с прилагательным мы используем く-основу прилагательного. Итак, мы говорим <code>カエルに見える</code> — <code>выглядит как лягушка</code> — или мы можем сказать о ком-то <code>若く見える</code> — <code>она выглядит молодой</code>.
+Và nhìn chung, bởi vì các động từ khả năng chủ yếu là tự động trong tiếng Nhật, cho dù chúng ta đang nói về thứ gì khác hay cho dù chúng ta đang nói về bản thân, chúng ta sử dụng chúng theo cách tự động, hai cái đó được sử dụng phổ biến nhất. Thực tế chúng ta cũng có thể sử dụng các dạng khác, các dạng thông thường, <code>見られる</code> và <code>聞ける</code>, như các động từ tự động, nhưng chúng cũng có thể được sử dụng như các động từ tha động.
 
 ---
 
-И мы также можем использовать это не только для того, как что-то буквально звучит для наших ушей или как что-то выглядит для наших глаз, но и для того, каков его внешний вид.
+Với <code>見える</code> và <code>見られる</code>, có một sự khác biệt về sắc thái, đó là <code>見える</code> thường có nghĩa là có thể, thực sự có thể về mặt vật lý, nhìn thấy thứ gì đó, và <code>見られる</code> ngụ ý nhiều hơn là có cơ hội nhìn thấy thứ gì đó.
 
-Итак, мы можем сказать <code>奇妙/きみょうに聞こえる</code> — <code>это звучит странно / звучит необычно</code>. Итак, здесь мы не обязательно говорим о фактическом звуке. Это может быть не шум, который звучит странно. Это может быть что-то, что кто-то сказал, что звучит странно.
+Vậy nếu chúng ta nói <code>芝居/しばいが見られる</code>, chúng ta đang nói tôi có cơ hội xem vở kịch. Nếu chúng ta nói <code>芝居が見える</code>, chúng ta có thể có nghĩa là người phụ nữ phía trước tôi đã tháo chiếc mũ lớn của cô ấy nên tôi có thể nhìn thấy vở kịch.
+
+Tuy nhiên, chỉ điều này thôi sẽ không đủ, tôi nghĩ, lý do đủ để hai biến thể này của từ tồn tại trong tiếng Nhật hiện đại. Lý do quan trọng, dựa trên bản chất của việc nhìn và nghe và các biểu thức chúng ta sử dụng liên quan đến việc nhìn và nghe, là điều này: cả hai đều được sử dụng ở những nơi mà trong tiếng Anh chúng ta sẽ nói rằng thứ gì đó <code>trông như</code> thứ gì đó hoặc thứ gì đó <code>nghe như</code> thứ gì đó. Bạn không thể sử dụng các phiên bản tiêu chuẩn <code>聞ける</code> và <code>見られる</code> cho điều này. Bạn phải sử dụng các biến thể này.
+
+Vậy nếu bạn nói <code>さくらはカエルに見える</code>, bạn đang nói <code>Sakura trông như một con ếch</code>.
+
+Vậy khi chúng ta nói <code>trông như</code>, chúng ta sử dụng trợ từ chỉ mục tiêu に với một danh từ, hoặc với một tính từ chúng ta sử dụng く-stem của tính từ. Vậy chúng ta nói <code>カエルに見える</code> — <code>trông như một con ếch</code> — hoặc chúng ta có thể nói về ai đó <code>若く見える</code> — <code>cô ấy trông trẻ</code>.
 
 ---
 
-Итак, мы используем либо наречную форму прилагательного, либо целевую частицу に, делающую прилагательное, чтобы описать, как что-то нам кажется, как что-то нам звучит, буквально или фигурально.
+Và chúng ta cũng có thể sử dụng nó không chỉ cho cách thứ gì đó nghe trong tai chúng ta một cách đen nghĩa hoặc cho cách thứ gì đó trông trong mắt chúng ta, mà còn cho vẻ ngoài của nó.
 
-И это настоящая причина выживания этих альтернативных форм потенциала. Они имеют это специфическое значение, которого не может иметь другая форма, обычная форма.
+Vậy chúng ta có thể nói <code>奇妙/きみょうに聞こえる</code> — <code>nó nghe có vẻ lạ / nghe có vẻ kỳ quặc</code>. Vậy, chúng ta không nhất thiết đang nói về âm thanh thực tế ở đây. Nó có thể không phải là một tiếng ồn nghe có vẻ lạ. Nó có thể là thứ gì đó ai đó nói nghe có vẻ lạ.
 
-И это не совпадение, что именно эта принудительная, обязательно-самодвижущаяся версия принимает это значение, потому что то, как что-то выглядит, как что-то звучит, всегда должно быть самодвижением. Мы не говорим о том, что мы делаем с внешним видом или что мы делаем со звуком, а о том, как оно выглядит и звучит само по себе.
+---
 
-Итак, эта чрезвычайно самодвижущаяся версия *(見える/聞こえる)*, которая не может использоваться в друго-движущих контекстах, используется как в случае зрения, так и слуха, чтобы описать, как что-то нам звучит и как что-то нам кажется.
+Vậy chúng ta đang sử dụng hoặc dạng trạng từ của một tính từ hoặc trợ từ chỉ mục tiêu tạo tính từ に để mô tả cách thứ gì đó xuất hiện với chúng ta, cách thứ gì đó nghe với chúng ta, theo nghĩa đen hoặc nghĩa bóng.
+
+Và đây là lý do thực sự cho sự tồn tại của những dạng thay thế này của khả năng. Chúng có ý nghĩa cụ thể này, mà dạng khác, dạng thông thường, không thể có.
+
+Và không phải ngẫu nhiên mà chính phiên bản bắt buộc, phải-là-tự-động này lại có ý nghĩa đó, bởi vì cách thứ gì khác trông, cách thứ gì khác nghe, luôn phải là tự động. Chúng ta không nói về bất cứ điều gì chúng ta làm với cái nhìn hoặc bất cứ điều gì chúng ta làm với âm thanh, mà về cách nó trông và nghe trong chính nó.
+
+Vậy phiên bản cực kỳ tự động này *(見える/聞こえる)*, không thể được sử dụng trong ngữ cảnh tha động, là những gì được sử dụng trong trường hợp cả nhìn và nghe để mô tả cách thứ gì đó nghe với chúng ta và cách thứ gì đó trông với chúng ta.
 
 ::: info
-В комментариях Долли-сэнсэй упоминает важный момент, который не вошёл в видео, данный на её Patreon. К сожалению, её Patreon больше не доступен, возможно, из-за её кончины, за исключением некоторых комментариев, которые она оставила в других местах. Полагаю, мы никогда не узнаем.
+trong các bình luận, Dolly-先生 đề cập đến một số điểm quan trọng không có trong video, được đưa ra trên Patreon của cô ấy. Thật không may, Patreon của cô ấy không còn khả dụng nữa, có thể do cô ấy qua đời, ngoại trừ một số bình luận cô ấy đã để lại ở nơi khác. Tôi đoán chúng ta có thể không bao giờ biết được.
 :::

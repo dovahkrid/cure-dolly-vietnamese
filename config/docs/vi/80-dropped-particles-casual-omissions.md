@@ -1,268 +1,269 @@
-# **80. Опущенные частицы и неформальные опущения**
+# **80. Trợ từ bị lược bỏ & những sự bỏ qua thông thường**
 
-[**Поймите японский, даже когда они опускают части! Опущенные частицы и неформальные опущения | Урок 80**](https://www.youtube.com/watch?v=wamt3AAJI6M&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly)
+[**Understand Japanese Even When they Leave Bits Out! Dropped particles & casual omissions | Lesson 80**](https://www.youtube.com/watch?v=wamt3AAJI6M&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Как только мы начинаем серьёзно погружаться в настоящий японский материал и потреблять его, часто разговорный и неформальный, а не учебный японский, одна из проблем, с которой сталкиваются многие, — это мысль:
-«Боже мой, они пропускают половину того, что собираются сказать! Они опускают это и оставляют то, и как нам, по-вашему, догадаться, о чём они вообще говорят?»
+Khi chúng ta bắt đầu nghiêm túc đắm mình và tiếp xúc với tài liệu tiếng Nhật thực tế, thường là tiếng Nhật thông tục và bình thường, không phải tiếng Nhật trong sách giáo khoa, một trong những vấn đề mà nhiều người gặp phải là ý tưởng rằng...
 
-На самом деле, это не такая уж большая проблема, как может показаться на первый взгляд, но нам нужно знать, что происходит и на что обращать внимание.
+"Trời ơi, họ bỏ qua một nửa những gì họ định nói! Họ lược bỏ cái này và bỏ qua cái kia, và làm sao chúng ta có thể đoán được họ thực sự đang nói về gì?"
 
-Итак, **прежде всего давайте поговорим об опущениях в языке.**
+Bây giờ, điều này không phải là vấn đề lớn như có vẻ lúc đầu, nhưng chúng ta cần biết điều gì đang xảy ra và cần tìm kiếm gì.
 
-**В языке существует принципиально два вида опущений:**
+Vậy, **trước tiên hãy nói về sự lược bỏ trong ngôn ngữ.**
 
-**допустимые опущения и недопустимые опущения.**
+**Về cơ bản có hai loại lược bỏ trong ngôn ngữ:**
+
+**lược bỏ hợp pháp và lược bỏ bất hợp pháp.**
 
 ![](../media/image634.webp)
 
-## Допустимые опущения
+## Lược bỏ hợp pháp
 
-**Допустимые опущения — это когда совершенно грамматически верно**
+**Lược bỏ hợp pháp là khi việc bỏ qua một cái gì đó hoàn toàn đúng ngữ pháp**
 
-**в рамках конкретного языка что-то опустить.**
+**trong phạm vi các quy tắc của một ngôn ngữ cụ thể.**
 
-Это происходит и в английском. Например, если мы говорим по-английски <code>The night we met</code>, это считается грамматически правильной фразой. На самом деле мы имеем в виду <code>The night **that** we met</code>.
+Điều này xảy ra trong tiếng Anh. Ví dụ, nếu chúng ta nói trong tiếng Anh <code>The night we met</code>, đó được coi là một cụm từ đúng ngữ pháp. Điều chúng ta thực sự muốn nói là <code>The night **that** we met</code>.
 
 ![](../media/image974.webp)
 
-И **во французском или испанском вы так не можете.**
+Và **trong tiếng Pháp hoặc tiếng Tây Ban Nha bạn không thể làm điều đó.**
 
-**Вы не можете опустить это <code>that</code>, которое во французском или испанском будет <code>que</code>.**
+**Bạn không thể bỏ qua từ <code>that</code> đó, tức là <code>que</code> trong tiếng Pháp hoặc tiếng Tây Ban Nha.**
 
-**Но в английском — можете.**
+**Nhưng trong tiếng Anh bạn có thể.**
 
-В английском это часть правил английской грамматики, что все поймут, что вы имеете в виду, и вам разрешено это опускать. **Вы можете использовать это в академической работе или юридическом документе.**
+Trong tiếng Anh, việc này là một phần của các quy tắc ngữ pháp tiếng Anh mà mọi người sẽ hiểu ý bạn muốn nói và bạn được phép bỏ qua nó. **Bạn có thể làm điều này trong một bài báo học thuật hoặc một tài liệu pháp lý.**
 
-**Вы можете использовать это где угодно. Это не неграмматично.**
+**Bạn có thể làm điều này ở bất cứ đâu. Nó không sai ngữ pháp.**
 
-Это не недопустимое опущение. **Это допустимое опущение.**
+Đó không phải là lược bỏ bất hợp pháp. **Đó là lược bỏ hợp pháp.**
 
-### Нулевое местоимение
+### Đại từ zero
 
-Итак, это происходит **в японском языке**, и **очень, очень распространённый пример**, конечно же, **это нулевое местоимение.**
+Bây giờ, điều này xảy ra **trong tiếng Nhật**, và **một ví dụ rất, rất phổ biến**, tất nhiên, **là đại từ zero.**
 
-Если мы говорим <code> *(zeroが)* 疲れた</code>, что означает <code>устал(а)</code>, **мы имеем в виду <code>Я устал(а)</code>**, и **это стопроцентно допустимый, грамматически правильный японский.**
+Nếu chúng ta nói <code> *(zeroが)* 疲れた</code>, có nghĩa là <code>tired</code>, **chúng ta có ý là <code>I am tired</code>**, và **đây là tiếng Nhật hoàn toàn hợp pháp, đúng ngữ pháp 100%.**
 
 ![](../media/image818.webp)
 
-**Вы можете использовать это в академическом эссе, юридическом документе или где угодно.**
+**Bạn có thể sử dụng nó trong một bài luận học thuật hoặc một tài liệu pháp lý hoặc bất cứ đâu.**
 
-**Это воспринимается как абсолютно грамматически правильный японский.**
+**Nó được hiểu là tiếng Nhật hoàn toàn đúng ngữ pháp.**
 
-**Нет никаких сомнений в том, что вы имеете в виду.**
+**Không có nghi vấn gì về ý nghĩa của nó.**
 
-Во-первых, потому что **нулевое местоимение всегда по умолчанию означает <code>Я</code>**, а во-вторых, потому что японский, как мы знаем, очень строг в том, что мы можем говорить только о вещах, которые мы действительно способны знать.
+Thứ nhất vì **đại từ zero luôn mặc định là <code>I</code>** và thứ hai vì tiếng Nhật, như chúng ta biết, rất nghiêm ngặt trong việc nói rằng chúng ta chỉ có thể nói về những thứ mà chúng ta thực sự có khả năng biết.
 
-Поэтому мы не можем говорить о чьём-то эмоциональном состоянии. **Мы не можем говорить о том, что кто-то другой что-то любит или не любит.**
+Vậy nên chúng ta không thể nói về trạng thái cảm xúc của người khác. **Chúng ta không thể nói về việc người khác thích hoặc không thích một cái gì đó.**
 
-**Мы можем только сказать, что они, кажется, любят или не любят это.**
+**Chúng ta chỉ có thể nói rằng họ có vẻ thích hoặc không thích nó.**
 
-**И мы не можем сказать, что кто-то другой устал.**
+**Và chúng ta không thể nói rằng người khác đang mệt.**
 
-Поэтому <code>疲れた</code> может означать только <code>**zeroが**疲れた/ **私が**疲れた</code>.
+Vậy nên <code>疲れた</code> chỉ có thể có nghĩa là <code>**zeroが**疲れた/ **私が**疲れた</code>.
 
-Итак, **это допустимое опущение.**
+Vậy **đây là lược bỏ hợp pháp.**
 
-## Недопустимые опущения
+## Lược bỏ bất hợp pháp
 
-Но во всех языках также происходит много недопустимых опущений, и **в неформальной речи**, в отличие от очень формальной, **это совершенно допустимо**.
+Nhưng cũng có rất nhiều lược bỏ bất hợp pháp xảy ra trong tất cả các ngôn ngữ, và **trong lời nói thông thường** trái ngược với lời nói rất trang trọng **thì nó hoàn toàn hợp pháp**.
 
-Так что, **строго говоря, это недопустимо, но с точки зрения обычной, повседневной, неформальной речи — допустимо.**
+Vậy **nói một cách nghiêm ngặt thì nó bất hợp pháp, nhưng về mặt lời nói thông thường, hàng ngày, bình thường thì nó hợp pháp.**
 
-Итак, какие существуют виды принятых, но строго недопустимых опущений?
+Vậy có những loại lược bỏ được chấp nhận nhưng nghiêm ngặt là bất hợp pháp nào?
 
-В основном, три вида.
+Về cơ bản, ba loại.
 
-### Опущение частей слов или фраз
+### Bỏ qua các phần của từ hoặc cụm từ
 
-Первый — это когда мы опускаем части слов или фраз.
+Loại đầu tiên là khi chúng ta bỏ qua các phần của từ hoặc cụm từ.
 
 ![](../media/image993.webp)
 
-Так, например, вместо <code>している</code> (делаю / делает) мы говорим <code>してる</code>; вместо <code>しておく</code> (сделать и оставить) мы говорим <code>しとく</code>.
+Vậy, ví dụ, thay vì <code>している</code> (am doing / is doing) chúng ta nói <code>してる</code>; thay vì <code>しておく</code> (do and put in place) chúng ta nói <code>しとく</code>.
 
-Теперь, **эти «недопустимые» формы настолько регулярны, что они ничем не отличаются от использования** **<code>shouldn't</code> или <code>hadn't</code> вместо <code>should not</code> или <code>had not</code> в английском.**
+Bây giờ, **những sai phạm thường xuyên này thực sự không khác gì việc nói** **<code>shouldn't</code> hoặc <code>hadn't</code> thay cho <code>should not</code> hoặc <code>had not</code> trong tiếng Anh.**
 
-**Вы можете использовать их почти везде, но не в самых формальных обстоятельствах.**
+**Bạn có thể sử dụng chúng hầu như ở bất cứ đâu, nhưng không phải trong những hoàn cảnh trang trọng nhất.**
 
-Чуть ниже по шкале у нас есть такие вещи, как <code>分かんない</code> вместо <code>分からない</code>, или <code>つまんない</code> вместо <code>つまらない</code>.
+Xa hơn một chút trên thang đo, chúng ta có những thứ như nói <code>分かんない</code> thay vì <code>分からない</code>, hoặc <code>つまんない</code> thay vì <code>つまらない</code>.
 
-Итак, это один тип, и хотя может потребоваться некоторое время, чтобы привыкнуть к этим выражениям, как только вы их узнаете, они не сложнее ничего другого.
+Vậy đó là một loại, và mặc dù có thể mất một chút thời gian để làm quen với các biểu thức, một khi bạn biết chúng thì chúng không khó hơn bất cứ thứ gì khác.
 
 ---
 
-**Ещё одна вещь, которая часто опускается, — это всё, что присоединяется к существительному.**
+**Thứ khác thường bị bỏ qua rất nhiều là bất cứ thứ gì gắn vào danh từ.**
 
 ![](../media/image1145.webp)
 
-Как я уже говорила, **японский — это очень существительно-центричный язык.**
+Như tôi đã nói trước đây, **tiếng Nhật là một ngôn ngữ rất tập trung vào danh từ.**
 
-И, как вы знаете<sup>[[8b]](./8b-particles-explained.md)</sup>, **к существительным всегда что-то прикрепляется**:
+Và, như bạn biết<sup>[[8b]](./8b-particles-explained.md)</sup>, **danh từ luôn có thứ gì đó gắn vào chúng**:
 
-**логическая частица, чтобы сказать нам, какую роль они играют в предложении**,
+**một trợ từ logic để cho chúng ta biết vai trò của chúng trong câu**,
 
-**иногда нелогическая частица, а иногда связка**.
+**đôi khi là trợ từ phi logic, và đôi khi là copula**.
 
-Итак, **почти все они могут быть опущены в определённый момент.**
+Bây giờ, **hầu như tất cả những thứ này đều có thể bị bỏ qua vào một thời điểm nào đó.**
 
-**Если без маркера ясно, какую роль существительное играет в предложении**,
+**Nếu rõ ràng mà không cần dấu hiệu thì danh từ đang đóng vai trò gì trong câu**,
 
-**мы можем в неформальной речи**, не в формальной, а в неформальной речи, **опустить этот маркер.**
+**chúng ta có thể trong lời nói thông thường**, không phải trong lời nói trang trọng, nhưng trong lời nói thông thường, **chúng ta có thể bỏ qua dấu hiệu đó.**
 
 ---
 
-**Маркеры, которые опускаются чаще всего, — это** **<code>が</code>, <code>を</code>**, а также **нелогический маркер темы <code>は</code>**, и, конечно, **связка <code>だ</code>.**
+**Những dấu hiệu bị bỏ qua thường xuyên nhất là** **が, を**, và **trợ từ chủ đề phi logic は**, và cũng **copula <code>だ</code>.**
 
-Так, например, если я скажу <code>私アンドロイド</code>, **я опустила то, что, вероятно, было бы <code>は</code> после моего имени.**
+Vậy, ví dụ, nếu tôi nói <code>私アンドロイド</code>, **tôi đã bỏ qua cái mà có thể là は sau tên của tôi.**
 
-**Я также опустила <code>だ</code> после <code>アンドロイド</code>**.
+**Tôi cũng đã bỏ qua <code>だ</code> sau <code>アンドロイド</code>**.
 
 ![](../media/image89.webp)
 
-Теперь, если вы знаете, что я представляюсь или говорю что-то о себе, нет никаких сомнений в том, что здесь происходит.
+Bây giờ, nếu bạn biết rằng tôi đang tự giới thiệu hoặc nói điều gì đó về bản thân, thì không có nghi ngờ gì về những gì đang xảy ra ở đây.
 
-И... я не хочу слишком сильно возвращаться к теме Тэ Кима-сэнсэя, я сделала серию из трёх частей о вещах, которым Тэ Ким-сэнсэй учит, но которым на самом деле не должен учить, и я дам ссылку на неё<sup>[[77]](./77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar.md)</sup><sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup><sup>[[79]](./79-deeper-secret-of-the-copula.md)</sup>, но здесь я сделаю замечание, которое я не сделала там, **а именно, что Тэ Ким-сэнсэй говорит, что поскольку <code>だ</code> часто опускается, а <code>です</code> не опускается,** *(по его словам)* они на самом деле не одно и то же, они не обе являются связками.
+Và... Tôi không muốn quay lại quá nhiều về chủ đề Tae Kim-sensei, tôi đã làm một loạt ba phần về những thứ Tae Kim-sensei dạy mà thực ra ông ấy không nên dạy, và tôi sẽ liên kết đến đó<sup>[[77]](./77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar.md)</sup><sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup><sup>[[79]](./79-deeper-secret-of-the-copula.md)</sup>, nhưng điều tôi sẽ làm ở đây là đưa ra một điểm mà tôi đã không đề cập ở đó **đó là Tae Kim-sensei nói rằng vì <code>だ</code> thường bị bỏ qua và <code>です</code> không bị bỏ qua,** *(theo ông ấy)* chúng không thực sự giống nhau, chúng không phải đều là copula.
 
-### Почему <code>だ</code> часто опускается, а <code>です</code> — нет
+### Tại sao だ thường bị bỏ qua còn です thì không
 
-И я подробно разбирала это и объясняла, какой беспорядок это создаёт в японском, если игнорировать связку, так что не буду повторяться.
+Và tôi đã xử lý điều này một cách dài dòng và tôi đã giải thích việc bỏ qua copula sẽ tạo ra sự lộn xộn như thế nào cho tiếng Nhật, vậy nên tôi sẽ không lặp lại điều đó nữa.
 
-Но суть, которую я хочу здесь отметить, заключается в том, что причина, по которой <code>だ</code> может опускаться там, где <code>です</code> не может, двояка.
+Nhưng điểm tôi muốn đưa ra ở đây là lý do tại sao <code>だ</code> có thể bị bỏ qua ở những nơi mà <code>です</code> không thể có hai mặt.
 
-Прежде всего, **почему <code>だ</code> может опускаться так часто?**
+Trước tiên, **tại sao <code>だ</code> có thể bị bỏ qua thường xuyên như vậy?**
 
-Ну, если бы учебники учили нас базовой структуре японского, это было бы очевидно, но, конечно, они этого не делают.
+Chà, nếu sách giáo khoa dạy chúng ta cấu trúc cơ bản của tiếng Nhật, thì điều đó sẽ rõ ràng, nhưng tất nhiên chúng không làm vậy.
 
-**Самое основное в японской структуре — это то, что японское предложение может заканчиваться только одним из трёх способов.**
+**Điều cơ bản nhất về cấu trúc tiếng Nhật là một câu tiếng Nhật chỉ có thể kết thúc bằng một trong ba cách.**
 
-И я думаю, вы знаете, что это за три способа, не так ли? Давайте скажем это вместе.
+Và tôi nghĩ bạn biết ba cách đó là gì, phải không? Hãy cùng nói nào.
 
-**Японское предложение может заканчиваться только глаголом, прилагательным или существительным со связкой.**
+**Một câu tiếng Nhật chỉ có thể kết thúc bằng động từ, tính từ, hoặc danh từ-cộng-copula.**
 
 ![](../media/image176.webp)
 
-Теперь, как только мы это знаем, мы понимаем, почему связка может быть опущена очень легко.
+Bây giờ, một khi chúng ta biết điều đó, chúng ta biết tại sao copula có thể bị bỏ qua rất dễ dàng.
 
-**Как я уже говорила, частицы и связка опускаются** **там, где очевидно, чем были существительные без их маркировки.** Вот когда они опускаются.
-
----
-
-Итак, **если существительное стоит в конце предложения, мы знаем, что это не глагольное предложение.**
-
-**Мы знаем, что это не прилагательное предложение.**
-
-**Мы знаем, что это существительное со связкой.**
-
-И **поскольку мы это знаем, мы можем, если хотим, опустить связку.**
-
-И это, я думаю, причина, по которой Тэ Ким-сэнсэй поддаётся искушению сказать, что <code>だ</code> — это декларатив, своего рода словесный восклицательный знак.
-
-Он говорит, что люди используют <code>だ</code>, когда хотят подчеркнуть то, что говорят.
-
-Ну, **в этом есть доля правды, потому что факт в том,** **что в неформальной речи вы всегда можете опустить связку и при этом быть понятыми,** **поэтому, если вы говорите на том уровне неформальности, где вы, вероятно, опустили бы её,** **то когда вы её включаете, это означает, что вы хотите подчеркнуть то, что говорите.**
+**Như tôi đã nói trước đây, trợ từ và copula bị bỏ qua** **khi rõ ràng danh từ là gì mà không cần đánh dấu chúng.** Đó là khi chúng bị bỏ qua.
 
 ---
 
-**На самом деле, это не так просто, потому что многие люди не опускают её,** **не все опускают её постоянно.** Это немного сложнее, **но идея о том, что это декларатив, по крайней мере, содержит то зерно истины,** **что поскольку вы можете опустить её практически в любое время в неформальной речи,** **вы часто включаете её, потому что хотите подчеркнуть.**
+Bây giờ, **nếu một danh từ xuất hiện ở cuối câu, chúng ta biết rằng đó không phải là câu động từ.**
 
-Итак, если легко опустить связку, когда это <code>だ</code>, **почему нелегко опустить её, когда это <code>です</code>?**
+**Chúng ta biết rằng đó không phải là câu tính từ.**
 
-Тэ Ким-сэнсэй превращает это в целый аргумент в пользу того, что <code>だ</code> и <code>です</code> — это две разные вещи, но если вы подумаете, совершенно очевидно, почему <code>だ</code> опускается (я уже объяснила это) и почему <code>です</code> — нет.
+**Chúng ta biết rằng đó là câu danh từ-cộng-copula.**
 
-**<code>です</code> не опускается, потому что это формальная речь.**
+Và **vì chúng ta biết điều đó, chúng ta có thể, nếu muốn, bỏ qua copula.**
 
-**Во-первых, в формальной речи мы опускаем меньше.**
+Và điều này, tôi nghĩ, là lý do tại sao Tae Kim-sensei bị dụ dỗ nói rằng <code>だ</code> là một từ tuyên bố, một loại dấu chấm than bằng lời.
+
+Điều ông ấy đang nói là mọi người sử dụng <code>だ</code> khi họ muốn nhấn mạnh những gì họ đang nói.
+
+Chà, **có một chút sự thật trong điều đó vì thực tế là** **bạn có thể trong lời nói thông thường luôn bỏ qua copula và vẫn được hiểu,** **vậy nên nếu bạn đang nói ở mức độ thông thường mà bạn có thể sẽ bỏ qua nó,** **thì khi bạn bao gồm nó là khi bạn muốn nhấn mạnh những gì bạn đang nói.**
+
+---
+
+**Nó không thực sự đơn giản như vậy, vì rất nhiều người không bỏ qua nó,** **không phải ai cũng bỏ qua nó mọi lúc.** Nó phức tạp hơn một chút, **nhưng ý tưởng rằng nó là một từ tuyên bố ít nhất có hạt sự thật đó** **rằng vì bạn có thể bỏ qua nó khá nhiều bất cứ khi nào bạn muốn trong lời nói thông thường,** **bạn thường bao gồm nó vì bạn muốn nhấn mạnh nó.**
+
+Vậy nếu dễ dàng bỏ qua copula khi nó là <code>だ</code>, **tại sao không dễ dàng bỏ qua nó khi nó là <code>です</code>?**
+
+Tae Kim-sensei biến điều này thành toàn bộ lập luận cho thực tế rằng <code>だ</code> và <code>です</code> là hai thứ khác nhau, nhưng nếu bạn nghĩ về nó thì hoàn toàn rõ ràng tại sao <code>だ</code> bị bỏ qua (tôi đã giải thích điều đó rồi) và tại sao <code>です</code> thì không.
+
+**<code>です</code> không bị bỏ qua vì đó là lời nói trang trọng.**
+
+**Trước tiên, chúng ta bỏ qua ít hơn trong lời nói trang trọng.**
 
 ![](../media/image1041.webp)
 
-Мы не опускаем так много вещей в формальном предложении, как в неформальном. **Но даже если мы говорим формальной речью на свободном уровне,** **где мы можем опускать вещи из предложения,** **мы не опустим <code>です</code>.**
+Chúng ta không bỏ qua nhiều thứ trong một câu trang trọng như chúng ta làm trong một câu không trang trọng. **Nhưng ngay cả khi chúng ta đang nói lời nói trang trọng ở mức độ lỏng lẻo,** **nơi chúng ta có thể bỏ qua những thứ khỏi câu,** **chúng ta sẽ không bỏ qua <code>です</code>.**
 
-Почему нет?
+Tại sao không?
 
-Потому что есть только одна вещь, которая делает 丁寧語 (речь уровня <code>です</code>/<code>ます</code>) 丁寧語, **и это тот факт, что мы добавляем вспомогательный глагол <code>ます</code> в конец глагольных предложений** **и связку <code>です</code> в конец существительных со связкой** **и даже, избыточно, в конец прилагательных предложений.**
+Vì chỉ có một thứ làm cho 丁寧語 (lời nói mức độ です/ます) thành 丁寧語, **và đó là thực tế rằng chúng ta thêm động từ trợ giúp <code>ます</code> vào cuối câu động từ** **và copula <code>です</code> vào cuối câu danh từ-cộng-copula** **và thậm chí, một cách dư thừa, vào cuối câu tính từ.**
 
-**Так что вы не можете в 丁寧語 опустить <code>です</code>, не опустив при этом 丁寧語.**
+**Vậy nên bạn không thể, trong 丁寧語, bỏ qua <code>です</code> mà không bỏ qua 丁寧語.**
 
-Всё так просто.
+Đơn giản như vậy.
 
 ---
 
-Итак, **существуют различные правила о том, когда вы можете, а когда не можете** **опускать такие вещи, как <code>を</code>, из неформального предложения.**
+Bây giờ, **có nhiều quy tắc khác nhau về khi nào bạn có thể và không thể** **bỏ qua những thứ như を khỏi một câu thông thường.**
 
 ![](../media/image828.webp)
 
 ::: info
-Очевидно, это шутка… на всякий случай (ノ\*°▽°\*)
+Rõ ràng đó là một trò đùa...chỉ để đề phòng (ノ\*°▽°\*)
 :::
 
-**Теоретически вы можете опустить что-либо, когда это не нужно.**
+**Về lý thuyết bạn có thể bỏ qua một cái gì đó bất cứ khi nào nó không cần thiết.**
 
-**На практике есть места, где это кажется естественным,** **и другие места, где это не кажется естественным.**
+**Trong thực tế có những nơi mà nó có vẻ tự nhiên** **và những nơi khác mà nó không có vẻ tự nhiên.**
 
-Если вы хотите знать правила для этого, иногда они очень сложны, и даже когда они очень сложны, они не всегда работают.
+Nếu bạn muốn biết các quy tắc cho điều đó, đôi khi chúng rất phức tạp và ngay cả khi chúng rất phức tạp thì chúng không nhất thiết hoạt động mọi lúc.
 
-Но вам не нужно это знать.
+Nhưng bạn không cần biết điều đó.
 
-Почему вам не нужно это знать?
+Tại sao bạn không cần biết nó?
 
-Ну, давайте подумаем об этом.
+Chà, hãy nghĩ về điều này.
 
-**Вам нужно знать, что их можно опускать, и вам нужно знать, что** **их опускают в тех местах, где вы действительно можете понять, что они должны были быть.**
+**Bạn cần biết rằng chúng có thể bị bỏ qua và bạn cần biết rằng** **chúng bị bỏ qua ở những nơi mà bạn thực sự có thể tìm ra chúng định là gì.**
 
-Как только вы это узнаете, вы не будете плавать в океане странной неопределённости, где вещи опускаются, и вы понятия не имеете, что это такое.
+Một khi bạn biết điều đó, bạn không bơi trong đại dương của sự mơ hồ kỳ lạ nơi mà những thứ bị bỏ qua và bạn không biết chúng là gì.
 
-**Что вам не нужно, так это уметь воспроизводить очень неформальный японский** **точно так, как это делают японцы.**
+**Điều bạn không cần là có thể tái tạo tiếng Nhật rất thông thường** **theo đúng cách mà người Nhật làm.**
 
-И **это единственная причина, по которой вам нужно было бы изучать эти странные списки правил.**
+Và **đó là lý do duy nhất bạn cần học những danh sách quy tắc kỳ lạ này.**
 
-Если вы просто используете все частицы всё время, иногда, особенно когда вы говорите на неформальном японском, ваш японский будет звучать немного неестественно.
+Nếu bạn chỉ sử dụng tất cả các trợ từ mọi lúc, thỉnh thoảng, đặc biệt khi bạn đang nói tiếng Nhật thông thường, tiếng Nhật của bạn sẽ nghe có vẻ hơi cứng nhắc.
 
-Ну, и что с того?
+Chà, thế thì sao?
 
-**Язык, на котором говорят иностранцы, обычно звучит немного неестественно, не так ли?**
+**Ngôn ngữ được nói bởi người nước ngoài thường nghe có vẻ hơi cứng nhắc, phải không?**
 
-Вы, вероятно, замечали это в английском.
+Bạn có thể đã nhận thấy điều đó trong tiếng Anh.
 
-**Если вы собираетесь много использовать японский, постепенно, понемногу,** **вы привыкнете к местам, где вы можете естественно опускать вещи.**
+**Nếu bạn định sử dụng tiếng Nhật rất nhiều, dần dần, từng chút một,** **bạn sẽ quen với những nơi mà bạn có thể tự nhiên bỏ qua những thứ.**
 
-**Если вы не собираетесь много использовать японский,** **зачем вам сидеть и учить кучу правил,** **чтобы притвориться, что вы естественно освоили японский,** **когда вы не только не освоили, но и не собираетесь этого делать?**
+**Nếu bạn không định sử dụng tiếng Nhật nhiều,** **tại sao bạn muốn ngồi xuống và học một loạt quy tắc** **để bạn có thể giả vờ rằng bạn đã tự nhiên tiếp thu tiếng Nhật** **khi không chỉ bạn chưa làm vậy, mà bạn cũng không có ý định làm vậy?**
 
 ---
 
-**Так что мой совет вам: <code>Учите японский естественно</code>.**
+**Vậy lời khuyên của tôi dành cho bạn là <code>Học tiếng Nhật một cách tự nhiên</code>.**
 
-**Не пытайтесь запоминать наборы правил, когда всё, что они могут сделать, — это заставить вас казаться** **более привыкшими к японскому, чем вы есть на самом деле.**
+**Đừng cố gắng ghi nhớ các bộ quy tắc khi tất cả những gì chúng có thể làm là khiến bạn có vẻ** **như thể bạn quen với tiếng Nhật hơn so với thực tế.**
 
-**Но на практике они даже этого не сделают, потому что вы будете совершать ошибки.**
+**Nhưng trong thực tế chúng thậm chí không làm được điều đó, vì bạn sẽ mắc lỗi.**
 
-**Важно понять, как вещи опускаются в японском,** **почему они опускаются в японском, и** **как их понимать, когда они были опущены.**
+**Điều quan trọng cần hiểu là những thứ bị bỏ qua trong tiếng Nhật như thế nào,** **tại sao chúng bị bỏ qua trong tiếng Nhật, và** **cách hiểu chúng khi chúng đã bị bỏ qua.**
 
 ::: info
-Действительно отличный совет, Долли (o≧゜)o
+Lời khuyên tuyệt vời thật, Dolly (o≧▽゜)o
 :::
 
-### Опущение целых придаточных предложений
+### Bỏ qua toàn bộ mệnh đề
 
-Другой вид вещей, которые опускаются, третья категория опускаемых вещей, — это, по сути, целые придаточные предложения.
+Loại thứ khác bị bỏ qua, loại thứ ba của những thứ bị bỏ qua, về cơ bản là toàn bộ mệnh đề.
 
 ![](../media/image1104.webp)
 
-**Люди часто заканчивают предложение て-формой** **или окончанием типа <code>потому что</code> или <code>но</code>.**
+**Mọi người thường kết thúc một câu bằng dạng て** **hoặc một kết thúc kiểu <code>because</code> hoặc <code>but</code>.**
 
 ---
 
-И **что они делают в этих случаях, так это подводят** **ко второму придаточному предложению, которое добавило бы больше информации,** **но они не произносят это придаточное предложение.**
+Và **những gì họ đang làm trong những dịp này là dẫn dắt** **vào một mệnh đề thứ hai sẽ thêm một số thông tin nữa** **nhưng họ không phát biểu mệnh đề đó.**
 
-И это может служить различным целям.
+Và điều đó có thể phục vụ nhiều mục đích khác nhau.
 
-**Это может намекать на что-то, что они не хотят говорить.**
+**Nó có thể gợi ý về điều gì đó họ không muốn nói.**
 
-**Это может намекать на что-то, что, по их мнению, слишком очевидно, чтобы это нужно было говорить.**
+**Nó có thể gợi ý về điều gì đó mà họ nghĩ quá rõ ràng để cần phải nói.**
 
-**Или это может быть использовано просто для смягчения того, что вы говорите прямо сейчас,** **или, возможно, для небольшого усиления.**
+**Hoặc nó có thể được sử dụng chỉ để làm mềm điều bạn đang nói ngay bây giờ** **hoặc có thể để tăng cường nó một chút.**
 
-Я говорила об этом в других местах и дам ссылки на те места, где я это делала<sup>[[63]](./63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい.md)</sup>.
+Tôi đã nói về điều này ở những nơi khác và tôi sẽ liên kết đến những nơi mà tôi đã làm điều đó<sup>[[63]](./63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい.md)</sup>.
 
-Но это основные принципы опущения в японском языке, и как только вы их узнаете, всё это становится гораздо менее запутанным.
+Nhưng đây là những nguyên tắc cơ bản của sự lược bỏ trong tiếng Nhật, và một khi bạn biết chúng, toàn bộ vấn đề trở nên ít bối rối hơn nhiều.

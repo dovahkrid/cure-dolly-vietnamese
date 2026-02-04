@@ -1,121 +1,122 @@
 # **25. らしい vs そうだ / そうです + っぽい (ppoi)**
 
-[**Урок 25: らしい Rashii сделано рациональным! らしい vs そうです. らしい vs そうです. っぽい ppoi**](https://www.youtube.com/watch?v=y3KlZ6IwtQ0&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=31&ab_channel=OrganicJapanesewithCureDolly)
+[**Bài 25: らしい Rashii được làm rõ ràng!. Rashii vs sou desu. らしい vs そうです. っぽい ppoi**](https://www.youtube.com/watch?v=y3KlZ6IwtQ0&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=31&ab_channel=OrganicJapanesewithCureDolly)
 
-こんにちは.
+こんにちは。
 
-На прошлой неделе<sup>[[24]](./24-hearsay-guesses-そう-そうだ-そうです.md)</sup> мы говорили о вспомогательном прилагательном-существительном <code>そう</code> и о том, как мы используем его для выражения того, на что что-то может быть похоже, нашего впечатления о чём-то, а также для передачи слухов. Сегодня мы поговорим о других способах выражения схожего круга идей, о том, как они работают, чем они похожи и чем отличаются.
+Tuần trước<sup>[[24]](./24-hearsay-guesses-そう-そうだ-そうです.md)</sup> chúng ta đã nói về danh từ tính từ hỗ trợ <code>そう</code> và cách chúng ta sử dụng nó để diễn tả điều gì đó có thể như thế nào, ấn tượng của chúng ta về điều gì đó, và tin đồn. Hôm nay chúng ta sẽ nói về những cách khác để diễn tả một loạt ý tưởng tương tự, cách chúng hoạt động, chúng giống nhau như thế nào, và chúng khác nhau như thế nào.
 
 ## らしい
 
-Итак, мы рассмотрим **<code>らしい</code>, которое является вспомогательным прилагательным.** И **это прилагательное, оканчивающееся на -しい**, что мы можем назвать **подклассом прилагательных**.
+Vậy, chúng ta sẽ xem xét **<code>らしい</code>, đây là một tính từ hỗ trợ.** Và **đây là một tính từ kết thúc bằng -しい**, cái mà chúng ta có thể gọi là **một lớp con của tính từ**.
 
 ![](../media/image117.webp)
 
-Все настоящие прилагательные, как вы знаете, оканчиваются на -い. Так называемые прилагательные, которые не оканчиваются на -い, на самом деле являются прилагательными-существительными. *(такими как きれい/綺麗)* Но группа тех い-оканчивающихся прилагательных заканчивается на -しい. *(Думаю, некоторые из <code>настоящих</code> прилагательных.)* Как вы видите, **оно всё ещё оканчивается на -い, но также имеет -し, так что это -しい.** И характеристика этой группы прилагательных заключается в том, что **в целом они выражают субъективные качества.** То есть, **не точные измеримые качества, а вещи, которые в некоторой степени зависят от впечатления человека или других разумных существ о них.** Так, например, <code>かな/悲しい</code> означает <code>грустный</code>; <code>うれ/嬉しい</code> означает <code>счастливый</code>. <code>むずか/難しい</code> означает <code>трудный</code>, и хотя это кажется несколько более объективным, чем <code>嬉しい</code> и <code>悲しい</code>, **это всё же в некотором роде субъективность, потому что трудность относительна для конкретных людей.**
+Tất cả tính từ thực, như bạn biết, đều kết thúc bằng -い. Những tính từ được gọi là tính từ mà không kết thúc bằng -い thực ra là danh từ tính từ. *(chẳng hạn như きれい/綺麗)* Nhưng một nhóm những tính từ kết thúc bằng -い đó kết thúc bằng -しい. *(Tôi đoán một số tính từ <code>thực</code>.)* Như bạn thấy, **nó vẫn kết thúc bằng -い nhưng nó cũng có -し, vậy nên nó là -しい.** Và đặc điểm của nhóm tính từ này là **nhìn chung chúng diễn tả tính chủ quan.** Có nghĩa là, **không phải những phẩm chất chính xác có thể đo lường được mà là những thứ ở một mức độ nào đó phụ thuộc vào ấn tượng của con người hoặc những sinh vật có tri giác khác về chúng.** Vậy, ví dụ, <code>かな/悲しい</code> là <code>buồn</code>; <code>うれ/嬉しい</code> là <code>vui</code>. <code>むずか/難しい</code> có nghĩa là <code>khó</code> và trong khi điều này có vẻ khách quan hơn <code>嬉しい</code> và <code>悲しい</code>, **nó vẫn ở một cách nào đó là tính chủ quan bởi vì độ khó tương đối với từng cá nhân cụ thể.**
 
 ![](../media/image553.webp)
 
-**Насколько вы находите что-то трудным или лёгким, в значительной степени зависит от** **того, кто вы и каковы ваши способности.** Итак, это, как мы увидим, даёт нам представление о том, что это за слово и чем оно отличается от <code>そう</code>. Его использование очень простое. **Как и <code>そう</code>, оно может быть присоединено либо к отдельному слову, либо** **к завершённому логическому предложению.**
+**Việc bạn thấy một thứ khó hay dễ phụ thuộc rất nhiều vào** **bạn là ai và khả năng của bạn là gì.** Vậy điều này, như chúng ta sẽ thấy, cho chúng ta một dấu hiệu về loại từ này là gì và nó khác với <code>そう</code> như thế nào. Cách sử dụng của nó rất đơn giản. **Giống như <code>そう</code> nó có thể được gắn vào một từ riêng lẻ hoặc** **vào một mệnh đề logic hoặc câu hoàn chỉnh.**
 
 ![](../media/image9.webp)
 
-И присоединение абсолютно простое, потому что мы никогда ничего не делаем, кроме как **просто ставим <code>らしい</code> после слова или после завершённого логического предложения.** **Мы ничего не меняем, ничего не делаем, так что проще не бывает.**
+Và việc gắn vào hoàn toàn đơn giản, bởi vì chúng ta không bao giờ làm gì cả ngoại trừ **chỉ đặt <code>らしい</code> sau từ đó hoặc sau mệnh đề logic hoàn chỉnh.** **Chúng ta không thay đổi gì, chúng ta không làm gì, vậy nên nó thực sự không thể dễ hơn được.**
 
 ![](../media/image126.webp)
 
-Итак, **как и в случае с <code>そう</code>, если мы ставим его после отдельного слова,** **мы говорим о наших впечатлениях от этого конкретного объекта.** **Если мы ставим его после завершённого предложения**, мы говорим: <code>**кажется, что это так**</code>.
+Bây giờ, **như với <code>そう</code>, nếu chúng ta đặt nó sau một từ đơn** **chúng ta đang nói về ấn tượng của chúng ta về đối tượng cụ thể đó.** **Nếu chúng ta đặt nó sau một mệnh đề hoàn chỉnh**, chúng ta đang nói <code>**có vẻ như là thế**</code>.
 
-## Разница между らしい и そうだ/です
+## Sự khác biệt giữa らしい & そうだ/です
 
-Однако есть разница. Если мы ставим <code>そうだ</code> после завершённого предложения, как вы знаете, мы завершаем предложение, если необходимо, ещё одним <code>だ</code>, и это использование означает, что **мы слышали, что это предложение соответствует действительности.**
+Tuy nhiên, có một sự khác biệt. Nếu chúng ta đặt <code>そうだ</code> sau một mệnh đề hoàn chỉnh, như bạn biết, chúng ta hoàn thành mệnh đề, nếu cần thiết với một <code>だ</code> khác, và cách sử dụng đó có nghĩa là **chúng ta đã nghe rằng câu đó là đúng.**
 
 ![](../media/image167.webp)
 
-### らしい vs そうだ — после завершённого предложения
+### らしい vs そうだ - sau một mệnh đề hoàn chỉnh
 
-Итак, если мы говорим <code>あの動物はウサギだそうだ</code>, мы говорим: <code>Я слышал(а), что это животное — кролик</code>. А если мы говорим <code>あの動物はウサギだ**らしい**</code>, мы говорим: <code>**Кажется**, это животное — кролик</code>.
+Vậy nếu chúng ta nói, <code>あの動物はウサギだそうだ</code>, chúng ta đang nói <code>Tôi đã nghe rằng con vật đó là thỏ</code>. Bây giờ, nếu chúng ta nói, <code>あの動物はウサギだ**らしい**</code>, chúng ta đang nói <code>**Có vẻ như** con vật đó là thỏ</code>.
 
 ![](../media/image508.webp)
 
-Итак, **это может означать то же самое, что и** <code>ウサギだ**そうだ**</code>. Это может означать: <code>Я слышал(а), что это кролик</code>, и иногда учебники становятся довольно запутанными и сбивающими с толку относительно того, означает ли <code>らしい</code> на самом деле <code>Я слышал(а)</code> или <code>кажется</code>, но это очень просто, если вы точно понимаете, что оно делает. **На самом деле оно означает <code>похоже</code> или <code>кажется</code>, и это имеет точно такую же двусмысленность и отсутствие двусмысленности, как и в английском.**
+Bây giờ, **điều đó có thể có nghĩa giống như** <code>ウサギだ**そうだ**</code>. Nó có thể có nghĩa là <code>Tôi đã nghe rằng nó là thỏ</code>, và đôi khi sách giáo khoa trở nên khá phức tạp và gây nhầm lẫn về việc liệu <code>らしい</code> thực sự có nghĩa là <code>Tôi đã nghe</code> hay nó có nghĩa là <code>có vẻ như</code>, nhưng nó rất đơn giản nếu bạn hiểu chính xác nó đang làm gì. **Điều nó đang làm thực sự là nói <code>có vẻ như</code> hoặc <code>dường như</code>, và điều này có chính xác sự mơ hồ và không mơ hồ giống như điều đó có trong tiếng Anh.**
 
-Итак, давайте рассмотрим случай с этим загадочным животным. Предположим, я смотрю на него с группой людей, а потом вы подходите ко мне и спрашиваете: <code>Что это за животное?</code>, и я говорю: <code>ウサギだ**らしい**</code>. Итак, я дал(а) **завершённое предложение с <code>らしい</code> в конце**, и естественное значение здесь было бы: <code>**Я слышал(а) от тех людей, что** это был кролик.</code>
+Vậy hãy lấy trường hợp của con vật bí ẩn này. Giả sử tôi đang nhìn nó với một nhóm người và sau đó bạn đến gặp tôi và nói, <code>Con vật đó là gì?</code> và tôi nói, <code>ウサギだ**らしい**</code>. Bây giờ, tôi đã đưa ra **một câu hoàn chỉnh với <code>らしい</code> ở cuối**, và ý nghĩa tự nhiên ở đây sẽ là <code>**Tôi nghe từ những người đó rằng** nó là thỏ.</code>
 
 ---
 
-Теперь вы видите, это то же самое, как если бы по-английски я сказал(а): <code>**It appears that** it's a rabbit.</code> Теперь вы бы восприняли мои слова, как по-английски, так и по-японски, как: <code>**Из того, что я слышал(а) (от тех людей)**, это кролик</code>. Теперь рассмотрим другой сценарий. Кролик ушёл, и я осматриваю его следы, а вы подходите ко мне и спрашиваете: <code>Что это было за животное?</code>, и я говорю: <code>ウサギだった**らしい**</code>. Опять же, <code>**Похоже, что** это был кролик</code>, или <code>**Кажется, что** это был кролик.</code>
+Bây giờ, bạn thấy điều này giống như nếu trong tiếng Anh tôi nói, <code>**Có vẻ như** nó là thỏ.</code> Bây giờ, bạn sẽ hiểu tôi, trong tiếng Anh và tiếng Nhật, đang nói, <code>**Từ những gì tôi nghe (từ những người đó)**, nó là thỏ</code>. Bây giờ, lấy một tình huống khác. Con thỏ đã biến mất và tôi đang kiểm tra dấu chân của nó và bạn đến gặp tôi và nói, <code>Con vật đó là gì?</code> và tôi nói, <code>ウサギだった**らしい**</code>. Một lần nữa, <code>**Có vẻ như** nó là thỏ</code>, hoặc <code>**Dường như** nó là thỏ.</code>
 
 ![](../media/image845.webp)
 
-В этом случае вы, вероятно, сделали бы вывод из того, что я делаю, что, говоря <code>**Похоже**, это был кролик</code>, я говорю: <code>**Судя по доказательствам, которые я здесь вижу, похоже, что** это кролик.</code> Так что, видите, в этом нет ничего особенно грамматического или сложного. Это то же самое, что и в английском, если бы вы сказали <code>It appears that it's a rabbit</code> или <code>It seems that it's a rabbit</code>, **это зависит от контекста, подразумевает ли это, что это информация, которую вы слышали,** **или что это вывод, который вы делаете из своих наблюдений.**
+Trong trường hợp này, bạn có thể sẽ kết luận từ những gì tôi đang làm rằng bằng cách nói <code>**Có vẻ như** nó là thỏ</code>, tôi đang nói, <code>**Từ bằng chứng tôi đang xem xét ở đây, vẻ ngoài cho thấy rằng** nó là thỏ.</code> Vậy bạn thấy, không có gì đặc biệt về mặt ngữ pháp hoặc phức tạp về điều này. Nó giống như trong tiếng Anh nếu bạn nói <code>Có vẻ như nó là thỏ</code> hoặc <code>Dường như nó là thỏ</code>, **nó phụ thuộc vào ngữ cảnh liệu điều đó có ngụ ý rằng đó là thông tin bạn đã nghe** **hay đó là kết luận bạn đang rút ra từ những quan sát của mình.**
 
 ---
 
-**Если вы хотите быть совершенно недвусмысленным в том, что вы говорите о слухах,** **что вы говорите о чём-то, что вы слышали от других людей**, тогда вы говорите: <code>ウサギだった**そうだ**</code>.
+**Nếu bạn muốn hoàn toàn rõ ràng rằng bạn đang nói về tin đồn,** **rằng bạn đang nói về điều gì đó bạn nghe từ người khác**, thì bạn nói, <code>ウサギだった**そうだ**</code>.
 
 ![](../media/image516.webp)
 
-Это недвусмысленно. Это может означать только: <code>**Я слышал(а) это от кого-то**</code>.
+Điều đó là rõ ràng. Điều đó chỉ có thể có nghĩa là <code>**Tôi nghe nó từ ai đó**</code>.
 
-### らしい vs そうだ — отдельное слово
+### らしい vs そうだ - một từ riêng lẻ
 
-Теперь, когда мы применяем <code>らしい</code> к отдельному слову, самое непосредственное различие между <code>らしい</code> и <code>そうだ</code> заключается в том, что **мы не можем применять <code>そうだ</code> к обычному существительному.** **Мы можем применять его только к прилагательному-существительному**, и для этого есть веская причина.
+Bây giờ, khi chúng ta áp dụng <code>らしい</code> cho một từ riêng lẻ, sự khác biệt trực tiếp nhất giữa <code>らしい</code> và <code>そうだ</code> là **chúng ta không thể áp dụng <code>そうだ</code> cho một danh từ thông thường.** **Chúng ta chỉ có thể áp dụng nó cho một danh từ tính từ**, và có một lý do chính đáng cho điều đó.
 
 ![](../media/image894.webp)
 
-Мы вернёмся к этому через мгновение. **<code>らしい</code> вы можете применять к любому типу существительных,** **будь то прилагательное-существительное или обычное существительное.** Но оно по-настоящему раскрывает свой потенциал, когда применяется к обычным существительным.
+Chúng ta sẽ đến với nó trong một lúc. **<code>らしい</code> bạn có thể áp dụng cho bất kỳ loại danh từ nào,** **dù đó là danh từ tính từ hay danh từ thông thường.** Nhưng nó thực sự phát huy tác dụng khi được áp dụng cho danh từ thông thường.
 
 ---
 
-Как и следовало ожидать из того факта, что **это -しい прилагательное** – то есть, что мы ожидаем от него выражения большей степени субъективности – **оно обладает способностью уподоблять одну вещь другой.** Так, мы можем сказать <code>あの動物はウサギ**らしい**</code> – <code>Это животное **похоже на** кролика / это животное **кроликоподобное**.</code>
+Như bạn mong đợi từ thực tế rằng **nó là một tính từ -しい** – có nghĩa là, chúng ta mong đợi nó diễn tả một mức độ chủ quan lớn hơn – **nó có khả năng so sánh một thứ với thứ khác.** Vậy chúng ta có thể nói <code>あの動物はウサギ**らしい**</code> – <code>Con vật đó **giống** thỏ / con vật đó **như** thỏ.</code>
 
 ---
 
-Теперь, разница между этим и <code>そう</code>, помимо того факта, что вы можете применять <code>そう</code> только к прилагательным-существительным – и вот почему вы можете применять <code>そう</code> только к прилагательным-существительным – заключается в том, что когда мы говорим <code>あの動物はウサギ**らしい**</code>, **мы не обязательно предполагаем, что это на самом деле кролик.** **Мы можем быть полностью осведомлены о том, что это не кролик,** и просто говорим, что это **похоже на** кролика, это **кроликоподобное** животное. И, конечно, **мы можем превратить его в такое же прилагательное:** <code>ウサギ**らしい**動物</code> – <code>**кроликоподобное** животное</code>. И опять же, это то же самое, что и в английском. Если мы говорим <code>That animal **looks like** a rabbit</code>, мы можем иметь в виду <code>**Я предполагаю, что это** кролик</code>, или мы можем иметь в виду <code>Это, вероятно, не кролик, но оно определённо выглядит как кролик.</code> Теперь это расширяется на ещё более широкие области субъективности.
+Bây giờ, sự khác biệt giữa điều này và <code>そう</code>, ngoài thực tế rằng bạn chỉ có thể áp dụng <code>そう</code> cho danh từ tính từ – và đây là lý do tại sao bạn chỉ có thể áp dụng <code>そう</code> cho danh từ tính từ – là khi chúng ta nói <code>あの動物はウサギ**らしい**</code> **chúng ta không nhất thiết phải đoán rằng nó thực sự là thỏ.** **Chúng ta có thể hoàn toàn biết rằng nó không phải là thỏ** và chúng ta chỉ đơn giản đang nói rằng nó **giống** thỏ, nó là con vật **giống** thỏ. Và tất nhiên, **chúng ta cũng có thể biến nó thành loại tính từ đó:** <code>ウサギ**らしい**動物</code> – <code>một con vật **giống** thỏ</code>. Và một lần nữa, nó giống như trong tiếng Anh. Nếu chúng ta nói, <code>Con vật đó **trông giống** thỏ</code>, chúng ta có thể có nghĩa là <code>**Tôi đoán rằng nó là** thỏ</code> hoặc chúng ta có thể có nghĩa là <code>Nó có lẽ không phải là thỏ, nhưng nó chắc chắn trông giống thỏ.</code> Bây giờ, điều này mở rộng ra thành những khu vực chủ quan thậm chí lớn hơn.
 
-### らしい для более субъективных областей
+### らしい cho những khu vực chủ quan hơn
 
-Например, **мы можем сказать, что что-то обладает качествами чего-то.** Например, <code>男**らしい**男</code> — это <code>мужественный мужчина</code>, мужчина, **который обладает качествами** мужчины. Если мы говорим о ком-то, кто не является учителем, и говорим <code>先生**らしい**</code> – <code>Этот человек **похож на** учителя.</code> **Мы можем предполагать или не предполагать, что она на самом деле учитель.**
+Ví dụ, **chúng ta có thể nói rằng điều gì đó có những phẩm chất của điều gì đó.** Ví dụ, <code>男**らしい**男</code> là một <code>người đàn ông nam tính</code>, một người đàn ông **sở hữu những phẩm chất của** một người đàn ông. Nếu chúng ta nói về ai đó không phải là giáo viên và chúng ta nói <code>先生**らしい**</code> – <code>Người đó **giống** giáo viên.</code> **Chúng ta có thể hoặc không đoán rằng cô ấy thực sự là giáo viên.**
 
 ---
 
-Но если мы знаем, что она учитель, и говорим <code>さくら先生は先生**らしい**</code>, мы имеем в виду, что она **ведёт себя как** учитель.
+Nhưng nếu chúng ta biết rằng cô ấy là giáo viên và chúng ta nói, <code>さくら先生は先生**らしい**</code>, chúng ta có nghĩa là cô ấy **cư xử như** một giáo viên.
 
 ![](../media/image355.webp)
 
-**Она учитель, и у неё есть правильные качества и манеры для того, чтобы быть учителем.**
+**Cô ấy là một giáo viên và cô ấy có những phẩm chất và cách cư xử phù hợp để làm giáo viên.**
 
 ---
 
-И наоборот, мы могли бы сказать <code>さくら先生は、先生**らしくない**</code>, и в этом случае мы говорим: <code>Ну, мы знаем, что она учитель, но она **не ведёт себя как** учитель, она **не действует как** учитель.</code>
+Ngược lại, chúng ta có thể nói, <code>さくら先生は、先生**らしくない**</code> và trong trường hợp đó, chúng ta đang nói, <code>Chà, chúng ta biết cô ấy là giáo viên, nhưng cô ấy **không cư xử như** một giáo viên, cô ấy **không hành động như** một giáo viên.</code>
 
 ![](../media/image84.webp)
 
-Итак, видите, **с <code>らしい</code> мы углубляемся в гораздо более субъективные области.** **Мы не просто гадаем, действительно ли что-то вкусное или интересное,** **что мы можем подтвердить опытом.** **Мы говорим о наших впечатлениях, убеждениях и субъективных ощущениях, окружающих явление.** Теперь мы также можем сказать, например, если Сакура говорит что-то неприятное, а обычно она очень милая девушка, мы можем сказать: <code>それはさくら**らしくない**</code> – <code>Это **было/есть не похоже на** тебя, Сакура.</code> **Итак, мы говорим о качествах, субъективно воспринимаемых качествах вещи.** Таким образом, **в некоторых областях оно пересекается с <code>そうだ</code>,** **но в других областях оно продвигается в более тонкие и субъективные области.**
+Vậy bạn thấy, **với <code>らしい</code> chúng ta đang đi vào những khu vực chủ quan hơn nhiều.** **Chúng ta không chỉ đơn giản đoán liệu điều gì đó thực sự ngon hay thú vị,** **cái mà chúng ta có thể xác nhận bằng kinh nghiệm.** **Chúng ta đang nói về ấn tượng và niềm tin và tính chủ quan của chúng ta xung quanh hiện tượng đó.** Bây giờ, chúng ta cũng có thể nói những thứ như, ví dụ, nếu Sakura nói điều gì đó khó chịu và thường cô ấy là một cô gái rất ngọt ngào, chúng ta có thể nói, <code>それはさくら**らしくない**</code> – <code>Điều đó **không giống** bạn, Sakura.</code> **Vậy chúng ta đang nói về những phẩm chất, những phẩm chất được nhận thức chủ quan của một thứ.** Vậy, **trong một số khu vực nó chồng chéo với <code>そうだ</code>,** **nhưng trong những khu vực khác nó tiến về phía trước vào những khu vực tinh tế và chủ quan hơn.**
 
 ## っぽい
 
-Теперь мы также быстро рассмотрим っぽい, которое представляет собой маленький っ, за которым следует -ぽい, так что у нас есть небольшая пауза между этим и тем, что мы говорим. Итак, если мы хотим сказать <code>дет**ский**</code> (в смысле <code>ребяческий</code>), мы можем сказать <code>子ども**っぽい**</code>. **Оно работает очень похоже на <code>らしい</code>. Это также вспомогательное прилагательное.** **Оно гораздо более разговорное, чем <code>らしい</code>,** и мы обычно слышим его именно в такой форме – <code>子ども**っぽい**</code>, <code>ウサギ**っぽい**</code>.
+Bây giờ, chúng ta cũng sẽ nhanh chóng xem xét っぽい, đây là một っ nhỏ theo sau bởi -ぽい, vậy nên chúng ta có một khoảng nghỉ nhỏ giữa điều đó và những gì chúng ta đang nói. Vậy nếu chúng ta muốn nói <code>trẻ con</code>, chúng ta có thể nói <code>子ども**っぽい**</code>. **Nó hoạt động rất giống <code>らしい</code>. Nó cũng là một tính từ hỗ trợ.** **Nó bình dân hơn nhiều so với <code>らしい</code>** và chúng ta thường nghe nó chính xác ở dạng đó – <code>子ども**っぽい**</code>, <code>ウサギ**っぽい**</code>.
 
 ---
 
-**Вы не можете использовать っぽい в конце завершённого предложения. Вы можете присоединять его только к слову.** И помимо его разговорного характера, различие в тенденции от <code>らしい</code> заключается в том, что **<code>らしい</code> будет иметь тенденцию подразумевать, что качество является тем, чем что-то должно обладать.** **-っぽい часто имеет тенденцию подразумевать противоположное.** *(в основном, оно имеет тенденцию подразумевать нежелательное качество)*
+**Bạn không thể sử dụng っぽい ở cuối một mệnh đề hoàn chỉnh. Bạn chỉ có thể gắn nó vào một từ.** Và ngoài bản chất thông tục của nó, một sự khác biệt trong xu hướng từ <code>らしい</code> là **<code>らしい</code> sẽ có xu hướng ngụ ý rằng phẩm chất đó là thứ mà điều gì đó nên có.** **-っぽい thường có xu hướng ngụ ý điều ngược lại.** *(về cơ bản, nó có xu hướng ngụ ý một phẩm chất không mong muốn)*
 
 ---
 
-Здесь нет жёсткого правила, но **в <code>らしい</code>, как правило, присутствует положительная склонность, а в っぽい — отрицательная**, **хотя вы, безусловно, услышите, как их используют и наоборот в некоторых случаях.** Так, <code>子ども**らしい**</code> **с большей вероятностью будет подразумевать, что ребёнок ведёт себя подобающим ребёнку образом**, тогда как <code>子ども**っぽい**</code> имеет тенденцию означать <code>ребяческий</code>.
+Không có quy tắc cứng nhắc ở đây, nhưng **có xu hướng tích cực trong <code>らしい</code> và xu hướng tiêu cực trong っぽい**, **mặc dù bạn chắc chắn sẽ nghe chúng được sử dụng theo cách ngược lại trong một số dịp.** Vậy <code>子ども**らしい**</code> **có nhiều khả năng ngụ ý đứa trẻ đang cư xử theo cách phù hợp với một đứa trẻ**, trong khi <code>子ども**っぽい**</code> có xu hướng có nghĩa là <code>trẻ con</code>.
 
-На самом деле, в английском мы могли бы сказать, что <code>子ども**らしい**</code> означает <code>child-**like**</code> (по-детски), а <code>子ども**っぽい**</code> означает <code>child**ish**</code> (ребяческий), хотя это не так жёстко и однозначно, как в английском. **Оно может быть использовано и наоборот, не нарушая никаких реальных правил.** Когда я впервые появилась в этой конкретной оболочке, этом теле, которое я сейчас ношу – я, конечно, призрак в доспехах *(отличная отсылка, Долли :D)* – я говорила по-английски, представляя его, но сделала небольшое отступление на японском, потому что я действительно не знаю, как это сказать по-английски. Я сказала: "Что вы думаете обо мне, когда я выгляжу так? <code>人間っぽいね?</code> <code>人間**っぽい**ね</code> – <code>Это очень человекоподобно, не так ли?</code> И хотя это не было совсем уж уничижительным, смысл того, что я говорила, был: <code>Боже мой, в этой оболочке я **выгляжу действительно более** человекоподобной, **чем я есть на самом деле**, не так ли?</code> Что, я думаю, является причиной, по которой некоторые люди называют меня <code>жуткой</code>, потому что я, вероятно, просто слишком человекоподобна для того, кто не является человеком.
+Thực tế, trong tiếng Anh chúng ta có thể nói <code>子ども**らしい**</code> có nghĩa là <code>giống trẻ em</code> và <code>子ども**っぽい**</code> có nghĩa là <code>trẻ con</code>, mặc dù nó không cứng nhắc như thế trong tiếng Anh. **Nó có thể được sử dụng theo cách ngược lại mà không vi phạm bất kỳ luật thực tế nào.** Khi tôi lần đầu xuất hiện trong vỏ cụ thể này, cơ thể mà tôi đang mặc bây giờ – tôi tất nhiên là linh hồn trong vỏ *(tham chiếu hay đó, Dolly :D)* – tôi đã nói bằng tiếng Anh, giới thiệu nó, nhưng tôi đã nói một câu phụ bằng tiếng Nhật vì tôi thực sự không biết cách nói điều này bằng tiếng Anh. Tôi nói, "Bạn nghĩ gì về tôi khi tôi trông như thế này? <code>人間っぽいね?</code> <code>人間**っぽい**ね</code> – <code>Trông rất giống người, phải không?</code> Và trong khi nó không hoàn toàn chê bai, ý nghĩa của những gì tôi đang nói là <code>Trời ơi, trong vỏ này tôi **trông thực sự giống** người **hơn tôi thực sự**, phải không?</code> Đó là lý do tại sao một số người gọi tôi là <code>đáng sợ</code>, bởi vì tôi có lẽ chỉ hơi quá giống người đối với ai đó không phải là người.
 
 ::: info
-Может быть немного сложно сказать, какие части перевода мне следует выделить, чтобы они соответствовали тому, что Долли даёт на 日本語, но, надеюсь, это поможет, я стараюсь вывести их как можно лучше (p^-^)p
-В любом случае, с этого момента я не буду использовать эти подчёркивания примерно до Урока 78.
+Có thể hơi khó để nói phần dịch nào tôi nên làm nổi bật để tương ứng với những gì Dolly đưa ra bằng 日本語, nhưng hy vọng nó giúp ích, tôi cố gắng suy luận nó tốt nhất có thể (p^-^)p
+**Dù sao, từ đây trở đi, tôi sẽ không sử dụng những gạch chân này cho đến khoảng Bài 78.**
 
-В более поздних уроках они снова появятся, в этих промежуточных уроках их нет, потому что тогда я использовал(а) только жирный шрифт и не добавлял(а) подчёркивания до более позднего времени, поэтому пока на них нет линий.
+**Các bài sau sẽ có chúng trở lại, những bài này ở giữa không có chúng vì tôi chỉ sử dụng in đậm trước đây và không thêm gạch chân cho đến sau này, do đó không có gạch chân trên chúng bây giờ.**
 
-Также, уроки с этого момента и до 64 входят в число первых, которые я редактировал(а), и я ещё не просматривал(а) там заметки, так что имейте это в виду и воспринимайте их с долей скептицизма, как обычно, на всякий случай, поскольку мой японский всё ещё очень ограничен, и я не получал(а) отзывов от более профессиональных/продвинутых людей по ним.
-Причина также в том, что я был(а) (и до сих пор в некотором роде остаюсь) не совсем уверен(а), следует ли мне их использовать (Yomichan не хочет правильно сканировать части с другим стилем, а 10ten — хочет…)
+**Ngoài ra, các bài từ bây giờ đến 64 là những bài đầu tiên tôi chỉnh sửa, và tôi chưa xem lại ghi chú ở đó, vậy nên hãy ghi nhớ điều đó và coi chúng như muối như thường lệ chỉ để phòng trường hợp vì tiếng Nhật của tôi vẫn còn rất hạn chế và tôi chưa nhận được phản hồi từ những người chuyên nghiệp / nâng cao hơn về chúng.**
+**Lý do cũng khi đó là tôi đã (và vẫn hơi) không hoàn toàn chắc chắn liệu tôi nên hay không nên sử dụng chúng (Yomichan không muốn quét đúng cách những phần có kiểu khác nhau, 10ten thì có thể…)
 
-Потребовалось много времени и работы, чтобы подчеркнуть важные части, так что, возможно, я вернусь к этому позже, чтобы сделать это хотя бы последовательным. Если можете, пожалуйста, дайте мне знать через Discord или Mail, предпочитаете ли вы подчёркнутые важные части или просто неподчёркнутый текст, так как иногда количество <code>важного материала</code> может быть немного сложнее читать, когда всё подчёркнуто. С жирным шрифтом было ещё хуже, поэтому я перестал(а) его использовать и преобразовал(а).
+Tôi đã mất rất nhiều thời gian và công sức để gạch chân những phần quan trọng, vậy nên có lẽ tôi sẽ quay lại sau để làm cho nó nhất quán ít nhất.
+Nếu bạn có thể, xin hãy cho tôi biết qua Discord hoặc Mail liệu bạn thích những phần quan trọng được gạch chân hay chỉ đơn giản là văn bản không gạch chân vì đôi khi lượng <code>thứ quan trọng</code> có thể hơi khó đọc hơn khi mọi thứ đều được gạch chân. Với in đậm thì còn tệ hơn, do đó tại sao tôi ngừng sử dụng nó và chuyển đổi.
 :::

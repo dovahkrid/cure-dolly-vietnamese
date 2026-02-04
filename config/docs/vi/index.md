@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: <code>Скрипты Cure Dolly</code>
-  text: <code>в Markdown</code>
-  tagline: Читайте весь курс японского языка от Долли на удобном и быстром сайте
+  name: <code>Cure Dolly script</code>
+  text: <code>in Markdown</code>
+  tagline: Đọc toàn bộ khóa học tiếng Nhật của Dolly trên một trang web tiện lợi và nhanh chóng
   image: /background.webp
   actions:
     - theme: brand
-      text: Начать с 1-го урока
+      text: Đọc từ bài học đầu tiên
       link: /1-the-basic-types-of-sentences
     - theme: alt
-      text: О проекте
+      text: Giới thiệu
       link: /about
 
 

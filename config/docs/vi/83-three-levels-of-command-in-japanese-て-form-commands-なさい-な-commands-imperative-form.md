@@ -1,58 +1,58 @@
-# **83. Три уровня повелительного наклонения в японском: て-форма, なさい, な-повелительное, императив.**
+# **83. Ba cấp độ mệnh lệnh trong tiếng Nhật: mệnh lệnh dạng て, なさい, mệnh lệnh な, dạng mệnh lệnh.**
 
-[**Три уровня повелительного наклонения в японском: て-форма, なさい, な-повелительное, императив. Урок 83**](https://www.youtube.com/watch?v=zayeW4AQ0Is&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=90)
+[**Ba cấp độ mệnh lệnh trong tiếng Nhật: mệnh lệnh dạng て, なさい, mệnh lệnh な, dạng mệnh lệnh. Bài 83**](https://www.youtube.com/watch?v=zayeW4AQ0Is&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=90)
 
 こんにちは。
 
-Сегодня мы поговорим о способах формирования команд и просьб в японском языке. Вероятно, некоторые из них вы уже знаете, но, думаю, мы углубимся в некоторые моменты, о которых вы, возможно, не догадывались.
+Hôm nay chúng ta sẽ nói về các cách đưa ra mệnh lệnh và yêu cầu trong tiếng Nhật. Có lẽ bạn đã biết một số trong số này rồi, nhưng tôi nghĩ chúng ta sẽ đi sâu hơn vào những điều bạn có thể chưa nhận ra.
 
-**Мы будем двигаться от наименее повелительных и интенсивных к наиболее**, поэтому начнём с того, что мы все знаем, — с て-формы.
+**Chúng ta sẽ đi từ cách ít mang tính mệnh lệnh và nhẹ nhàng nhất đến mạnh mẽ nhất**, vì vậy chúng ta sẽ bắt đầu với một cách mà tất cả chúng ta đều biết, đó là dạng て.
 
-## て-форма
+## Dạng て
 
-Некоторые источники скажут вам, что て-форма сама по себе является формой команды или просьбы. **Это лишь наполовину правда. Это сокращение команды или просьбы.**
+Một số nguồn sẽ nói với bạn rằng dạng て đứng một mình là một dạng mệnh lệnh hoặc yêu cầu. **Điều đó chỉ đúng một nửa. Nó là dạng viết tắt của một mệnh lệnh hoặc yêu cầu.**
 
-Если мы говорим <code>ちょっと待って</code> (подожди немного), **это сокращение** от <code>ちょっと待ってください</code> (подождите немного, пожалуйста).
+Nếu chúng ta nói <code>ちょっと待って</code> (đợi một chút), **đây là dạng viết tắt** của <code>ちょっと待ってください</code> (xin hãy đợi một chút)
 
 ![](../media/image1039.webp)
 
-И, вероятно, из-за этого она наименее вероятно будет оскорбительной, хотя **всё ещё является неформальной.**
+và có lẽ vì điều này mà nó là cách ít có khả năng gây khó chịu nhất, mặc dù **nó vẫn mang tính thân mật.**
 
-Теперь, иногда вы услышите, как люди говорят не <code>ちょっと待って</code>, а <code>ちょっと待って**て**</code>. Что здесь происходит?
+Bây giờ, đôi khi bạn sẽ nghe mọi người nói không phải <code>ちょっと待って</code> mà là <code>ちょっと待って**て**</code>. Điều gì đang xảy ra ở đây?
 
 ![](../media/image200.webp)
 
-По сути, они говорят: <code>**Подожди немного, и я вернусь**</code>. **Подразумевается, что период ожидания закончится довольно скоро.**
+Về cơ bản những gì họ đang nói là <code>**Đợi một chút và tôi sẽ quay lại**</code>. **Ý nghĩa ngầm là thời gian chờ đợi sẽ kết thúc khá sớm.**
 
-И на самом деле это сокращение от <code>ちょっと待って**いて**</code>. Как мы знаем, <code>待っている</code> означает <code>существовать в состоянии ожидания</code>, <code>быть в ожидании</code> на английском. **Так что <code>ちょっと待ってて</code> на самом деле берёт это <code>待っている</code> и ставит его в て-форму**, **чтобы то, что вас просят или инструктируют сделать, было существованием в состоянии ожидания.**
+Và thực tế đây là dạng rút gọn của <code>ちょっと待って**いて**</code>. Như chúng ta biết <code>待っている</code> có nghĩa là <code>tồn tại trong trạng thái chờ đợi</code>, <code>đang chờ</code>, trong tiếng Anh. **Vậy <code>ちょっと待ってて</code> thực tế là lấy <code>待っている</code> này và đặt nó vào dạng て**, **để những gì bạn được yêu cầu hoặc hướng dẫn làm là tồn tại trong trạng thái chờ đợi.**
 
-И подразумевается, что **просто немного побудете в состоянии ожидания.** **И, конечно, это не обязательно должно быть ожидание, это может быть что угодно,** **но подразумевается, что просто сделайте это ненадолго, просто побудете в этом состоянии короткое время.**
+Và ý nghĩa ngầm của điều này là, **chỉ tồn tại một chút trong trạng thái chờ đợi.** **Và tất nhiên điều này không nhất thiết phải là chờ đợi, nó có thể là bất cứ điều gì,** **nhưng ý nghĩa ngầm là, chỉ làm nó một chút, chỉ tồn tại trong trạng thái đó trong thời gian ngắn.**
 
 ---
 
-**Если мы не говорим <code>ちょっと</code>** (а мы не обязательно это делаем), **ничто не указывает на короткое время, но это всегда подразумевается**, **когда вы говорите кому-то с помощью て-формы существовать в определённом состоянии.**
+**Nếu chúng ta không nói <code>ちょっと</code>** (và chúng ta không nhất thiết phải nói) **thì không có gì chỉ ra thời gian ngắn, nhưng đó luôn là ý nghĩa ngầm** **khi bảo ai đó với dạng て tồn tại trong một trạng thái cụ thể.**
 
-### て-форма со вспомогательным прилагательным ない
+### Dạng て với tính từ phụ trợ ない
 
-Ещё одна вещь, которую нужно знать о て-форме, используемой для того, чтобы сказать или попросить кого-то что-то сделать, заключается в том, что, как мы знаем, **эквивалентное отрицательное прилагательное любого глагола** **образуется путём простого присоединения вспомогательного прилагательного <code>ない</code> к あ-основе.**
+Điều khác cần biết về dạng て được sử dụng để bảo hoặc yêu cầu ai đó làm gì đó là, như chúng ta biết, **tính từ phủ định tương đương của bất kỳ động từ nào** **được tạo bằng cách đơn giản gắn tính từ phụ trợ <code>ない</code> vào thân あ.**
 
-**И вспомогательное прилагательное <code>ない</code> на самом деле необычно тем, что имеет две て-формы.** У него есть обычная て-форма, которая образуется так же, как любая другая て-форма, путём присоединения -て к く-основе, то есть <code>なくて</code>, **но у него также есть неправильная て-форма <code>ないで</code>.**
+**Và tính từ phụ trợ <code>ない</code> thực tế khá bất thường ở chỗ nó có hai dạng て.** Nó có dạng て thông thường, được tạo giống như bất kỳ dạng て nào khác, bằng cách gắn -て vào thân く, vậy đó là <code>なくて</code>, **nhưng nó cũng có dạng て bất quy tắc <code>ないで</code>.**
 
 ![](../media/image697.webp)
 
-И при присоединении к глаголу это используется только в двух случаях.
+Và khi gắn vào một động từ, điều này chỉ được sử dụng trong hai loại tình huống.
 
-#### ないで - неправильная て-форма от ない
+#### ないで - dạng て bất quy tắc của ない
 
-Один случай — когда мы говорим <code>делать Б, не делая А</code>, так что <code>話さないで歩く</code> означает <code>идти, не разговаривая</code>. **Другой — когда мы формируем ту самую команду или просьбу в て-форме.**
+Một là khi chúng ta nói <code>làm B mà không làm A</code>, vậy <code>話さないで歩く</code> có nghĩa là <code>đi mà không nói chuyện</code>. **Cái khác là khi chúng ta đưa ra mệnh lệnh hoặc yêu cầu dạng て đó.**
 
-И снова, это сокращение от <code>ないでください</code>. Так что, если мы говорим <code>**泣かないで**</code> (не плачь), **это использует эту вторую, специализированную て-форму от <code>ない</code>**, **которая специально предназначена для формирования отрицательных команд или просьб**, **а также для того другого использования, которое мы обсуждали.**
+Và một lần nữa nó là dạng viết tắt của <code>ないでください</code>. Vậy nếu chúng ta nói <code>**泣かないで**</code> (đừng khóc), **đó là sử dụng dạng て thứ hai, chuyên biệt này của <code>ない</code>**, **được tạo ra đặc biệt để đưa ra mệnh lệnh hoặc yêu cầu phủ định**, **cũng như cho một cách sử dụng khác mà chúng ta đã thảo luận.**
 
-Иногда в аниме вы услышите, как кто-то кричит, когда к ней приближается монстр: <code>来ないで!</code> (не подходи).
+Và đôi khi trong anime bạn sẽ nghe ai đó hét lên, khi một con quái vật đang tiến đến gần cô ấy, <code>来ないで!</code> (đừng đến).
 
 ![](../media/image955.webp)
 
-В английском мы, вероятно, сказали бы <code>Держись подальше!</code> В японском мы говорим <code>来ないで!</code>
+Trong tiếng Anh chúng ta có lẽ sẽ nói <code>Keep away!</code> Trong tiếng Nhật chúng ta nói <code>来ないで!</code>
 
 ::: info
 ![](../media/image152.webp)
@@ -60,125 +60,127 @@
 
 ## なさい
 
-Теперь, следующий в нашей иерархии команд — <code>なさい</code>. **<code>なさい</code> присоединяется к い-основе глаголов**, и **когда вы присоединяете <code>なさい</code> к い-основе глагола, вы превращаете его в команду.**
+Bây giờ, tiếp theo trong hệ thống phân cấp mệnh lệnh của chúng ta là <code>なさい</code>. **<code>なさい</code> được gắn vào thân い của động từ**, và **khi bạn gắn <code>なさい</code> vào thân い của một động từ, bạn biến nó thành một mệnh lệnh.**
 
 ![](../media/image740.webp)
 
-Итак, <code>起きなさい</code> — это <code>вставай / просыпайся</code>; <code>落ち着きなさい</code> (успокойся, угомонись), **мы присоединяем <code>なさい</code> к い-основе <code>落ち着く</code>,** **что означает <code>успокоиться</code> или <code>угомониться</code>, и превращаем это в команду.**
+Vậy, <code>起きなさい</code> là <code>dậy / thức dậy</code>; <code>落ち着きなさい</code> (bình tĩnh lại, ổn định lại), **chúng ta đang gắn <code>なさい</code> vào thân い của <code>落ち着く</code>,** **có nghĩa là <code>bình tĩnh lại</code> hoặc <code>ổn định lại</code> và biến nó thành một mệnh lệnh.**
 
 ---
 
-**<code>なさい</code> — это своего рода команда, которую дают родители детям,** **учителя классу, и тому подобное.** **Она не является оскорбительной, если её даёт тот, кто имеет на это право.**
+**<code>なさい</code> là loại mệnh lệnh được đưa ra bởi cha mẹ với con cái,** **giáo viên với lớp học, những kiểu như vậy.** **Nó không gây khó chịu nếu được đưa ra bởi ai đó có quyền đưa ra nó.**
 
 ---
 
-Так, например, в аниме <code>借りぐらしのアリエッティ</code> отец Ариэтти говорит <code>寝なさい</code>. **Это い-основа, которую, конечно, у итидан-глаголов мы образуем, просто** **убирая -る, от <code>寝る</code>** (спать или ложиться спать) **плюс <code>なさい</code>.**
+Vậy, ví dụ, trong anime <code>借りぐらしのアリエッティ</code>, cha của Arietty nói <code>寝なさい</code>. **Đó là thân い, tất nhiên với động từ ichidan chúng ta tạo bằng cách đơn giản** **bỏ -る, của <code>寝る</code>** (ngủ, hoặc đi ngủ) **cộng <code>なさい</code>**.
 
-### な - сокращение от なさい
+### な - dạng viết tắt của なさい
 
-**Что здесь может сбивать с толку, так это то, что существует сокращение от <code>なさい</code>,** **которое можно спутать с другим сокращением, означающим противоположное.** **И это сокращение — <code>な</code>.**
+**Điều có thể gây nhầm lẫn ở đây là có một dạng viết tắt của <code>なさい</code>** **có thể bị nhầm lẫn với một dạng viết tắt khác có nghĩa ngược lại.** **Và dạng viết tắt đó là <code>な</code>.**
 
-Когда мы присоединяем <code>な</code> **к い-основе глагола**, то мы на самом деле сокращаем <code>なさい</code>. **Так что, если мы говорим <code>準備しな</code>, мы говорим <code>準備しなさい</code> (готовься, приготовься)**: <code>準備する</code>, い-основа от <code>する</code>, <code>し</code> + <code>なさい</code> или <code>な</code>.
+Khi chúng ta gắn <code>な</code> **vào thân い của một động từ**, thì chúng ta thực tế đang viết tắt <code>なさい</code>. **Vậy nếu chúng ta nói <code>準備しな</code>, chúng ta đang nói <code>準備しなさい</code> (chuẩn bị sẵn sàng)**: <code>準備する</code>, thân い của <code>する</code>, <code>し</code> + <code>なさい</code> hoặc <code>な</code>.
 
 ![](../media/image402.webp)
 
-Само по себе это не особенно сбивает с толку. Что может сбить с толку, так это если мы скажем, например, <code>バカにするな</code> (не смейся надо мной, над ней);
+Bây giờ, bản thân điều đó không đặc biệt gây nhầm lẫn. Điều có thể làm mọi người nhầm lẫn là nếu chúng ta nói, ví dụ, <code>バカにするな</code> (đừng chế giễu tôi, cô ấy);
 
 ![](../media/image317.webp)
 
-<code>それを食べるな</code> (не ешь это! [может быть яд]). **Это означает противоположное!**
+<code>それを食べるな</code> (đừng ăn cái đó! \[có thể là độc\]). **Điều này có nghĩa ngược lại!**
 
-**Мы используем <code>な</code> как для команды что-то сделать,** **так и для команды что-то не делать.** Так как же нам их различить? К счастью, это очень просто.
+**Chúng ta đang sử dụng <code>な</code> cho cả mệnh lệnh làm gì đó** **và mệnh lệnh không làm gì đó.** Vậy làm thế nào để phân biệt hai cái? May mắn thay, nó rất dễ.
 
-**Если <code>な</code> присоединяется к い-основе, то это сокращение от <code>なさい</code>.**
+**Nếu <code>な</code> được gắn vào thân い, thì nó là dạng viết tắt của <code>なさい</code>.**
 
 ![](../media/image819.webp)
 
-**Это всегда так.**
+**Nó luôn luôn như vậy.**
 
 ---
 
-**Если же оно не присоединяется к い-основе, а присоединяется ко всему логическому предложению,** **как в <code>それを食べるな</code>, то это не сокращение от <code>なさい</code>.** **На самом деле это более старая отрицательная форма, связанная с <code>ない</code>.**
+**Nếu nó không được gắn vào thân い mà được gắn vào toàn bộ mệnh đề logic** **như trong <code>それを食べるな</code>, thì nó không phải là dạng viết tắt của <code>なさい</code>.** **Thực tế nó là một dạng phủ định cũ hơn liên quan đến <code>ない</code>.**
 
 ![](../media/image729.webp)
 
-Так что на самом деле, хотя поначалу они могут показаться запутанными, и, вероятно, они сбивают с толку, когда какой-нибудь учебник просто говорит вам выучить, к каким конкретным формам они прикрепляются, на практике это не так уж и запутанно.
+Vậy thực sự, mặc dù chúng có thể có vẻ gây nhầm lẫn lúc đầu và có lẽ gây nhầm lẫn khi bạn được một số sách giáo khoa bảo chỉ cần học những dạng cụ thể mà chúng gắn vào, nhưng trong thực tế nó không thực sự gây nhầm lẫn.
 
-**Один присоединяется только там, где <code>なさい</code> присоединился бы к い-основе,** **и это тот, который означает <code>なさい</code>!** **Другой завершает полное логическое предложение с помощью отрицающей <code>な</code>.**
+**Một cái chỉ gắn vào nơi <code>なさい</code> sẽ gắn vào thân い,** **và đó là cái có nghĩa là <code>なさい</code>!** **Cái kia kết thúc một mệnh đề logic hoàn chỉnh với <code>な</code> phủ định.**
 
 ::: info
-Дополнительная информация, которую Долли даёт о なさい в комментариях
+Một số thông tin thêm mà Dolly đưa ra về なさい trong phần bình luận
 
 ![](../media/image683.webp)
 :::
 
+## Dạng mệnh lệnh thực sự / dạng mệnh lệnh - 命令形
 
-## Настоящая повелительная форма / императив - 命令形
-
-И теперь мы переходим к настоящей повелительной форме, <code>命令形</code> в японском языке.
+Và bây giờ chúng ta đến với dạng mệnh lệnh thực sự, <code>命令形</code> trong tiếng Nhật.
 
 ![](../media/image531.webp)
 
-**И она образуется очень просто: путём использования голой え-основы годан-глагола или,** **в случае итидан-глагола, мы, как всегда, убираем -る и заменяем его на -ろ.**
+**Và điều này được tạo rất đơn giản bằng cách sử dụng thân え trần của động từ godan hoặc,** **trong trường hợp của động từ ichidan, chúng ta bỏ -る như thường lệ, và thay thế nó bằng -ろ.**
 
-Так что вы можете услышать, как люди говорят в аниме <code>黙れ!</code> **Это глагол <code>黙る</code>** (молчать, быть тихим), **превращённый в команду:** **<code>Молчи!</code>**
+Vậy bạn có thể nghe mọi người nói trong anime <code>黙れ!</code> **Đó là động từ <code>黙る</code>** (im lặng, yên lặng) **được biến thành một mệnh lệnh:** **<code>Im lặng!</code>**
 
-**И это действительно довольно сильно.** **Это сильнее и потенциально более оскорбительно, чем <code>うるさい!</code>** (И [**я делала видео об <code>うるさい</code>**](https://www.youtube.com/watch?v=1jBOq1EHwvs), если вы хотите это изучить.)
+**Và điều này thực sự khá mạnh mẽ.** **Nó mạnh hơn và có khả năng gây khó chịu hơn <code>うるさい!</code>** (Và [**tôi đã làm một video về <code>うるさい</code>**](https://www.youtube.com/watch?v=1jBOq1EHwvs) nếu bạn muốn theo dõi điều đó.)
 
-**Она не является оскорбительной по своей сути,** 
+**Nó không gây khó chịu về bản chất,**
 
 ::: info
-форма 命令形
+dạng 命令形
 :::
 
-**Если кто-то действительно имеет право отдавать приказы, он может её использовать.** **И люди, которые говорят грубо, могут использовать её среди друзей или с врагами.**
+**Nếu ai đó thực sự có quyền đưa ra mệnh lệnh, họ có thể sử dụng nó.** **Và những người nói chuyện thô lỗ có thể sử dụng nó giữa bạn bè hoặc với kẻ thù.**
 
-Вы можете часто слышать её в сёнэн-аниме, где люди склонны говорить грубо. **Она также может выражать срочность в некоторых случаях.** **Один из случаев, который вы часто услышите, это когда персонаж находится в серьёзной беде** **и кричит <code>助けてくれ！</code>, что похоже на <code>助けてください！</code>,** **но превращает это в настоящий приказ, команду.**
+Bạn có thể nghe nó nhiều trong anime shounen, nơi mọi người có xu hướng nói chuyện thô lỗ. **Nó cũng có thể thể hiện sự khẩn cấp trong một số trường hợp.** **Một trường hợp mà bạn sẽ thường nghe là khi một nhân vật gặp rắc rối nghiêm trọng** **và kêu lên <code>助けてくれ！</code> giống như <code>助けてください！</code>** **nhưng biến nó thành một mệnh lệnh thực sự, một lệnh.**
 
-Теперь, очевидно, что кто-то в большой беде не пытается оскорбить или обидеть того, кто мог бы ему помочь. **Так что это <code>くれ</code> в данном случае выражает срочность ситуации.**
+Bây giờ, rõ ràng ai đó gặp rắc rối lớn không cố gắng xúc phạm hoặc làm khó chịu bất kỳ ai có thể giúp anh ta. **Vậy <code>くれ</code> này đang làm trong trường hợp này là thể hiện tính khẩn cấp của tình huống.**
 
-И всё же, даже здесь, я должна сказать, что слышала, как **только мужские персонажи используют это <code>助けてくれ</code>.** Женские персонажи, даже в самой крайней чрезвычайной ситуации, склонны довольствоваться <code>助けて!</code>
+Tuy nhiên ngay cả ở đây, tôi phải nói rằng tôi chỉ từng nghe **các nhân vật nam sử dụng <code>助けてくれ</code> này.** Các nhân vật nữ, ngay cả trong tình huống khẩn cấp nhất, sẽ có xu hướng hài lòng với <code>助けて!</code>
 
-**И это показывает, насколько деликатна на самом деле настоящая повелительная форма <code>命令形</code>.** **<code>くれ</code> — это действительно единственная неправильная <code>命令形</code>, кроме** **двух обычных неправильных, которыми являются <code>する</code> и <code>くる</code>.**
+**Và điều này cho thấy dạng mệnh lệnh <code>命令形</code> thực sự tinh tế như thế nào.** **<code>くれ</code> thực sự là <code>命令形</code> bất quy tắc duy nhất ngoài** **hai dạng bất quy tắc thông thường, đó là <code>する</code> và <code>くる</code>.**
 
 ![](../media/image995.webp)
 
-**Итак, <code>くれる</code> (давать вниз / мне) становится <code>くれ</code>.**
+**Vậy <code>くれる</code> (cho xuống / cho tôi) trở thành <code>くれ</code>.**
 
 ::: info
-Очевидно, как показано, くれ — это форма от **くれる**; а не от くる/来る (у этого こい/来い)
+Rõ ràng, như đã chỉ ra, くれ là một dạng của **くれる**; không phải くる/来る (cái đó có こい/来い)
 :::
+
 ---
 
-И, как видите, **это особенно щекотливое слово для использования,** **потому что вы просите об одолжении, но при этом требуете его,** **вы приказываете кому-то оказать вам одолжение.**
+Và, như bạn thấy, **đó là một loại từ đặc biệt nhạy cảm để sử dụng,** **bởi vì bạn đang yêu cầu một ân huệ nhưng bạn đang đòi hỏi nó,** **bạn đang ra lệnh cho ai đó làm một ân huệ xuống cho bạn.**
 
-Теперь, для полноты картины, я бы сказала, что есть ещё два способа отдавать команды, которые в основном используются для других целей, но также могут быть использованы как повелительные формы.
+Bây giờ, để hoàn thiện, tôi muốn nói rằng có hai cách mệnh lệnh khác chủ yếu được sử dụng cho những việc khác nhưng cũng có thể được sử dụng như các dạng mệnh lệnh.
 
-## Окончание のだ / んだ
+## Kết thúc のだ / んだ
 
-**Одно из них — окончание <code>のだ / んだ</code>, которое ставится в конце полного логического предложения,** и [**я делала видео об этом окончании <code>のだ / んだ</code>**](https://www.youtube.com/watch?v=lYvIOi8Q3I8), и я оставлю ссылку на него над моей головой и в разделе информации ниже.
+**Một là kết thúc <code>のだ / んだ</code> được đặt ở cuối một mệnh đề logic hoàn chỉnh,** và [**tôi đã làm một video về kết thúc <code>のだ / んだ</code> này**](https://www.youtube.com/watch?v=lYvIOi8Q3I8), và tôi sẽ đặt một liên kết đến đó phía trên đầu tôi và trong phần thông tin bên dưới.
 
-Как я объясняю в видео, **оно имеет широкий спектр применений**, **но одно из них — превращение чего-либо в команду.** Так что, если мы говорим <code>宿題をする**のだ**</code>, мы буквально говорим <code>**Это то, что** (ты) делаешь (свою) домашнюю работу</code>.
+Như tôi giải thích trong video, **nó có một loạt các cách sử dụng**, **nhưng một trong những cách sử dụng đó là biến thứ gì đó thành một mệnh lệnh.** Vậy nếu chúng ta nói <code>宿題をする**のだ**</code>, chúng ta đang nói theo nghĩa đen <code>**Đó là** (bạn) làm bài tập về nhà</code>.
 
 ![](../media/image220.webp)
 
-Это будет чем-то вроде английского <code>You're going to do your homework</code> (Ты сделаешь свою домашнюю работу). **Это команда.**
+Điều này sẽ giống như tiếng Anh <code>You're going to do your homework</code>. **Đó là một mệnh lệnh.**
 
 ## ように
 
-**Также <code>ように</code>, которое в качестве окончания обычно больше ассоциируется с** **молитвами, прошениями и просьбами, также может формировать команду.**
+**Ngoài ra, <code>ように</code>, như một từ kết thúc sẽ có xu hướng được liên kết nhiều hơn với** **lời cầu nguyện và đơn thỉnh cầu và yêu cầu, cũng có thể tạo thành một mệnh lệnh.**
 
 ::: info
 ![](../media/image1093.webp)
 :::
+
 ---
 
-И главная причина, по которой я упоминаю их, заключается в том, что **если вы столкнётесь с ними** **в своём погружении и увидите что-то, что обычно делает что-то другое,** **выглядящее как команда, <code>のだ</code> или <code>ように</code>, то не удивляйтесь этому.** **В этих случаях это команда.**
+Và lý do chính tôi đề cập đến những điều này là bởi vì **nếu bạn gặp chúng** **trong quá trình học ngôn ngữ và bạn thấy thứ gì đó thường làm việc khác** **trông giống như một mệnh lệnh, <code>のだ</code> hoặc <code>ように</code>, thì đừng bối rối vì nó.** **Trong những trường hợp này, đó là một mệnh lệnh.**
 
 ::: info
-Это может быть полезно:
+Điều này có thể hữu ích:
 
 ![](../media/image363.webp)
 
 ![](../media/image498.webp)
+
 :::

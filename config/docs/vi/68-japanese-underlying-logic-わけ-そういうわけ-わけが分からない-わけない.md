@@ -1,187 +1,189 @@
-# **68. Глубинная логика японского языка: わけ、そういうわけ、わけが分からない、わけない**
+# **68. <code>Lôgic cơ bản</code> tiếng Nhật: わけ、そういうわけ、わけが分からない、わけない**
 
-[**Глубинная логика японского языка: わけ、そういうわけ、わけが分からない, わけない | Урок 68**](https://www.youtube.com/watch?v=iU79wvDyDfk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=70&ab_channel=OrganicJapanesewithCureDolly)
+[**<code>Lôgic cơ bản</code> tiếng Nhật: わけ、そういうわけ、わけが分からない、わけない | Bài 68**](https://www.youtube.com/watch?v=iU79wvDyDfk&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=70&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Сегодня мы поговорим о <code>わけ</code>,
+Hôm nay chúng ta sẽ nói về <code>わけ</code>,
 
 ![](../media/image1067.webp)
 
-японском слове, которое может вызвать довольно много путаницы, потому что оно используется в самых разных способах и ситуациях в японском языке, а в англоязычных словарях у него целый ряд определений, которые кажутся особенно разрозненными и запутанными. Однако, как только мы поймём настоящую логику, глубинное значение этого слова, всё встанет на свои места довольно красиво. Итак, что же такое <code>わけ</code>?
+đây là một từ tiếng Nhật có thể gây ra khá nhiều nhầm lẫn vì nó được sử dụng theo nhiều cách và tình huống khác nhau trong tiếng Nhật, và trong từ điển tiếng Anh nó có một loạt định nghĩa dường như đặc biệt rời rạc và khó hiểu. Tuy nhiên, một khi chúng ta hiểu được lôgic thực sự, ý nghĩa cơ bản của từ này, mọi thứ sẽ trở nên khá rõ ràng. Vậy <code>わけ</code> là gì?
 
 ## わけ/訳
 
-Прежде всего, давайте посмотрим на определение из английского словаря. В онлайн-словаре говорится, что <code>わけ</code> означает «вывод из рассуждений; суждение или расчёт, основанный на чём-то прочитанном или услышанном; причина; повод; значение; обстоятельства; ситуация».
+Trước tiên, hãy xem định nghĩa trong từ điển tiếng Anh. Trong từ điển trực tuyến, nó nói rằng <code>わけ</code> có nghĩa là "kết luận từ lý luận; 
+phán đoán hoặc tính toán dựa trên điều gì đó đã đọc hoặc nghe;
+lý do; nguyên nhân; ý nghĩa; hoàn cảnh; tình huống".
 
 ![](../media/image932.webp)
 
-Так что же из всего этого оно на самом деле означает? Что ж, для приятного разнообразия словарь на самом деле соглашается, что это существительное. <code>わけ</code> — это существительное, так что же это за существительное?
+Vậy thực sự nó có nghĩa là gì trong tất cả những điều đó? Chà, thật hiếm khi từ điển thực sự đồng ý rằng đó là một danh từ. <code>わけ</code> là một danh từ, vậy nó là loại danh từ nào?
 
-Что такое <code>わけ</code>? Давайте немного углубимся в историю этого слова.
+<code>わけ</code> là gì? Chà, hãy xem một chút về lịch sử của từ này.
 
-Изначально <code>わけ</code> означало <code>делить или разделять</code>. Так что оно связано с <code>分ける</code>, глаголом, означающим <code>делить или разделять</code>, а также, что более важно для наших текущих целей, с <code>分かる</code>, которое также фундаментально означает <code>делить или разделять</code>, но в смысле <code>разбивать на части или анализировать</code>.
+Ban đầu, <code>わけ</code> có nghĩa là <code>chia hoặc tách</code>. Vì vậy nó có liên quan với <code>分ける</code>, là một động từ có nghĩa là <code>chia hoặc tách</code>, và cũng, quan trọng hơn cho mục đích hiện tại của chúng ta, <code>分かる</code>, về cơ bản cũng có nghĩa là <code>chia hoặc tách</code> nhưng theo nghĩa <code>phân tích hoặc phân tích</code>.
 
 ![](../media/image209.webp)
 
-Итак, когда мы говорим <code>本が分かる</code>, как я уже указывала в предыдущих уроках, мы на самом деле не говорим <code>Я понимаю книгу</code>; мы говорим <code>книга делает понятным или делает ясным</code>. Мы могли бы сказать по-английски <code>The book is clear to me</code> (Книга мне понятна), но на самом деле это не прилагательное, это глагол — <code>книга делает ясным (для меня)</code>.
+Vì vậy, khi chúng ta nói <code>本が分かる</code>, như tôi đã chỉ ra trong các bài học trước, chúng ta thực tế không nói <code>Tôi hiểu cuốn sách</code>; chúng ta đang nói <code>cuốn sách trở nên có thể hiểu được hoặc trở nên rõ ràng</code>. Chúng ta có thể nói bằng tiếng Anh <code>Cuốn sách rõ ràng với tôi</code>, nhưng thực tế đó không phải là tính từ, mà là động từ — <code>cuốn sách trở nên rõ ràng (với tôi)</code>.
 
-Но когда мы говорим <code>clear</code> (ясный), мы используем немного не ту метафору, если хотим углубиться в фактическую этимологию слова. <code>Clear</code> — это метафора, очевидно, от видения. Но настоящая метафора, лежащая в основе <code>分かる</code>, — это разбиение на составные части, анализ или возможность анализа. *(см. Урок 59)*
+Nhưng khi chúng ta nói <code>rõ ràng</code>, chúng ta đang sử dụng một ẩn dụ hơi sai nếu chúng ta muốn đi sâu vào từ nguyên thực sự của từ này. <code>Rõ ràng</code> rõ ràng là một ẩn dụ từ việc nhìn thấy. Nhưng ẩn dụ thực sự làm nền tảng cho <code>分かる</code> là được chia nhỏ thành các phần cấu thành, được phân tích hoặc có thể phân tích được. *(xem Bài 59)*
 
 ![](../media/image959.webp)
 
-И это то, что <code>わけ/訳</code> означает здесь. Теперь я знаю, что некоторые из вас, возможно, думают: <code>но это другой кандзи</code>.
+Và đó là ý nghĩa của <code>わけ/訳</code> ở đây. Bây giờ tôi biết một số bạn có thể nghĩ <code>nhưng đó là một kanji khác</code>.
 
 ![](../media/image629.webp)
 
-Что ж, это правда. Мы обычно ассоциируем <code>分かる</code> с этим кандзи, но на самом деле вы можете написать слово <code>分かる</code> тремя разными возможными кандзи, и все они имеют немного разные значения — *分かる*, *解る*, *判る*, и я [**написала статью**](https://www.youtube.com/watch?v=6bI_WLm8Jmo&ab_channel=OrganicJapanesewithCureDolly) *(на самом деле это видео)* об этом, если вам интересно, так что я оставлю ссылку в разделе информации ниже *(то, что по ссылке, — это видео).*
+Chà, điều đó đúng. Chúng ta thường liên kết <code>分かる</code> với kanji này, nhưng thực tế bạn có thể viết từ <code>分かる</code> với ba kanji khác nhau có thể và tất cả đều có những hàm ý hơi khác nhau — *分かる*, *解る*, *判る* và tôi đã [**viết một bài báo**](https://www.youtube.com/watch?v=6bI_WLm8Jmo&ab_channel=OrganicJapanesewithCureDolly) *(thực tế đó là một video)* về điều đó nếu bạn quan tâm, vì vậy tôi sẽ đặt một liên kết trong phần thông tin bên dưới *(những gì được liên kết là một video).*
 
-Суть в том, что <code>わけ / 分かる</code> не привязано к какому-либо одному кандзи. Это фундаментальное японское слово, которое восходит дальше, чем кандзи, используемые для его представления, и фундаментальная идея во всех этих случаях одна и та же: идея разделения, деления, анализа, разбиения.
+Điểm quan trọng là <code>わけ / 分かる</code> không gắn liền với bất kỳ kanji nào. Đó là một từ tiếng Nhật cơ bản có nguồn gốc xa hơn kanji được sử dụng để biểu diễn nó, và ý tưởng cơ bản trong tất cả các trường hợp này đều giống nhau: ý tưởng về sự tách biệt, phân chia, phân tích, phân tích.
 
-Итак, что же на самом деле такое <code>わけ/訳</code>? Давайте возьмём наиболее заметные английские определения: причина, повод и вывод, основанный на чём-то, что мы видели или слышали.
+Vậy, <code>わけ/訳</code> thực sự là gì? Hãy lấy những định nghĩa tiếng Anh nổi bật nhất, đó là: nguyên nhân, lý do, và kết luận dựa trên điều gì đó chúng ta đã thấy hoặc nghe.
 
-Теперь давайте отметим, что причина, повод и вывод, вообще говоря, относятся к одному и тому же. Основное различие заключается в том, идёт ли процесс назад или вперёд.
+Bây giờ, hãy lưu ý rằng nguyên nhân, lý do, và kết luận nói chung đề cập đến cùng một điều. Sự khác biệt chính là liệu quá trình đang đi ngược lại hay quá trình đang đi về phía trước.
 
-Возьмём пример. Если я говорю <code>Sakura was out in the rain, and therefore she's wet</code> (Сакура была под дождём, и поэтому она мокрая), мы берём два известных факта и констатируем причинно-следственную, логическую связь между ними.
+Hãy lấy một ví dụ. Nếu tôi nói <code>Sakura đã ra ngoài trời mưa, và do đó cô ấy bị ướt</code>, chúng ta đang lấy hai sự thật đã biết và nêu ra mối liên hệ nhân quả, lý luận giữa hai điều đó.
 
 ![](../media/image687.webp)
 
-Если я говорю <code>Sakura is wet and therefore I reason that she was out in the rain</code> (Сакура мокрая, и поэтому я рассуждаю, что она была под дождём), мы берём ту же самую часть рассуждения, ту же причинность, и работаем в другом направлении.
+Nếu tôi nói <code>Sakura bị ướt và do đó tôi suy luận rằng cô ấy đã ra ngoài trời mưa</code>, chúng ta đang lấy chính xác cùng một phần lý luận, cùng một nhân quả, và làm việc theo hướng khác.
 
 ![](../media/image51.webp)
 
-Мы работаем от одного известного факта к другому неизвестному факту, к которому мы приходим с помощью рассуждений. Но этот фрагмент рассуждения, эта причинно-следственная связь, эта фундаментальная глубинная рациональность, одинакова в обоих утверждениях.
+Chúng ta đang làm việc từ một sự thật đã biết đến một sự thật chưa biết khác mà chúng ta sử dụng lý luận để đạt được. Nhưng phần lý luận đó, mối liên kết nhân quả đó, tính hợp lý cơ bản đó, là giống nhau trong cả hai tuyên bố.
 
-В одном случае мы работаем вперёд, в другом — назад, но эта фундаментальная глубинная причинно-логическая рациональность, если можно так выразиться, одинакова. И я придумала фразу <code>reasonality</code> (рациональность), потому что в английском языке для этого нет подходящего слова.
+Trong một trường hợp chúng ta đang làm việc theo hướng tiến, trong trường hợp khác chúng ta đang làm việc ngược lại, nhưng tính hợp lý nhân quả lôgic cơ bản đó, để tạo ra một cụm từ, là giống nhau. Và tôi đã tạo ra cụm từ <code>tính hợp lý</code> vì thực sự không có từ nào cho điều này trong tiếng Anh.
 
-Но в японском языке оно есть, и это слово <code>わけ/訳</code>. Итак, <code>わけ</code>, как мы видим, выражает причину, повод и вывод или логическое суждение — всё это.
+Nhưng trong tiếng Nhật có, và từ đó là <code>わけ/訳</code>. Vì vậy <code>わけ</code>, như chúng ta thấy, thể hiện một nguyên nhân, một lý do, và một kết luận hoặc một phán đoán lôgic — tất cả những điều đó.
 
-Что оно на самом деле выражает, так это глубинную причинность или рациональность, и когда словари говорят, что оно также выражает обстоятельство или ситуацию или что-то в этом роде, на самом деле оно этого не делает, но оно выражает глубинную рациональность обстоятельства или ситуации.
+Điều nó thực sự thể hiện là nhân quả hoặc tính hợp lý cơ bản, và khi từ điển nói rằng nó cũng thể hiện một hoàn cảnh hoặc tình huống hoặc điều gì đó như thế, thực tế nó không thực sự làm điều đó, nhưng điều nó làm là thể hiện tính hợp lý cơ bản của một hoàn cảnh hoặc tình huống.
 
-И как только мы это поймём, мы сможем начать понимать различные способы использования <code>わけ</code>. Итак, оно используется для указания причины.
+Và một khi chúng ta hiểu điều đó, chúng ta có thể bắt đầu hiểu những cách khác nhau mà <code>わけ</code> được sử dụng. Vì vậy, nó được sử dụng để đưa ra một lý do.
 
 ## そういうわけ
 
-Итак, если кто-то говорит <code>そういうわけでベッドの下に隠れた</code> — *По такой-то рациональности я спрятался под кроватью* <code>вот почему я прятался под кроватью</code> — это причина.
+Vì vậy, nếu ai đó nói <code>そういうわけでベッドの下に隠れた</code> — *Bởi tính hợp lý như vậy tôi đã ẩn dưới giường* <code>đó là lý do tại sao tôi ẩn dưới giường</code> — đó là lý do.
 
 ![](../media/image1086.webp)
 
-Если мы находим решение того, что казалось невозможным преступлением, мы говорим <code>そういうわけでした</code> — <code>так вот как это произошло</code>.
+Nếu chúng ta tìm ra giải pháp cho những gì dường như là một tội ác không thể, chúng ta nói, <code>そういうわけでした</code> — <code>vậy là nó đã xảy ra như thế</code>.
 
 ![](../media/image17.webp)
 
-И мы на самом деле не говорим о факте преступления, обстоятельстве преступления, ситуации преступления; мы говорим о рациональности, которая сначала казалась совершенно неясной, а теперь мы её поняли.
+Và chúng ta thực sự không nói về sự thật của tội ác, hoàn cảnh của tội ác, tình huống của tội ác; chúng ta đang nói về tính hợp lý mà lúc đầu dường như hoàn toàn mơ hồ và bây giờ chúng ta đã hiểu.
 
-И если вы заметили, в этой фразе мы говорим <code>そういうわけでした</code> в прошедшем времени. Это не потому, что мои рассуждения произошли в прошлом. Мои рассуждения могут происходить прямо сейчас. Но это потому, что глубинная рациональность события произошла во время события, и именно об этом мы говорим.
+Và nếu bạn chú ý, trong cụm từ này chúng ta nói <code>そういうわけでした</code>, ở thì quá khứ. Không phải vì lý luận của tôi đã xảy ra trong quá khứ. Lý luận của tôi có thể đang xảy ra ngay bây giờ. Nhưng đó là vì tính hợp lý cơ bản của sự kiện đã xảy ra vào thời điểm của sự kiện, và đó là điều chúng ta đang nói về.
 
-Если мы говорим <code>そんなわけで宿題を忘れました</code> – *По такой рациональности я забыл домашнее задание*
+Nếu chúng ta nói <code>そんなわけで宿題を忘れました</code> – *Bởi tính hợp lý như vậy tôi đã quên bài tập về nhà*
 
 ![](../media/image781.webp)
 
-мы говорим <code>вот почему я забыл домашнее задание</code>, это причина, причинно-следственная связь, которая объясняет, почему я забыл домашнее задание и почему вы не должны меня винить.
+chúng ta đang nói <code>đó là lý do tại sao tôi quên bài tập về nhà</code>, đó là lý do, mối liên kết nhân quả cho chúng ta biết tại sao tôi quên bài tập về nhà và tại sao bạn không nên trách tôi.
 
 ## わけが分からない / 訳が分からない
 
-Теперь, <code>わけ</code> используется во многих отрицательных конструкциях, которые очень важны в японском языке. Одна из тех, что вы часто услышите, это <code>わけが分からない</code>.
+Bây giờ, <code>わけ</code> được sử dụng trong rất nhiều cách sử dụng phủ định rất quan trọng trong tiếng Nhật. Một cách mà bạn sẽ thường nghe là <code>わけが分からない</code>.
 
 ![](../media/image366.webp)
 
-Теперь, это очень озадачивает, если мы не знаем, что означает <code>わけ</code>, и мы также, как это бывает, если вы серьёзно относитесь к учебникам, не знаем, что означает <code>分かる</code>. <code>分かる</code>, как мы знаем, не означает <code>понимать</code>; оно означает <code>делать ясным</code> или, если взять наиболее буквальный смысл слова, <code>делать разбитым на части / делать проанализированным</code>.
+Bây giờ, điều đó rất khó hiểu nếu chúng ta không biết <code>わけ</code> có nghĩa là gì và chúng ta cũng, như trường hợp nếu bạn coi trọng sách giáo khoa, không biết <code>分かる</code> có nghĩa là gì. <code>分かる</code>, như chúng ta biết, không có nghĩa là <code>hiểu</code>; nó có nghĩa là <code>trở nên rõ ràng</code> hoặc, nếu chúng ta lấy nghĩa đen nhất của từ này, <code>được phân tích / được phân tích</code>.
 
-Итак, то, что мы на самом деле говорим здесь, это то, что рассуждение, глубинная рациональность чего-то <code>не делает проанализированным</code>. ИИ-сущности, подобные мне, склонны выражаться так: <code>логика этого не поддаётся вычислению</code>. Другими словами, это бессмыслица, это нонсенс.
+Vì vậy, điều chúng ta thực sự đang nói ở đây là lý luận, tính hợp lý cơ bản của điều gì đó <code>không được phân tích</code>. Cách mà các thực thể AI như tôi có xu hướng diễn đạt là <code>lý luận đằng sau điều đó không tính toán được</code>. Nói cách khác, nó vô nghĩa, nó là vô lý.
 
-### わけ как <code>Это не то чтобы…</code> / <code>Дело не в том, что…</code> / <code>Это не значит, что…</code>
+### わけ như <code>Không phải là...</code> / <code>Không phải là</code> / <code>Không có nghĩa là...</code>
 
-В других отрицательных употреблениях <code>わけ</code> часто используется для обозначения <code>это не то чтобы... / дело не в том, что...</code> или <code>это не значит, что...</code> И, конечно, все они на самом деле фундаментально сводятся к одному и тому же.
+Trong các cách sử dụng phủ định khác, <code>わけ</code> thường được sử dụng để có nghĩa là <code>không phải là... / không phải là...</code> hoặc <code>không có nghĩa là...</code> Và tất nhiên, tất cả những điều đó thực tế về cơ bản đều chia nhỏ thành cùng một điều.
 
-Мы берём предложение А, а затем говорим, что из него нельзя сделать вывод предложения Б. Так, если мы говорим, например, что она всегда ест в дешёвых ресторанах, а затем добавляем <code>お金が足りないわけではない</code>, мы говорим <code>дело не в том, что у неё не хватает денег</code> или <code>это не то чтобы у неё не хватало денег</code>. / *Деньги-недостаточны рациональность есть-не*
+Chúng ta lấy câu A và sau đó chúng ta nói rằng kết luận câu B không thể được rút ra từ nó. Vì vậy, nếu chúng ta nói, ví dụ, rằng cô ấy luôn ăn ở những nhà hàng rẻ tiền và sau đó thêm <code>お金が足りないわけではない</code>, chúng ta đang nói <code>không phải là cô ấy thiếu tiền</code> hoặc <code>không phải là cô ấy thiếu tiền</code>. / *Tiền-không-đủ tính hợp lý không-phải*
 
-То, что мы говорим здесь, это то, что вывод из того факта, что она всегда ест в дешёвых ресторанах, не заключается в том, что у неё не хватает денег; у неё не хватает денег.
+Điều chúng ta đang nói ở đây là kết luận từ việc cô ấy luôn ăn ở những nhà hàng rẻ tiền không phải là cô ấy thiếu tiền; cô ấy không thiếu tiền.
 
 ![](../media/image116.webp)
 
-Кто-то может сказать: <code>嫉妬したわけではありません</code> — <code>дело не в том, что я ревновал(а)</code>. Опять же, <code>не делайте из моих действий или слов вывод, что я ревновал(а). Это было не так</code>.
+Ai đó có thể nói, <code>嫉妬したわけではありません</code> — <code>không phải là tôi ghen tị</code>. Một lần nữa, <code>đừng rút ra từ hành động hoặc lời nói của tôi kết luận rằng tôi ghen tị. Đó không phải là điều đó</code>.
 
 ![](../media/image199.webp)
 
-И, по сути, словари здесь говорят, что <code>わけ</code> означает ситуацию или обстоятельство, потому что они воспринимают эти утверждения как отрицающие ситуацию или обстоятельство, но, как вы видите, это не совсем то, что они делают.
+Và, về cơ bản, từ điển ở đây nói rằng <code>わけ</code> có nghĩa là một tình huống hoặc một hoàn cảnh vì họ coi những tuyên bố này là phủ nhận tình huống hoặc hoàn cảnh, nhưng như bạn thấy, đó không chính xác là điều họ đang làm.
 
-Они не отрицают ситуацию или обстоятельство, они отрицают глубинную рациональность ситуации или обстоятельства, и при этом также неявно отрицают ситуацию или обстоятельство, но это не всегда так.
+Họ không phủ nhận tình huống hoặc hoàn cảnh, họ đang phủ nhận tính hợp lý cơ bản của tình huống hoặc hoàn cảnh, và khi làm điều đó cũng ngầm phủ nhận tình huống hoặc hoàn cảnh, nhưng điều đó không phải lúc nào cũng đúng.
 
-Например, мы могли бы сказать: <code>То, что она толстая, не означает, что она слишком много ест</code> — <code>食べすぎるわけではない</code>, рациональность не в том, что она слишком много ест.
+Ví dụ, chúng ta có thể nói <code>Chỉ vì cô ấy béo không có nghĩa là cô ấy ăn quá nhiều</code> — <code>食べすぎるわけではない</code>, tính hợp lý không phải là cô ấy ăn quá nhiều.
 
 ![](../media/image859.webp)
 
-И мы, возможно, не говорим, что она не ест слишком много. Мы просто говорим, что тот факт, что она толстая, не обязательно означает, что она слишком много ест, это неверное рассуждение.
+Và chúng ta có thể không nói rằng cô ấy không ăn quá nhiều. Chúng ta chỉ nói rằng việc cô ấy béo không nhất thiết có nghĩa là cô ấy ăn quá nhiều, đó không phải là lý luận tốt.
 
-Мы не знаем, правда это или нет, но из того факта, что она толстая, мы не можем этого сказать. Итак, то, что мы делаем во всех этих случаях, это отрицаем определённую рациональную связь.
+Chúng ta không biết điều đó có đúng hay không, nhưng từ việc cô ấy béo chúng ta không thể nói điều đó. Vì vậy, điều chúng ta đang làm trong tất cả các trường hợp này là phủ nhận một mối liên hệ hợp lý nhất định.
 
-Мы говорим, что этой рациональной связи не существует. Существует ли факт, который она подразумевает, или нет, на самом деле не то, о чём мы здесь говорим. В некоторых случаях мы подразумеваем, что его нет, в некоторых случаях мы можем ничего не подразумевать ни в ту, ни в другую сторону.
+Chúng ta đang nói rằng mối liên hệ hợp lý đó không tồn tại. Việc sự thật mà nó ngụ ý có tồn tại hay không thực sự không phải là điều chúng ta đang nói về ở đây. Trong một số trường hợp chúng ta đang ngụ ý rằng nó không tồn tại, trong một số trường hợp chúng ta có thể không ngụ ý gì cả.
 
-Но важно то, что мы отрицаем глубинную рациональность, логическую связь, которая могла бы быть установлена в этих случаях.
+Nhưng điều quan trọng mà chúng ta đang phủ nhận là tính hợp lý cơ bản, mối liên kết lôgic có thể được tạo ra trong những trường hợp này.
 
 ## わけない / 訳ない (訳がない)
 
-Теперь, ещё одно распространённое отрицательное употребление — это <code>わけがない</code>, иногда сокращаемое до просто <code>わけない</code>.
+Bây giờ, một cách sử dụng phủ định phổ biến khác là <code>わけがない</code>, đôi khi được rút ngắn thành chỉ <code>わけない</code>.
 
 ![](../media/image48.webp)
 
-Это, как правило, сильно отрицает существование чего-либо вообще. Опять же, можно подумать, что отрицается ситуация или обстоятельство, но отрицается именно её рациональность.
+Điều này có xu hướng mạnh mẽ phủ nhận rằng điều gì đó tồn tại hoàn toàn. Một lần nữa, người ta có thể nghĩ rằng mình đang phủ nhận tình huống hoặc hoàn cảnh, nhưng điều mình đang phủ nhận là tính hợp lý của nó.
 
-Теперь, как мы отличаем это от тех употреблений, которые мы видели раньше? Что ж, давайте обратим внимание на структурное различие.
+Bây giờ, làm thế nào chúng ta phân biệt điều này với những cách sử dụng mà chúng ta đã thấy trước đây? Chà, hãy chú ý đến sự khác biệt về cấu trúc.
 
-Одно из них — <code>x わけではない</code>, то есть обстоятельство, о котором мы говорили или на которое ссылаемся, не имеет такого рассуждения. Это простое различие между <code>ではない</code> и <code>がない</code>, о котором мы говорили ещё в нашем уроке об отрицаниях. *(возможно, Урок 7)*
+Một là <code>x わけではない</code>, có nghĩa là hoàn cảnh mà chúng ta đã nói về hoặc đang đề cập đến không có lý luận đó. Đây là sự khác biệt đơn giản giữa <code>ではない</code> và <code>がない</code> mà chúng ta đã nói về từ lâu trong bài học về phủ định của chúng ta. *(có thể là Bài 7)*
 
-Итак, в тех случаях, когда мы говорим <code>это не значит, что... / дело не в том, что... / это не то чтобы...</code> и т.д., другими словами, <code>это рассуждение неприменимо</code>, здесь мы говорим, что никакого рассуждения не существует. <code>わけがない</code>: <code>нет никакого рассуждения</code>.
+Vì vậy, trong những trường hợp này khi chúng ta nói <code>không có nghĩa là... / không phải là... / không phải như...</code> v.v., nói cách khác <code>lý luận đó không áp dụng</code>, ở đây chúng ta đang nói rằng không có lý luận nào tồn tại. <code>わけがない</code>: <code>không có lý luận</code>.
 
-И, следовательно, поскольку нет никакого рассуждения, поскольку оно не поддаётся вычислению, этого не может быть. Так, например, <code>さくらはウソをつくわけがない</code> – *Сакура-говорить-ложь рациональность есть-несуществующая* <code>Сакура не стала бы лгать</code> — она ни за что не солжёт.
+Và do đó, vì không có lý luận, vì nó không tính toán được, nó không thể là trường hợp. Vì vậy, ví dụ, <code>さくらはウソをつくわけがない</code> – *Sakura-nói-dối tính hợp lý không tồn tại* <code>Sakura sẽ không nói dối</code> — không có cách nào cô ấy nói dối.
 
 ![](../media/image862.webp)
 
-Глубинная логика или рациональность того, что Сакура лжёт, не существует, следовательно, невозможно, чтобы она солгала. Опять же, <code>さくらを忘れるわけがない</code> — <code>Я не забуду Сакуру</code> или <code>Я не забуду тебя, Сакура</code>.
+Lôgic hoặc tính hợp lý cơ bản của việc Sakura nói dối không tồn tại, do đó không thể cô ấy nói dối. Một lần nữa, <code>さくらを忘れるわけがない</code> — <code>Tôi sẽ không quên Sakura</code> hoặc <code>Tôi sẽ không quên em, Sakura</code>.
 
-То, что мы говорим здесь, на самом деле заключается в том, что глубинная рациональность забывания Сакуры не существует. Нет никакой рациональности, это не поддаётся вычислению, следовательно, этого не может произойти.
+Điều chúng ta thực sự đang nói ở đây là tính hợp lý cơ bản của việc quên Sakura không tồn tại. Không có tính hợp lý, nó không tính toán được, do đó nó không thể xảy ra.
 
-### わけがない как <code>нет причин</code>
+### わけがない như <code>không có lý do</code>
 
-Теперь, есть ещё одно возможное значение для <code>わけがない</code>, и это в более прямом и буквальном смысле просто означает <code>Нет причин</code>. Это не значит, что этого не происходит или этого не существует, но для этого нет причин.
+Bây giờ, có một ý nghĩa khả thi khác cho <code>わけがない</code> và đó là theo nghĩa trực tiếp và đen hơn chỉ đơn giản là nói <code>Không có lý do</code>. Không phải để nói nó không xảy ra hoặc nó không tồn tại, nhưng không có lý do cho nó.
 
 ---
 
-Так, например, <code>そんなにお金の要るわけがない</code>
+Vì vậy, ví dụ, <code>そんなにお金の要るわけがない</code>
 
 ![](../media/image443.webp)
 
-<code>нет причин, по которым ей понадобилось бы столько денег</code>
+<code>không có lý do cô ấy cần nhiều tiền như vậy</code>
 
 ::: info
-поскольку этот いる, по словам Долли, означает <code>нуждаться</code>, я использовала его в форме кандзи 要る, чтобы отразить это, а не просто обычное <code>быть</code> 居る/いる.
+vì いる này, theo như Dolly nói có nghĩa là <code>cần</code>, tôi đặt 要る ở dạng Kanji để phản ánh nó, thay vì chỉ là <code>tồn tại</code> thông thường 居る/いる.
 :::
-*Также, это... на всякий случай…
+*Ngoài ra, cái này...chỉ trong trường hợp…
 *![](../media/image892.webp)
 
-Она может просить об этом, она может получить это, но на самом деле нет никаких причин, по которым ей это понадобилось бы.
+Cô ấy có thể đang yêu cầu nó, cô ấy có thể nhận được nó, nhưng thực sự không có lý do tại sao cô ấy cần nó.
 
-Как мы узнаём разницу между этими двумя? Что ж, это вопрос контекста, и я сделала видео о том, как мы справляемся с подобными вещами.
+Làm thế nào chúng ta biết sự khác biệt giữa hai điều này? Chà, đây là vấn đề của ngữ cảnh, và tôi đã làm một video về cách chúng ta xử lý loại điều này.
 
-Мы на самом деле делаем это в английском языке постоянно. Множество утверждений имеют более одной возможной интерпретации, и большую часть времени мы не осознаём этого, потому что мы так привыкли использовать контекст для определения того, какое из возможных значений должно быть применено в данном случае.
+Chúng ta thực sự làm điều này trong tiếng Anh mọi lúc. Rất nhiều tuyên bố có nhiều hơn một cách giải thích có thể và hầu hết thời gian chúng ta không nhận thức được điều này vì chúng ta đã quá quen với việc sử dụng ngữ cảnh để xác định cách nào trong một loạt ý nghĩa có thể được áp dụng trong một trường hợp nhất định.
 
-Мы не осознаём этот процесс, поэтому нам действительно нужно понять его, чтобы применять его в японском или любом другом языке. Так что посмотрите это видео, если вы ещё не видели его<sup>[[48]](./48-dealing-with-ambiguity-in-japanese.md)</sup>.
+Chúng ta không ý thức về quá trình này vì vậy chúng ta thực sự cần hiểu nó để áp dụng nó trong tiếng Nhật hoặc bất kỳ ngôn ngữ nào khác. Vì vậy hãy xem video đó nếu bạn chưa xem<sup>[[48]](./48-dealing-with-ambiguity-in-japanese.md)</sup>.
 
-### わけがない как <code>просто, легко</code>
+### わけがない như <code>đơn giản, dễ dàng</code>
 
-И это может быть особенно полезно, потому что есть третье употребление этого отрицательного <code>わけがない</code>, часто сокращаемого до просто <code>わけない</code>, которое означает, что что-то просто или легко.
+Và điều đó có thể đặc biệt hữu ích, vì có một cách sử dụng thứ ba của <code>わけがない</code> phủ định này, thường được rút gọn thành chỉ <code>わけない</code>, đó là để nói rằng điều gì đó đơn giản hoặc dễ dàng.
 
 ![](../media/image398.webp)
 
-<code>日本語を話すのはわけがないことだ</code> — <code>Говорить по-японски легко, без проблем.</code>
+<code>日本語を話すのはわけがないことだ</code> — <code>Nói tiếng Nhật thì dễ dàng, không có vấn đề gì.</code>
 
-Почему мы говорим <code>わけがない</code> здесь? То, что мы говорим, это то, что на самом деле никаких рассуждений не требуется.
+Tại sao chúng ta nói <code>わけがない</code> ở đây? Điều chúng ta đang nói là thực sự không cần lý luận gì.
 
-Это можно сравнить с английским выражением <code>no-brainer</code>. Вы могли бы подумать, что это означает, что что-то глупо, но на самом деле это означает, что что-то настолько легко или настолько очевидно, что для этого не требуется никаких умственных усилий.
+Nó có thể được so sánh với cách diễn đạt tiếng Anh <code>no-brainer</code>. Bạn có thể nghĩ rằng điều đó có nghĩa là điều gì đó ngu ngốc, nhưng điều nó thực sự có nghĩa là điều gì đó quá dễ dàng hoặc quá rõ ràng đến mức không cần bất kỳ công việc trí não nào để đạt được nó.
 
-И это употребление <code>わけない</code> здесь. «Это элементарно. Говорить по-японски — это просто. Проще простого. Легко, как дважды два».
+Và đây là cách sử dụng <code>わけない</code> ở đây. "Đó là một no-brainer. Nói tiếng Nhật chỉ đơn giản. Dễ như ăn bánh. Dễ như trở bàn tay."
 
-И опять же, нет большой вероятности недопонимания или путаницы в различных употреблениях, при условии, что вы понимаете основные правила устранения неоднозначности. И при условии, что большую часть времени вы делаете это в контексте, в реальном японском погружении, а не в вырванных из контекста, кровоточащих примерах предложений.
+Và một lần nữa, không có nhiều khả năng hiểu lầm hoặc nhầm lẫn các cách sử dụng khác nhau miễn là bạn hiểu các quy tắc cơ bản về việc phân biệt. Và miễn là hầu hết thời gian bạn đang làm điều đó trong ngữ cảnh, trong việc đắm mình thực sự vào tiếng Nhật, và không phải trong những câu mẫu bị cắt đứt và chảy máu.
 
-Так что не забывайте: структура — ключ к погружению, но погружение — ключ к японскому языку.
+Vì vậy đừng quên: cấu trúc là chìa khóa để đắm mình nhưng đắm mình là chìa khóa cho tiếng Nhật.

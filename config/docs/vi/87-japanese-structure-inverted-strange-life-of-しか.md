@@ -1,159 +1,158 @@
-# **87. Японская структура НАИЗНАНКУ: странная жизнь しか**
+# **87. Cấu trúc tiếng Nhật ĐẢO NGƯỢC: cuộc sống kỳ lạ của しか**
 
-[**Японская структура НАИЗНАНКУ: странная жизнь しか. Как это на самом деле работает. Урок 87**](https://www.youtube.com/watch?v=iEnUH0L6VYs&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=91&ab_channel=OrganicJapanesewithCureDolly)
+[**Cấu trúc tiếng Nhật ĐẢO NGƯỢC: cuộc sống kỳ lạ của しか. Cách nó thực sự hoạt động. Bài 87**](https://www.youtube.com/watch?v=iEnUH0L6VYs&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=91&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Сегодня, боюсь, у меня для вас нет оленей Санты, но есть несколько обычных оленей. Мы поговорим о слове <code>シカ / 鹿</code>, которое, как вы, вероятно, знаете, означает <code>олень</code>.
+Hôm nay, tôi e rằng tôi không có tuần lộc nào cho các bạn, nhưng tôi có một vài con hươu. Chúng ta sẽ nói về từ <code>シカ / 鹿</code>, mà như các bạn có lẽ đã biết, có nghĩa là <code>hươu</code>,
 ::: info
-На всякий случай: это <code>しか</code> отличается от частицы <code>しか</code> из этого урока, отсюда и катакана. Существует множество различных существительных <code>しか</code> и прочего со своими кандзи, но только одна частица <code>しか</code>.
+Chỉ để đề phòng, しか này khác với trợ từ しか trong bài học này, do đó dùng Katakana, có rất nhiều danh từ しか khác nhau và những thứ tương tự với Kanji riêng của chúng, nhưng chỉ có một trợ từ しか
 :::
 ![](../media/image754.webp)
 
-**Но в японском языке есть ещё один элемент <code>しか</code>, который является частицей** **и который оказывает довольно необычное влияние на структуру предложений.**
+**nhưng có một yếu tố <code>しか</code> khác trong tiếng Nhật là một trợ từ** **và có tác động khá bất thường đến cấu trúc của câu.**
 
-Итак, мы рассмотрим это влияние. Один из моих комментаторов напомнил мне довольно очаровательную японскую игру слов:
+Vậy chúng ta sẽ tìm hiểu tác động đó. Một người bình luận đã nhắc tôi về một trò chơi chữ khá duyên dáng trong tiếng Nhật:
 
-<code>ならならしかしかしかられない</code>, / *奈良なら鹿しか叱られない (как это может выглядеть в форме кандзи)*
+<code>ならならしかしかしかられない</code>, / *奈良なら鹿しか叱られない (dạng có thể có trong Kanji)*
 
 ![](../media/image140.webp)
 
-и на естественном русском мы бы перевели это как **<code>В Наре ругают только оленей</code>.**
+và trong tiếng Anh tự nhiên chúng ta sẽ dịch câu này là **<code>Ở Nara, chỉ có những con hươu bị mắng</code>.**
 
-Здесь полезно знать, что **Нара в регионе Кансай славится своими оленями.** Люди ездят в Нару, чтобы посмотреть на оленей (и ради других вещей — это прекрасный исторический город).
+Hữu ích khi biết rằng **Nara ở vùng Kansai nổi tiếng với những con hươu.** Mọi người đến Nara để xem hươu (và vì những thứ khác — đó là một thành phố lịch sử đáng yêu).
 
-**Строго говоря, <code>奈良なら</code> не означает <code>в Наре</code>.** **Это означает <code>если это Нара</code> или, более естественно, <code>в случае с Нарой</code>.** Но что означает остальная часть структуры?
+**Nghiêm túc mà nói, <code>奈良なら</code> không có nghĩa là <code>ở Nara</code>.** **Nó có nghĩa là <code>nếu là Nara</code> hoặc, tự nhiên hơn, <code>trong trường hợp của Nara</code>.** Nhưng phần còn lại của cấu trúc có nghĩa gì?
 
-Именно об этом и спрашивал мой комментатор. **Вопрос был: «Что является А-вагоном этого предложения?** **Есть ли у него где-то zero-А-вагон, или у него вообще нет А-вагона?»**
+Đây là điều mà người bình luận thực sự muốn hỏi. **Câu hỏi là, "A-car của câu này là gì?** **Nó có zero-A-car ở đâu đó không, hay thậm chí nó có A-car nào không?"**
 
 ![](../media/image341.webp)
 
-Что является А-вагоном такого предложения? **Проблема отчасти в том, что <code>しか</code> оказывает** **необычное влияние на структуру предложения,** **но также и в том, что здесь используется рецептивный вспомогательный глагол,** что делает его немного сложнее, чем есть на самом деле.
+A-car của một câu như thế này là gì? **Bây giờ, vấn đề một phần là <code>しか</code> có** **tác động bất thường đến cấu trúc câu,** **nhưng cũng là do trợ động từ thụ động được sử dụng ở đây** khiến nó trông phức tạp hơn thực tế.
 
-## Частица <code>しか</code>
+## しか
 
-Итак, давайте начнём с очень простого предложения с <code>しか</code>. <code>さくら**しか**いない。</code>
+Vậy hãy bắt đầu với một câu <code>しか</code> rất đơn giản. <code>さくら**しか**いない。</code>
 
-На естественном русском мы бы перевели это как: <code>Здесь никого нет, кроме Сакуры.</code>
+Trong tiếng Anh tự nhiên chúng ta sẽ dịch câu này là, <code>Không có ai ở đây ngoài Sakura.</code>
 
 ![](../media/image774.webp)
 
-**Так что же делает <code>しか</code> здесь?** **<code>しか</code> делает две вещи в таком предложении.** **Она выбивает частицу <code>が</code>, точно так же, как <code>か</code>,** так что это не то, с чем мы ещё не знакомы.
+**Vậy <code>しか</code> đang làm gì ở đây?** **<code>しか</code> làm hai việc trong một câu như thế này.** **Nó loại bỏ trợ từ が giống như <code>か</code>,** vậy đây không phải là điều gì mà chúng ta chưa quen thuộc.
 
-**Когда у вас есть <code>か</code> в предложении, где также была бы <code>が</code>,** **мы никогда не говорим <code>がか</code> или <code>かが</code>.** **<code>か</code> вытесняет <code>が</code>, но <code>が</code> всё ещё логически присутствует.** **Именно это делает и <code>しか</code>.**
+**Khi bạn có <code>か</code> trong một câu mà cũng sẽ có が,** **chúng ta không bao giờ nói <code>がか</code> hoặc <code>かが</code>.** **<code>か</code> thay thế が, nhưng が vẫn có mặt về mặt logic.** **Đó cũng là điều mà <code>しか</code> làm.**
 
 ---
 
-**Но другая вещь, которую делает <code>しか</code>, немного более необычна.**
+**Nhưng điều khác mà <code>しか</code> làm thì hơi bất thường.**
 
 ![](../media/image591.webp)
 
-Не знаю, пользовались ли вы когда-нибудь Photoshop, но в Photoshop можно инвертировать выделение. **Что происходит: вы выделяете объект,**
+Tôi không biết bạn có bao giờ sử dụng Photoshop không, nhưng trong Photoshop bạn có thể đảo ngược một vùng chọn. **Điều xảy ra là bạn chọn một đối tượng,**
 
 ![](../media/image626.webp)
 
-**вы нажимаете клавишу выделения, чтобы инвертировать это выделение,** **и тогда выделяется всё, что находится за пределами этого объекта.**
+**bạn nhấn phím để đảo ngược vùng chọn đó** **và điều xảy ra là mọi thứ bên ngoài đối tượng đó được chọn.**
 
 ![](../media/image1078.webp)
 
-**Объект — это единственное, что теперь не выделено.**
+**Đối tượng là thứ duy nhất ở đó bây giờ không được chọn.**
 
 ---
 
-**Именно это и делает <code>しか</code>.** **В то время как <code>が</code>, можно сказать, выделяет объект, существительное,** **и помечает его как А-вагон, подлежащее предложения,** **<code>しか</code> выделяет это существительное, инвертирует выделение** **и помечает *это* как А-вагон предложения.**
+**Đây chính xác là điều mà <code>しか</code> làm.** **Trong khi が, bạn có thể nói, chọn một đối tượng, một danh từ,** **và đánh dấu nó là A-car, chủ ngữ của câu,** **<code>しか</code> chọn danh từ đó, đảo ngược vùng chọn** **và đánh dấu đó là A-car của câu.**
 
-**Таким образом, всё, кроме этого выделенного существительного,** **теперь является А-вагоном предложения.**
+**Vậy mọi thứ khác ngoài danh từ được chọn đó** **bây giờ là A-car của câu.**
 
-Итак, <code>さくら**しか**いない</code> буквально означает <code>**Все, кроме** Сакуры, здесь нет</code>.
+Vậy, <code>さくら**しか**いない</code> nghĩa đen là <code>**Mọi người khác ngoài** Sakura không có ở đây</code>.
 
-В предложении про оленей, которое выглядит немного сложнее, всё то же самое: <code>奈良なら鹿**しか**叱られない</code> (если это Нара, **все, кроме** оленей, не ругаются).
+Trong câu về hươu, trông phức tạp hơn một chút, nhưng hoàn toàn giống nhau: <code>奈良なら鹿**しか**叱られない</code> (nếu là Nara, **mọi thứ khác ngoài** hươu không bị mắng).
 
 ![](../media/image215.webp)
 
-**Итак, снова мы выделяем оленей,** **инвертируем выделение на всё, кроме оленей,** **и затем это становится А-вагоном предложения, которое является <code>не ругаются</code>.**
+**Vậy một lần nữa, chúng ta đang chọn hươu,** **đảo ngược vùng chọn thành mọi thứ khác ngoài hươu,** **và sau đó điều đó trở thành A-car của câu, là <code>không bị mắng</code>.**
 
 ---
 
-Теперь, **здесь также есть неявное условие релевантности**, поэтому, когда мы говорим <code>さくらしかいない</code>, **мы не имеем в виду, что здесь нет ничего, кроме Сакуры:** ни деревьев, ни кустов, ни летающих тарелок.
+Bây giờ, **cũng có một mệnh đề liên quan ngầm trong này**, vậy khi chúng ta nói <code>さくらしかいない</code> **chúng ta không có nghĩa là không có gì ở đây ngoài Sakura:** không có cây, không có bụi cây, không có đĩa bay.
 
-**Мы имеем в виду, что здесь никого нет, кроме Сакуры.**
+**Chúng ta có nghĩa là không có ai ở đây ngoài Sakura.**
 
 ![](../media/image1034.webp)
 
-**Теперь, <code>いない</code> отчасти говорит нам об этом**, но дело не только в этом, потому что **это также **не означает**, что здесь нет кроликов**, **нет птиц, нет капибар** (правильно ли я это произнесла?)
+**Bây giờ, <code>いない</code> một phần cho chúng ta biết điều đó**, nhưng không chỉ thế, vì **nó cũng **không có nghĩa** là không có thỏ rừng ở đây**, **không có chim, không có capybara** (tôi có phát âm đúng không?)
 
 ![](../media/image1029.webp)
 
 ::: info
-Это должно просто выбирать релевантность того, что **никакой другой Сакуры / никаких других людей** там нет. 
+Nó chỉ đơn giản chọn mức độ liên quan rằng **không có Sakura khác / không có người khác** ở đó.
 :::
 
-**Итак, <code>しか</code> инвертирует выделение, но это также** **то, что можно назвать <code>умной инверсией</code>: она выделяет по релевантности.**
+**Vậy <code>しか</code> đảo ngược vùng chọn, nhưng nó cũng** **là cái mà bạn có thể gọi là <code>đảo ngược thông minh</code>: nó chọn theo mức độ liên quan.**
 
-## <code>しか</code> в предложениях с подлежащим, отмеченным <code>が</code>
+## しか trong câu có chủ ngữ được đánh dấu bằng が
 
-**Однако, в некоторых предложениях с <code>しか</code> на самом деле есть** **подлежащее, отмеченное <code>が</code>, так что же здесь происходит?**
+**Tuy nhiên, trong một số câu <code>しか</code> thực sự có** **một chủ ngữ được đánh dấu bằng が, vậy chuyện gì đang xảy ra ở đây?**
 
 ![](../media/image961.webp)
 
-Давайте рассмотрим одно из них. Предположим, мы говорим: <code>タオル**が**一枚**しか**ありません</code>.
+Hãy xem một câu. Giả sử chúng ta nói, <code>タオル**が**一枚**しか**ありません</code>.
 
-Опять же, на естественном русском: <code>Здесь **только** одно полотенце.</code>
+Một lần nữa, trong tiếng Anh tự nhiên: <code>Chỉ có **một** chiếc khăn ở đây.</code>
 ::: info
-Обратите внимание, как в японском здесь используется <code>ありません</code> после <code>しか</code>.
+Chú ý cách trong tiếng Nhật họ sử dụng ありません sau しか ở đây.
 :::
-**Подлежащее, отмеченное <code>が</code>, — это <code>полотенце</code> или <code>полотенца</code>.** **В японском, конечно, нет различия между этими двумя вещами.**
+**Chủ ngữ được đánh dấu bằng が là <code>khăn</code> hoặc <code>những chiếc khăn</code>.** **Trong tiếng Nhật, tất nhiên, không có sự phân biệt giữa hai thứ này.**
 
-И, как я объясняла в своём уроке о счётных суффиксах<sup>[[71]](./71-japanese-counters-3-simple-rules.md)</sup>, **счётный суффикс в такого рода предложении работает как наречие.** **Он сообщает нам больше о локомотиве предложения, глаголе.**
+Và như tôi đã giải thích trong bài học về bộ đếm<sup>[[71]](./71-japanese-counters-3-simple-rules.md)</sup>, **một bộ đếm trong loại câu này hoạt động như một trạng từ.** **Nó cho chúng ta biết thêm về động cơ của câu, động từ.**
 
-Итак, если мы говорим <code>泥棒が**三人**いる</code>, мы говорим <code>грабители*(=подлежащее)* существуют **трёх-человечно**</code>. Если мы говорим <code>タオルが**一枚**ある</code>, мы говорим <code>полотенце*(=подлежащее)* **одно-плоско-предметно** существует</code>.
+Vậy nếu chúng ta nói <code>泥棒が**三人**いる</code>, chúng ta đang nói <code>tên trộm*(=chủ ngữ)* tồn tại theo cách ba-**người**</code>. Nếu chúng ta nói <code>タオルが**一枚**ある</code>, chúng ta đang nói <code>khăn*(=chủ ngữ)* tồn tại theo cách **một-vật-phẳng**</code>.
 
-Если мы говорим <code>タオルが**二枚**ある</code>, мы говорим <code>полотенце*(=подлежащее)* **двух-плоско-предметно** существует</code>.
+Nếu chúng ta nói <code>タオルが**二枚**ある</code>, chúng ta đang nói <code>khăn*(=chủ ngữ)* tồn tại theo cách **hai-vật-phẳng**</code>.
 
-Итак, когда мы говорим <code>タオルが**一枚**しかありません</code>, **подлежащее — это <code>полотенца</code>**, **затем у нас есть счётный суффикс <code>一枚</code>, и он отмечен <code>しか</code>.** **Таким образом, мы выделяем один плоский предмет, одно полотенце,** **а затем инвертируем выделение на все полотенца.**
+Vậy khi chúng ta nói <code>タオルが**一枚**しかありません</code>, **chủ ngữ là <code>những chiếc khăn</code>**, **sau đó chúng ta có bộ đếm <code>一枚</code> và nó được đánh dấu bằng <code>しか</code>.** **Vậy chúng ta đang chọn một vật phẳng, một chiếc khăn,** **và sau đó đảo ngược vùng chọn thành tất cả khăn.**
 
 ---
 
-**Не все плоские предметы, потому что мы уже отметили подлежащее как <code>полотенце</code>.** **Таким образом, мы инвертируем счётный суффикс, который работает наречно,** **от одного полотенца до каждого полотенца, кроме этого одного полотенца.**
+**Không phải tất cả vật phẳng, vì chúng ta đã đánh dấu chủ ngữ là <code>khăn</code>.** **Vậy chúng ta đang đảo ngược bộ đếm, hoạt động như trạng từ,** **từ một chiếc khăn thành mọi chiếc khăn trừ chiếc khăn đó.**
 
-Итак, мы говорим: <code>полотенца, **всё, кроме одного**, не существуют</code>. На естественном русском: <code>Здесь **только одно** полотенце</code>.
+Vậy chúng ta đang nói <code>khăn, **mọi thứ trừ một chiếc**, không tồn tại</code>. Trong tiếng Anh tự nhiên, <code>Chỉ có **một** chiếc khăn</code>.
 
 *<code>タオルが**一枚しか**ありません</code>*
 
-И вот так работает то, что мы могли бы назвать структурой обратного выделения предложения с <code>しか</code>.
+Và đó là cách mà cái chúng ta có thể gọi là cấu trúc chọn-đảo ngược của một câu <code>しか</code> hoạt động.
 
-## <code>しかない</code> (Разговорное)
+## しかない (Thông tục)
 
-**И в конце я должна добавить, что** **существует более разговорное использование <code>しか</code>.** **И это когда мы говорим <code>しかない</code>.**
+**Và tôi chỉ nên thêm vào cuối rằng** **có một cách sử dụng <code>しか</code> mang tính thông tục hơn.** **Và đây là khi chúng ta nói <code>しかない</code>.**
 
 ![](../media/image25.webp)
 
-В обычном предложении с <code>しか</code> мы, очевидно, просто говорим <code>この古い車**しかない**</code>, что на естественном русском означает <code>Есть только эта старая машина.</code>
+Bây giờ, trong một câu <code>しか</code> thông thường rõ ràng chúng ta chỉ nói <code>この古い車**しかない**</code>, có nghĩa trong tiếng Anh tự nhiên là <code>Chỉ có chiếc xe cũ này.</code>
 
-**Мы выделяем машину, инвертируем выделение:** <code>**все машины, кроме** этой старой машины, **не существуют**</code>.
-
----
-
-**Но мы также можем поставить <code>しかない</code> в конце логического придаточного предложения** **или глагола, заменяющего логическое придаточное предложение.** **Строго говоря, это не грамматично, но в разговорной речи это часто встречается.**
-
-Так что, если вы слышите в аниме, как кто-то говорит <code>逃げる**しかない!**</code>, они говорят <code>(нам) **нужно** бежать!</code> на естественном русском. Буквально они говорят: **мы берём это <code>逃げる</code>,** **мы отмечаем его частицей <code>しか</code>, так что то, что мы выделяем,** **это не <code>逃げる</code> (бежать), а всё остальное, кроме бега.**
-
-И снова, **здесь вступает в игру умное выделение по релевантности.** То, что мы на самом деле говорим, это <code>**любой другой образ действий, кроме** бегства, **не существует**</code>.
-
-Ну, конечно, он существует, **это очень разговорная форма**, но, насколько нам известно, он не существует: **ничего не остаётся, кроме как бежать**.
+**Chúng ta đang chọn chiếc xe, đảo ngược vùng chọn:** <code>**tất cả xe khác ngoài** chiếc xe cũ này **không tồn tại**</code>.
 
 ---
 
-**В английском** мы могли бы сказать <code>**It's run or nothing**</code> (Либо бежать, либо ничего), и опять же, **это неграмматично, и по той же причине,** **по которой японский вариант неграмматичен: <code>run</code> здесь не существительное.**
+**Nhưng chúng ta cũng có thể đặt <code>しかない</code> đó ở cuối một mệnh đề logic** **hoặc một động từ đại diện cho một mệnh đề logic.** **Bây giờ, điều này không hoàn toàn đúng ngữ pháp, nhưng trong lời nói thông tục nó thường xảy ra.**
 
-**Но, когда за вами что-то гонится, кого волнует грамматика?.**
+Vậy nếu bạn nghe trong anime ai đó nói <code>逃げる**しかない!**</code>, họ đang nói <code>(chúng ta) **phải** chạy!</code> trong tiếng Anh tự nhiên. Điều họ đang nói theo nghĩa đen là, **chúng ta lấy <code>逃げる</code> này,** **chúng ta đánh dấu nó bằng <code>しか</code> để cái chúng ta đang chọn** **không phải là <code>逃げる</code> (chạy) mà là mọi thứ khác ngoài chạy.**
 
+Và một lần nữa, **việc chọn thông minh theo mức độ liên quan xuất hiện ở đây.** Điều chúng ta thực sự đang nói là <code>**mọi hành động khác ngoài** chạy *(trốn)* **không tồn tại**</code>.
+
+Chà, tất nhiên nó có tồn tại, **điều này rất thông tục**, nhưng theo quan điểm của chúng ta thì nó không tồn tại: **không có gì khác ngoài chạy** *(trốn)*.
+
+---
+
+**Trong tiếng Anh** chúng ta có thể nói, <code>**Hoặc chạy hoặc không có gì**</code>, và một lần nữa, **điều đó không đúng ngữ pháp và vì cùng lý do** **mà tiếng Nhật không đúng ngữ pháp, rằng <code>chạy</code> không phải là danh từ.**
+
+**Nhưng, khi thứ đó đang đuổi theo bạn, ai quan tâm đến ngữ pháp?.**
 ::: info
-Несколько полезных комментариев, я полагаю, под видео…
+Một số bình luận hữu ích tôi đoán dưới video…
 
 ![](../media/image124.webp)
 
 ![](../media/image477.webp)
 
-*Одно замечание о <code>くせに</code> (<code>癖に</code>?), для полного урока она сделала [**это видео**](https://www.youtube.com/watch?v=QvuNXIYqFNM&pp=ugMICgJqYRABGAHKBRRjdXJlIGRvbGx5IOOBj-OBm-OBqw%3D%3D)* */ Урок 93*![](../media/image556.webp)
+*Một điều khác về くせに (癖に?), để xem bài học đầy đủ, cô ấy đã làm [**video này**](https://www.youtube.com/watch?v=QvuNXIYqFNM&pp=ugMICgJqYRABGAHKBRRjdXJlIGRvbGx5IOOBj-OBm-OBqw%3D%3D)* */ Bài 93*![](../media/image556.webp)
 :::

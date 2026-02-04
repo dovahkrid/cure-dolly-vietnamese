@@ -1,99 +1,97 @@
-# **28. ように — один ключ ко всем основным применениям**
+# **28. ように - một chìa khóa cho tất cả các cách sử dụng chính**
 
-[**Урок 28: ように — один ключ ко всем основным применениям! Это легко, когда знаешь**](https://www.youtube.com/watch?v=IE7WgIOOGbM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=30&pp=iAQB)
+[**Bài 28: You ni- một chìa khóa cho tất cả các cách sử dụng chính! Thật dễ dàng khi bạn biết**](https://www.youtube.com/watch?v=IE7WgIOOGbM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=30&pp=iAQB)
 
 こんにちは。
 
-Сегодня мы поговорим о <code>ようになる</code>, <code>ようにする</code>, <code>ことにする</code>, <code>ことになる</code>*(нет)*. Все элементы этих выражений мы уже изучили, так что теперь нам нужно посмотреть, как они сочетаются в этих случаях, что они означают и почему они означают именно это.
+*Hôm nay* chúng ta sẽ nói về <code>ようになる</code>, <code>ようにする</code>, <code>ことにする</code>, <code>ことになる</code>*(không)*. Bây giờ, tất cả các yếu tố của những biểu thức này chúng ta đã học rồi, vì vậy điều chúng ta cần làm bây giờ là xem chúng kết hợp với nhau như thế nào trong những trường hợp này, chúng có nghĩa gì, và tại sao chúng lại có nghĩa như vậy.
 
-Итак, давайте быстро вспомним <code>になる</code> и <code>にする</code>. Как мы знаем, два изначальных японских глагола — это <code>ある</code> и <code>する</code>. <code>ある</code> — мать всех глаголов самопроизвольного движения, а <code>する</code> — отец всех глаголов движения, направленного на что-то другое.
+Vậy hãy cùng ôn tập nhanh về <code>になる</code> và <code>にする</code>. Như chúng ta đã biết, hai động từ nguyên thủy của tiếng Nhật là <code>ある</code> và <code>する</code>. <code>ある</code> là mẹ của tất cả các động từ tự động và <code>する</code> là cha của tất cả các động từ tha động.
 
-<code>なる</code> тесно связан с <code>ある</code> — <code>ある</code> означает <code>быть</code>; <code>なる</code> означает <code>становиться</code> — так что мы можем сказать, что <code>ある</code> и <code>なる</code> — это статическая и динамическая версии одного и того же глагола. То есть, один и тот же глагол, находящийся в покое и движущийся во времени.
+<code>なる</code> có liên quan chặt chẽ với <code>ある</code> — <code>ある</code> có nghĩa là <code>tồn tại</code>; <code>なる</code> có nghĩa là <code>trở thành</code> — vì vậy chúng ta có thể nói rằng <code>ある</code> và <code>なる</code> là phiên bản tĩnh và động của cùng một động từ. Tức là, cùng một động từ đang đứng yên và chuyển động trong thời gian.
 
-Итак, мы знаем, что когда мы используем существительное, за которым следует <code>になる</code>, мы имеем в виду, что что-то превращается в это существительное.
+Bây giờ, chúng ta biết rằng khi chúng ta sử dụng một danh từ theo sau bởi <code>になる</code>, chúng ta có nghĩa là cái gì đó biến thành danh từ đó.
 
 ![](../media/image1038.webp)
 
-<code>に</code> отмечает цель трансформации, а <code>なる</code> — это сама трансформация, становление.
+<code>に</code> đánh dấu mục tiêu của sự biến đổi và <code>なる</code> chính là sự biến đổi đó, sự trở thành.
 
 ## ようになる
 
-Итак, когда мы говорим <code>ようになる</code>... Ну, мы ведь рассматривали <code>よう</code> на прошлой неделе, не так ли? И мы видели, что при сравнении или уподоблении чего-либо <code>よう</code> означает <code>форму</code> или <code>подобие</code>. Его основное значение — это форма или состояние бытия.
+Vậy, khi chúng ta nói <code>ようになる</code>... À, chúng ta đã xem xét <code>よう</code> tuần trước, phải không, và chúng ta đã thấy rằng khi chúng ta so sánh hoặc ví von các thứ thì <code>よう</code> có nghĩa là một <code>hình thức</code> hoặc một <code>sự giống nhau</code>. Nghĩa cơ bản của nó là một hình thức hoặc một trạng thái tồn tại.
 
-Когда мы говорим <code>りきしは山のようだ</code> — <code>борец сумо подобен горе</code> — мы не говорим, что борец сумо <code>является</code> горой, мы извлекаем форму или состояние бытия горы и применяем его к борцу сумо. Мы не говорим, что борец сумо — это гора, мы говорим, что борец — это <code>よう</code> горы, форма или состояние бытия горы.
+Khi chúng ta nói <code>りきしは山のようだ</code> — <code>đô vật sumo giống như một ngọn núi</code> — chúng ta không nói rằng đô vật sumo <code>là</code> một ngọn núi, chúng ta đang trích xuất hình thức hoặc trạng thái tồn tại của ngọn núi và áp dụng nó cho đô vật sumo. Chúng ta không nói rằng đô vật sumo là ngọn núi, chúng ta nói rằng đô vật là <code>よう</code> của ngọn núi, hình thức hoặc trạng thái tồn tại của ngọn núi — chúng ta có thể nói, <code>sự giống nhau</code> của ngọn núi. Bây giờ, khi chúng ta sử dụng <code>よう</code> trong các biểu thức mà chúng ta đang nói hôm nay, chúng ta không thêm chúng vào một danh từ như <code>山</code>, chúng ta thêm chúng vào một mệnh đề logic hoàn chỉnh.
 
-Итак, в английском мы говорим, что борец <code>подобен</code> горе; в японском мы говорим, что борец — это форма или состояние бытия горы — мы могли бы сказать, <code>подобие</code> горы. Теперь, когда мы используем <code>よう</code> в выражениях, о которых говорим сегодня, мы не добавляем его к существительному, такому как <code>山</code>, мы добавляем его к полной логической части предложения.
-
-Учебники иногда говорят, что мы добавляем его к глаголу, но на самом деле мы добавляем его к логической части предложения с глаголом-локомотивом.
+Các sách giáo khoa đôi khi nói rằng chúng ta đang thêm chúng vào một động từ, nhưng điều chúng ta thực sự đang làm là thêm chúng vào một mệnh đề logic với một động từ-động cơ.
 
 ![](../media/image364.webp)
 
-И <code>よう</code>, как мы знаем, является существительным; логическая часть предложения становится прилагательным, дескриптором для этого существительного, поэтому мы знаем, что любой глагол-локомотив вместе с логической частью предложения, которую он возглавляет, может стать прилагательным, так что мы не говорим <code>のよう</code>, мы НЕ говорим здесь о подобии чего-то другого. Итак, когда у нас есть логическая часть предложения плюс <code>ようになる</code>, мы говорим, что что-то стало или вошло в состояние бытия или форму этой логической части предложения.
+Và <code>よう</code>, như chúng ta đã biết, là một danh từ; mệnh đề logic trở thành tính từ, từ mô tả, cho danh từ đó, vì vậy chúng ta biết rằng bất kỳ động từ-động cơ nào cùng với mệnh đề logic mà nó dẫn đầu đều có thể trở thành một tính từ vì vậy chúng ta không nói <code>のよう</code>, chúng ta KHÔNG nói sự giống nhau của cái gì khác ở đây. Vậy khi chúng ta có một mệnh đề logic cộng <code>ようになる</code>, chúng ta đang nói rằng cái gì đó đã trở thành hoặc đi vào trạng thái tồn tại hoặc hình thức của mệnh đề logic đó.
 
-Например, если мы говорим <code>彼を信じるようになった</code>, мы говорим <code>Я стал(а) ему верить.</code>
+Vì vậy, ví dụ, nếu chúng ta nói <code>彼を信じるようになった</code>, chúng ta đang nói <code>Tôi đã tin anh ấy.</code>
 
 ![](../media/image893.webp)
 
-<code>彼を信じる</code> (или <code>(zeroが)彼を信じる</code>) — <code>Я верю ему</code> — это логическая часть предложения, и мы говорим, что я перешёл(ла) в состояние, я стал(а) состоянием этой логической части предложения: <code>Я стал(а) ему верить.</code> Это часто используется с потенциальным вспомогательным глаголом.
+<code>彼を信じる</code> (hoặc <code>zeroが彼を信じる</code>) — <code>Tôi tin anh ấy</code> — là một mệnh đề logic, và chúng ta đang nói rằng tôi đã chuyển vào trạng thái đó, tôi đã trở thành trạng thái của mệnh đề logic đó: <code>Tôi đã tin anh ấy.</code> Điều này thường được sử dụng với một động từ phụ trợ khả năng.
 
-Например, мы можем сказать: <code>日本語のマンガが読めるようになった</code> — <code>Японская манга стала читабельной (для меня)</code>.
+Ví dụ, chúng ta có thể nói, <code>日本語のマンガが読めるようになった</code> — <code>manga tiếng Nhật đã trở nên có thể đọc được (đối với tôi)</code>.
 
 ![](../media/image304.webp)
 
-Как видите, в обоих случаях что-то меняет своё состояние. Я меняю своё состояние с неверия ему на веру ему; манга меняет своё состояние с нечитабельной на читабельную. Во всех случаях мы говорим об изменении состояния, изменении существующего состояния в ком-то или чём-то из одного условия в другое.
+Như bạn thấy, trong cả hai trường hợp đều có cái gì đó đang thay đổi trạng thái của nó. Tôi thay đổi trạng thái của mình từ không tin anh ấy sang tin anh ấy; manga thay đổi trạng thái của nó từ không thể đọc được sang có thể đọc được. Trong tất cả các trường hợp, chúng ta đang nói về một sự thay đổi trạng thái, một sự thay đổi của trạng thái hiện tại trong ai đó hoặc cái gì đó từ một điều kiện này sang điều kiện khác.
 
-И если вы задаётесь вопросом, почему в японском мы чаще говорим о том, что манга меняет состояние с нечитабельной на читабельную, а не о том, как в английском, что человек меняет состояние с неспособности читать мангу на способность читать мангу, пожалуйста, посмотрите видеоурок о потенциальном вспомогательном глаголе, где я объясняю, как это работает.<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>
+Và nếu bạn thắc mắc tại sao chúng ta thường nói trong tiếng Nhật về việc manga thay đổi trạng thái từ không thể đọc được sang có thể đọc được thay vì nói, như trong tiếng Anh chúng ta thường làm, về việc người đó thay đổi trạng thái từ không thể đọc manga sang có thể đọc manga, xin hãy xem bài học video về động từ phụ trợ khả năng nơi tôi giải thích cách thức hoạt động của nó.<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup>
 
 ## ようにする
 
-Теперь, когда мы говорим <code>ようにする</code>, мы знаем, что конструкция <code>にする</code> — это версия конструкции <code>になる</code>, направленная на другое. Если мы говорим <code>まじょがさくらをカエルにした</code>, мы говорим <code>ведьма превратила Сакуру в лягушку</code>.
+Bây giờ, khi chúng ta nói <code>ようにする</code> chúng ta biết rằng cấu trúc <code>にする</code> là phiên bản tha động của cấu trúc <code>になる</code>. Nếu chúng ta nói <code>まじょがさくらをカエルにした</code>, chúng ta đang nói <code>phù thủy đã biến Sakura thành một con ếch</code>.
 
 ![](../media/image93.webp)
 
-Итак, <code>ようにする</code> означает заставить что-то войти в состояние. Оно не входит в него само по себе; кто-то заставляет его войти в это состояние. Так что, если мы говорим <code>よく見えるにする</code> — <code>よく見える</code> означает <code>выглядеть хорошо</code>, поэтому <code>よく見えるようにする</code> означает заставить кого-то или что-то выглядеть хорошо.
+Vậy <code>ようにする</code> là làm cho cái gì đó đi vào một trạng thái. Nó không tự đi vào; ai đó đang làm cho nó đi vào trạng thái đó. Vậy nếu chúng ta nói <code>よく見えるにする</code> — <code>よく見える</code> có nghĩa là <code>trông đẹp</code>, vì vậy <code>よく見えるようにする</code> là làm cho ai đó hoặc cái gì đó trông đẹp.
 
-Теперь, <code>ようにする</code> имеет расширенное значение, и это когда мы говорим что-то, по сути эквивалентное <code>пожалуйста, убедитесь, что вы что-то сделаете</code>. Итак, мы можем сказать <code>ドアにかぎをかけるようにしてください</code>, и это означает <code>пожалуйста, сделайте так, чтобы вы заперли дверь</code>.
+Bây giờ, <code>ようにする</code> có một nghĩa mở rộng, và đó là khi chúng ta nói cái gì đó về cơ bản tương đương với <code>xin hãy đảm bảo rằng bạn làm điều gì đó</code>. Vậy, chúng ta có thể nói <code>ドアにかぎをかけるようにしてください</code> và điều đó có nghĩa là <code>xin hãy làm sao cho bạn khóa cửa</code>.
 
 ![](../media/image771.webp)
 
-И я думаю, вы видите разницу между простым <code>ドアにかぎをかけてください</code>, что просто означает <code>пожалуйста, заприте дверь</code>. В одном случае вы как бы предполагаете, что человек просто запрёт её само собой разумеющимся образом; во втором случае вы делаете на этом особый акцент: <code>Пожалуйста, сделайте так, чтобы вы заперли дверь (это важно, поэтому, пожалуйста, сделайте так)</code>.
+Và tôi nghĩ bạn có thể thấy sự khác biệt ở đây giữa việc chỉ đơn giản nói <code>ドアにかぎをかけてください</code>, đó chỉ là <code>xin hãy khóa cửa</code>. Trong một trường hợp bạn đang giả định rằng người đó sẽ chỉ đơn giản khóa nó như một việc đương nhiên; trong trường hợp thứ hai bạn đang nhấn mạnh đặc biệt về điều đó: <code>Xin hãy làm sao cho bạn khóa cửa (điều này quan trọng, vì vậy xin hãy làm cho nó như vậy)</code>.
 
-<code>Это</code> в данном случае то же самое, что и в английском — <code>ситуация</code>, <code>обстоятельство</code> — «Пожалуйста, измените обстоятельство с того, при котором вы не запираете дверь, на то, при котором вы запираете дверь». Так что это делает очень особый акцент на этом указании или совете.
+<code>Nó</code> trong trường hợp này giống như nó sẽ là trong tiếng Anh — <code>tình huống</code>, <code>hoàn cảnh</code> — "Xin hãy biến hoàn cảnh từ một hoàn cảnh mà bạn không khóa cửa thành một hoàn cảnh mà bạn khóa cửa." Vậy điều này nhấn mạnh đặc biệt về hướng dẫn hoặc lời khuyên này.
 
-Теперь, связанное с этим, это когда вы можете сказать что-то о себе, обычно связанное с тем, что вы делаете регулярно, например, <code>毎日歩くようにする</code>. И это буквально означает: <code>[Я] (стараюсь) сделать так, чтобы [я] ходил(а) каждый день</code>.
+Bây giờ, liên quan đến điều này là khi bạn có thể nói điều gì đó về bản thân mình, thường liên quan đến điều gì đó bạn làm thường xuyên, chẳng hạn như nói <code>毎日歩くようにする</code>. Và điều đó có nghĩa đen là, <code>\[Tôi\] (cố gắng) làm sao cho \[tôi\] đi bộ mỗi ngày</code>.
 
-Но когда вы говорите это таким образом, вместо того чтобы просто сказать <code>毎日歩く</code>, что просто означает <code>Я хожу каждый день</code>, подразумевается, что вы стараетесь это делать. Вы не обязательно всегда будете преуспевать. И, видите, как и в другом случае использования, есть некоторые сомнения относительно того, сделаете ли вы это.
+Nhưng khi bạn diễn đạt theo cách này, thay vì chỉ nói <code>毎日歩く</code>, đó chỉ đơn giản là nói <code>Tôi đi bộ mỗi ngày</code>, hàm ý là bạn cố gắng làm như vậy. Bạn có thể không nhất thiết luôn thành công. Và, bạn thấy đấy, như với cách sử dụng khác, có một chút nghi ngờ về việc liệu bạn có làm điều đó hay không.
 
-Вы не говорите <code>Пожалуйста, сделайте так, чтобы вы заперли дверь</code>, если у вас нет определённых сомнений относительно того, произойдёт ли это, и вы не пытаетесь сделать так, чтобы это произошло.
+Bạn không nói <code>Xin hãy làm sao cho bạn khóa cửa</code> trừ khi trong tâm trí bạn có một chút nghi ngờ về việc liệu điều này có xảy ra hay không và bạn đang cố gắng làm cho nó xảy ra.
 
 ## ことにする
 
-Когда вы говорите это о себе — <code>毎日歩くようにする</code> — здесь также играет роль другой фактор: когда речь идёт о вас самих, вы также могли бы использовать <code>ことにする</code>, и это выражает твёрдое решение, о котором мы поговорим на следующей неделе во второй половине этого урока. Так что, если вы выбираете <code>ようにする</code> вместо <code>ことにする</code>, вы по своей сути оставляете немного места для сомнений.
+Khi bạn nói về bản thân mình — <code>毎日歩くようにする</code> — cũng có một yếu tố khác đang hoạt động ở chỗ khi đó là bản thân bạn, bạn cũng có thể sử dụng <code>ことにする</code>, và điều đó thể hiện một quyết định kiên quyết mà chúng ta sẽ nói về tuần tới trong nửa sau của bài học này. Vậy nếu bạn chọn <code>ようにする</code> thay vì <code>ことにする</code> bạn đang vốn dĩ để lại một chút chỗ cho sự nghi ngờ.
 
-## Использование ように в значении «причина-следствие»
+## Cách sử dụng <code>nguyên nhân-và-kết quả</code> của ように
 
-Теперь, <code>ように</code> также может использоваться с частью предложения после него и частью предложения перед ним, чтобы сказать <code>сделать одно, чтобы другое могло произойти</code>.
+Bây giờ, <code>ように</code> cũng có thể được sử dụng với một mệnh đề phía sau nó và một mệnh đề phía trước nó, để nói <code>làm một việc để một việc khác có thể xảy ra</code>.
 
 ![](../media/image756.webp)
 
-Учебники трактуют это так, будто это другая часть грамматики, другой грамматический пункт, но на самом деле это не так, это то же самое, что и просто <code>ようにする</code>, и единственная причина, по которой это кажется немного другим, заключается в том, что мы выражаем это немного по-другому в английском. Но мы не должны думать об английском; мы должны думать о японском. Итак, давайте посмотрим, как это работает.
+Các sách giáo khoa coi điều này như thể nó là một phần ngữ pháp khác, một điểm ngữ pháp khác, nhưng thực tế thì không, nó giống như <code>ようにする</code> thông thường, và lý do duy nhất nó có vẻ hơi khác là vì chúng ta diễn đạt nó hơi khác trong tiếng Anh. Nhưng chúng ta không nên nghĩ về tiếng Anh; chúng ta nên nghĩ về tiếng Nhật. Vậy hãy xem cách thức hoạt động của điều này.
 
-Давайте возьмём предложение, которое у нас уже было: <code>よく見えるようにする</code> — <code>заставить что-то (или кого-то) выглядеть лучше</code>. Теперь давайте изменим это на <code>よく見えるように口紅をつける</code> — «чтобы она выглядела лучше (или я выглядел(а) лучше, или кто-то выглядел лучше), нанести помаду».
+Hãy lấy một câu mà chúng ta đã có: <code>よく見えるようにする</code> — <code>làm cho cái gì đó (hoặc ai đó) trông đẹp hơn</code>. Bây giờ, hãy thay đổi thành <code>よく見えるように口紅をつける</code> — "để cho cô ấy trông đẹp hơn (hoặc tôi sẽ trông đẹp hơn, hoặc ai đó sẽ trông đẹp hơn), thoa son môi".
 
 ![](../media/image992.webp)
 
-Как видите, в английском способы выражения этих двух идей различны, и именно поэтому учебники и общепринятые объяснения говорят так, будто у нас есть два отдельных, несвязанных грамматических пункта. Но если вы посмотрите на то, что происходит, вы увидите, что на самом деле это одно и то же.
+Bây giờ, như bạn thấy, trong tiếng Anh cách diễn đạt hai ý tưởng đó là khác nhau, và đó là lý do tại sao các sách giáo khoa và các giải thích thông thường nói như thể chúng ta có hai điểm ngữ pháp riêng biệt, không liên quan. Nhưng nếu bạn nhìn vào những gì đang diễn ra, bạn có thể thấy rằng chúng thực sự là cùng một thứ.
 
-В одном случае мы говорим <code>заставить кого-то или что-то выглядеть лучше</code>, не уточняя средства. Мы просто используем нейтральный, всеобъемлющий глагол <code>する</code>, который является фундаментальным глаголом движения, направленного на другое. Когда мы говорим <code>よく見えるように口紅をつける</code>, <code>口紅をつける</code> просто заменяет <code>する</code>.
+Trong một trường hợp chúng ta đang nói <code>làm cho ai đó hoặc cái gì đó trông đẹp hơn</code> mà không chỉ định phương tiện. Chúng ta chỉ sử dụng động từ trung tính, bao quát <code>する</code>, đó là động từ tha động cơ bản. Khi chúng ta nói <code>よく見えるように口紅をつける</code>, <code>口紅をつける</code> chỉ đơn giản là thay thế <code>する</code>.
 
-Вместо того чтобы неспецифично сказать просто <code>заставить кого-то выглядеть лучше</code>, это говорит <code>сделать что-то конкретное, чтобы заставить кого-то выглядеть лучше</code>. Теперь, <code>する</code> — это тоже действие; это просто неуточнённое действие. Это просто <code>делать/действовать/заставлять что-то происходить</code>.
+Thay vì nói một cách không cụ thể chỉ đơn giản <code>làm cho ai đó trông đẹp hơn</code>, nó đang nói <code>làm một việc cụ thể để làm cho ai đó trông đẹp hơn</code>. Bây giờ, <code>する</code> cũng là một hành động; nó chỉ là một hành động không được chỉ định. Nó chỉ là <code>làm/hành động/làm cho cái gì đó xảy ra</code>.
 
-<code>口紅をつける</code> уточняет, чем это <code>する</code> может быть в конкретном случае. Так что, видите, у нас здесь абсолютно та же конструкция, а не два отдельных <code>грамматических пункта</code>, как они любят их называть.
+<code>口紅をつける</code> chỉ định <code>する</code> đó có thể là gì trong một trường hợp cụ thể. Vậy bạn thấy đấy, chúng ta có chính xác cùng một cấu trúc ở đây, không phải hai <code>điểm ngữ pháp</code> riêng biệt, như họ thích gọi.
 
-## ように в конце предложения
+## ように ở cuối câu
 
-И последнее замечание: вы иногда будете слышать <code>ように</code> в конце предложения, обычно предложения, оканчивающегося на ます. Это используется в основном для молитв и прошений. Так что вы можете сказать <code>日本に行けますように</code>.
+Và một lưu ý cuối cùng là bạn đôi khi sẽ nghe <code>ように</code> ở cuối câu, thường là câu kết thúc bằng ます. Điều này được sử dụng chủ yếu cho các lời cầu nguyện và đơn thỉnh. Vậy bạn có thể nói <code>日本に行けますように</code>.
 
-И вы можете сказать это в святилище, или когда загадываете желание на падающую звезду, или, возможно, просто когда выражаете пожелание, чтобы друг смог поехать в Японию. Почему мы это используем? Ну, очевидно, это своего рода сокращение от <code>ようにする</code>.
+Và bạn có thể nói điều đó tại một ngôi đền hoặc khi bạn đang ước với một ngôi sao băng hoặc có lẽ chỉ khi bạn đang bày tỏ một mong muốn rằng một người bạn có thể đi Nhật Bản. Tại sao chúng ta sử dụng điều này? À, rõ ràng đó là một kiểu rút gọn của <code>ようにする</code>.
 
-Если вы говорите с божеством или феей, это может быть сокращением от <code>ようにしてください</code>. Итак, на следующей неделе мы переходим к <code>ことになる</code> и <code>ことにする</code>.
+Nếu bạn đang nói chuyện với một vị thần hoặc một nàng tiên, nó có thể là viết tắt của <code>ようにしてください</code>. Vậy, tuần tới chúng ta chuyển sang <code>ことになる</code> và <code>ことにする</code>.

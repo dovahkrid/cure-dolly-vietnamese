@@ -11,7 +11,10 @@
     "docs:dev": "vitepress dev config",
     "docs:build": "vitepress build config",
     "docs:pdf": "press-export-pdf export config",
-    "docs:preview": "vitepress preview config"
+    "docs:preview": "vitepress preview config",
+    "translate": "node translate-openrouter.js",
+    "translate:list": "node translate-openrouter.js --list",
+    "translate:test": "node translate-openrouter.js --test"
   },
   "dependencies": {
     "fs": "^0.0.1-security",

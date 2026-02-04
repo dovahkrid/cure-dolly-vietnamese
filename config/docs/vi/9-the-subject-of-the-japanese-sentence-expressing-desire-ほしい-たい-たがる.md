@@ -1,163 +1,163 @@
-# **9. Подлежащее японского предложения и выражение желания: ほしい, たい, たがる**
+# **9. Chủ ngữ của câu tiếng Nhật & Biểu đạt mong muốn: ほしい, たい, たがる**
 
-[**Урок 9: Как учебники УНИЧТОЖАЮТ ваш японский: Секрет №1! + Выражение желания: hoshii, tai, tagaru**](https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=11)
+[**Bài 9: Cách sách giáo khoa PHÁ HỦY tiếng Nhật của bạn: Bí mật số 1! + Biểu đạt mong muốn: hoshii, tai, tagaru**](https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=11)
 
-## Подлежащее и эго в японском против английского
+## Chủ ngữ và cái tôi trong tiếng Nhật so với tiếng Anh
 
-Японский и английский языки имеют очень разные мировоззрения. В некоторых аспектах они диаметрально противоположны.
+Tiếng Nhật và tiếng Anh có những cách nhìn thế giới rất khác nhau. Theo một số cách, chúng hoàn toàn đối lập.
 
-**Английский — очень эгоцентричный язык.** И это не какое-то моральное суждение: **я говорю о грамматике.** **Английский хочет иметь <code>эго</code> в качестве главного действующего лица, центра каждого предложения, если это возможно.** Желательно <code>я</code>, если не <code>я</code>, то кто-то другой, а если не человек, то хотя бы животное. Это должен быть какой-то <code>эго</code>-актор.
+**Tiếng Anh là một ngôn ngữ rất lấy cái tôi làm trung tâm.** Và đây không phải là một tuyên bố đạo đức gì: **tôi đang nói về ngữ pháp.** **Tiếng Anh muốn có một <code>cái tôi</code> làm diễn viên chính, trung tâm của mọi câu, nếu có thể.** Tốt nhất là <code>tôi</code>, nếu không phải <code>tôi</code> thì là người khác, và nếu không phải con người thì ít nhất cũng là động vật. Phải có một loại diễn viên <code>cái tôi</code> nào đó.
 
 ::: info
-**Долли, кажется, иногда называет подлежащее «актором» и использует эти термины взаимозаменяемо, так что имейте в виду, что под «актором» она ДОЛЖНА подразумевать подлежащее.** Это использование может стать запутанным позже в пассивном/рецептивном залоге, если вы знаете базовую лингвистику… но, возможно, это просто моя проблема…
+**Dolly có vẻ đôi khi gọi Chủ ngữ là Diễn viên và sử dụng chúng thay thế cho nhau, vì vậy hãy nhớ rằng khi nói Diễn viên, cô ấy NÊN có ý là Chủ ngữ.** Cách sử dụng này có thể gây nhầm lẫn sau này trong phần Bị động/Tiếp nhận nếu bạn biết một chút ngôn ngữ học cơ bản... nhưng có thể chỉ là vấn đề của <code>tôi</code>...
 :::
 
-**Японский язык так не работает. Он очень рад иметь неодушевлённые существа в качестве главного действующего лица предложения. Вы могли бы назвать это более анимистическим взглядом на язык.** Возможно, это звучит довольно абстрактно, но на самом деле это совсем не абстрактно. Давайте перейдём к конкретным примерам. Я начну со своего любимого примера, и если вы слышали его раньше, не уходите, потому что на этот раз мы углубимся гораздо сильнее.
+**Tiếng Nhật hoàn toàn không hoạt động như vậy. Nó rất vui khi có những sinh vật không có tri giác làm diễn viên chính của câu. Bạn có thể gọi đây là cách nhìn ngôn ngữ theo chủ nghĩa vạn vật có linh hơn.** Bây giờ, điều này có thể nghe khá trừu tượng, nhưng nó không hề trừu tượng. Hãy đi vào một số ví dụ cụ thể. Tôi sẽ bắt đầu với ví dụ yêu thích của mình, và nếu bạn đã nghe nó trước đây, đừng bỏ đi vì lần này chúng ta sẽ đi sâu hơn nhiều.
 
-Мой любимый пример: <code>わたしは**コーヒーが**すきだ.</code> Мы можем использовать <code>わたし</code>, а можем и не использовать *(или, скорее, не обязательно использовать)*; это будет понятно, скажем мы это или нет.
+Ví dụ yêu thích của tôi là: <code>わたしは**コーヒーが**すきだ.</code> Bây giờ, chúng ta có thể có <code>わたし</code> hoặc có thể không có *(hay đúng hơn là không cần có)*; nó sẽ được hiểu dù chúng ta nói hay không.
 
 ![](../media/image227.webp)
 
-Учебники, школы и все остальные говорят вам, что это означает <code>Я люблю кофе</code>. И <code>Я люблю кофе</code> вполне может быть тем, что мы сказали бы по-английски, если бы хотели сказать что-то похожее, **но это не то, что означает это предложение.** И если вы следили за курсом до этого момента, вы можете понять, почему это не так.
+Những gì sách giáo khoa và trường học và mọi người khác nói với bạn là câu này có nghĩa là <code>Tôi thích cà phê</code>. Và <code>Tôi thích cà phê</code> có thể là điều chúng ta sẽ nói trong tiếng Anh nếu muốn nói điều gì đó tương tự, **nhưng đó không phải là ý nghĩa của câu này.** Và nếu bạn đã theo dõi khóa học đến thời điểm này, bạn có thể thấy tại sao nó không phải vậy.
 
 ---
 
-**Первый и самый важный момент здесь — посмотрите, где находится <code>が</code>. <code>が</code> отмечает кофе.** **Мы знаем, что главное действующее лицо** *(подлежащее в активном залоге)*, **тот, кто совершает действие или является чем-то, всегда отмечается частицей <code>が</code>**, поэтому мы знаем, что главное действующее лицо этого предложения **— не <code>わたし</code> – <code>я</code>**, **а кофе, который отмечен частицей <code>が</code>.**
+**Điểm đầu tiên và quan trọng nhất ở đây là - hãy xem が ở đâu. が đang đánh dấu cà phê.** **Chúng ta biết rằng diễn viên chính** *(Chủ ngữ trong thể chủ động)*, **người thực hiện hoặc người tồn tại của câu, luôn được đánh dấu bởi が**, vì vậy chúng ta biết rằng diễn viên chính của câu này **không phải là <code>わたし</code> –<code>tôi</code>**, **mà là cà phê, được đánh dấu bởi が.**
 
 ![](../media/image387.webp)
 
-**После <code>わたし</code> могла бы быть невидимая <code>が</code>, но в данном случае её быть не может**, потому что **мы уже знаем, что такое <code>が</code> — это кофе. Значит, кофе что-то делает или является чем-то.** **В английском** нам говорят, что это предложение типа <code>А **делает** Б</code>, но нам достаточно просто посмотреть, чтобы увидеть, что **это не так.** **Оно заканчивается на <code>だ</code>** — это предложение типа <code>А **есть** Б</code>, не так ли?
+**<code>わたし</code> có thể có một が vô hình sau nó, nhưng trong trường hợp này thì không thể**, vì **chúng ta đã biết が là gì, đó là cà phê. Vậy cà phê đang tồn tại hoặc làm điều gì đó.** **Trong tiếng Anh** chúng ta được nói rằng đó là câu <code>A **làm** B</code>, nhưng chúng ta chỉ cần nhìn vào nó để thấy rằng **không phải vậy**. **Nó kết thúc bằng <code>だ</code>** – đó là câu <code>A **là** B</code>, phải không?
 
 ![](../media/image748.webp)
 
-**Кофе — <code>すき</code>.** Итак, что означает <code>すき</code>? **<code>すき</code> — это существительное, и это одно из тех адъективных существительных, о которых мы говорили раньше.** Оно сообщает нам что-то о природе или состоянии кофе. В данном случае **оно говорит нам, что кофе приятен. Это ядро предложения: <code>Кофе приятен.</code>**
+**Cà phê là <code>すき</code>.** Vậy, <code>すき</code> có nghĩa là gì? **<code>すき</code> là một danh từ, và nó là một trong những danh từ tính từ mà chúng ta đã nói trước đây.** Vì vậy nó đang nói cho chúng ta biết điều gì đó về bản chất hoặc tình trạng của cà phê. Trong trường hợp này, **điều nó nói cho chúng ta biết là cà phê thật dễ chịu. Đó là cốt lõi của câu: <code>Cà phê thật dễ chịu.</code>**
 
 ![](../media/image349.webp)
 
-**<code>わたしは</code>, неявное или явное, говорит нам, в чьём случае это приятно:** <code>**Что касается меня**, кофе приятен.</code> **Теперь, это очень-очень-очень важно.** **Потому что если мы этого не знаем, если мы действительно верим, что это предложение означает <code>Я люблю кофе</code>, наше понимание <code>が</code> и <code>を</code> полностью нарушено.**
+**<code>わたしは</code>, ngầm định hoặc rõ ràng, đang nói cho chúng ta biết trong trường hợp nào nó dễ chịu:** <code>**Đối với tôi**, cà phê thật dễ chịu.</code> **Bây giờ, điều này rất rất rất quan trọng.** **Bởi vì nếu chúng ta không biết điều đó, nếu chúng ta thực sự tin rằng câu này có nghĩa là <code>Tôi thích cà phê</code>, thì sự hiểu biết của chúng ta về が và を hoàn toàn bị lộn xộn.**
 
 ---
 
-**Если бы действующим лицом этого предложения было <code>わたし</code>, оно должно было бы быть отмечено частицей <code>が</code>.** **Если бы объектом, на который действовал актор, выражая свою симпатию, был кофе, то он должен был бы быть отмечен частицей <code>を</code>.** Таким образом, у нас две частицы, и две самые фундаментальные частицы, полностью спутаны в нашем сознании. Теперь мы верим, что иногда <code>が</code> может отмечать объект предложения вместо подлежащего, то, на что совершается действие, вместо того, кто является или делает что-то. И теперь мы верим, что объект предложения, то, на что совершается действие, иногда может быть отмечен частицей <code>が</code> вместо <code>を</code>. **И ничего из этого неправда. Этого никогда не может быть. Этого никогда не произойдёт. И если бы это могло произойти, японский язык превратился бы в хаос. И именно в это он и превращается в умах многих студентов.**
+**Nếu diễn viên của câu này là <code>わたし</code>, nó sẽ phải được đánh dấu bởi が.** **Nếu thứ mà diễn viên đang tác động lên, bằng cách thích nó, là cà phê, thì nó sẽ phải được đánh dấu bởi を.** Vì vậy chúng ta có hai trợ từ, và hai trợ từ cơ bản nhất, hoàn toàn bị nhầm lẫn trong tâm trí chúng ta. Bây giờ chúng ta tin rằng đôi khi が có thể đánh dấu tân ngữ của câu thay vì chủ ngữ, thứ bị tác động thay vì người tồn tại hoặc người thực hiện của câu. Và chúng ta bây giờ tin rằng tân ngữ của câu, thứ đang bị tác động, đôi khi có thể được đánh dấu bởi が thay vì を. **Và không có điều nào trong số này là đúng. Nó không bao giờ có thể. Điều đó không bao giờ có thể xảy ra. Và nếu điều đó có thể xảy ra, tiếng Nhật sẽ trở thành hỗn loạn. Và đó chính xác là điều xảy ra trong tâm trí của nhiều học sinh.**
 
 ---
 
-Итак, как мы видим в этом предложении, **<code>わたし</code> — это нелогическая тема предложения.** **Она отмечена частицей <code>は</code>. Это не актор. Это не подлежащее.** **<code>コーヒー</code> — это не объект, который был бы отмечен частицей <code>を</code>, если бы это было так.** **Это подлежащее.** **И <code>すき</code> — это не глагол, означающий <code>любить</code>; это прилагательное, означающее <code>быть приятным</code>.**
+Vì vậy, như chúng ta thấy trong câu này, **<code>わたし</code> là chủ đề phi logic của câu.** **Nó được đánh dấu bởi は. Nó không phải là diễn viên. Nó không phải là chủ ngữ.** **<code>コーヒー</code> không phải là tân ngữ, sẽ được đánh dấu bởi を nếu nó là.** **Nó là chủ ngữ.** **Và <code>すき</code> không phải là động từ có nghĩa là <code>thích</code>; nó là tính từ có nghĩa là <code>dễ chịu</code>.**
 
 ---
 
-Таким образом, каждое слово в этом предложении неверно описывается стандартным объяснением. И такого рода недопонимание ввергает японский язык в полный хаос. Теперь, много ли таких случаев в японском?
+Vì vậy mọi từ trong câu này đều bị mô tả sai bởi lời giải thích tiêu chuẩn. Và loại hiểu lầm này khiến tiếng Nhật rơi vào tình trạng hoàn toàn hỗn loạn. Bây giờ, có nhiều trường hợp như thế này trong tiếng Nhật không?
 
-Честно говоря, неважно, много их или нет. Как только ваше понимание частиц нарушено, оно нарушено. Но так уж получилось, что их много. Всевозможные различные структуры предложений в японском языке вызывают одно и то же недопонимание.
+Chà, thẳng thắn mà nói, không quan trọng có nhiều hay không. Một khi sự hiểu biết của bạn về các trợ từ bị lộn xộn, thì nó đã lộn xộn rồi. Nhưng tình cờ là có rất nhiều. Tất cả các loại cấu trúc câu khác nhau trong tiếng Nhật đều gây ra cùng một sự hiểu lầm này.
 
 ---
 
-Например, если мы говорим <code>ほんがわかる</code> или <code>わたしはほんがわかる</code>, мы говорим, что **книга понятна**, но английские тексты говорят вам, что это означает <code>Я понимаю книгу</code>, и в этом случае это ещё менее простительно, потому что в английском нет настоящего эквивалента <code>すき</code>, но есть эквивалент <code>わかる</code>. Он означает <code>понятный</code> или <code>ясный</code>.
+Ví dụ, nếu chúng ta nói <code>ほんがわかる</code>, hoặc <code>わたしはほんがわかる</code>, chúng ta đang nói **cuốn sách có thể hiểu được**, nhưng các văn bản tiếng Anh nói với bạn rằng điều này có nghĩa là <code>Tôi hiểu cuốn sách</code>, và trong trường hợp này thậm chí còn không thể tha thứ hơn, vì không thực sự có từ tương đương với <code>すき</code> trong tiếng Anh, nhưng có từ tương đương với <code>わかる</code>. Nó có nghĩa là <code>có thể hiểu được</code> hoặc <code>rõ ràng</code>.
 
 ![](../media/image1153.webp)
 
-Мы могли бы сказать: <code>По отношению ко мне, или просто для меня, книга понятна</code>, **и тогда мы не стали бы полностью путать то, что делает <code>が</code>, или думать, что существительное, которое должно быть отмечено частицей <code>を</code>, может быть отмечено частицей <code>が</code>, случайным образом.**
+Chúng ta có thể nói <code>Liên quan đến tôi, hoặc chỉ với tôi, cuốn sách có thể hiểu được</code>, **và sau đó chúng ta sẽ không hoàn toàn làm lộn xộn việc が làm gì hoặc nghĩ rằng một danh từ nên được đánh dấu bởi を có thể được đánh dấu bởi が, một cách ngẫu nhiên.**
 
 ---
 
-Так почему же, по крайней мере в этом случае, школы и учебники просто не переводят это так, как оно есть на самом деле? <code>**Для меня книга понятна / Что касается меня, книга понятна.**</code> **Потому что это предубеждение ставить эго в центр каждого предложения настолько сильно, что оно превалирует над правильным изучением японского языка.** И это не просто несколько случайных случаев.
+Vậy tại sao, ít nhất trong trường hợp này, các trường học và sách giáo khoa không đơn giản dịch nó như thực tế? <code>**Đối với tôi, cuốn sách có thể hiểu được / Nói về tôi thì cuốn sách có thể hiểu được**.</code> **Bởi vì định kiến này về việc đặt một cái tôi ở trung tâm của mọi câu quá mạnh mẽ đến mức nó được ưu tiên hơn việc học tiếng Nhật một cách chính xác.** Và đây không chỉ là một vài trường hợp ngẫu nhiên.
 
-Позже мы рассмотрим потенциальную форму<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup> и рецептивную форму<sup>[[13]](./13-passive-conjugation-receptive-helper-verb.md)</sup>, которая ошибочно описывается как пассивная, и обе они будут вызывать формы этой же проблемы. Поскольку обе эти темы довольно обширны сами по себе, я не буду говорить о них сейчас. Но давайте поговорим о том, как мы выражаем желания в японском языке. Давайте поговорим о том, как японский язык справляется с желаниями. Хотим ли мы что-то или хотим что-то сделать, как мы говорим об этом по-японски?
+Sau này, chúng ta sẽ xem xét thể khả năng<sup>[[10]](./10-helper-verbs-the-potential-helper-verb.md)</sup> và chúng ta sẽ xem xét thể tiếp nhận<sup>[[13]](./13-passive-conjugation-receptive-helper-verb.md)</sup>, được mô tả sai là thể bị động, và cả hai đều sẽ gây ra các dạng của cùng một vấn đề này. Vì cả hai đều là những chủ đề khá lớn, tôi sẽ không nói về chúng bây giờ. Nhưng hãy nói về cách chúng ta mong muốn những thứ trong tiếng Nhật. Hãy nói về cách tiếng Nhật xử lý mong muốn. Dù chúng ta muốn thứ gì đó hay muốn làm điều gì đó, làm thế nào chúng ta nói về điều này trong tiếng Nhật?
 
-## Выражение желания с ほしい
+## Biểu đạt mong muốn với ほしい
 
-Итак, предположим, мы что-то хотим. Скажем, <code>こねこがほしい</code>.
+Chà, giả sử chúng ta muốn thứ gì đó. Hãy nói <code>こねこがほしい</code>.
 
 ![](../media/image14.webp)
 
-<code>こねこ</code> — это котёнок: <code>こ/子</code> — это ребёнок или маленькая вещь, а <code>ねこ</code> — это кошка. А <code>ほしい</code> переводится на английский как <code>want</code>. Теперь, если вы посмотрите на это, первое, что вы увидите, это то, что **это не глагол. Это прилагательное.** Оно заканчивается на <code>い</code>, а не на <code>う</code>. И второе, что вы увидите, что является самым важным, это то, что **актор этого предложения, отмеченный частицей <code>が</code>, — это не я, кто хочет кошку. Это кошка, которая желанна.**
+<code>こねこ</code> là một chú mèo con: <code>こ/子</code> là con hoặc vật nhỏ và <code>ねこ</code> là mèo. Và <code>ほしい</code> được dịch trong tiếng Anh là <code>muốn</code>. Bây giờ, nếu bạn nhìn vào nó, điều đầu tiên bạn có thể thấy là **nó không phải là động từ. Nó là tính từ.** Nó kết thúc bằng <code>い</code>, không phải <code>う</code>. Và điều thứ hai bạn có thể thấy, quan trọng nhất, là **diễn viên được đánh dấu が của câu này không phải là tôi, người muốn con mèo. Mà là con mèo, cái được muốn.**
 
 ![](../media/image519.webp)
 
-Итак, что означает <code>ほしい</code>? Ну, довольно просто, это означает <code>является желанным</code>.
+Vậy, <code>ほしい</code> có nghĩa là gì? Chà, khá đơn giản, nó có nghĩa là <code>được muốn</code>.
 ::: info
-Это прилагательное.
+Nó là một tính từ.
 :::
-<code>По отношению ко мне, кошка желанна.</code>
+<code>Liên quan đến tôi, con mèo được muốn.</code>
 ::: info
-<code>わたしはねこがほしい.</code>
+わたしはねこがほしい.
 :::
-И снова, если мы всерьёз верим, что это означает <code>Я хочу кошку</code>, мы думаем, что <code>が</code> может отмечать объект предложения, объект действия, то, на что мы это делаем. Так что снова, **мы путаемся в роли, которую <code>が</code> играет в предложении, мы путаемся в роли, которую <code>を</code> играет в предложении, потому что кошка должна была бы быть отмечена частицей <code>を</code>, если бы это означало** <code>Я хочу кошку</code>. **И мы путаемся между глаголами и прилагательными.** Так что снова **японский язык превращается в странную игру в угадайку, в которой частицы и типы слов могут менять своё значение случайным образом.**
+Và một lần nữa, nếu chúng ta thực sự tin rằng điều này có nghĩa là <code>Tôi muốn một con mèo</code>, chúng ta đang nghĩ rằng が có thể đánh dấu tân ngữ của câu, tân ngữ của hành động, thứ chúng ta đang làm với nó. Vì vậy một lần nữa, **chúng ta bị nhầm lẫn về vai trò mà が đóng trong câu, chúng ta bị nhầm lẫn về vai trò mà を đóng trong câu, vì con mèo nên được đánh dấu bởi を nếu nó có nghĩa là** <code>Tôi muốn một con mèo</code>. **Và chúng ta bị nhầm lẫn giữa động từ và tính từ.** Vì vậy một lần nữa **tiếng Nhật trở thành một trò chơi đoán kỳ lạ trong đó các trợ từ và loại từ có thể thay đổi ý nghĩa một cách ngẫu nhiên.**
 
-## Выражение желания что-то сделать с たい
+## Biểu đạt muốn làm điều gì đó với たい
 
-Теперь, предположим, мы хотим что-то сделать. В японском языке мы выражаем желание что-то сделать иначе, чем желание что-то иметь. **И мы делаем это, снова используя <code>い-основу</code>.** <code>い-основа</code>, как я уже говорила, очень важная основа. Итак, чтобы сказать, что мы что-то хотим, мы должны добавить **прилагательное желания**, которое есть <code>**たい**</code>. **Таким образом, теперь у нас есть прилагательное.**
+Bây giờ, giả sử chúng ta muốn làm điều gì đó. Trong tiếng Nhật, chúng ta biểu đạt muốn làm điều gì đó khác với cách chúng ta biểu đạt muốn có thứ gì đó. **Và cách chúng ta làm điều đó là bằng cách sử dụng thân い một lần nữa.** Thân い, như tôi đã nói với bạn trước đây, là một thân rất quan trọng. Vì vậy để nói chúng ta muốn thứ gì đó, chúng ta phải thêm **tính từ muốn**, đó là <code>**たい**</code>. **Vì vậy bây giờ chúng ta có một tính từ.**
 
 ![](../media/image1137.webp)
 
-И что означает это прилагательное? **Оно не означает <code>хотеть</code> в английском смысле.** **Оно не может, потому что <code>want</code> — это глагол, а <code>たい</code>, заканчивающееся на <code>い</code>, — это прилагательное, не так ли?** Итак, давайте возьмём пример. Это немного известный пример.
+Và tính từ này có nghĩa là gì? **Nó không có nghĩa là <code>muốn</code> theo nghĩa tiếng Anh.** **Nó không thể, vì <code>muốn</code> là động từ và <code>たい</code>, kết thúc bằng <code>い</code>, là tính từ, phải không?** Vậy hãy lấy một ví dụ. Đây là một ví dụ hơi khét tiếng.
 
 <code>わたしはクレープがたべたい</code>.
 
 ![](../media/image947.webp)
 
-Теперь, стандартный английский перевод этого — <code>Я хочу есть блины</code>. Но, как вы видите, шаблон здесь такой же, как и в других случаях, которые мы рассматривали. **Актор, отмеченный частицей <code>が</code>, — это не <code>わたし</code>, это не <code>я</code>, это блины.** **Желательность блинов — это не глагол, это прилагательное.** И нам нужно это понять, потому что если мы этого не сделаем, это не просто испортит этот тип предложений — это испортит всё наше понимание японских слов, японских частиц и японской структуры.
+Bây giờ, bản dịch tiếng Anh tiêu chuẩn của câu này là <code>Tôi muốn ăn bánh crepe</code>. Nhưng, như bạn thấy, mô hình ở đây giống như trong các trường hợp khác mà chúng ta đã xem xét. **Diễn viên được đánh dấu が không phải là <code>わたし</code>, không phải là <code>tôi</code>, mà là bánh crepe.** **Sự mong muốn của bánh crepe không phải là động từ, mà là tính từ.** Và chúng ta cần hiểu điều này vì nếu không, nó không chỉ làm lộn xộn loại câu này - nó sẽ làm lộn xộn toàn bộ sự hiểu biết của chúng ta về từ tiếng Nhật, trợ từ tiếng Nhật và cấu trúc tiếng Nhật.
 
-Теперь, **нет действительно хорошего способа перевести это на английский.** Нам пришлось бы сказать что-то вроде <code>По отношению ко мне, блины вызывают желание</code>. И это очень неловко.
+Bây giờ, **không có cách nào thực sự tốt để dịch điều này sang tiếng Anh.** Chúng ta sẽ phải nói điều gì đó như <code>Liên quan đến tôi, bánh crepe gây ra mong muốn</code>. Và điều đó rất khó xử.
 ::: info
-Можно использовать <code>want/wanting</code> в качестве перевода. Просто помните, что <code>たい</code> — это не глагол, как <code>want</code> в английском, а скорее прилагательное. Переводы не имеют значения, понимание имеет.
+không sao khi sử dụng <code>muốn/mong muốn</code> làm bản dịch. Chỉ cần nhớ rằng たい không phải là động từ như <code>muốn</code> trong tiếng Anh, mà đúng hơn là tính từ. Bản dịch không quan trọng, hiểu biết mới quan trọng.
 :::
-Иногда люди спрашивают меня: «Действительно ли я должен использовать все эти неловкие дословные переводы, которые вы даёте, вместо того чтобы использовать естественный английский?» И ответ на это — <code>Нет</code>. **Вы не должны думать в терминах моих неловких объяснений или думать в терминах естественного английского. Вы должны думать о японском языке в терминах — угадайте что — японского.** Я объясняю это на английском, чтобы дать вам толчок к этому. **Но эти неестественные переводы или объяснения существуют, чтобы помочь вам понять структуру японского языка, а не дать вам способ перевода японского.**
+Và đôi khi mọi người hỏi tôi, "Tôi có thực sự phải sử dụng tất cả những bản dịch nghĩa đen khó xử mà cô đưa ra, thay vì sử dụng tiếng Anh tự nhiên không?" Và câu trả lời cho điều đó là <code>Không</code>. **Bạn không nên nghĩ theo các lời giải thích khó xử của tôi hoặc nghĩ theo tiếng Anh tự nhiên. Bạn nên nghĩ về tiếng Nhật theo - đoán xem - tiếng Nhật.** Tôi giải thích bằng tiếng Anh để cho bạn một khởi đầu hướng tới việc làm điều đó. **Nhưng những bản dịch hoặc lời giải thích không tự nhiên này ở đây để giúp bạn nắm bắt cấu trúc của tiếng Nhật, không phải để cho bạn một cách dịch tiếng Nhật.**
 
-Итак, как я уже сказала, шаблон во всех этих случаях одинаков, и я не думаю, что его очень трудно понять. Но теперь мы рассмотрим нечто, что может показаться немного запутанным, и я обещаю вам, что это не так, если вы просто внимательно последуете тому, что я собираюсь сказать. У нас есть это предложение: <code>クレープがたべたい</code>, но что, если бы у нас здесь не было блинов? Что, если бы мы просто сказали <code>(zeroが)たべたい</code>? **Теперь в этом предложении больше нет того, что английский хочет назвать объектом желания, что на самом деле является подлежащим желания, вызывающим желание, и, очевидно, должен быть нулевой вагон, отмеченный частицей <code>が</code>, иначе, как вы знаете, у нас нет предложения.** Но что это за нулевой вагон в данном случае?
+Bây giờ, như tôi nói, mô hình giống nhau trong tất cả các trường hợp này, và tôi không nghĩ nó rất khó nắm bắt. Nhưng bây giờ chúng ta sẽ xem xét thứ gì đó có thể có vẻ hơi khó hiểu, và tôi hứa với bạn rằng nó không phải, nếu bạn chỉ theo dõi cẩn thận những gì tôi sắp nói. Chúng ta có câu này ở đây: <code>クレープがたべたい</code> nhưng nếu chúng ta không có bánh crepe ở đây thì sao? Nếu chúng ta chỉ nói <code>(zeroが)たべたい</code> thì sao? **Bây giờ không còn trong câu này thứ mà tiếng Anh muốn gọi là tân ngữ của mong muốn, thực tế là chủ ngữ của mong muốn, người gây ra mong muốn, và rõ ràng phải có một zero-car được đánh dấu が hoặc, như bạn biết, chúng ta không có câu.** Nhưng zero-car đó trong trường hợp này là gì?
 
-Что ж, ирония в том, что в этом случае нулевой вагон — это то, чем, по мнению английских учебников, он был всё это время. **Это <code>я</code>.**
+Chà, điều trớ trêu là trong trường hợp này zero-car chính là thứ mà sách giáo khoa tiếng Anh nghĩ từ đầu. **Đó là <code>tôi</code>.**
 
 ![](../media/image881.webp)
 
-На этот раз я действительно являюсь актором предложения, и это может быть частью причины большой путаницы, которая возникает по этому поводу. <code>わたしがたべたい</code> означает <code>Я хочу есть</code> — я не обязательно хочу есть блины или обенто Сакуры, я просто хочу есть. *(Я есть-хотящий-есть)* И поскольку здесь нет субъекта, вызывающего желание есть, желание есть приписывается непосредственно мне.
+Lần này tôi thực sự là diễn viên của câu, và điều đó có thể là một phần lý do cho rất nhiều sự nhầm lẫn xảy ra về chủ đề này. <code>わたしがたべたい</code> có nghĩa là <code>Tôi muốn ăn</code> - tôi không nhất thiết muốn ăn bánh crepe hay obento của Sakura, tôi chỉ muốn ăn. *(Tôi ăn-muốn-là)* Và vì không có chủ ngữ gây ra việc ăn ở đây, mong muốn ăn được quy cho trực tiếp tôi.
 
-И вы можете спросить — вы должны спросить — «Так что же это за <code>-たい</code>? Это прилагательное, описывающее состояние чего-то, что заставляет вас что-то хотеть, или это прилагательное, описывающее моё желание?» **И ответ таков: это может быть и то, и другое.** **Очевидно, когда оно описывает торт, оно также косвенно описывает мои чувства к торту, оно описывает чувства, которые торт вызывает во мне.** А когда нет торта, или нет блинов, или нет обенто Сакуры, мы просто описываем мои чувства напрямую. И это часто бывает в японском языке с прилагательными желания. Например, <code>こわい</code>, что означает либо <code>напуганный</code>, либо <code>страшный</code>. Если я говорю <code>おばけがこわい</code>, я говорю <code>Призраки страшные</code>, но если я говорю просто <code>こわい</code>, я говорю <code>Я напуган</code>.
+Và bạn có thể hỏi - bạn nên hỏi - "Vậy, -たい này là gì? Nó là tính từ mô tả tình trạng của thứ gì đó khiến bạn muốn làm điều gì đó, hay nó là tính từ mô tả mong muốn của tôi?" **Và câu trả lời là nó có thể là cả hai.** **Rõ ràng khi nó mô tả một chiếc bánh, nó cũng gián tiếp mô tả cảm xúc của tôi về chiếc bánh, nó mô tả cảm xúc mà chiếc bánh gây ra trong tôi.** Và khi không có chiếc bánh ở đó, hoặc không có bánh crepe ở đây, hoặc không có obento của Sakura ở đó, chúng ta chỉ mô tả cảm xúc của tôi một cách trực tiếp. Và điều này thường xảy ra trong tiếng Nhật với các tính từ về mong muốn. Ví dụ, <code>こわい</code>, có nghĩa là <code>sợ hãi</code> hoặc <code>đáng sợ</code>. Nếu tôi nói, <code>おばけがこわい</code>, tôi đang nói, <code>Ma đáng sợ</code>, nhưng nếu tôi chỉ nói <code>こわい</code>, tôi đang nói, <code>Tôi sợ</code>.
 
 ![](../media/image61.webp)
 
-Теперь, это сбивает с толку? Это не сбивает с толку, потому что у нас есть ориентир, который каждый раз подсказывает нам, что делать. И этот ориентир — <code>が</code>. **В этих предложениях и в гораздо более сложных предложениях, если мы будем следить за <code>が</code> и за другими логическими частицами, мы никогда не ошибёмся, потому что логические частицы никогда-никогда-никогда не меняют свою функцию.** Так что мы можем использовать их как наш компас. **Именно поэтому так разрушительно заставлять людей верить, что они могут менять свою функцию, как это делают учебники.**
+Bây giờ, điều này có khó hiểu không? Nó không khó hiểu vì chúng ta có một mốc chuẩn cho chúng ta biết phải làm gì mỗi lần. Và mốc chuẩn đó là が. **Trong những câu này và trong những câu phức tạp hơn nhiều, nếu chúng ta theo dõi が và theo dõi các trợ từ logic khác, chúng ta sẽ không bao giờ sai, vì các trợ từ logic không bao giờ thay đổi chức năng của chúng.** Vì vậy chúng ta có thể sử dụng chúng làm la bàn. **Và đó là lý do tại sao việc khiến mọi người tin rằng chúng có thể thay đổi chức năng như sách giáo khoa làm là rất phá hoại.**
 
-Если у вас есть компас, и я скажу вам: «Ах, ну, большую часть времени компас указывает на север, но иногда указывает на юг, а на самом деле довольно часто он также указывает на восток», вы могли бы и вовсе не иметь компаса. Я уничтожила ценность вашего компаса для вас. **И то же самое с логическими частицами. Они абсолютно надёжны. Они всегда указывают на север.** *(Или, я полагаю, они всегда указывают туда, куда должны указывать, в одном направлении)* **Они никогда не меняют свою функцию.**
+Nếu bạn có la bàn và tôi nói với bạn, "À, chà, hầu hết thời gian la bàn chỉ hướng bắc, nhưng đôi khi chỉ hướng nam và thực ra khá nhiều lần nó cũng chỉ hướng đông", bạn cũng có thể không có la bàn. Tôi đã phá hủy giá trị của la bàn cho bạn. **Và điều tương tự với các trợ từ logic. Chúng hoàn toàn đáng tin cậy. Chúng luôn chỉ hướng bắc.** *(Hoặc tôi đoán, chúng luôn chỉ đến nơi chúng nên chỉ, theo một cách)* **Chúng không bao giờ thay đổi chức năng.**
 
 ![](../media/image163.webp)
 
-Итак, **если <code>が</code> отмечает блины, то мы знаем, что подлежащее предложения, то, о чём нам говорит локомотив, — это блины, и ничто иное.** **Но если у нас нет подлежащего, отмеченного частицей <code>が</code>, мы знаем, что по умолчанию нулевое местоимение обычно означает <code>я</code>, если нет причины думать иначе.** Это то же самое, что и в примере с угрём, который мы приводили в уроке о <code>は</code>.
+Vì vậy, **nếu が đánh dấu bánh crepe thì chúng ta biết rằng chủ ngữ của câu, thứ mà động cơ đang nói với chúng ta, là bánh crepe, không gì khác.** **Nhưng nếu chúng ta không có chủ ngữ được đánh dấu が ở đó, chúng ta biết rằng theo mặc định đại từ zero thường là <code>tôi</code> trừ khi có lý do để nghĩ nó là thứ khác.** Nó giống như trong ví dụ về lươn mà chúng ta đã đưa ra trong bài học về は.
 
-Теперь я расскажу вам ещё одну вещь, и надеюсь, что не перегружаю вас информацией в этом уроке, но это даст вам ещё больше уверенности в том, что такое нулевое местоимение в этих случаях. И это то, что **вы не можете использовать эти прилагательные желания, чувства, ни о ком, кроме себя.**
+Bây giờ, tôi sẽ nói cho bạn thêm một điều nữa, và tôi hy vọng tôi không làm quá tải thông tin cho bạn trong bài học này, nhưng nó sẽ có lợi thế là cho bạn thêm sự tự tin về đại từ zero là gì trong những trường hợp này. Và đó là **bạn không thể sử dụng những tính từ về mong muốn, về cảm xúc này, về bất kỳ ai ngoài bản thân mình.**
 
 ![](../media/image172.webp)
 
-Итак, **если я говорю <code>たべたい</code> и в предложении или контексте нет ничего, что можно было бы <code>たべたい</code>, то я должен говорить о себе, я не могу говорить о вас и не могу говорить о Сакуре.** Почему нет? Потому что японский язык не позволяет нам этого делать. **Вы не можете использовать <code>-たい</code> о ком-то другом, или <code>こわい</code>, или <code>ほしい</code> — мы не можем использовать ничего из этого о ком-то другом.**
+Vì vậy **nếu tôi nói <code>たべたい</code> và không có gì để たべたい trong câu hoặc ngữ cảnh thì tôi phải đang nói về tôi, tôi không thể đang nói về bạn và tôi không thể đang nói về Sakura.** Tại sao không? Vì tiếng Nhật không cho phép chúng ta làm điều đó. **Bạn không thể sử dụng <code>-たい</code> về người khác, hoặc <code>こわい</code> hoặc <code>ほしい</code> - chúng ta không thể sử dụng bất kỳ thứ nào trong số này về người khác.**
 
-Что, если мы хотим сказать, что кто-то другой что-то хочет? Ну, **поскольку японский язык очень логичен, он не позволяет нам делать определённые утверждения о том, чего мы не можем знать наверняка,** так что, видите, он очень отличается от западных языков. **Одно, чего мы не можем знать наверняка, — это внутренние чувства другого человека.**
+Nếu chúng ta muốn nói rằng người khác muốn thứ gì đó thì sao? Chà, **vì tiếng Nhật là một ngôn ngữ rất logic, nó không cho phép chúng ta đưa ra những tuyên bố chắc chắn về thứ mà chúng ta không thể biết chắc chắn,** vì vậy bạn thấy nó rất khác với các ngôn ngữ phương Tây. **Một điều chúng ta không thể biết chắc chắn là cảm xúc bên trong của người khác.**
 
-Так что я могу подумать, что Сакура хочет съесть торт, но я этого не знаю. Всё, что я знаю, это как она себя ведёт, я знаю, что она говорит, я знаю, что она делает, я знаю, как она выглядит, но я не знаю, каковы её внутренние чувства.
+Vì vậy tôi có thể nghĩ rằng Sakura muốn ăn bánh, nhưng tôi không biết điều đó. Tất cả những gì tôi biết là cách cô ấy hành động, tôi biết cô ấy nói gì, tôi biết cô ấy làm gì, tôi biết cô ấy trông như thế nào, nhưng tôi không biết cảm xúc bên trong của cô ấy là gì.
 
 ::: info
-Обратите внимание на слово «утверждение» здесь: <code>たい</code> нельзя использовать, когда <code>демонстрируется фактическое знание субъективности другого человека</code>, как Долли выражается в [**комментариях**](https://www.youtube.com/watch?v=vk3aKqMQwhM&lc=UgwE8cByEhTfyfe0e3h4AaABAg.9Kr0u3ynAsW9KrNJyZGL-o), рекомендую прочитать это.
+Lưu ý từ tuyên bố ở đây, たい không thể được sử dụng khi <code>thể hiện kiến thức thực tế về chủ quan của người khác</code> như Dolly nói trong [**bình luận**](https://www.youtube.com/watch?v=vk3aKqMQwhM&lc=UgwE8cByEhTfyfe0e3h4AaABAg.9Kr0u3ynAsW9KrNJyZGL-o), khuyến nghị đọc điều đó
 :::
 
-**Поэтому, если я хочу говорить о её желании съесть торт, я не могу использовать <code>-たい</code>. И я не могу использовать <code>こわい</code>, чтобы описать её страх, и я не могу использовать <code>ほしい</code>, чтобы описать вещь, которую она может хотеть.**
+**Vì vậy nếu tôi muốn nói về mong muốn ăn bánh của cô ấy, tôi không thể sử dụng <code>-たい</code>. Và tôi không thể sử dụng <code>こわい</code> để mô tả nỗi sợ của cô ấy, và tôi không thể sử dụng <code>ほしい</code> để mô tả thứ cô ấy có thể muốn.**
 
-## Выражение утверждений о желании других людей с たがる
+## Biểu đạt tuyên bố về mong muốn của người khác với たがる
 
-Так что же мне делать? **Я должна добавить к прилагательному желания вспомогательный глагол. Я убираю <code>い</code> с <code>い-прилагательного</code> и добавляю вспомогательный глагол <code>がる</code>.** А <code>がる</code> означает <code>показывать признаки / выглядеть так, как будто это так</code>. Итак, если я говорю <code>さくらがケーキをほしがる</code>, то я говорю, что Сакура проявляет признаки желания торта. Это то, что я говорю буквально.
+Vậy tôi làm gì? **Tôi phải thêm vào tính từ về mong muốn một động từ trợ giúp. Tôi bỏ <code>い</code> khỏi tính từ い và tôi thêm động từ trợ giúp <code>がる</code>.** Và <code>がる</code> có nghĩa là <code>thể hiện dấu hiệu của / trông như thể đó là trường hợp</code>. Vì vậy nếu tôi nói, <code>さくらがケーキをほしがる</code> thì tôi đang nói Sakura đang thể hiện dấu hiệu muốn bánh. Đó là điều tôi đang nói theo nghĩa đen.
 
 ![](../media/image808.webp)
 
-**И даже если она на самом деле сказала мне, что хочет торт, я всё равно так говорю, потому что я не могу чувствовать её чувства.** Я знаю только, что она делает и говорит.
+**Và ngay cả khi cô ấy thực sự đã nói với tôi rằng cô ấy muốn bánh, đó vẫn là điều tôi nói, vì tôi không thể cảm nhận cảm xúc của cô ấy.** Tôi chỉ biết cô ấy đang làm gì và nói gì.
 
-Теперь, почему мы используем глагол в случае с другими людьми, когда это прилагательное в случае с нами самими? Опять же, это очень логично. **Я не могу описывать чувства другого человека, потому что я не могу их чувствовать.** **Я не знаю о них.** **Я могу говорить только об их действиях, а их действия, очевидно, должны быть глаголом.** Так что это полезно знать, но это также помогает нам быть очень ясными, когда мы говорим <code>たべたい</code> или что-либо ещё на <code>-たい</code>, или что-либо <code>ほしい</code>, что если нет причины для этой эмоции, то нулевое местоимение должно быть <code>わたし</code>, потому что это не может быть кто-либо другой. Мы на самом деле не можем использовать это для кого-либо другого.
+Bây giờ, tại sao chúng ta sử dụng động từ trong trường hợp của người khác khi nó là tính từ trong trường hợp của chúng ta? Một lần nữa, điều này rất logic. **Tôi không thể mô tả cảm xúc của người khác vì tôi không thể cảm nhận chúng.** **Tôi không biết về chúng.** **Tôi chỉ có thể nói về hành động của họ, và hành động của họ rõ ràng phải là động từ.** Vì vậy đây là điều hữu ích để biết, nhưng nó cũng giúp chúng ta rất rõ ràng khi chúng ta nói <code>たべたい</code> hoặc bất kỳ thứ gì khác -たい, hoặc bất kỳ thứ gì <code>ほしい</code>, rằng nếu không có nguyên nhân của cảm xúc đó, thì đại từ zero phải là tôi, <code>わたし</code>, vì nó không thể là ai khác. Chúng ta thực sự không thể sử dụng nó cho ai khác.
 
 ::: info
-Как уже упоминалось выше, у Долли есть интересный [**комментарий**](https://www.youtube.com/watch?v=vk3aKqMQwhM&lc=UgwE8cByEhTfyfe0e3h4AaABAg.9Kr0u3ynAsW9KrNJyZGL-o) по поводу <code>たい</code> против <code>がる</code>.
+Như đã đề cập ở trên, Dolly có [**bình luận**](https://www.youtube.com/watch?v=vk3aKqMQwhM&lc=UgwE8cByEhTfyfe0e3h4AaABAg.9Kr0u3ynAsW9KrNJyZGL-o) thú vị về たい vs がる này.
 :::
 
-Итак, это довольно много информации для одного урока, но понимание этого позволит вам быстро преодолеть огромную область путаницы и недопонимания, которая годами беспокоит многих изучающих японский язык.
+Vì vậy đó là khá nhiều thông tin trong một bài học, nhưng hiểu điều này sẽ giúp bạn vượt qua một khu vực rộng lớn của sự nhầm lẫn và hiểu lầm làm phiền nhiều người học tiếng Nhật trong nhiều năm.
 
 ::: info
-Это одно из первых <code>Больших Откровений о Японском</code> от Долли, поэтому оно довольно насыщенное. Не волнуйтесь, не торопитесь, перечитайте, проверьте комментарии к [**видео**](https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=13) и при достаточном количестве повторений это в конце концов закрепится. Однако, очевидно, как я уже говорила в своём длинном примечании к Уроку 7.5, имейте в виду, что Долли здесь просто для того, чтобы дать вам базовое представление, и, конечно, это означает, что она упрощает вещи, чтобы они соответствовали её модели и потому что это для основ, но если вы углубитесь, всё не так просто, и существует много нюансов, грамматика и лингвистика часто могут быть довольно запутанными и сложными, и вещи не так просты, как иногда подразумевает Долли, но ради её метода это нормально для базового понимания.
+Đây là một trong những <code>Tiết lộ lớn về tiếng Nhật</code> đầu tiên của Dolly, đó là lý do tại sao nó khá đầy đủ. Đừng lo lắng, hãy từ từ, đọc lại, kiểm tra bình luận của [**video**](https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=13) và với đủ tiếp xúc, cuối cùng nó sẽ gắn bó. Tuy nhiên, rõ ràng, như tôi đã nói trong ghi chú dài của tôi ở Bài 7.5, hãy nhớ rằng Dolly ở đây chỉ để làm cho bạn hiểu ý tưởng cơ bản và tất nhiên điều này có nghĩa là cô ấy đơn giản hóa mọi thứ để phù hợp với mô hình của mình và vì nó dành cho những điều cơ bản, nhưng nếu bạn đi sâu hơn, mọi thứ không đơn giản như vậy và rất nhiều sắc thái tồn tại, ngữ pháp và ngôn ngữ học thường có thể khá lộn xộn và phức tạp và mọi thứ không đơn giản như Dolly đôi khi ngụ ý, nhưng vì phương pháp của cô ấy, nó ổn cho sự hiểu biết cơ bản.
 
-Если вы хотите узнать, почему, посмотрите [**это обсуждение в Discord MoeWay**](https://discord.com/channels/617136488840429598/1170582570161950752) от [**Морга**](https://morg.systems/) (КРУТАЯ страница, кстати!). Также, проверьте комментарии Морга [**в этой ветке о は и が**](https://discord.com/channels/617136488840429598/1151956209100927117/1152970825583054859), так как <code>が</code> не всегда является только маркером подлежащего. Так что не воспринимайте Долли как истину в последней инстанции, а просто как полезный способ освоить основы японского, которые подтолкнут вас к погружению = что действительно важно. Долли по-прежнему отличный источник объяснений! Просто вещи не так просты, если вы углубляетесь, однако не беспокойтесь об этом, всё встанет на свои места, как только вы погрузитесь в язык на тонны и тонны…
+Nếu bạn muốn biết tại sao hãy kiểm tra [**cuộc thảo luận MoeWay Discord này**](https://discord.com/channels/617136488840429598/1170582570161950752) của [**Morg**](https://morg.systems/) (trang TUYỆT VỜI nhân tiện!). Ngoài ra, hãy kiểm tra bình luận của Morg [**trong chủ đề は và が này**](https://discord.com/channels/617136488840429598/1151956209100927117/1152970825583054859), vì が không phải lúc nào cũng chỉ là dấu hiệu chủ ngữ. Vì vậy đừng coi Dolly như phúc âm mà chỉ như một cách hữu ích để đạt được những điều cơ bản của tiếng Nhật đẩy bạn vào immersion = điều thực sự quan trọng. Dolly vẫn là một nguồn giải thích tuyệt vời! Chỉ là mọi thứ không đơn giản nếu bạn đi sâu hơn, tuy nhiên đừng lo lắng về điều đó, tất cả sẽ rõ ràng khi bạn immerse rất nhiều và nhiều...
 :::

@@ -1,214 +1,204 @@
-# **13. Пассивное спряжение / Вспомогательный глагол получения**
+# **13. Chia động từ bị động / Trợ động từ tiếp nhận** 
 
-[**Урок 13: Разоблачение пассивного спряжения: НЕ пассив. НЕ спряжение. ЛЕГКО.**](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15)
+[**Bài 13: <code>Chia động từ bị động</code> được làm sáng tỏ: KHÔNG phải bị động. KHÔNG phải chia động từ. MÀ LÀ dễ.**](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15)
 
-こんにちは.
+こんにちは。
 
-Сегодня мы поговорим о вспомогательном глаголе получения. В других источниках вы услышите, что его называют <code>пассивным спряжением</code>. Но, как мы уже знаем, в японском языке нет спряжений, поэтому это не может быть спряжением.
+Hôm nay chúng ta sẽ nói về trợ động từ tiếp nhận. Ở những nơi khác bạn sẽ nghe nó được gọi là <code>chia động từ bị động</code>. Như chúng ta đã học, không có chia động từ trong tiếng Nhật, vậy nên nó không thể là chia động từ.
 
 ::: info
-Опять же, Долли говорит это, чтобы облегчить понимание, но если углубляться в лингвистику, это можно оспорить. Я говорю это, чтобы показать, что существует МНОЖЕСТВО нюансов по мере углубления в язык, и вещи редко бывают простыми и прямолинейными, когда вы выходите за рамки основ, поэтому следует иметь это в виду. Если вы действительно любите читать, под этим видео есть ОЧЕНЬ длинное, [**интересное обсуждение**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) на эту тему.
+Một lần nữa, Dolly nói điều này để làm cho nó dễ hiểu hơn, nhưng nếu ai đó đi sâu vào ngôn ngữ học thì có thể tranh luận. Tôi nói điều này để cho thấy có RẤT NHIỀU sắc thái khi đi sâu hơn vào một ngôn ngữ và mọi thứ hiếm khi đơn giản và thẳng thắn khi bạn vượt qua những điều cơ bản, vậy nên người ta nên ghi nhớ điều này. Nếu bạn thực sự thích đọc, dưới video này, có một [**cuộc thảo luận thú vị**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) RẤT dài về điều này.
 :::
 
-*Но в целом, нет чисто <code>правильного</code> или <code>неправильного</code>, есть только <code>более полезное</code> или <code>менее полезное</code> для конкретного человека.*
+*Nhưng nhìn chung, không có gì thực sự <code>đúng</code> hay <code>sai</code> hoàn toàn, chỉ có <code>hữu ích hơn</code> hay <code>ít hữu ích hơn</code> đối với từng cá nhân.*
 
-**Также, это не пассив.** Так что учебники промахнулись дважды. И это важно, потому что если мы думаем о вспомогательном глаголе получения как о пассивном спряжении, это полностью нарушает наше понимание структуры и, опять же, разбрасывает эти бедные частицы по всей комнате. А как мы знаем, частицы — это стержни, петли, на которых держится японский язык. Так что если мы испортим частицы, мы окажемся в глубокой беде. И именно поэтому так много людей считают японский язык трудным для понимания.
+**Ngoài ra, nó không phải là bị động.** Vậy là sách giáo khoa sai 0/2. Và điều này quan trọng vì nếu chúng ta nghĩ về trợ động từ tiếp nhận như một chia động từ bị động, nó sẽ hoàn toàn phá vỡ sự hiểu biết của chúng ta về cấu trúc và, một lần nữa, nó ném những trợ từ tội nghiệp khắp phòng. Và như chúng ta biết, các trợ từ là những chốt then chốt, những bản lề mà tiếng Nhật xoay quanh. Vậy nên nếu chúng ta làm rối loạn các trợ từ thì chúng ta sẽ gặp rắc rối lớn. Và đây là lý do tại sao nhiều người thấy tiếng Nhật khó hiểu.
 
-::: details Просто одна из моих сумбурных заметок о технических аспектах терминологии
+::: details Chỉ là một trong những ghi chú lan man của tôi về các khía cạnh kỹ thuật của thuật ngữ
 
-Нет ничего плохого в том, чтобы называть это пассивом, просто нужно помнить, что это отличается от английского пассива. Долли использует термин <code>получающий</code>, и это её терминология, которую она использует, чтобы избежать путаницы в своей модели. В японском языке это называется 受身形 — пассивная форма, хотя Долли отталкивается от первого кандзи, который может означать «получать», поэтому я понимаю, почему она так делает, и это тоже хороший термин, если уж на то то пошло.
+Không có gì sai khi gọi nó là bị động, bạn chỉ cần nhớ rằng nó khác với bị động tiếng Anh, Dolly sử dụng thuật ngữ <code>tiếp nhận</code>, vậy đây là thuật ngữ cô ấy sử dụng để tránh nhầm lẫn trong mô hình của mình. Trong tiếng Nhật, nó được gọi là 受身形 - dạng bị động, mặc dù Dolly dựa vào chữ Kanji đầu tiên có thể có nghĩa là nhận, vậy tôi hiểu tại sao và nó cũng là một thuật ngữ tốt.
 
-В общих чертах можно сказать, что пассивная форма сама по себе включает функцию получения, поскольку она в основном используется для переноса функции Субъекта на Пациента (получателя) действия базового глагола (через れる) вместо Агента (исполнителя действия базового глагола), в то время как Агент обычно помечается частицей に в пассиве, хотя есть и другие детали, которые будут обсуждаться, поэтому подход Долли также полностью верен, но термин «пассив» тоже работает, на мой взгляд, хотя и требует более глубокой лингвистической базы.
+Nói một cách cơ bản, có thể nói rằng dạng bị động tự nó bao gồm chức năng tiếp nhận vì nó chủ yếu được sử dụng để đặt chức năng Chủ ngữ lên Patient (người nhận) của hành động của động từ gốc (thông qua れる) thay vì Agent (người thực hiện hành động của động từ gốc), trong khi Agent thường được đánh dấu bằng に trong Bị động, mặc dù có nhiều chi tiết hơn sẽ được thảo luận, vậy cách tiếp cận của Dolly cũng hoàn toàn hợp lệ, nhưng thuật ngữ Bị động cũng hoạt động theo ý kiến của tôi, mặc dù đòi hỏi nền tảng ngôn ngữ học nhiều hơn.
 
-Обратите внимание, что я говорю о различии между синтаксисом (Субъект) и семантикой (Пациент/Агент).
+Lưu ý rằng tôi đang nói về sự phân biệt Cú pháp (Chủ ngữ) vs Ngữ nghĩa (Patient/Agent).
 
-В грамматике вещи редко бывают <code>чёрно-белыми</code>, поэтому, если это работает для вас, это нормально, просто помните, что не следует рассматривать японский язык так, как будто это английский! Он просто использует разные слова для выражения одной и той же основной идеи, поэтому неважно, достаточно ли хорошо подход Долли работает для очень базового понимания грамматики, которое может быть полностью усвоено/скорректировано посредством большого количества языкового материала.
+Trong ngữ pháp, mọi thứ hiếm khi <code>đen trắng</code>, vậy nên nếu nó hiệu quả với bạn, thì không sao, chỉ cần nhớ đừng coi tiếng Nhật như thể nó là tiếng Anh! Nó chỉ sử dụng những từ khác nhau để diễn đạt cùng một ý tưởng cơ bản, vậy không quan trọng nếu cách tiếp cận của Dolly hoạt động đủ tốt cho sự hiểu biết cơ bản về ngữ pháp có thể được nắm bắt hoàn toàn / sửa chữa thông qua nhiều đầu vào.
 
 :::
 
-## Вспомогательный глагол получения / Пассив
+## Tiếp nhận / Bị động
 
-Итак, теперь, когда я упомянула <code>пассивное спряжение</code>, просто чтобы вы знали, о чём идёт речь, если встретите это в других контекстах, давайте полностью отбросим эти слова и назовём это тем, чем оно является: **вспомогательным глаголом получения.**
+Vậy, bây giờ tôi đã đề cập đến <code>chia động từ bị động</code> chỉ để bạn biết chúng ta đang nói về gì nếu bạn tìm thấy nó trong các ngữ cảnh khác, hãy bỏ hoàn toàn những từ đó và gọi nó đúng như nó là: **trợ động từ tiếp nhận.**
 
-Итак, что такое вспомогательный глагол получения? **Это глагол, который присоединяется к あ-основе другого глагола, а あ-основа — это та же основа, которую мы используем для присоединения отрицательного вспомогательного い-прилагательного -ない**, не так ли? **Вспомогательный глагол получения — это 「れる・られる」: это れる для глаголов первого спряжения (godan), られる для глаголов второго спряжения (ichidan).**
+Vậy, trợ động từ tiếp nhận là gì? **Đó là một động từ gắn vào あ-stem của động từ khác, và あ-stem, đó là cùng một stem mà chúng ta sử dụng để gắn trợ tính từ phủ định -ない**, phải không? **Trợ động từ tiếp nhận là 「れる・られる」: đó là れる cho động từ godan, られる cho động từ ichidan.**
 
 ![](../media/image419.webp)
 
-Многие **паникуют, когда видят, что られる вспомогательного глагола получения для глаголов второго спряжения совпадает с られる вспомогательного глагола возможности для глаголов второго спряжения. Но паниковать не нужно.** Всё в полном порядке. В английском языке у нас тоже есть подобные вещи. Например, слова <code>to</code>, <code>two</code> и <code>too</code>. Все они произносятся одинаково и являются очень распространёнными словами, используемыми сотни раз каждый день. И как часто их путают? Совсем нечасто.
+Bây giờ, **nhiều người hoảng sợ khi thấy られる của trợ động từ tiếp nhận ichidan giống với られる của trợ động từ khả năng ichidan. Nhưng không cần phải hoảng sợ.** Điều đó hoàn toàn ổn. Trong tiếng Anh chúng ta cũng có những thứ như thế này. Ví dụ, chúng ta có các từ `to`, `two` và `too`. Và tất cả đều được phát âm giống nhau và tất cả đều là những từ rất phổ biến được sử dụng hàng trăm lần mỗi ngày. Và chúng bị nhầm lẫn bao nhiêu lần? Không thường xuyên chút nào.
 
-И **то же самое со вспомогательными глаголами возможности и получения. Они используются в совершенно разных ситуациях, и в реальном использовании их очень трудно спутать.** **А реальное использование — это то, что имеет значение.**
+Và **điều tương tự với các trợ động từ khả năng và tiếp nhận. Chúng được sử dụng trong những tình huống khá khác nhau và có rất ít khả năng nhầm lẫn chúng trong việc sử dụng thực tế.** **Và việc sử dụng thực tế là điều quan trọng.**
 
 ---
 
-Итак, **что означает вспомогательный глагол получения? Он означает <code>получать</code> или <code>получить</code>.** **Получать что? Получать действие глагола, к которому он присоединён.**
+Vậy, **trợ động từ tiếp nhận có nghĩa là gì? Nó có nghĩa là `nhận` hoặc `được`.** **Nhận cái gì? Nhận hành động của động từ mà nó được gắn vào.**
 
 ![](../media/image647.webp)
 
-Теперь, **большую часть времени я буду использовать слово <code>получить</code>, потому что оно очень чётко выражает то, что делает этот вспомогательный глагол.**
+Bây giờ, **hầu hết thời gian tôi sẽ sử dụng từ `được` vì điều này diễn đạt rất rõ ràng những gì trợ động từ làm.**
 
 ::: info
-Чтобы было яснее, как Долли говорит [**в комментариях**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=Ugz9HsXgTvy6JpFnPfR4AaABAg.8s4VanZoq638s4aJUNzU_p):
+Để rõ ràng hơn, như Dolly nói [**trong các bình luận**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=Ugz9HsXgTvy6JpFnPfR4AaABAg.8s4VanZoq638s4aJUNzU_p): 
 
-*Итак, перевод <code>got</code> работает только тогда, когда английское <code>got</code> означает <code>получить (действие)</code>, а не когда оно означает <code>стать (состоянием)</code>. Или, чтобы упростить, вы можете использовать <code>got</code> для перевода れる/られる, но вы не всегда можете использовать れる/られる для перевода <code>got</code>.*
+*Vậy bản dịch <code>được</code> chỉ hoạt động khi tiếng Anh <code>got</code> có nghĩa là <code>nhận (một hành động)</code>, không phải khi nó có nghĩa là <code>trở thành (một trạng thái)</code>. Hoặc để đơn giản hóa vấn đề - bạn có thể sử dụng <code>got</code> để dịch れる/られる nhưng bạn không thể luôn sử dụng れる/られる để dịch <code>got</code>.*
 :::
 
-Ваш старый учитель английского, возможно, скажет, что это не лучший способ выражать мысли, но это совершенно хороший способ выражать мысли как в английском, так и в японском, и именно так мы их выражаем. Понятно?
+Giáo viên tiếng Anh cũ của bạn có thể nói đó không phải là cách diễn đạt tốt nhất, nhưng đó là một cách diễn đạt hoàn toàn tốt trong tiếng Anh và trong tiếng Nhật đó chính xác là cách chúng ta diễn đạt chúng. Được chứ?
 
-Итак, давайте возьмём простой пример: 「さくらがしかられた。」
+Vậy, hãy lấy một ví dụ đơn giản: 「さくらがしかられた。」
 
 ![](../media/image1162.webp)
 
-**叱る/しかる означает <code>ругать</code> или <code>отчитывать</code>, а あ-основа — 叱ら, поэтому, когда мы добавляем к ней れる и ставим в прошедшее время, мы получаем しかれた/叱られた.** **叱る — это <code>ругать</code>, 叱られる — это <code>получить выговор</code>, 叱られた — это <code>получила выговор</code>, то есть <code>Сакура получила выговор</code>.**
+**叱る/しかる có nghĩa là `mắng` hoặc `la mắng`, và あ-stem là 叱ら, vậy khi chúng ta thêm vào đó れる và đặt nó vào thì quá khứ chúng ta được しかれた/叱られた.** **叱る là `mắng`, 叱られる là `bị mắng`, 叱られた là `đã bị mắng`, vậy, `Sakura đã bị mắng`.**
 
 ---
 
-**Теперь, здесь есть важная вещь, которую нужно иметь в виду, а именно то, что мы иногда, когда вспомогательный глагол присоединён к другому глаголу, можем, как своего рода железнодорожная стенография, объединять эти две части в один глагол.**
+**Bây giờ, có một điều quan trọng cần ghi nhớ ở đây, và đó là đôi khi chúng ta có thể, với một trợ động từ gắn vào một động từ, chúng ta có thể, như một loại viết tắt đường sắt, nén hai phần đó thành một động từ.**
 
 ![](../media/image555.webp)
 
-Так мы можем сказать 「ほんがよめる」, и хотя よめる, которая является формой возможности от よむ, строго говоря, это よめ плюс る, мы можем объединить их вместе и рассматривать よめる как один локомотив. **Но мы не можем, и никогда не должны, делать это со вспомогательным глаголом получения. Почему нет? Потому что когда вспомогательный глагол получения присоединён к другому глаголу, действие первого глагола всегда совершается кем-то другим, отличным от действия второго глагола れる・られる.**
+Vậy chúng ta có thể nói 「ほんがよめる」 và mặc dù よめる, là dạng khả năng của よむ, nói đúng ra là よめ cộng る, chúng ta có thể kết hợp chúng lại với nhau và coi よめる như một động cơ. **Nhưng chúng ta không thể, và không bao giờ nên, làm điều đó với trợ động từ tiếp nhận. Tại sao không? Vì khi trợ động từ tiếp nhận được gắn vào động từ khác, hành động của động từ đầu tiên luôn được thực hiện bởi ai đó khác với hành động của động từ thứ hai れる・られる.**
 
 ![](../media/image886.webp)
 
-**Таким образом, в предложении с вспомогательным глаголом получения у нас всегда есть действие, которое совершается кем-то другим, кого мы можем знать или не знать, плюс реальное действие предложения, которое является れる・られる, то есть получение — принятие — этого действия.** И это фундаментальный момент, который нужно иметь в виду. Именно потому, что учебники не учитывают это и не держат эти два локомотива отдельно, возникает вся путаница и трудности с так называемым <code>пассивным спряжением</code>. **Главный глагол предложения с れる・られる — это всегда れる или られる, а не глагол, к которому он присоединён.**
+**Vậy chúng ta luôn có trong một câu tiếp nhận hành động được thực hiện bởi ai đó khác, mà chúng ta có thể biết hoặc không biết, cộng với hành động thực sự của câu là れる・られる, việc nhận—việc được—hành động đó.** Và đây là điểm cơ bản cần ghi nhớ. Chính vì sách giáo khoa không ghi nhớ điều này và không giữ hai động cơ đó riêng biệt mà tất cả sự nhầm lẫn và khó khăn về cái gọi là <code>chia động từ bị động</code> phát sinh. **Động từ chính của một câu tiếp nhận れる・られる luôn là れる hoặc られる, không phải động từ mà nó được gắn vào.**
 
 ---
 
-Теперь, **давайте также заметим, что А-вагон, актор предложения, не обязательно является человеком.** Итак, если мы скажем 「**水**がのまれた」 (のむ/飲む＝пить; のま＝ あ-основа от пить; れた＝ получил), мы говорим <code>**Вода** была выпита</code>. **И актор этого предложения — вода.**
+Bây giờ, **hãy cũng chú ý rằng toa A, tác nhân của câu, không nhất thiết phải là một người.** Vậy, nếu chúng ta nói, 「**水**がのまれた」 (のむ/飲む＝uống; のま＝ あ stem của uống; れた＝ được), chúng ta đang nói `**Nước** bị uống`. **Và tác nhân của câu đó là nước.**
 
 ![](../media/image649.webp)
 
-Теперь, даже если мы добавим исполнителя действия: 「水がいぬにのまれた」,
+Bây giờ, ngay cả khi chúng ta thêm một người thực hiện hành động: 「水がいぬにのまれた」,
 
 ![](../media/image757.webp)
 
-**актором предложения по-прежнему является вода, а не собака, потому что именно вода была выпита, именно вода совершила действие получения. Собака совершила действие питья, но вода совершила действие получения.** **И то, что собака выпила воду, — это всё белый раздел, который модифицирует этот конечный главный глагол, <code>получить</code>.** <code>Вода была выпита собакой.</code>
+**tác nhân của câu vẫn là nước, không phải con chó, vì chính nước bị uống, chính nước thực hiện việc được. Con chó thực hiện việc uống, nhưng nước thực hiện việc được.** **Và con chó uống nước là tất cả phần trắng sửa đổi động từ chính cuối cùng đó, `được`.** `Nước bị uống bởi con chó.`
 
-Теперь, почему я помечаю собаку частицей に? Я вернусь к этому через мгновение.
+Bây giờ, tại sao tôi đánh dấu con chó bằng に? Tôi sẽ đến điều đó ngay bây giờ.
 
-Давайте возьмём более полное предложение, чтобы мы могли увидеть, как все частицы работают вместе в предложении с вспомогательным глаголом получения:
+Hãy lấy một câu đầy đủ hơn để chúng ta có thể thấy tất cả các trợ từ hoạt động cùng nhau trong một câu tiếp nhận:
 
 > さくらはだれかにかばんがぬすまれた。
 
 ![](../media/image100.webp)
 
-(盗む/ぬすむ＝ красть; 盗ま＝ あ-основа от красть; 盗まれる＝ быть украденным; 盗まれた＝ был украден). **誰か/だれか означает <code>кто-то</code>** (誰＝ кто, か＝ вопрос). Кто это был? Мы не знаем, никто конкретный, но кто-то. **誰か＝Кто-то**.
+(盗む/ぬすむ＝ ăn cắp; 盗ま＝ あ stem của ăn cắp; 盗まれる＝ bị ăn cắp; 盗まれた＝ đã bị ăn cắp). **誰か/だれか có nghĩa là `ai đó`** (誰＝ ai, か＝ câu hỏi). Đó là ai? Chúng ta không biết, không ai cụ thể, nhưng ai đó. **誰か＝Ai đó**.
 
 ---
 
-Итак, что здесь происходит? Кто является получателем действия? Это не Сакура, которая помечена частицей は. Это не кто-то, кто помечен частицей に. **Это <code>тот</code>, кто помечен частицей が, и это сумка. Сумка — это то, что получило это воровство, поэтому сумка является субъектом предложения. Сумка — это та, кто совершила れる, кто <code>получила</code>.**
+Vậy, chuyện gì đang xảy ra ở đây? Ai là người nhận hành động? Không phải Sakura, người được đánh dấu bằng は. Không phải ai đó, người được đánh dấu bằng に. **Chính là `người` được đánh dấu bằng が, và đó là chiếc túi. Chiếc túi là thứ nhận việc ăn cắp đó, vậy chiếc túi là chủ ngữ của câu. Chiếc túi là thứ thực hiện れる, thực hiện `được`.**
 
 ![](../media/image514.webp)
 
-А に... что она здесь делает? Ну, давайте вспомним, что に указывает на конечную цель действия (だれか). Итак, 「(zeroが)**さくらに**ボールをなげた。」 актор, помеченный が, — это я, объект действия — ボール, **а цель этого действия — Сакура**. *(Невоспринимающее использование に)*
+Và に... nó đang làm gì ở đây? Chà, hãy nhớ rằng に đánh dấu mục tiêu cuối cùng của một hành động (だれか). Vậy, 「(zeroが)**さくらに**ボールをなげた。」 tác nhân được đánh dấu が là tôi, đối tượng của hành động là ボール, **và mục tiêu của hành động đó là Sakura**. *(Việc sử dụng に không phải tiếp nhận)*
 
 ![](../media/image1119.webp)
 
-**Теперь, такой вид に может использоваться только тогда, когда мы что-то проецируем, будь то бросание мяча, отправка письма, дарение подарка, одалживание книги. Мы должны проецировать что-то по направлению к цели.**
+**Bây giờ, loại に này chỉ có thể được sử dụng khi chúng ta đang chiếu thứ gì đó, dù là ném bóng, gửi thư, tặng quà, cho mượn sách. Chúng ta phải chiếu thứ gì đó về phía mục tiêu.**
 
 ---
 
-Теперь, **れる — это не глагол-проектор. Это глагол получения. Это не глагол-толчок, это глагол-притяжение.**
+Bây giờ, **れる không phải là động từ chiếu. Nó là động từ nhận. Nó không phải là động từ đẩy, nó là động từ kéo.**
 
 ![](../media/image713.webp)
 
-**Следовательно, цель этого глагола — это не то, на что вы проецируете; это то, от чего вы получаете.** **Таким образом, に выполняет ту же функцию по отношению к глаголу-притяжению, что и по отношению к глаголу-толчку, то есть конечная цель толчка, конечный источник притяжения.**
+**Do đó, mục tiêu của động từ đó không phải là thứ mà bạn đang chiếu về phía; nó là thứ mà bạn đang nhận từ đó.** **Vậy に thực hiện cùng một chức năng liên quan đến động từ kéo như nó thực hiện liên quan đến động từ đẩy, đó là, mục tiêu cuối cùng của việc đẩy, nguồn cuối cùng của việc kéo.**
 
 ::: info
-Это может быть полезно. Из комментариев, например, [**этого**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgycETdw-fOaAqbnzlp4AaABAg) под видео.
-Моё понимание этого снова было бы слишком длинным, поэтому я не буду включать его сюда, оно здесь не нужно, так как я думаю, что Долли объяснила это достаточно ясно, и я не хочу добавлять сюда больше заголовков...*
+Điều này có thể hữu ích. Từ các bình luận như [**này**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgycETdw-fOaAqbnzlp4AaABAg) dưới video.  
+Sự hiểu biết của tôi về điều này sẽ quá dài một lần nữa, vậy tôi sẽ không bao gồm nó ở đây, nó không cần thiết ở đây vì tôi nghĩ Dolly đã giải thích đủ rõ ràng và tôi không muốn đặt thêm tiêu đề ở đây...*
 
 ![](../media/image929.webp)
 
 ![](../media/image673.webp)
 :::
 
-Итак, видите, все частицы делают именно то, что они всегда делают. Здесь ничего не меняется.
+Vậy bạn thấy, tất cả các trợ từ đang làm chính xác những gì chúng luôn làm. Không có gì thay đổi ở đây.
 
 ::: info
-Ну, как показано выше, в пассиве/воспринимающем залоге они как бы меняют свою полярность. Отсюда и то, почему に — это не <code>к</code> — получатель/<code>цель</code>, как в активном залоге, а теперь <code>кем</code> — исполнитель действия, а が вместо этого является получателем базового действия (ぬすむ) через れる. Это особенно хорошо объясняется через семантические/тематические роли.*
+Chà, như đã chỉ ra ở trên, trong Bị động/Tiếp nhận nó có phần thay đổi ở chỗ chúng đảo ngược cực tính của mình. Do đó tại sao に không phải là <code>đến</code> - người nhận/<code>mục tiêu</code> như trong Chủ động, mà bây giờ là <code>bởi</code> - người thực hiện, và が thay vào đó là người nhận hành động cơ bản (ぬすむ) qua れる. Nó đặc biệt có thể được giải thích qua Vai trò Ngữ nghĩa/Chủ đề.*
 :::
 
-Если вы думаете об этом как о <code>пассивном спряжении</code>, все частицы исполняют странный танец и, кажется, делают что-то не то, что обычно, но если вы понимаете это так, как оно есть — вспомогательный глагол получения — то никаких проблем нет. И всё это имеет смысл, точно так же, как всегда имеет смысл японский язык, если вы знаете, что он на самом деле делает.
+Nếu bạn nghĩ về nó như <code>chia động từ bị động</code>, tất cả các trợ từ thực hiện một điệu nhảy kỳ lạ và dường như đang làm những việc khác với những gì chúng thường làm, nhưng nếu bạn hiểu nó như nó là - trợ động từ tiếp nhận - thì không có vấn đề gì. Và tất cả đều có ý nghĩa, giống như cách tiếng Nhật luôn làm nếu bạn biết nó thực sự đang làm gì.
 
-## Досадный вспомогательный глагол получения / Пассив, выражающий неприятность / 迷惑受け身
+## <code>Tiếp nhận/Bị động phiền toái</code>/迷惑受け身
 
-Теперь, есть ещё одна область, в которой вспомогательный глагол получения иногда сбивает людей с толку, и это так называемый <code>страдательный пассив</code> или <code>пассив неблагоприятных обстоятельств</code>, который на самом деле называется в японском языке 迷惑受け身/*めいわくうけみ*, что означает <code>досадный вспомогательный глагол получения</code>. И это именно то, чем он является. Это досадный вспомогательный глагол получения.
+Bây giờ, có một lĩnh vực khác mà tiếp nhận đôi khi làm mọi người bối rối, và đó là trong cái gọi là <code>bị động đau khổ</code> hoặc <code>bị động nghịch cảnh</code>, thực tế được gọi trong tiếng Nhật là 迷惑受け身/*めいわくうけみ*, có nghĩa là `tiếp nhận phiền toái`. Và đó chính là nó. Đó là tiếp nhận phiền toái.
 
 ---
 
-「さくらはだれかに**かばんが**ぬすまれた。」 означает <code>У Сакуры **сумка** была украдена кем-то</code> или, буквально, <code>Что касается Сакуры, **сумка** была украдена кем-то</code>.
+「さくらはだれかに**かばんが**ぬすまれた。」có nghĩa là `**Túi** của Sakura bị ăn cắp bởi ai đó` hoặc, theo nghĩa đen, `Liên quan đến Sakura, **túi** bị ăn cắp bởi ai đó`.
 ::: info
-Обычный вспомогательный глагол получения.
+Tiếp nhận bình thường.
 :::
 
 ![](../media/image257.webp)
 
 ::: warning
-Обратите внимание на が перед глаголом, помеченным вспомогательным глаголом получения, вместо прямого дополнения を. Я рекомендую прочитать [**ЭТУ ЦЕПОЧКУ**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgwSvcxzsfJfg2FlFaB4AaABAg) о том, почему здесь が вместо を, если вы не уверены. Актор должен означать Субъект для Долли, но это всего лишь моё предположение, основанное на том, когда она его использует, поскольку она, похоже, не объясняет, что именно она под этим подразумевает; [**в одной из цепочек комментариев под этим видео**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgyjLIrKQJJ0zfRCXId4AaABAg.8wnXb0KQGCY8wtxK5KucCT&ab_channel=OrganicJapanesewithCureDolly) она даже называет に в воспринимающем залоге <code>вторичным актором</code> (что больше похоже на фактический лингвистический Актор… или Макророль Агента там), что не помогает.
+Chú ý が trước động từ được đánh dấu tiếp nhận thay vì đối tượng trực tiếp を. Tôi khuyên đọc [**CHUỖI NÀY**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgwSvcxzsfJfg2FlFaB4AaABAg) về tại sao có が thay vì を nếu bạn không chắc chắn. Actor nên có nghĩa là Subject đối với Dolly nhưng ngay cả điều đó chỉ là phỏng đoán của tôi dựa trên khi cô ấy sử dụng nó vì cô ấy dường như không giải thích ý nghĩa thực sự của Actor đối với cô ấy, [**trong một chuỗi bình luận dưới video này**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgyjLIrKQJJ0zfRCXId4AaABAg.8wnXb0KQGCY8wtxK5KucCT&ab_channel=OrganicJapanesewithCureDolly) cô ấy thậm chí còn gọi に Tiếp nhận là <code>tác nhân thứ cấp</code> (gần giống với Actor ngôn ngữ học thực tế...hoặc Macrorole của Agent ở đó) điều này không giúp ích gì.
 :::
 
-::: details ОЧЕНЬ необязательная <code>Пояснительная</code> Заметка и пример моего хронического сумбура (или что-то в этом роде, лол)
+::: details Ghi chú <code>Giải thích</code> RẤT tùy chọn & ví dụ về việc lan man mãn tính của tôi (hoặc bất cứ gì lol)
+  
+***Đây chỉ là một trong những cuộc lan man ngôn ngữ học thường lệ của tôi không thực sự quan trọng trong bức tranh tổng thể & ở đây đặc biệt cho sở thích ngôn ngữ học của riêng tôi (hoặc những ai muốn đi sâu hơn)  
+Tôi chỉ đang thử nghiệm/thực hành cách tôi hiểu mọi thứ với điều này theo nghĩa chung của ngôn ngữ học.***
 
-***Это просто один из моих обычных лингвистических сумбуров, которые на самом деле не имеют большого значения в общей схеме вещей и здесь для моего собственного лингвистического интереса (или для тех, кто хочет углубиться)***
+***KIẾN THỨC CỦA TÔI RẤT HẠN CHẾ, VẬY NÊN ĐÂY CHỈ LÀ TÔI THỰC NGHIỆM VỚI MỘT GIẢ THUYẾT.  
+TÔI RẤT NHẬN THỨC NHỮNG GÌ TÔI NÓI CÓ THỂ HOÀN TOÀN SAI!***
 
-***Я просто проверяю/практикую, как я понимаю вещи в общем смысле лингвистики.***
+***Dolly rõ ràng không sử dụng các thuật ngữ một cách nghiêm ngặt như tôi sẽ làm ở đây, vì nó chỉ là ngữ pháp cơ bản nên rõ ràng không cần thiết phải có ở đây, nhưng vì lợi ích của nó, tôi sẽ có một chút vui vẻ ngôn ngữ học:)***
 
-***МОИ ЗНАНИЯ ОЧЕНЬ ОГРАНИЧЕНЫ, ТАК ЧТО ЭТО ПРОСТО Я ЭКСПЕРИМЕНТИРУЮ С ГИПОТЕЗОЙ.***
+***Ngữ pháp phức tạp, vậy tôi vẫn có những thứ cần học và vân vân nên tôi cũng sẽ sử dụng điều này để nghiên cứu.***
 
-***Я ОЧЕНЬ ХОРОШО ОСОЗНАЮ, ЧТО ТО, ЧТО Я ГОВОРЮ, МОЖЕТ БЫТЬ В КОРНЕ НЕВЕРНЫМ!***
+*Nếu vẫn chưa rõ, theo hiểu biết của tôi, nó có thể được giải thích thông qua vai trò Ngữ nghĩa/quan hệ Chủ đề.*
 
-***Долли, очевидно, не использует термины так строго, как я здесь, потому что это всего лишь базовая грамматика, поэтому в любом случае нет необходимости в этом, но ради этого я немного повеселюсь с лингвистикой :)***
+Lưu ý rằng Cú pháp / Cú pháp và Ngữ nghĩa / Ngữ nghĩa là hai lĩnh vực khác nhau và một chức năng Cú pháp (Chủ ngữ v.v.) có thể có nhiều vai trò Ngữ nghĩa, đặc biệt về mặt Chủ động vs Bị động/Tiếp nhận.  
+Đó là vì đây là Bị động/Tiếp nhận, かばん có chức năng CÚ PHÁP của CHỦ NGỮ (do đó được đánh dấu が) NHƯNG nó có cùng chức năng NGỮ NGHĨA của PATIENT - nó nhận hành động của (động từ) ăn cắp/bị ăn cắp bởi ai đó. Trong giọng Chủ động かばん có chức năng CÚ PHÁP của ĐỐI TƯỢNG TRỰC TIẾP nhưng vẫn sẽ có chức năng NGỮ NGHĨA của PATIENT.
 
-***Грамматика сложна, поэтому мне ещё есть чему учиться и так далее, поэтому я также буду использовать это для исследований.***
+Do đó, nếu chúng ta có かばん được đánh dấu bằng を (Đối tượng Trực tiếp - chức năng Cú pháp), nó sẽ phải ở giọng Chủ động (vì trong Bị động, chúng ta có xu hướng đặt Đối tượng Trực tiếp làm Chủ ngữ thay thế) HOẶC, như sẽ được chỉ ra dưới đây, nó sẽ phải ở dạng <code>Tiếp nhận Phiền toái</code> như một Đối tượng thứ cấp được kết nối với một Động từ thứ cấp thêm thông tin <code>mô tả</code> về phần chính.  
+**Thuật ngữ Actor** mà Dolly sử dụng NÊN có nghĩa giống như Agent như đã nói [****ở đây****](https://linguistics.stackexchange.com/questions/20451/what-is-the-difference-between-actor-and-subject-in-systemic-functional-gram) và [****ở đây****](https://english.stackexchange.com/a/569830) từ những gì tôi tìm thấy, nhưng Dolly dường như sử dụng nó ở đây cho Subject, theo cách Actor nên ngụ ý người thực hiện hành động của động từ chính, vậy tôi bối rối Actor có nghĩa gì đối với cô ấy ở đây, nhưng có thể là... trong trường hợp đó, tôi hiểu Dolly có ý gì, mặc dù cô ấy có thể đang hợp nhất các chức năng Cú pháp và Ngữ nghĩa ở đây, nếu không thì tôi hiểu sai những gì cô ấy ngụ ý bằng Actor ở đây, vì cô ấy dường như chỉ nó đến Subject là một thuộc tính CÚ PHÁP, trong khi Actor (hay đúng hơn là Agent) là một thuộc tính NGỮ NGHĨA và trong câu này, trong bình luận cô ấy gọi かばん là <code>actor</code>, かばん nên là Patient, không phải <code>actor</code> vì nó nhận hành động, không thực hiện hành động của động từ chính. Có nghĩa là nếu Actor thực sự giống như Agent.
 
-*Если всё ещё неясно, по моему пониманию, это можно объяснить через семантические роли/тематические отношения.*
+*Thành thật mà nói, thuật ngữ Actor tôi chỉ thấy sử dụng hiếm khi và nó nên ngụ ý chức năng Ngữ nghĩa, NHƯNG nó có thể được sử dụng để chỉ <code>Macrorole Ngữ nghĩa</code> cho Subject trong giọng Chủ động và cụm từ by trong Bị động (trong khi Patient là Đối tượng Trực tiếp trong Chủ động và Subject trong Bị động, có Macrorole được gọi là <code>Undergoer</code>), như được đưa ra [**ở đây**](https://rrg.caset.buffalo.edu/rrg/vanvalin_papers/SemMRsRRG.pdf) trong bài báo của nhà ngôn ngữ học Robert Van Valin...*[1] (trang 1 & 3) và nó chỉ ra mối quan hệ giữa Ngữ nghĩa và Cú pháp. Thường Agent (hoặc các tên phụ của nó) được sử dụng, vậy nó làm tôi rất bối rối, nhưng từ các bài học khác, **Dolly dường như chỉ Subject là Actor đôi khi và sử dụng chúng thay thế cho nhau ngay cả trong Bị động/Tiếp nhận, vậy chỉ cần ghi nhớ rằng bằng Actor cô ấy có ý là Subject** ngay cả khi nó nên chỉ những thứ khác nhau trong Bị động từ những gì tôi CÁCH NHÂN nghiên cứu...  
+Hơn nữa điều này dường như cũng là trường hợp trong tiếng Nhật, như [**IMABI**](https://imabi.org/the-passive/) dường như nói trong bài học Bị động, được cấp chỉ sử dụng thuật ngữ Agent, trong Bị động được đánh dấu bằng に / によって.  
+Trong giọng CHỦ ĐỘNG hai chức năng NGỮ NGHĨA này thường được diễn đạt CÚ PHÁP thông qua Subject (Agent) và Direct Object (Patient), nhưng chúng chỉ các lĩnh vực khác nhau.  
+Trong Bị động/Tiếp nhận, Patient thay vào đó chủ yếu được đặt vào vai trò CÚ PHÁP của Subject.  
+Vai trò NGỮ NGHĨA của chúng không thay đổi - Patient & Agent vẫn là những từ giống nhau, nhưng chức năng CÚ PHÁP của chúng được thay đổi, trong đó Patient bây giờ trở thành Subject và Agent được đặt vào cụm từ by, trong trường hợp này là cụm từ được đánh dấu に. Trong Bị động/Tiếp nhận có 2 động từ - ぬすむ và れる, ぬすむ mô tả れる ở đây, れる hoạt động như một Predicate? (không chắc chắn lắm ở đây, nhưng れる được đánh dấu như một chiếc xe đen giống như が và ぬすむ chỉ là trắng) với かばん hiện là Subject.  
+Nó dường như phù hợp một cách đáng ngạc nhiên giữa tiếng Anh và tiếng Nhật trong các động từ Transitive / Other-move cơ bản ngay cả khi chúng ta không nên so sánh chúng, NHƯNG chúng không giống hệt nhau, tiếng Nhật tự do hơn nhiều, rộng rãi hơn và logic / rõ ràng hơn với nó so với tiếng Anh vậy tiếng Nhật có thể sử dụng Bị động / Tiếp nhận cho những thứ mà tiếng Anh không thể.
 
-Имейте в виду, что синтаксис / синтаксический и семантика / семантический — это две разные области, и одна синтаксическая функция (Субъект и т. д.) может иметь несколько семантических ролей, особенно в терминах активного против пассивного/воспринимающего залога.
+*Xin lỗi nếu nó hơi phức tạp, nhưng nếu bạn kiểm tra những gì các thuật ngữ chỉ và đọc lại nó sẽ làm rõ.  
+Nhưng có một trường hợp đặc biệt của Bị động/Tiếp nhận trong tiếng Nhật có thể đánh dấu かばん là を trong khi vẫn có một câu Bị động/Tiếp nhận, có thể thấy ngay dưới đây - Tiếp nhận Phiền toái*
 
-Это потому, что в пассиве/воспринимающем залоге かばん имеет СИНТАКСИЧЕСКУЮ функцию СУБЪЕКТА (отсюда и пометка が), НО имеет ту же СЕМАНТИЧЕСКУЮ функцию ПАЦИЕНТА — он получил действие (глаголов) кражи/быть украденным кем-то. В активном залоге かばん имеет СИНТАКСИЧЕСКУЮ функцию ПРЯМОГО ДОПОЛНЕНИЯ, но всё равно будет иметь СЕМАНТИЧЕСКУЮ функцию ПАЦИЕНТА.
-
-Таким образом, если бы かばん был помечен を (Прямое дополнение — синтаксическая функция), он должен был бы быть в активном залоге (поскольку в пассиве мы склонны ставить прямое дополнение в качестве субъекта) ИЛИ, как будет показано ниже, он должен был бы быть в форме <code>Досадного вспомогательного глагола получения</code> как вторичное дополнение, связанное со вторичным глаголом, который добавляет <code>описательную</code> информацию о главной части.
-
-**Термин Актор**, который использует Долли, ДОЛЖЕН означать то же, что и Агент, как сказано [****здесь****](https://linguistics.stackexchange.com/questions/20451/what-is-the-difference-between-actor-and-subject-in-systemic-functional-gram) и [****здесь****](https://english.stackexchange.com/a/569830) из того, что я нашла, но Долли, кажется, использует его здесь для Субъекта; в некотором смысле Актор должен подразумевать того, кто совершает действие главного глагола, поэтому я запуталась, что Актор означает для неё здесь, но, возможно, это так… в этом случае я понимаю, что Долли имеет в виду, хотя она, возможно, здесь объединяет синтаксические и семантические функции, иначе я неправильно поняла, что она подразумевает под Актором здесь, поскольку она, кажется, указывает на Субъект, который является СИНТАКСИЧЕСКИМ свойством, в то время как Актор (или, скорее, Агент) является СЕМАНТИЧЕСКИМ свойством, и в этом предложении, в комментарии она называет かばん <code>актором</code>, かばん должен быть Пациентом, а не <code>актором</code>, поскольку он получает действие, а не совершает действие главного глагола. То есть, если Актор действительно похож на Агента.
-
-*Честно говоря, термин Актор я видела используемым лишь изредка, и он должен подразумевать семантическую функцию, НО его можно использовать для обозначения <code>Семантической Макророли</code> для Субъекта в активном залоге и для фразы с предлогом <code>by</code> в пассивном (в то время как Пациент является Прямым Дополнением в активном и Субъектом в пассивном, чья Макророль называется <code>Undergoer</code>), как указано [**здесь**](https://rrg.caset.buffalo.edu/rrg/vanvalin_papers/SemMRsRRG.pdf) в статье лингвиста Роберта Ван Валина…*[1] (страница 1 и 3), и это указывает на связь между семантикой и синтаксисом. Обычно используются Агент (или его подназвания), поэтому это меня сильно запутало, но из других уроков **Долли, кажется, иногда называет Субъект Актором и использует их взаимозаменяемо даже в пассиве/воспринимающем залоге, поэтому просто имейте в виду, что под Актором она подразумевает Субъект**, даже если это должно относиться к разным вещам в пассиве, согласно моим ЛИЧНЫМ исследованиям…
-
-Более того, это, кажется, относится и к японскому языку, как, по-видимому, говорится в [**IMABI**](https://imabi.org/the-passive/) в уроке о пассиве, хотя там используется только термин Агент, в пассиве помечаемый に / によって.
-
-В АКТИВНОМ залоге эти две СЕМАНТИЧЕСКИЕ функции обычно СИНТАКСИЧЕСКИ выражаются через Субъект (Агент) и Прямое Дополнение (Пациент), но они относятся к разным областям.
-
-В пассиве/воспринимающем залоге Пациент вместо этого в основном помещается в СИНТАКСИЧЕСКУЮ роль Субъекта.
-
-Их СЕМАНТИЧЕСКИЕ роли не меняются — Пациент и Агент остаются теми же словами, но их СИНТАКСИЧЕСКИЕ функции меняются, где Пациент теперь становится Субъектом, а Агент помещается во фразу с предлогом <code>by</code>, в данном случае во фразу, помеченную に. В пассиве/воспринимающем залоге есть 2 глагола — ぬすむ и れる, ぬすむ описывает れる здесь, れる работает как Предикат? (не слишком уверена здесь, но れる помечен как чёрный вагон, как が, а ぬすむ просто как белый) к かばん, который теперь является Субъектом.
-
-Это, кажется, удивительно хорошо сочетается между английским и японским в базовых переходных / других глаголах движения, даже если мы не должны их сравнивать, НО они не идентичны, японский гораздо более свободен, распространён и логичен / ясен в этом отношении, чем английский, поэтому японский может использовать пассив / воспринимающий залог для вещей, которые английский не может.
-
-*Извините, если это немного сложно, но если вы проверите, к чему относятся термины, и перечитаете, всё должно проясниться.
-
-*Но есть особый случай пассива/воспринимающего залога в японском, который может помечать かばん как を, при этом оставаясь пассивным/воспринимающим предложением, это можно увидеть прямо ниже — Досадный вспомогательный глагол получения*
-
-***Если вы заметите ЗДЕСЬ какую-либо неверную информацию, пожалуйста, дайте мне знать! Тем не менее, относитесь к этому с долей скептицизма.***
+***Nếu bạn nhận thấy BẤT KỲ thông tin sai nào ở đây, xin hãy cho tôi biết! Tuy nhiên, hãy coi nó với thái độ hoài nghi.***
 
 :::
 
-### Пример досадного вспомогательного глагола получения
+### Ví dụ Bị động Đau khổ / Tiếp nhận Phiền toái
 
-**Но мы также можем сказать** 「**さくらが**だれかにかばんをぬすまれた。」 **Это досадный вспомогательный глагол получения**.
+**Nhưng chúng ta cũng có thể nói** 「**さくらが**だれかにかばんをぬすまれた。」 **Đây là tiếp nhận phiền toái**.
 
 ![](../media/image30.webp)
 
-Итак, что здесь происходит? **Актор, помеченный が, теперь Сакура, не так ли? Она та, кто совершает действие получения.**
+Vậy chuyện gì đang xảy ra ở đây? **Tác nhân được đánh dấu が bây giờ là Sakura, phải không? Cô ấy là người thực hiện việc nhận.**
 
 ::: info
 ![](../media/image368.webp)
 :::
 
-Итак, что означает это предложение в английском? Очень просто: <code>У **Сакуры** украли сумку</code>. Именно так мы говорим в английском; нашему старому учителю английского это может не понравиться, но мы так говорим в английском, это имеет смысл в английском, и это именно то, что мы говорим в японском. <code>У Сакуры украли сумку кем-то.</code>
+Vậy câu này có nghĩa gì trong tiếng Anh? Rất đơn giản: `**Sakura** bị mất túi`. Đó là những gì chúng ta nói trong tiếng Anh; giáo viên tiếng Anh cũ của chúng ta có thể không thích, nhưng chúng ta nói nó trong tiếng Anh, nó có ý nghĩa trong tiếng Anh, và đó chính xác là những gì chúng ta nói trong tiếng Nhật. `Sakura bị mất túi bởi ai đó.`
 
-Итак, вы видите, что на самом деле нет никаких проблем, никаких трудностей, никакой путаницы со вспомогательным глаголом получения, если только вы знаете, что это вспомогательный глагол получения, а не что-то другое.
+Vậy, bạn có thể thấy rằng thực tế không có vấn đề, không có khó khăn, không có nhầm lẫn về trợ động từ tiếp nhận, chỉ cần bạn biết rằng nó là một trợ động từ tiếp nhận chứ không phải thứ gì khác.
 
 ::: info
-Опять же, это, вероятно, будет ОЧЕНЬ трудно полностью понять, поэтому я также рекомендую прочитать комментарии под [**видео**](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15). Там довольно много (других) очень интересных ответов от Долли.
-Не волнуйтесь, если сейчас это слишком сложно для полного понимания, вы полностью поймёте пассив/воспринимающий залог, когда будете много вводить и погружаться в японский язык, всё в конечном итоге прояснится само по себе по мере того, как вы будете потреблять больше информации. Это просто для того, чтобы дать базовое представление об этом через базовое объяснение Долли.*
+Một lần nữa, điều này có thể sẽ RẤT khó để nắm bắt hoàn toàn, vậy tôi khuyên cũng đọc qua các bình luận dưới [**video**](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15). Có khá nhiều câu trả lời thú vị (khác) của Dolly.  
+Đừng lo lắng nếu nó quá khó để nắm bắt hoàn toàn bây giờ, bạn sẽ nắm bắt Bị động/Tiếp nhận hoàn toàn khi bạn input và immerse trong tiếng Nhật nhiều, tất cả sẽ tự làm rõ cuối cùng càng tiêu thụ nhiều. Đây chỉ là để đưa ra ý tưởng cơ bản về nó thông qua giải thích cơ bản của Dolly.*
 :::

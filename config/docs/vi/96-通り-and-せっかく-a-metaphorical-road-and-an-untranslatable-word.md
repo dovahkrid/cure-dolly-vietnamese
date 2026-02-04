@@ -1,145 +1,145 @@
-# **96. 通り и せっかく: Метафорическая дорога и непереводимое слово.**
+# **96. 通り và せっかく: Một con đường ẩn dụ và một từ không thể dịch được.**
 
-[**通り and せっかく: A metaphorical road and an untranslatable word.**](https://www.youtube.com/watch?v=G3qc0esEbvE&ab_channel=OrganicJapanesewithCureDolly)
+[**通り và せっかく: Một con đường ẩn dụ và một từ không thể dịch được.**](https://www.youtube.com/watch?v=G3qc0esEbvE&ab_channel=OrganicJapanesewithCureDolly)
 
-こんにちは, и добро пожаловать в <code>令和三年</code> (2021).
+こんにちは, và chào mừng đến với 令和三年 *(2021)*.
 
-Менее двух лет назад (видео 2021 года) началась эра <code>Рэйва</code> (2019) с приливом надежды на чудесную новую эру. А затем наступил <code>Рэйва 2</code> (2020), который быстро оказался довольно катастрофическим годом. Это должен был быть год Токийской Олимпиады, и мы все знаем, что с ней случилось.
+Cách đây chưa đầy hai năm *(video này từ năm 2021)* kỷ nguyên Reiwa bắt đầu *(2019)* với làn sóng hy vọng về một kỷ nguyên mới tuyệt vời. Và rồi đến Reiwa 2 *(2020)*, nhanh chóng trở thành một năm khá thảm khốc. Đó lẽ ra phải là năm của Thế vận hội Tokyo, và chúng ta đều biết chuyện gì đã xảy ra.
 
-Но я всё ещё верю, что <code>Рэйва</code> будет чудесной новой эрой, и, возможно, <code>令和三年</code> начнёт нам это показывать. Сегодня мы поговорим о двух словах, о которых меня недавно спрашивали.
+Nhưng tôi vẫn tin rằng Reiwa sẽ là một kỷ nguyên mới tuyệt vời và có lẽ 令和三年 sẽ bắt đầu cho chúng ta thấy điều đó. Hôm nay chúng ta sẽ nói về hai từ mà tôi được hỏi gần đây.
 
-## 通り
+## 通り 
 
-**Первое — это <code>通り</code> в его присоединении к другим словам.**
+**Từ đầu tiên là <code>通り</code> khi nó gắn với các từ khác.**
 
 ![](../media/image1001.webp)
 
-**<code>通り</code>, конечно, само по себе, является <code>い-основой</code> глагола <code>通る</code> (проходить насквозь).**
+**<code>通り</code> tất nhiên, khi đứng một mình, là い-stem của <code>通る</code> (đi qua).**
 
-**А как существительное оно означает <code>дорогу</code> или <code>путь</code>, или <code>акт прохождения насквозь</code>.**
+**Và như một danh từ, nó có nghĩa là con đường hoặc lối đi, hoặc hành động đi qua.**
 
 ### その通り
 
-**Затем оно используется в выражениях вроде <code>その通り</code>**, и буквально это означает **<code>та дорога, или тот способ передвижения, тот способ прохождения насквозь</code>**.
+**Nó sau đó được sử dụng trong các cách diễn đạt như <code>その通り</code>** và điều này có nghĩa đen là **<code>con đường đó, hoặc cách di chuyển đó, cách đi qua đó</code>**.
 
-**А на самом деле это означает <code>это верно / вы абсолютно правы</code>.**
+**Và điều này thực sự có nghĩa là <code>đúng vậy / bạn hoàn toàn đúng</code>.**
 
 ![](../media/image289.webp)
 
-Как же оно приобретает такое значение?
+Làm thế nào nó lại có nghĩa như vậy?
 
-**Ну, это действительно означает, что ваш образ мышления, дорога, путь, проход, по которому вы мыслите, является правильным: <code>その通り</code>.**
+**Chà, nó thực sự đang nói rằng cách bạn đang suy nghĩ, con đường, đường ray, lối đi mà bạn đang suy nghĩ theo, là đúng: <code>その通り</code>.**
 
-Немного похоже на английское выражение <code>you're on the right track</code> (вы на правильном пути), за исключением того, что <code>you're on the right track</code> в английском подразумевает, что вы ещё не совсем там, **но <code>その通り</code> означает, что вы мыслите абсолютно в правильном направлении, вы там, вы поняли, вы правы.**
+Hơi giống trong tiếng Anh khi nói <code>you're on the right track</code>, ngoại trừ việc <code>you're on the right track</code> trong tiếng Anh sẽ ngụ ý rằng bạn chưa hoàn toàn đến đó, **nhưng <code>その通り</code> có nghĩa là bạn đang suy nghĩ theo đúng hướng, bạn đã đến đó, bạn đã hiểu, bạn đúng.**
 
 ### ごらんの通り / ご覧の通り
 
-**Ещё одно выражение, использующее <code>通り</code>, это <code>ごらんの通り</code>.**
+**Một cách diễn đạt khác sử dụng <code>通り</code> là <code>ごらんの通り</code>.**
 
 ![](../media/image168.webp)
 
-Итак, <code>ごらん</code>, когда оно пишется кандзи, пишется вот так.
+Bây giờ, <code>ごらん</code> khi được viết bằng kanji thì được viết như thế này.
 
 ![](../media/image450.webp)
 
 ::: info
-<code>御覧</code> — это полная версия <code>кандзи</code> для <code>ごらん</code>, даже с почтительным префиксом <code>ご</code> в форме <code>кандзи</code>, но чрезмерное использование <code>кандзи</code> для всего тоже не очень жизнеспособно, хотя это зависит от слов и использования.
+御覧 là phiên bản Kanji đầy đủ của ごらん, thậm chí với cả ご tôn kính ở dạng Kanji, nhưng việc lạm dụng Kanji cho mọi thứ cũng không khả thi lắm, nhưng nó phụ thuộc vào từ và cách sử dụng.
 :::
-Итак, **вы видите, что <code>ご</code> — это почтительный префикс; <code>覧</code> — это на самом деле ещё один способ написания слова <code>見る</code>.**
+Vậy **bạn có thể thấy <code>ご</code> là tôn kính; <code>覧</code> thực sự là một cách khác để viết từ <code>見る</code>.**
 
-Некоторое время назад [**я делала видео**](https://www.youtube.com/watch?v=6Kh1AJx77Ng) о слове <code>見る</code> (видеть, смотреть или наблюдать) и пяти различных <code>кандзи</code>, которыми оно может быть написано.
+Bây giờ, [**tôi đã làm một video**](https://www.youtube.com/watch?v=6Kh1AJx77Ng) cách đây một lúc về từ <code>見る</code> (nhìn thấy hoặc nhìn hoặc xem) và năm kanji khác nhau mà nó có thể được viết.
 
-<code>見る, 観る, 看る, 診る, 視る</code>
+*見る, 観る, 看る, 診る, 視る*
 
-**И я тогда сказала, что на самом деле их больше.** Я не стала их представлять, потому что они не так уж распространены, и этот (<code>覧る</code>) тоже не является распространённым способом написания <code>見る</code>.
+**Và tôi đã nói lúc đó thực sự còn nhiều hơn nữa.** Tôi không giới thiệu chúng vì chúng không phổ biến lắm, và cái này *(覧る)* cũng không phải là cách phổ biến để viết <code>見る</code>.
 
-Но с его <code>он-чтением</code> <code>らん</code> оно используется, и **<code>ごらん / ご覧</code> — это почтительный способ сказать <code>акт смотрения или видения</code>.**
+Nhưng với cách đọc on <code>らん</code> thì nó được sử dụng, và **<code>ごらん / ご覧</code> là cách tôn kính để nói <code>hành động nhìn hoặc thấy</code>.**
 
-**Итак, <code>ご覧の通り</code>, очень похоже на <code>その通り</code>**, означает **<code>как вы можете видеть / в соответствии с вашим видением это правильно</code>,** точно так же, как в соответствии с вашим высказыванием или мышлением это правильно.
+**Vậy <code>ご覧の通り</code>, khá giống <code>その通り</code>**, có nghĩa là **<code>như bạn có thể thấy / theo hướng nhìn của bạn là đúng</code>,** giống như theo hướng nói hoặc suy nghĩ của bạn là đúng.
 
-**<code>ご覧の通り</code> (как вы можете видеть).**
+**<code>ご覧の通り</code> (như bạn có thể thấy).**
 
 ### 思い通り
 
-**Ещё одно выражение с <code>通り</code> — это <code>おもいどおり / 思い通り</code>.**
+**Một cách diễn đạt <code>通り</code> khác là <code>おもいどおり / 思い通り</code>.**
 
 ![](../media/image291.webp)
 
-Итак, **здесь, конечно, мы используем <code>い-основу</code> глагола <code>思う</code>,** который переводится как <code>думать</code> в английском, **но на самом деле означает больше, чем это, он означает <code>чувствовать</code>.**
+Bây giờ, **ở đây tất nhiên chúng ta đang sử dụng い-stem của <code>思う</code>,** được dịch là <code>think</code> trong tiếng Anh **nhưng thực sự có nghĩa nhiều hơn thế, nó có nghĩa là <code>feel</code>.**
 
-**Но <code>思い</code> часто также означает <code>свою волю, своё желание</code>,** и я упоминала это в предыдущем видео<sup>[[42]](./42-basic-word-confusion-まま.md)</sup>, когда объясняла, как **<code>思いのまま</code>** означает **<code>в неизменном состоянии своей воли или желания</code>.** И я оставлю ссылку на это, если вы захотите продолжить изучение.
+**Nhưng <code>思い</code> thường cũng có nghĩa là ý chí, mong muốn của một người,** và tôi đã đề cập điều này trong một video trước<sup>[[42]](./42-basic-word-confusion-まま.md)</sup> khi tôi giải thích cách **<code>思いのまま</code>** có nghĩa là **<code>trong tình trạng không thay đổi của ý chí hoặc mong muốn của một người</code>.** Và tôi sẽ đặt một liên kết cho điều đó trong trường hợp bạn quan tâm theo dõi.
 
-**<code>思い通り</code> означает <code>на дороге, пути, курсе своей воли или желания</code>, поэтому это означает, что всё идёт или хочется, чтобы всё шло в соответствии со своей волей / в соответствии со своими желаниями.**
+**<code>思い通り</code> có nghĩa là <code>trên con đường, đường ray, quá trình của ý chí hoặc mong muốn của một người</code>, vậy nó có nghĩa là có mọi thứ diễn ra hoặc muốn mọi thứ diễn ra theo ý chí của một người / theo mong muốn của một người.**
 
 ---
 
-**И это может быть что угодно: от эгоистичного желания до, когда вы в воде, возможно, желания, чтобы ваше тело двигалось так, как вы хотите,** чего оно не всегда делает, когда вы в воде.
+**Và điều đó có thể là bất cứ thứ gì từ ham muốn ích kỷ đến, khi bạn ở trong nước chẳng hạn, muốn cơ thể mình di chuyển theo cách mà bạn muốn,** điều mà không phải lúc nào cũng xảy ra khi bạn ở trong nước.
 
 ## せっかく
 
-**Теперь, другое слово, о котором меня спрашивали, это <code>せっかく</code>.**
+**Bây giờ, từ khác mà tôi được hỏi về là <code>せっかく</code>.**
 
-Итак, <code>せっかく</code> имеет целый ряд определений, если вы посмотрите в словаре.
+Bây giờ, <code>せっかく</code> có cả một loạt định nghĩa nếu bạn tra từ điển.
 
 ![](../media/image507.webp)
 
-**Оно определяется как <code>с трудом, с большими усилиями; редкий, ценный, драгоценный, долгожданный; добрый, щедрый; специально, нарочно</code>,** что довольно много для одного слова.
+**Nó được định nghĩa là "với khó khăn, nỗ lực lớn; hiếm, có giá trị, quý giá, được chờ đợi lâu; tử tế, hào phóng; đặc biệt, rõ ràng",** đó là khá nhiều thứ cho một từ có nghĩa.
 
-**Но по сути все они сводятся к одному и тому же, а именно к понятию, что что-то ценно и в некотором смысле незаменимо.**
+**Nhưng về cơ bản chúng đều quy về cùng một điều, đó là khái niệm rằng cái gì đó có giá trị và theo một nghĩa nào đó không thể thay thế được.**
 
-### せっかく как <code>делать x с большим усилием / трудом и слишком ценно, чтобы заменить</code>
+### せっかく như <code>làm x với nỗ lực/khó khăn lớn và quá quý giá để thay thế</code>
 
-Итак, **вероятно, наиболее распространённое значение — это то, что на это было потрачено много усилий.**
+Bây giờ, **có lẽ ý nghĩa phổ biến nhất là rất nhiều khó khăn đã được bỏ ra cho nó.**
 
-Так, если мы говорим <code>せっかくの努力が水の泡だ</code>, **мы говорим <code>Мои **せっかく** усилия сошли на нет</code>,** буквально <code>...это пена на воде / пузыри на воде</code>.
+Vậy nếu chúng ta nói <code>せっかくの努力が水の泡だ</code>, **chúng ta đang nói <code>Những nỗ lực **せっかく** của tôi đã thành công cốc</code>,** theo nghĩa đen <code>...là bọt trên nước / bong bóng trên nước</code>.
 
 ![](../media/image776.webp)
 
-Таким образом, мы видим, что это, очевидно, наиболее распространённое употребление, употребление, о котором люди, вероятно, думают чаще всего, **а именно <code>с большим усилием / с большим трудом / приложив усилия (чтобы что-то сделать)</code>.**
+Vậy chúng ta có thể thấy rằng rõ ràng đó là cách sử dụng phổ biến nhất, cách sử dụng mà mọi người có lẽ nghĩ đến thường xuyên nhất, **đó là <code>với nỗ lực lớn / với khó khăn lớn / đã bỏ công sức (để làm gì đó)</code>.**
 
 ---
 
-Мы могли бы сказать <code>**せっかく**東京に来た, we ought to go to Sanrio Puroland</code>,
+Chúng ta có thể nói <code>**せっかく**東京に来た, chúng ta nên đi Sanrio Puroland</code>,
 
 ![](../media/image768.webp)
 
-**потому что если вы приложили столько усилий, чтобы добраться до Токио, это будет пустой тратой времени, если вы не попадёте в Sanrio Puroland** и не увидите Hello Kitty, My Melody, Pom Pom Purin и всех замечательных персонажей, которые там живут, Little Twin Stars.
+**bởi vì nếu bạn đã bỏ công đi tận Tokyo, thì hơi lãng phí thời gian nếu bạn không đến Sanrio Puroland** và gặp Hello Kitty và My Melody và Pom Pom Purin và tất cả những người tuyệt vời sống ở đó, Little Twin Stars.
 
-**Если вы когда-нибудь <code>せっかく</code> доберётесь до Токио, вы действительно должны туда пойти.**
+**Nếu bạn **せっかく** đến Tokyo, bạn thực sự phải đi đó.**
 
 ---
 
-Но вернёмся к предмету разговора.
+Nhưng quay lại chủ đề chính.
 
-**Однако суть <code>せっかく</code> не только в затраченных усилиях, но и в том, что что-то редко, ценно и труднозаменимо.**
+**Tuy nhiên, điểm về <code>せっかく</code> không chỉ là khó khăn có thể đã được bỏ ra, mà là thực tế rằng cái gì đó hiếm và quý giá và khó thay thế.**
 
-**Поездка в Токио труднозаменима, потому что, как только вы уехали, вам придётся снова приложить все усилия, чтобы вернуться туда.**
+**Đi Tokyo khó thay thế vì một khi bạn đã rời đi, bạn phải bỏ tất cả công sức để quay lại đó một lần nữa.**
 
-Но вы также можете сказать <code>**せっかく**の休日も雨で潰れた</code> (<code>**せっかく**</code> выходной / праздник был испорчен дождём).
+Nhưng bạn cũng có thể nói <code>**せっかく**の休日も雨で潰れた</code> (Ngày **<code>せっかく</code>** nghỉ ngơi / ngày lễ đã bị hủy hoại bởi mưa).
 
 ![](../media/image122.webp)
 
-**И это <code>せっかく</code>, потому что это относительно редко. Вы не так часто получаете выходные.**
+**Và đó là <code>せっかく</code> vì nó tương đối hiếm. Bạn không có nhiều ngày nghỉ như vậy.**
 
-Так же, как поездка в Токио или все эти усилия, чтобы что-то сделать, **это <code>せっかく</code>, это ценно, это редко, это труднозаменимо.**
+Vậy giống như đi tận Tokyo hoặc bỏ tất cả những nỗ lực để làm gì đó, **nó là <code>せっかく</code>, nó quý giá, nó hiếm, nó khó thay thế.**
 
-<code>あの広告が**せっかく**の風景を損なう</code> (эти рекламные щиты портят <code>**せっかく**</code> пейзаж).
+<code>あの広告が**せっかく**の風景を損なう</code> (những quảng cáo / những bảng quảng cáo đó làm hỏng phong cảnh **<code>せっかく</code>**).
 
 ![](../media/image81.webp)
 
-**И опять же, <code>せっかく</code> в данном случае не означает тяжёлый труд, оно не означает редкость в смысле нечастого появления, оно просто означает, что этот пейзаж — нечто прекрасное, уникальное и незаменимое, и его портят рекламные щиты.**
+**Và một lần nữa, <code>せっかく</code> trong trường hợp này không có nghĩa là công việc khó khăn, nó không có nghĩa là sự hiếm hoi theo nghĩa không đến thường xuyên, nó chỉ có nghĩa là phong cảnh đó là thứ gì đó đẹp và độc đáo và không thể thay thế và nó đang bị hủy hoại bởi những bảng quảng cáo.**
 
 ---
 
-**И в английском языке нет слова, которое могло бы заменить <code>せっかく</code>.**
+**Và thực sự không có từ nào để thay thế <code>せっかく</code> trong tiếng Anh.**
 
-Я бы сказала, что это слово в некотором смысле находится под влиянием японской культуры. **Идея ценности <code>сакуры</code>** (дерева), потому что **она цветёт лишь короткое время и быстро сдувается ветрами или сбивается дождём.**
+Đó là một từ mà tôi sẽ nói theo một cách nào đó bị ảnh hưởng bởi văn hóa Nhật Bản. **Ý tưởng về sự quý giá của sakura** *(cây)* bởi vì **nó chỉ đến trong thời gian ngắn và nhanh chóng bị thổi bay bởi gió hoặc bị đánh gục bởi mưa.**
 
 ![](../media/image880.webp)
 
-Грусть, мимолётность, <code>儚い</code> природа жизни и необходимость ценить то, что редко и драгоценно, пока оно проходит, пока мы можем.
+Nỗi buồn, sự thoáng qua, bản chất <code>儚い</code> của cuộc sống và sự cần thiết phải nắm bắt những gì hiếm và quý giá khi nó trôi qua, trong khi chúng ta có thể.
 
 ::: info
-Это звучит совсем иначе, когда мы понимаем, что Долли скончалась в том же году… Покойся с миром. 🙁
+Điều này có cảm giác khá khác khi chúng ta nhận ra Dolly đã qua đời trong năm đó… R.I.P. 🙁
 :::
 .

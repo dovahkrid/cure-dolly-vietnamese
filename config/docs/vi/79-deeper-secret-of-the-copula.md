@@ -1,164 +1,164 @@
-# **79. Более глубокий секрет связки**
+# **79. Bí mật sâu xa hơn của copula** 
 
-[**1/3 всех японских предложений разгадана! Более глубокий секрет связки. +Заблуждение Тэ Кима | Урок 79**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=81&ab_channel=OrganicJapanesewithCureDolly)
+[**1/3 của tất cả câu tiếng Nhật đã được giải mã! Bí mật sâu xa hơn của copula. +Ngụy biện của Tae Kim | Bài 79**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=81&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Сегодня мы поговорим о чём-то абсолютно ключевом для основной структуры японского языка. Мы недавно обсуждали это в связи с Тэ Кимом-сэнсэем и тем, как он нарушает наше понимание этой конкретной вещи. Это связка, и она действительно управляет огромным количеством того, что мы можем сказать и передать в самом языке. Это крайне важно для того, как мы концептуализируем мир.
+Hôm nay chúng ta sẽ nói về một điều hoàn toàn quan trọng đối với cấu trúc cốt lõi của tiếng Nhật. Chúng ta đã nói về điều này gần đây liên quan đến Tae Kim-sensei và cách ông ấy làm xáo trộn hiểu biết của chúng ta về điều đặc biệt này. Đó chính là copula, và nó thực sự chi phối rất nhiều những gì chúng ta có thể nói và giao tiếp trong chính ngôn ngữ. Nó rất quan trọng đối với cách chúng ta khái niệm hóa thế giới.
 
 ![](../media/image145.webp)
 
-Тэ Ким никогда не использует «С-слово», <code>связка</code>, и в этом большая часть проблемы. Но некоторые могут спросить не столько, почему Тэ Ким не использует, сколько, почему я использую. В конце концов, я стараюсь избегать технической лингвистической и грамматической терминологии насколько это возможно.
+Giờ đây, Tae Kim không bao giờ thực sự sử dụng từ C, <code>copula</code>, và đó là một phần lớn của vấn đề. Nhưng một số người có thể đang thắc mắc không phải tại sao Tae Kim không dùng, mà tại sao tôi lại dùng. Rốt cuộc, tôi cố gắng tránh thuật ngữ ngôn ngữ học và ngữ pháp kỹ thuật càng nhiều càng tốt.
 
-Я нечасто использую слово <code>**грамматический субъект**</code>; ещё реже я использую слово <code>**предикат**</code>. **Я предпочитаю говорить <code>А-вагон</code> и <code>Б-локомотив</code>.**
+Tôi không thường xuyên sử dụng từ <code>**chủ ngữ ngữ pháp**</code>; tôi thậm chí còn ít sử dụng từ <code>**vị ngữ**</code> hơn nữa. **Tôi thích nói <code>toa A</code> và <code>động cơ B</code> hơn.**
 
 ![](../media/image939.webp)
 
-Так мы все знаем, о чём говорим. Так почему же я использую это абстрактное и довольно ужасное слово, <code>связка</code>?
+Theo cách đó, tất cả chúng ta đều biết mình đang nói về gì. Vậy tại sao tôi lại sử dụng từ trừu tượng và khá khủng khiếp này, <code>copula</code>?
 
-## Что такое «связка»
+## "Copula" là gì
 
-Ну, причина в том, что в английском языке нет выделенной связки, поэтому англоговорящим может быть довольно трудно понять, что именно такое связка. Мне приходится вводить эту функцию как нечто само по себе. Когда Тэ Ким говорит о связочных выражениях, он называет их выражениями <code>состояния бытия</code>, и в этом действительно ключ ко всей проблеме.
+Chà, lý do là tiếng Anh không có một copula chuyên dụng, vì vậy có thể khá khó khăn cho người nói tiếng Anh để nắm bắt chính xác copula là gì. Tôi phải giới thiệu chức năng đó như một thứ gì đó độc lập. Khi Tae Kim nói về các biểu thức copula, ông ấy gọi chúng là biểu thức <code>trạng thái tồn tại</code>, và đây thực sự là chìa khóa cho toàn bộ vấn đề.
 
-Итак, что такое связка, и почему в английском языке нет выделенной связки, и почему это так важно? Давайте начнём с <code>что такое связка?</code>
+Vậy, copula là gì, và tại sao tiếng Anh không có copula chuyên dụng, và tại sao nó lại quan trọng đến vậy? Hãy bắt đầu với <code>copula là gì?</code>
 
-Самый простой способ определить связку — это то, что **она является односторонним знаком равенства**.
+Cách đơn giản nhất để định nghĩa copula là **nó là một dấu bằng một chiều**.
 
 ![](../media/image1138.webp)
 
-**Она говорит нам, что А есть Б**, **хотя Б не обязательно есть А**. Так, <code>さくらは日本人**です**</code>. *(Очевидно, <code>だ</code> тоже)* Сакура **является** японцем; **японец не обязательно является Сакурой.**
+**Nó cho chúng ta biết rằng A là B**, **mặc dù B không nhất thiết là A**. Vậy, <code>さくらは日本人**です**</code>. *(Rõ ràng, だ cũng vậy)* Sakura **là** một người Nhật; **một người Nhật không nhất thiết là Sakura.**
 
-Это простое объяснение. Но если мы копнём немного глубже, **то, что связка на самом деле делает, это помещает вещи в множества**.
+Giờ đây, đó là lời giải thích đơn giản. Nhưng nếu chúng ta đi sâu hơn một chút, **copula thực sự làm là đặt mọi thứ vào các tập hợp**.
 
-<code>さくらは日本人**です**</code> **означает, что Сакура принадлежит к множеству <code>японец</code>**.
+<code>さくらは日本人**です**</code> **có nghĩa là Sakura thuộc về tập hợp <code>người Nhật</code>**.
 
 ![](../media/image704.webp)
 
-И это фундаментально важно для языка, который является инструментом, используемым людьми для концептуализации мира, вещей, которые они видят вокруг себя, видимой и воспринимаемой вселенной. Помещение вещей в категории — это наш самый фундаментальный способ взаимодействия с ними. **Роза принадлежит к множеству <code>цветок</code>**.
+Và điều này cực kỳ quan trọng đối với ngôn ngữ, là công cụ con người sử dụng để khái niệm hóa thế giới, những thứ họ nhìn thấy xung quanh mình, vũ trụ có thể nhìn thấy và cảm nhận được. Việc đặt mọi thứ vào các danh mục là cách cơ bản nhất của chúng ta để xử lý chúng. **Một bông hồng thuộc về tập hợp <code>hoa</code>**.
 
-**Цветок принадлежит к множеству <code>растущие вещи</code>**. **Растущие вещи принадлежат к множеству <code>живые вещи</code>**. **Живые вещи принадлежат к множеству <code>вещи</code>**.
+**Hoa thuộc về tập hợp <code>những thứ đang phát triển</code>**. **Những thứ đang phát triển thuộc về tập hợp <code>sinh vật</code>**. **Sinh vật thuộc về tập hợp <code>sự vật</code>**.
 
-Всё время мы помещаем вещи в множества, и это наш способ их концептуализации. Мы могли бы очень мало сказать о чём-либо, если бы не могли помещать вещи в множества.
+Mọi lúc chúng ta đều đặt mọi thứ vào các tập hợp, và đó là cách chúng ta khái niệm hóa chúng. Chúng ta có thể nói rất ít về bất cứ thứ gì nếu không thể đặt mọi thứ vào các tập hợp.
 
-Итак, **это, по сути, то, что делает связка**. **Она даёт нам очень простой, прямой, непритязательный способ поместить что угодно в множество в любое время, определить в любое время множество, к которому что-то принадлежит.**
+Vậy **về cơ bản, đây là những gì copula làm**. **Nó cho chúng ta một cách rất đơn giản, thẳng thắn, không rườm rà để đặt bất cứ thứ gì vào một tập hợp bất cứ lúc nào, để xác định bất cứ lúc nào tập hợp mà một thứ gì đó thuộc về.**
 
 ---
 
-**Теперь, множество может состоять только из одного элемента. В этом случае знак равенства работает в обе стороны.** Так, например, если я говорю <code>Тот человек там — Сакура</code>, ну, тот конкретный человек там и Сакура — это один и тот же человек.
+**Giờ đây, tập hợp có thể chỉ là một tập hợp của một. Trong trường hợp đó, dấu bằng hoạt động theo cả hai chiều.** Vậy, ví dụ, nếu tôi nói <code>Người đó ở đằng kia là Sakura</code>, chà, người cụ thể đó ở đằng kia và Sakura là cùng một người.
 
-**Сакура — это множество из одного элемента, к которому принадлежит тот человек там, и только тот человек там.** **По крайней мере, эта конкретная Сакура.** **Мы, очевидно, не говорим обо всех людях по имени Сакура**.
+**Sakura là một tập hợp của một mà người đó ở đằng kia, và chỉ người đó ở đằng kia thôi, thuộc về.** **Ít nhất, Sakura cụ thể này.** **Chúng ta không nói về tất cả những người tên Sakura**, rõ ràng là vậy.
 
-Итак, вот что делает связка. Почему так много путаницы вокруг неё? Разве это не относительно простая функция? Ну да, это простая функция.
+Vậy đây là những gì copula làm. Tại sao lại có nhiều nhầm lẫn về nó? Nó không phải là một chức năng tương đối đơn giản sao? Chà đúng vậy, nó là một chức năng đơn giản.
 
-Основная проблема здесь, как очень часто бывает с западными заблуждениями о японском языке, заключается не в японском, а в природе самого английского языка. **В английском, как я уже сказала, нет выделенной связки.**
+Vấn đề chính ở đây, như thường xuyên xảy ra với những quan niệm sai lầm của phương Tây về tiếng Nhật, không nằm ở tiếng Nhật mà ở bản chất của chính ngôn ngữ tiếng Anh. **Tiếng Anh, như tôi đã nói, không có copula chuyên dụng.**
 
-**У него есть связка. Каждый язык должен иметь связку.** Если бы у нас не было чего-то, что выполняло бы связочную функцию, мы просто не смогли бы помещать вещи в множества, а это означает, что мы были бы очень ограничены в нашей способности концептуализировать вещи.
+**Nó có copula. Mọi ngôn ngữ đều phải có copula.** Nếu chúng ta không có thứ gì đó thực hiện chức năng copula, chúng ta sẽ không thể đặt mọi thứ vào các tập hợp, có nghĩa là chúng ta sẽ rất hạn chế trong khả năng khái niệm hóa mọi thứ.
 
-**Итак, что делает английский язык, так это удваивает глагол бытия со связкой.** **Глагол бытия — это то, что просто сообщает нам, что что-то существует.** **У него есть различные формы: <code>is / am / are / was</code> и т.д.**
+**Vậy điều tiếng Anh làm là nó kết hợp động từ tồn tại với copula.** **Động từ tồn tại là thứ đơn giản cho chúng ta biết rằng một thứ gì đó tồn tại.** **Nó có nhiều dạng khác nhau: <code>is / am / are / was</code> v.v.**
 
 ![](../media/image794.webp)
 
-Итак, если мы говорим <code>I **am** an American</code> (Я **являюсь** американцем), это работает **связка**. Мы говорим, что **я принадлежу к множеству под названием <code>американцы</code>**. Если мы говорим <code>I think, therefore I am</code> (Я мыслю, следовательно, я существую), мы используем глагол бытия.
+Vậy, nếu chúng ta nói <code>I **am** an American</code>, đó là **copula** đang hoạt động. Chúng ta đang nói **tôi thuộc về tập hợp gọi là <code>người Mỹ</code>**. Nếu chúng ta nói <code>I think, therefore I am</code>, chúng ta đang sử dụng động từ tồn tại.
 
-**Мы не говорим ничего о том, кто я, к какому множеству я принадлежу.** Мы просто говорим, что поскольку я мыслю, мы можем уверенно заявить, что я существую.
+**Chúng ta không nói bất cứ điều gì về tôi là gì, tôi thuộc về tập hợp nào.** Chúng ta chỉ đơn giản nói rằng vì tôi suy nghĩ, chúng ta có thể tuyên bố một cách tự tin rằng tôi tồn tại.
 
-Теперь, поскольку в английском языке нет двух отдельных слов для этих двух концепций, это на самом деле не доставляет особых проблем носителям английского языка или иностранцам, которые выучили английский хотя бы частично через погружение, потому что через некоторое время всё становится ясно благодаря использованию и опыту, но **это вызывает проблемы, когда английский пытается рассматривать языки, которые имеют отдельную связку.** Японский, очевидно, один из таких, и испанский — другой.
+Giờ đây, vì tiếng Anh không có hai từ riêng biệt cho hai khái niệm đó, nó thực sự không gây ra nhiều rắc rối cho người bản ngữ tiếng Anh hoặc cho những người nước ngoài đã học tiếng Anh ít nhất một phần thông qua việc đắm mình, vì sau một thời gian tất cả sẽ trở nên rõ ràng thông qua việc sử dụng và kinh nghiệm, nhưng **nó gây ra rắc rối khi tiếng Anh cố gắng nhìn vào các ngôn ngữ có copula riêng biệt.** Tiếng Nhật rõ ràng là một trong số đó, và tiếng Tây Ban Nha là một ngôn ngữ khác.
 
 ---
 
-**Испанский язык имеет две связки, <code>ser</code> и <code>estar</code>**: <code>ser</code>, которая сообщает нам о постоянном множестве, к которому что-то принадлежит, и <code>estar</code>, которая сообщает нам об относительно временном множестве, к которому что-то принадлежит. Это различие, которое большинство языков не делает.
+**Ngôn ngữ Tây Ban Nha có hai copula, <code>ser</code> và <code>estar</code>**: <code>ser</code>, cho chúng ta biết tập hợp vĩnh viễn mà một thứ gì đó thuộc về, và <code>estar</code>, cho chúng ta biết tập hợp tương đối tạm thời mà một thứ gì đó thuộc về. Đó là một sự phân biệt mà hầu hết các ngôn ngữ không tạo ra.
 
-**Но важное различие здесь заключается в том, что <code>ser</code> и <code>estar</code> не то же самое, что <code>haber</code>, который является глаголом бытия.**
+**Nhưng sự phân biệt quan trọng ở đây là <code>ser</code> và <code>estar</code> không giống như <code>haber</code>, là động từ tồn tại.**
 
 ![](../media/image985.webp)
 
-Итак, если мы говорим <code>Estos **son** huevos</code> (Эти **есть** яйца), мы говорим <code>These **are** eggs</code> (Эти **являются** яйцами); *(«son» здесь должно быть связкой)*
+Vậy nếu chúng ta nói <code>Estos **son** huevos</code>, chúng ta đang nói <code>These **are** eggs</code>; *("son" ở đây nên là copula)*
 
 ![](../media/image1133.webp)
 
-если мы говорим <code>**Hay** huevos</code> (Есть яйца), мы говорим <code>Eggs **exist**</code> (Яйца **существуют**) — два совершенно разных вида утверждений. Как я уже сказала, **в английском мы не путаемся между этими двумя видами утверждений, но когда мы пытаемся применить английские объяснения к языкам, которые имеют разные слова для связки и глагола бытия, часто возникает путаница.**
+nếu chúng ta nói <code>**Hay** huevos</code>, chúng ta đang nói <code>Eggs **exist**</code> — hai loại tuyên bố hoàn toàn khác nhau. Như tôi nói, **trong tiếng Anh chúng ta không bị nhầm lẫn giữa hai loại tuyên bố đó, nhưng khi chúng ta cố gắng áp dụng các giải thích tiếng Anh cho các ngôn ngữ có từ khác nhau cho copula và động từ tồn tại, sự nhầm lẫn thường xảy ra.**
 
-## <code>да</code> и <code>дес</code> — одна и та же связка
+## だ & です là cùng một copula
 
-Теперь, некоторые из тех, кто комментировал моё видео о Тэ Киме против связки, не были полностью убеждены моим аргументом, что <code>です</code> и <code>だ</code> — это одно и то же, потому что Тэ Ким так сильно утверждает обратное. Я думаю, я опровергла большинство из них. Я не опровергла все, потому что не стремилась быть исчерпывающей.
+Giờ đây, một số người đã bình luận về video của tôi về Tae Kim so với copula không hoàn toàn bị thuyết phục bởi lập luận của tôi rằng <code>です</code> và <code>だ</code> là cùng một thứ, vì Tae Kim lập luận rất mạnh mẽ rằng chúng không phải vậy. Tôi nghĩ tôi đã giải quyết hầu hết chúng. Tôi không giải quyết tất cả vì tôi không cố gắng làm một cách toàn diện.
 
 ![](../media/image1013.webp)
 
-И я не буду рассматривать эти аргументы здесь, потому что считаю их второстепенными. Я, по сути, рассмотрю их в видео в довольно ближайшем будущем, **но суть здесь в том, что принимать аргументы вроде <code>да не обязательно нужна в этом случае, а дес нужна</code> как способ поддержания более широкого аргумента о том, что <code>да</code> и <code>дес</code> не одно и то же, — это переворачивать всё с ног на голову и наизнанку.**
+Và tôi cũng sẽ không xử lý những lập luận đó ở đây, vì tôi nghĩ chúng là phụ. Thực tế tôi sẽ xử lý chúng trong một video trong tương lai gần, **nhưng điểm ở đây là việc lấy các lập luận như <code>だ không nhất thiết cần thiết trong trường hợp này nhưng です thì có</code> như một cách để duy trì lập luận lớn hơn rằng <code>だ</code> và <code>です</code> không phải là cùng một thứ là đang lấy toàn bộ vấn đề ngược lại và lộn xộn.**
 
-**Важно не то, что <code>да</code> и <code>дес</code> функционируют немного по-разному так или иначе, что <code>да</code> можно опустить здесь, а <code>дес</code> нельзя опустить там, и тому подобное.** Это совершенно второстепенно по отношению к тому факту, что **они обе являются связкой**.
+**Điều quan trọng không phải là <code>だ</code> và <code>です</code> hoạt động hơi khác nhau theo cách này hay cách khác, rằng <code>だ</code> có thể bị bỏ ở đây và <code>です</code> không thể bị bỏ ở đó, những thứ như vậy.** Chúng hoàn toàn phụ thuộc vào vấn đề thực tế là **chúng đều là copula**.
 
-И фундаментальный аргумент против этого заблуждения прост: мы знаем, что **каждый язык должен иметь связку.** **Без связочной функции вы не сможете сказать и половины того, что язык абсолютно должен сказать.** У вас не будет настоящего языка.
+Và lập luận cơ bản chống lại ngụy biện này đơn giản là thế này: chúng ta biết rằng **mọi ngôn ngữ đều cần có copula.** **Không có chức năng copula, bạn không thể nói một nửa những thứ mà ngôn ngữ hoàn toàn cần phải nói.** Bạn không có một ngôn ngữ thực sự.
 
-**У вас будет сломанный язык, если у вас нет никакой связочной функции.** Теперь, японский иногда говорит на <code>丁寧語</code> (на <code>です/ます</code>, то есть *= вежливый язык*) и иногда говорит на простом, обычном японском. **Связка в одном — это <code>です</code>** *(вежливая)***; связка в другом — это <code>だ</code>.** *(обычная)*
+**Bạn có một ngôn ngữ bị hỏng nếu không có bất kỳ chức năng copula nào.** Giờ đây, tiếng Nhật đôi khi nói bằng 丁寧語 (trong cách nói です/ます *= ngôn ngữ lịch sự*) và đôi khi nói bằng tiếng Nhật thẳng thắn, đơn giản. **Copula trong một cái là <code>です</code>** *(lịch sự)***; copula trong cái kia là <code>だ</code>.** *(đơn giản)*
 
-Теперь, если вы собираетесь утверждать, что они не одно и то же, следовательно, что одна из них не является связкой, тогда вы должны придумать, что такое связка, как в обычном языке, так и в <code>丁寧語</code> (языке <code>です/ます</code>), потому что **обе формы должны иметь связку.** **У вас нет языка без связки**, поэтому вы обязаны, если вы говорите, что они не одно и то же, сказать нам, где находится связка в обеих этих формах речи.
+Giờ đây, nếu bạn định lập luận rằng chúng không phải là cùng một thứ, do đó một trong số chúng không phải là copula, thì bạn phải đưa ra copula là gì, trong ngôn ngữ đơn giản hoặc 丁寧語 (ngôn ngữ です/ます), vì **cả hai đều phải có copula.** **Bạn không có ngôn ngữ nào mà không có copula**, vì vậy bạn có trách nhiệm, nếu bạn nói rằng chúng không phải là cùng một thứ, phải cho chúng ta biết copula nằm ở đâu trong cả hai dạng ngôn ngữ đó.
 
-И, конечно, Тэ Ким никогда не решает эту проблему, потому что он, кажется, на самом деле не понимает, что существует связка в отличие от того, что он называет <code>состоянием бытия</code>.
+Và tất nhiên Tae Kim không bao giờ giải quyết vấn đề này vì ông ấy dường như không thực sự hiểu rằng có một copula trái ngược với những gì ông ấy gọi là <code>trạng thái tồn tại</code>.
 
-## Связка против состояния бытия
+## Copula so với trạng thái tồn tại
 
-Теперь, ещё одна вещь, которую люди могут поднять, это то, что они могут сказать: «Ну, конечно, это не просто случайность, что английский использует состояние бытия для обозначения связки. Разве эти две вещи не связаны довольно тесно? В конце концов, **в более старых формах японской связки, таких как <code>である</code> и <code>でございます</code>, состояние бытия играет роль. <code>ある</code> и <code>ございます</code> — это слова состояния бытия, хотя <code>で</code> превращает их в связку.**»
+Giờ đây, một điều khác mà mọi người có thể nêu ra là họ có thể nói, "Chà, chắc chắn không phải là một tai nạn rằng tiếng Anh sử dụng trạng thái tồn tại để có nghĩa là copula. Hai thứ đó không có liên quan gần gũi nào đó sao? Rốt cuộc, **trong các dạng cũ hơn của copula tiếng Nhật, như **である** và **でございます**, trạng thái tồn tại đóng một vai trò. **ある** và **ございます** là từ trạng thái tồn tại mặc dù **で** thay đổi chúng thành copula."**
 
 ![](../media/image951.webp)
 
-И ответ на это — абсолютно да. И причины этого кроются в человеческом восприятии онтологии, то есть науки или философии самого бытия. Люди склонны верить, что множество, к которому принадлежит вещь, является фундаментальным для её бытия.
+Và câu trả lời cho điều đó là hoàn toàn đúng. Và lý do cho điều này nằm trong nhận thức của con người về bản thể học, có nghĩa là khoa học hoặc triết học về chính sự tồn tại. Con người có xu hướng tin rằng tập hợp mà một thứ thuộc về là cơ bản cho sự tồn tại của nó.
 
-**И в некотором смысле это, безусловно, правда.** **Мы определяем что-то по множеству, к которому оно принадлежит, и его существование как бытия, которым оно является, в отличие от любого другого бытия, фундаментально связано с множеством, к которому оно принадлежит.** Роза принадлежит к множеству <code>цветок</code>. Как только мы это знаем, мы можем предположить о ней всевозможные вещи.
+**Và theo một nghĩa nào đó, điều đó chắc chắn đúng.** **Chúng ta định nghĩa một thứ gì đó bằng tập hợp mà nó thuộc về, và sự tồn tại của nó như là sinh vật mà nó là, trái ngược với bất kỳ sinh vật nào khác, về cơ bản gắn liền với tập hợp mà nó thuộc về.** Một bông hồng thuộc về tập hợp <code>hoa</code>. Một khi chúng ta biết điều đó, chúng ta có thể đoán tất cả các loại thứ về nó.
 
-Мы можем не знать точно, как она выглядит, но мы можем сказать, что у неё, вероятно, есть стебель, лепестки, листья, она растёт в земле и т.д. и т.п. **Таким образом, множество, к которому что-то принадлежит, имеет решающее значение для его существования как этого конкретного бытия, а не другого бытия.**
+Chúng ta có thể không biết chính xác nó trông như thế nào, nhưng chúng ta có thể nói rằng nó có thể có thân, có cánh hoa, có lá, mọc trong đất, v.v. v.v. **Vậy tập hợp mà một thứ gì đó thuộc về là rất quan trọng đối với sự tồn tại của nó như là sinh vật cụ thể đó chứ không phải sinh vật khác.**
 
 ---
 
-**Но понимание того, что состояние бытия и множество, к которому что-то приписывается, семантически связаны, не означает, что мы должны их путать.** Когда мы говорим <code>I **am** an American</code> (Я **являюсь** американцем), **мы не имеем в виду то же самое под <code>am</code>, что и когда говорим <code>I think, therefore I **am**.</code>** (Я мыслю, следовательно, я **существую**.)
+**Nhưng hiểu rằng trạng thái tồn tại và tập hợp mà một thứ gì đó được quy cho có liên quan về mặt ngữ nghĩa không có nghĩa là chúng ta nên nhầm lẫn hai thứ đó.** Khi chúng ta nói <code>I **am** an American</code>, **chúng ta không có ý nghĩa giống nhau bởi <code>am</code> như khi chúng ta nói <code>I think, therefore I **am**.</code>**
 
-**Если мы верим, что японская связка, которая выражается через <code>だ</code> или <code>です</code>, и состояние бытия, которое выражается через <code>いる</code> или <code>ある</code>, на самом деле одно и то же, мы просто потеряли фундаментально важное различие в японском языке.** Конечно, Тэ Ким-сэнсэй в это не верит, но в то же время ему очень трудно прояснить, в чём заключается различие, и именно так мы можем в конечном итоге думать, что <code>да</code> и <code>дес</code> не одно и то же.
+**Nếu chúng ta tin rằng copula tiếng Nhật, được biểu thị bằng <code>だ</code> hoặc <code>です</code>, và trạng thái tồn tại, được biểu thị bằng <code>いる</code> hoặc <code>ある</code>, thực tế là giống nhau, chúng ta đã đơn giản mất đi một sự phân biệt cơ bản quan trọng trong tiếng Nhật.** Tất nhiên, Tae Kim-sensei không tin điều đó, nhưng đồng thời ông ấy gặp khó khăn lớn trong việc làm rõ sự phân biệt là gì, và đó là cách chúng ta có thể kết thúc việc nghĩ rằng <code>だ</code> và <code>です</code> không phải là cùng một thứ.
 
-**Есть несколько случаев, когда <code>да</code> может быть опущена, иногда грамматически, иногда неграмматически, что не относится к <code>дес</code>**, это правда, **но это не влияет на тот факт, что они обе являются связкой.**
+**Có một vài trường hợp mà <code>だ</code> có thể bị bỏ, đôi khi về mặt ngữ pháp, đôi khi không đúng ngữ pháp, không áp dụng cho <code>です</code>**, điều đó đúng, **nhưng chúng không ảnh hưởng đến thực tế là chúng đều là copula.**
 
-## Один случай, когда <code>です</code> не функционирует как связка
+## Một trường hợp です không hoạt động như copula
 
-**Есть один случай, когда <code>です</code> используется там, где она не функционирует как связка, и это случай с прилагательными.** Как я продемонстрировала в том предыдущем видео<sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup>, **прилагательные — это единственный случай, когда <code>です</code> используется, и это не связка, это просто пустой маркер формальности** *(вежливости)*.
+**Có một trường hợp mà <code>です</code> được sử dụng mà nó không hoạt động như copula, và đó là trường hợp của tính từ.** Như tôi đã chứng minh trong video trước đó<sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup>, **tính từ là trường hợp duy nhất mà <code>です</code> được sử dụng và nó không phải là copula, nó chỉ là một dấu hiệu hình thức rỗng** *(lịch sự)* **.**
 
 ![](../media/image512.webp)
 
-### <code>です</code> в прилагательных — это не просто случайный маркер вежливости
+### です trong tính từ không chỉ là một dấu hiệu lịch sự ngẫu nhiên
 
-Но есть ещё один момент, который мы должны здесь рассмотреть, а именно то, что хотя в этих случаях — то есть, **в случае с прилагательными и ни в каком другом случае** (это происходит только в случае с прилагательными, как я продемонстрировала в том видео) — **хотя в случае с прилагательными верно сказать, что <code>です</code> является пустым маркером формальности, это не просто случайный пустой маркер формальности.**
+Nhưng có một điểm khác mà chúng ta phải xem xét ở đây, và đó là trong khi trong những trường hợp đó — có nghĩa là, **trong trường hợp của tính từ và không có trường hợp nào khác** (nó chỉ xảy ra trong trường hợp của tính từ như tôi đã chứng minh trong video đó) — **trong khi trong trường hợp của tính từ, đúng là nói rằng <code>です</code> là một dấu hiệu hình thức rỗng, nó không chỉ là một dấu hiệu hình thức rỗng ngẫu nhiên.**
 
-***Как я упоминала ранее, <code>です / ます</code> — это скорее маркеры вежливости, а не формальности.*** ***Они являются частью <code>丁寧語</code> (вежливого языка). Поэтому точнее называть их вежливыми.***
+***Như tôi đã đề cập trước đó, です / ます là những dấu hiệu lịch sự hơn, không phải dấu hiệu hình thức.*** ***Chúng là một phần của 丁寧語 (ngôn ngữ lịch sự). Vì vậy, gọi chúng là lịch sự sẽ chính xác hơn.***
 
-Как мы знаем, **существует только два типа предложений: предложения «А есть Б» и предложения «А делает Б»**, и **в японском языке есть два типа предложений «А есть Б»**, а именно, **прилагательные предложения**, **которые в своей простой форме должны заканчиваться на <code>-い</code>**, и **связочные предложения**, которые должны **заканчиваться на <code>だ</code> или <code>です</code>.**
+Như chúng ta biết, **chỉ có hai loại câu, câu A-là-B và câu A-làm-B**, và **trong tiếng Nhật có hai loại câu A-là-B**, đó là, **câu tính từ**, **trong dạng đơn giản của chúng phải kết thúc bằng -い**, và **câu copula**, phải **kết thúc bằng <code>だ</code> hoặc <code>です</code>.
 
 ![](../media/image90.webp)
 
 ::: info
- НА ВСЯКИЙ СЛУЧАЙ, [**это**](https://japanese.stackexchange.com/questions/43244/why-cant-%e3%81%a0-be-used-after-an-i-adjective/43246#43246) и [**это**](https://japanese.stackexchange.com/a/97338), возможно, будет полезно не путать <code>-い</code> с собственно связкой, такой как <code>だ</code>, а скорее с предикативным суффиксом для ПРИЛАГАТЕЛЬНЫХ, который сам по себе может завершать предложение.  
-Он показывает «Х есть / = это адъективное качество», например, вероятно, почему он сам по себе несёт связочную функцию.  
-Именно поэтому <code>だ</code> не используется с ним, так как это избыточно, поскольку <code>-い</code> уже по сути подразумевает это.  
-Долли объясняет это так — несёт связочную функцию внутри себя и, вероятно, поэтому <code>да</code> не используется.
+ CHỈ TRONG TRƯỜNG HỢP, [**này**](https://japanese.stackexchange.com/questions/43244/why-cant-%e3%81%a0-be-used-after-an-i-adjective/43246#43246) và [**này**](https://japanese.stackexchange.com/a/97338), có thể có lợi khi không nhầm lẫn -い là copula thực sự như だ, mà đúng hơn là một hậu tố vị ngữ cho TÍNH TỪ có thể kết thúc một câu.  
+Nó cho thấy "X là / = chất lượng tính từ này", ví dụ có thể là lý do tại sao nó mang chức năng copula trong chính nó.  
+Đây cũng là lý do tại sao だ không được sử dụng với nó vì nó thừa vì -い đã cơ bản ngụ ý nó.  
+Dolly giải thích theo cách đó - mang chức năng copula trong chính nó & có thể là lý do tại sao だ không được sử dụng.
 
-Но существуют разные точки зрения, которые вы можете проверить, поискав по этому вопросу: некоторые называют <code>-い</code> «своего рода связкой», другие нет, некоторые даже сомневаются, есть ли в японском языке прилагательные вообще.  
-Но в целом не имеет значения, как это называется, важно то, что вы понимаете, как это работает в языке и как это правильно используется. Поскольку [**не все слова, оканчивающиеся на <code>-い</code>, автоматически являются прилагательными**](https://jisho.org/search/%E6%B4%97%E3%81%84), так как может быть скрытая форма кандзи и т.д. Хотя в 98% случаев это прилагательное.*
+Nhưng có những quan điểm khác nhau mà bạn có thể kiểm tra bằng cách tìm kiếm về vấn đề này, một số gọi -い là "một loại copula", những người khác thì không, một số thậm chí còn đặt câu hỏi liệu tiếng Nhật có tính từ hay không.  
+Nhưng nhìn chung, cách gọi nó không hoàn toàn quan trọng, điều quan trọng là bạn hiểu cách nó hoạt động trong ngôn ngữ & cách sử dụng nó đúng cách. Vì [**không phải tất cả từ kết thúc bằng -い đều là tính từ**](https://jisho.org/search/%E6%B4%97%E3%81%84) tự động, vì có thể có dạng Kanji ẩn v.v. Mặc dù trong 98% trường hợp nó là tính từ.*
 
-В основном, Долли здесь, чтобы дать вам основы, если вы углубляетесь, вещи редко бывают простыми и универсальными. Язык — очень сложная конструкция и не совсем так работает.  
-Например, почему существует так много способов его изучения, интерпретации и объяснения. Выберите то, что подходит вам.
+Về cơ bản, Dolly ở đó để cung cấp cho bạn những điều cơ bản, nếu bạn đi vào chiều sâu, mọi thứ hiếm khi đơn giản & phổ quát. Ngôn ngữ là một cấu trúc rất phức tạp & không hoàn toàn hoạt động như vậy.  
+Ví dụ tại sao có rất nhiều cách để nghiên cứu nó, diễn giải nó & giải thích nó. Chọn cái gì phù hợp với bạn.
 :::
 
-**Итак, что происходит, когда мы ставим <code>です</code> в конце прилагательного предложения, так это то, что мы удваиваем связочную функцию.** Сказать <code>さくらは**かわいい**です</code> — это как сказать <code>*(Говоря о)* Сакуре *(она)* **является-милой** является</code>. Сказать <code>ペンが**赤い**です</code> — это по сути сказать <code>Ручка **является-красной** является</code>.
+**Vậy điều đang xảy ra khi chúng ta đặt <code>です</code> ở cuối câu tính từ là chúng ta đang nhân đôi copula.** Nói <code>さくらは**かわいい**です</code> giống như nói <code>*(Nói về)* Sakura *(cô ấy)* **là-dễ thương** là</code>. Nói <code>ペンが**赤い**です</code> về cơ bản là nói <code>Bút **là-đỏ** là</code>.
 
-Мы удваиваем эту связочную функцию. **Так что, хотя <code>です</code> является пустым маркером формальности, это не просто случайный маркер формальности.** Он делает то, что иногда делается в языках, а именно, *(он)* **действует как избыточность** — **говоря одно и то же дважды.**
+Chúng ta đang nhân đôi copula đó. **Vậy trong khi <code>です</code> là một dấu hiệu hình thức rỗng, nó không chỉ là một dấu hiệu hình thức ngẫu nhiên.** Nó đang làm một thứ đôi khi được thực hiện trong các ngôn ngữ, và đó là, *(nó là)* **hoạt động như một sự dư thừa** — **nói cùng một thứ hai lần.**
 
 ::: info
- Я понимаю, что поскольку это избыточность, мы можем сказать, что это не связка, которая строго используется для выполнения связочной функции придаточного предложения или предложения, а скорее её основное назначение в том, что она придает этот аспект вежливости связке в <code>-い</code>, чтобы показать, что предложение вежливое.
+ Tôi hiểu rằng vì nó là một sự dư thừa, chúng ta có thể nói rằng nó không phải là copula được sử dụng nghiêm ngặt để thực hiện chức năng copula của mệnh đề hoặc câu, mà đúng hơn trọng tâm chính của nó là nó cung cấp khía cạnh lịch sự này cho copula trong -い để cho thấy câu là lịch sự.
  :::
 
-*Это всё ещё связка во всех смыслах, но поскольку <code>-い</code> имеет схожую функцию, она в основном показывает вежливость.*
+*Nó vẫn là copula về mọi mặt, nhưng vì -い có chức năng tương tự, nó chủ yếu thể hiện sự lịch sự.*
 
-**И это единственный реальный случай, когда <code>です</code> делает что-то отличное от <code>да</code>.**
+**Và đó là trường hợp thực tế duy nhất mà <code>です</code> làm điều gì đó khác với <code>だ</code>.**
 
 ![](../media/image563.webp)
 
 ::: tip
- Рекомендуется, как обычно, читать комментарии [**под видео**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly). Увеличьте, если что.
+ Khuyến nghị đọc các bình luận [**dưới video**](https://www.youtube.com/watch?v=euHYPcMoao4&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=82&ab_channel=OrganicJapanesewithCureDolly) như thường lệ. Phóng to nếu cần.
  :::

@@ -1,83 +1,83 @@
-# От nunko/dinuz
+# Bởi nunko/dinuz
 
-Практически завершено. Изначально транскрипт создан [nunko](https://discordapp.com/users/367391904343523339)/dinuz, но затем был передан мне.
-Для обратной связи, советов, разрешений на редактирование или по поводу того, что я мог упустить или сделать неясным/неточным (пишите [Mordraug](mailto:adokapus@gmail.com) или [モルドラウグ](mailto:mordraug666@gmail.com)), или просто свяжитесь со мной в Discord [Mordraug (ID “morudoraugu”)](https://discord.com/users/501133947044888605).
+Về cơ bản đã hoàn thành. Bản ghi chép ban đầu bởi [nunko](https://discordapp.com/users/367391904343523339)/dinuz, nhưng đã được chuyển cho tôi.
+Để góp ý, mẹo, quyền chỉnh sửa hoặc những thứ tôi có thể đã bỏ sót hoặc làm không rõ ràng/không chính xác (gửi mail [Mordraug](mailto:adokapus@gmail.com) hoặc [モルドラウグ](mailto:mordraug666@gmail.com)), hoặc chỉ cần liên hệ tôi trên Discord [Mordraug (ID "morudoraugu")](https://discord.com/users/501133947044888605).
 
-Поскольку я осторожен с ботами/мошенниками, я не принимаю случайных запросов, поэтому вам также следует сообщить мне о причине либо через сообщение/электронную почту, либо присоединиться к [Discord MoeWay](https://discord.gg/zf3QTdsD), чтобы я знал, что это кто-то, связанный с японским языком.
+Vì tôi cẩn thận về bot/lừa đảo, tôi không chấp nhận người lạ, vì vậy bạn cũng nên cho tôi biết thông qua tin nhắn / email hoặc tham gia [MoeWay Discord](https://discord.gg/zf3QTdsD), để tôi biết đó là ai đó liên quan đến tiếng Nhật.
 
-Для ОЧЕНЬ полного списка ресурсов, охватывающих все области японского языка, я написал [этот Дневник — «Личный дневник наблюдений за японским языком Mordraug-а»](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit?tab=t.0#heading=h.pl6re36m6uy2), где я также записываю все свои наблюдения и опыт, связанные с японским языком, о которых я читал, все источники, инструменты, информацию... всё о японском.
-Это мой основной ресурс, однако, пожалуйста, относитесь к моим словам с долей скепсиса, так как мой взгляд всё ещё ограничен.
+Để có danh sách tài nguyên RẤT toàn diện bao gồm tất cả các lĩnh vực của tiếng Nhật, tôi đã viết cuốn Nhật ký này "[Nhật ký Quan sát Tiếng Nhật Cá nhân của Mordraug](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit?tab=t.0#heading=h.pl6re36m6uy2)", nơi tôi cũng ghi lại tất cả các quan sát & trải nghiệm tiếng Nhật mà tôi đã có/đọc về, tất cả nguồn, công cụ, thông tin... mọi thứ về tiếng Nhật.
+Đây là tài nguyên tối thượng của tôi, tuy nhiên hãy coi lời tôi như muối với hạt muối, quan điểm của tôi vẫn còn hạn chế.
 
-Также извините, если этот стиль редактирования вызывает у вас головную боль, мне нравится выделять вещи, чтобы они были заметны:D
-
----
-
-До меня дошло, что существуют копии транскрипта на веб-страницах (на данный момент это просто копии этого транскрипта как есть), так что теперь вы можете просто использовать их (например, если этот документ лагает и т.д. + это намного удобнее), есть два варианта:
-
-[https://kellenok.github.io/cure-script/about.html](https://kellenok.github.io/cure-script/about.html) — спасибо [Kellen](https://bento.me/kln) — этот вариант просто потрясающий, рекомендую использовать его. Я бы сказал, что это уже гораздо более совершенная версия по сравнению с Google Docs. Очень приятно читать, быстро, аккуратно и легко использовать + легко ищется в сети (в отличие от Google Docs с его ограничениями). Я НАСТОЯТЕЛЬНО РЕКОМЕНДУЮ ИСПОЛЬЗОВАТЬ ЭТОТ САЙТ ВМЕСТО ЭТОГО ТРАНСКРИПТА.
-
-[https://khanhduy743.github.io/cure-dolly-transcript/](https://khanhduy743.github.io/cure-dolly-transcript/) — спасибо [duykhanh471](https://discord.com/users/1173988897869541382) — менее сложная, «сырая» версия; на данный момент duyy рекомендует использовать версию Келлена, но я оставлю ссылку здесь на всякий случай, так как она всё равно полезна, если что-то случится с другими версиями.
-
-Спасибо, что нашли время на создание этих сайтов.
+Cũng xin lỗi nếu phong cách chỉnh sửa này khiến bạn đau đầu, tôi thích làm nổi bật mọi thứ để chúng có thể nhìn thấy được:D
 
 ---
 
-## PDF / Скачивание
+Tôi được biết rằng có những bản sao của bản ghi chép trên các trang web (hiện tại, nó chỉ là bản sao của bản ghi chép này như hiện tại), vì vậy bây giờ bạn có thể đơn giản sử dụng chúng (chẳng hạn trong trường hợp này bị lag v.v. + nó dễ sử dụng hơn nhiều), có hai trang này:
 
-Если вы хотите скачать весь этот документ целиком, к сожалению, из-за ограничений Google Docs вы не можете скачать его в формате PDF, так как документ слишком велик и загрузка не начнется.
-Способ, который я нашел — скачать в формате Word, а затем конвертировать в PDF. Это в основном работает, но качество изображений будет хуже (если не использовать качественное ПО) и они будут немного размытыми; также не будет работать Yomitan / 10ten (хотя можно использовать [OwOCR](https://github.com/AuroraWright/owocr), [GSM](https://github.com/bpwhelan/GameSentenceMiner) или [Yomininja](https://github.com/matt-m-o/YomiNinja)).
-Форматирование текста там тоже может немного сбиться, но должно быть достаточно приемлемым.
+[https://kellenok.github.io/cure-script/about.html](https://kellenok.github.io/cure-script/about.html) - công lao của [Kellen](https://bento.me/kln) - trang này tuyệt vời, khuyên dùng. Tôi có thể nói đây là phiên bản khá vượt trội so với Google Docs rồi. Rất dễ đọc, nhanh, gọn gàng và dễ sử dụng + dễ tìm kiếm trên mạng (không như Google Docs và những hạn chế của nó). TÔI RẤT KHUYẾN KHÍCH SỬ DỤNG TRANG NÀY THAY VÌ BẢN GHI CHÉP NÀY.
 
-Если вы хотите скачать транскрипт, вы можете сделать это через «ФАЙЛ» -> «СКАЧАТЬ», однако PDF, похоже, не работает. Файлы EPUB или WORD работают, но вам придется подождать около минуты, пока начнется загрузка, из-за размера файла.
-Сайты, подобные [этому](https://www.freeconvert.com/), позволяют конвертировать файлы размером до 1 ГБ, так что вы можете конвертировать Word в PDF, но вы также можете скачать файл напрямую с моего [GDrive](https://drive.google.com/drive/folders/1hDHMKczYEKPWy4EerwNU-6CAVVnQbo37?usp=sharing).
-Имейте в виду, что качество изображений будет хуже, но читаемо при увеличении.
+[https://khanhduy743.github.io/cure-dolly-transcript/](https://khanhduy743.github.io/cure-dolly-transcript/) - công lao của [duykhanh471](https://discord.com/users/1173988897869541382) - một phiên bản ít tinh vi hơn, thô hơn, hiện tại, duyy khuyên sử dụng phiên bản của Kellen, nhưng tôi sẽ đặt nó ở đây phòng trường hợp và tất cả vì nó vẫn thực sự hữu ích trong trường hợp có gì đó xảy ra v.v.
 
-::: details Только для оригинального Google Docs, не для этого сайта
+Cảm ơn bạn đã dành thời gian tạo ra những trang web này.
 
-Увы, это ограничение G-Docs. Если у вас есть идея разместить транскрипт где-то еще, вы можете сообщить мне, но, к сожалению, у меня нет возможности хостить сайт или что-то подобное.
+---
 
-Можете свободно архивировать весь документ, если с этим что-то случится, и делиться им в MoeWay и т.д. (пожалуйста, указывайте меня и Nunko как авторов / не меняйте слишком много, но исправление ошибок/улучшение приветствуется).
+## PDF / Tải xuống
 
-Я хотел бы добавить больше видео и даже архивировать комментарии под видео на всякий случай, но, увы, я действительно выгорел. Это потребовало бы ОГРОМНОГО количества работы, так что сейчас я не в состоянии этим заниматься.
-Если у кого-то появится желание сделать это и помочь, дайте мне знать, вы можете свободно это сделать, помощь приветствуется!
+Nếu bạn muốn tải xuống toàn bộ tài liệu này, thật không may do hạn chế của Google Docs, bạn không thể tải xuống các file PDF vì tài liệu quá lớn, vì vậy nó sẽ không kích hoạt việc tải xuống.
+Cách tôi tìm thấy là tải xuống dạng Word và sau đó chuyển đổi thành PDF, điều này hầu hết hoạt động, nhưng hình ảnh sẽ có chất lượng kém hơn trừ khi bạn sử dụng phần mềm chất lượng & nó sẽ hơi mờ; cũng không có Yomitan / 10ten (tuy có thể sử dụng [OwOCR](https://github.com/AuroraWright/owocr), [GSM](https://github.com/bpwhelan/GameSentenceMiner) hoặc [Yomininja](https://github.com/matt-m-o/YomiNinja)).
+Định dạng của văn bản cũng có thể bị lộn xộn một chút ở đó, nhưng nên đủ tốt.
 
-*Примечание: Я использую заметки, чтобы прояснить вещи, которые я считаю запутанными/опечатками и т.д., основываясь в основном на том, что говорит сама Долли.*
+Nếu bạn muốn tải xuống bản ghi chép, bạn có thể làm điều đó dưới "FILE", "DOWNLOAD", tuy nhiên PDF dường như không hoạt động. File EPUB hoặc WORD hoạt động, nhưng bạn cần đợi khoảng một phút để nó bắt đầu do kích thước.
+Các trang như [trang này](https://www.freeconvert.com/) có kích thước chuyển đổi lên đến 1GB, vì vậy bạn có thể chuyển đổi Word thành PDF, nhưng bạn cũng có thể tải xuống trực tiếp từ [GDrive](https://drive.google.com/drive/folders/1hDHMKczYEKPWy4EerwNU-6CAVVnQbo37?usp=sharing) của tôi.
+Hãy nhớ rằng chất lượng hình ảnh sẽ kém hơn nhưng có thể đọc được nếu bạn phóng to.
 
-*Вы всегда можете заметить мои заметки по наклонному нежирному фиолетовому шрифту (в этой версии).*
+::: details Chỉ dành cho Google Docs gốc, không dành cho trang web này
 
-*Я также включаю ссылки, которые выделены [синим](https://tinyurl.com/msahpf58) (нажмите на синий текст, а затем на ссылку, чтобы перейти... можете попробовать!)*
+Than ôi, đây là hạn chế của G-Docs. Nếu bạn có ý tưởng đặt Bản ghi chép ở nơi khác hoặc tương tự, bạn có thể cho tôi biết, nhưng nó nằm ngoài khả năng của tôi để lưu trữ một trang web hoặc tương tự thật không may.
 
-*Я по большей части убрал жирный шрифт, так как он выглядел слишком громоздко, и мне посоветовали это сделать.*
+Hãy tự do lưu trữ toàn bộ tài liệu nếu có gì đó xảy ra với tài liệu này & có thể chia sẻ nó trên MoeWay v.v. (hãy ghi công tôi và Nunko/đừng thay đổi nó quá nhiều, nhưng có thể sửa lỗi/cải thiện v.v.).
 
-**Заметки здесь просто как бонус (изначально для меня самого) и как что-то, что, возможно, стоит иметь в виду и изучить самостоятельно. Они НЕ являются абсолютной истиной, и я не претендую на лучшее понимание материала, относитесь к ним с БОЛЬШОЙ долей скепсиса, я просто увлеченный ученик, который хочет помочь. Я осознаю, что они могут вводить в заблуждение / содержать фактические ошибки, так как мои знания японского всё ещё значительно ограничены.**
+Tôi muốn thêm nhiều video hơn và thậm chí lưu trữ các bình luận dưới video chỉ trong trường hợp trong tương lai, nhưng than ôi tôi thực sự kiệt sức. Nó sẽ cần RẤT nhiều công việc nên tôi không cảm thấy muốn làm bây giờ.
+Nếu ai đó từng cảm thấy muốn làm điều đó và giúp đỡ, hãy cho tôi biết, bạn tự do làm điều đó & sự giúp đỡ được chào đón!
 
-**Пожалуйста, сообщайте мне о любых ошибках в моих заметках или где-либо еще, я никогда не меняю текст самой Долли.**
+*Lưu ý: Tôi sử dụng ghi chú để làm rõ những thứ tôi cho là khó hiểu/lỗi đánh máy v.v., chủ yếu dựa trên những gì chính Dolly nói.*
 
-Долли, как правило, объясняет детали более подробно в комментариях к [видео](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj), поэтому всегда сначала смотрите там, если сомневаетесь. При условии, что это упоминалось и Долли ответила на это, но я бы не стал воспринимать её слова как абсолютную истину в последней инстанции.
-Поскольку её больше нет с нами, мы не можем попросить её пояснить некоторые моменты. Не поймите меня неправильно, она была явно знающей, но из-за того, что её курс в основном нацелен на новичков, материал часто несколько упрощен, что позже может вызвать недопонимание, поэтому я и говорю об этом.
+*Bạn luôn có thể phát hiện ghi chú của tôi thông qua màu tím in nghiêng không đậm (phiên bản này).*
 
-Но всё же полагайтесь на её слова, а не на мои.
-Я действительно иногда склонен спекулировать в своих заметках и писать длинные эссе о том, как я понимаю вещи, но, очевидно, это просто мои размышления и поиск источников в интернете, которые, КАК КАЖЕТСЯ, подтверждают это. Я делаю это в основном для себя и не намерен подрывать авторитет Долли или что-то в этом роде. Вам следует относиться к моим длинным спекулятивным заметкам с некоторым скептицизмом. Более того, они полностью опциональны, так что вы можете их пропустить.
+*Tôi cũng bao gồm các liên kết, được hiển thị bằng [màu xanh](https://tinyurl.com/msahpf58) (nhấp vào văn bản màu xanh & sau đó vào liên kết để sử dụng nó...có thể thử!)*
 
-_Обычное подчеркивание отмечает важную информацию от Долли или выделяет обсуждаемые части предложений. Но я не слишком уверен в этом, поэтому пока это есть не в каждом уроке… отзывы приветствуются!_
+*Tôi chủ yếu loại bỏ kiểu đậm vì nó khá cồng kềnh và được khuyên tôi nên làm điều đó.*
 
-Если картинки не хотят загружаться, просто подождите некоторое время, и они должны в конечном итоге загрузиться.
-Дайте мне знать, если увидите белые линии или глюки при прокрутке (особенно во второй половине документа), так как я переключился в режим без разбивку на страницы, который кажется более подходящим для такого огромного документа.
-После некоторого тестирования выяснилось, что это связано с перегруженным браузером (когда вы используете много расширений, как я, и всегда сохраняете кэш/куки и т.д.), поэтому вы можете попробовать дать ему немного прогрузиться или просто очистить кэш/браузер (это разлогинит вас), или у вас может быть нестабильное интернет-соединение.
+**Các ghi chú ở đó chỉ như một phần thưởng (ban đầu cho bản thân tôi) và điều gì đó có thể cần ghi nhớ và tìm hiểu thêm theo cách riêng của bạn. Chúng KHÔNG tuyệt đối, tôi cũng không tuyên bố hiểu biết tốt hơn, hãy coi chúng với RẤT nhiều muối, tôi chỉ là một người học đam mê muốn giúp đỡ. Tôi biết chúng có thể gây hiểu lầm / có lỗi thực tế trong đó, vì khả năng tiếng Nhật của tôi vẫn còn rất hạn chế.**
 
-[**Yomitan**](https://github.com/themoeway/yomitan) от [**TheMoeWay**](https://learnjapanese.moe/) работает в Google Docs, поэтому используйте его; или вы можете использовать [**10ten/Rikaichamp**](https://chrome.google.com/webstore/detail/10ten-japanese-reader-rik/pnmaklegiibbioifkmfkgpfnmdehdfan) (или оба).
-Поскольку [разработка Yomichan прекращена](https://foosoft.net/posts/sunsetting-the-yomichan-project/), он, вероятно, станет несовместимым в будущем, и Yomitan теперь продолжает его наследие. RIP Легенда.
+**Hãy cho tôi biết về bất kỳ lỗi nào tôi nói trong đó / ở nơi khác, tôi không bao giờ thay đổi văn bản của Dolly.**
 
-Однако Yomitan не может сканировать текст с разным форматированием, например **歩**く / 歩く / 歩*く* (где く наклонный), поэтому сканирование обоих приведет к тому, что Yomitan не сможет отсканировать их одновременно… Я не знаю, почему так происходит, если вы знаете, пожалуйста, напишите мне в ЛС… однако 10ten/Rikaichamp совершенно нормально сканирует это, так что используйте его в таких случаях.
+Dolly có xu hướng giải thích chi tiết cụ thể sâu hơn trong các bình luận của [các video](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj), vì vậy luôn xem ở đó trước nếu có nghi ngờ. Miễn là nó được đề cập & Dolly đã phản hồi, nhưng tôi cũng sẽ không coi cô ấy như phúc âm quá nhiều.
+Vì cô ấy không còn ở đây nữa, chúng ta không thể yêu cầu cô ấy giải thích thêm về những thứ, đừng hiểu lầm tôi, cô ấy rõ ràng có kiến thức, nhưng do khóa học của cô ấy chủ yếu nhắm vào người mới bắt đầu, mọi thứ thường được đơn giản hóa phần nào có thể sau này gây hiểu lầm do đó tôi nói điều này.
+
+Nhưng, hãy tham khảo lời của cô ấy hơn lời tôi.
+Tôi có xu hướng đôi khi suy đoán trong ghi chú của mình và viết những bài luận dài trong đó về cách tôi hiểu mọi thứ, nhưng rõ ràng đó chỉ là tôi suy đoán và tìm kiếm một số nguồn trực tuyến cho nó mà DỰ KIẾN gợi ý điều đó, tôi làm điều đó chủ yếu cho bản thân mình, tôi không có ý định làm suy yếu Dolly hoặc tương tự với chúng. Bạn nên coi những ghi chú suy đoán dài của tôi với một chút hoài nghi. Hơn nữa, chúng hoàn toàn tùy chọn nên bạn có thể bỏ qua chúng.
+
+_Các dấu gạch chân bình thường đánh dấu thông tin quan trọng của Dolly hoặc để làm nổi bật các phần được thảo luận của câu. Nhưng, tôi không quá chắc chắn về điều đó, vì vậy không phải mọi bài học hiện tại... phản hồi sẽ được chào đón!_
+
+Nếu hình ảnh không muốn tải, chỉ cần đợi một thời gian và chúng sẽ tải cuối cùng.
+Hãy cho tôi biết nếu bạn thấy các đường trắng hoặc lỗi khi cuộn (đặc biệt là ở nửa sau của tài liệu) vì tôi đã chuyển sang chế độ không trang dường như phù hợp hơn cho một tài liệu khổng lồ này.
+Sau một số thử nghiệm, nó dường như là do trình duyệt cồng kềnh (khi bạn sử dụng nhiều tiện ích mở rộng như tôi, và luôn giữ tất cả Cache/Cookies v.v.) vì vậy bạn có thể thử để nó tải một chút hoặc đơn giản xóa Cache/trình duyệt của bạn (nó sẽ đăng xuất bạn), hoặc bạn có thể có kết nối Internet không ổn định hoặc tương tự.
+
+[**Yomitan**](https://github.com/themoeway/yomitan) bởi [**TheMoeWay**](https://learnjapanese.moe/) hoạt động cho Google Docs, vì vậy hãy sử dụng nó; hoặc bạn có thể sử dụng [**10ten/Rikaichamp**](https://chrome.google.com/webstore/detail/10ten-japanese-reader-rik/pnmaklegiibbioifkmfkgpfnmdehdfan) (hoặc cả hai).
+Vì [Yomichan đã kết thúc phát triển](https://foosoft.net/posts/sunsetting-the-yomichan-project/), nó có thể sẽ trở nên không tương thích trong tương lai và Yomitan tiếp tục di sản của nó bây giờ. RIP Legend.
+
+Tuy nhiên, Yomitan không thể quét văn bản được sửa đổi khác nhau, ví dụ **歩**く / 歩く / 歩*く* (く là in nghiêng) vì vậy quét cả hai sẽ dẫn đến Yomitan không thể quét cả hai cùng một lúc... Tôi không biết tại sao lại như vậy, nếu bạn biết hãy PM tôi... tuy nhiên, 10ten/Rikaichamp hoàn toàn ổn với việc quét này, vì vậy hãy sử dụng cái đó.
 
 :::
 
-## Памяти Cure Dolly
+## Tưởng nhớ Cure Dolly
 
-Всем привет. Меня зовут Cure Dolly, и я здесь, чтобы научить вас Органическому Японскому.
-Что такое Органический Японский? Это японский язык, чистый и простой, без вредных добавок.
-Японский — самый простой, самый логичный, самый легко понимаемый язык, с которым я когда-либо сталкивалась — намного проще западных языков.
+Xin chào, mọi người. Tên tôi là Cure Dolly và tôi ở đây để dạy bạn tiếng Nhật Hữu cơ.
+tiếng Nhật Hữu cơ là gì? Đó là tiếng Nhật thuần khiết và đơn giản, không có chất phụ gia có hại.
+tiếng Nhật là ngôn ngữ đơn giản nhất, logic nhất, dễ hiểu nhất mà tôi từng gặp - dễ hơn nhiều so với các ngôn ngữ phương Tây.
 
-Но вы бы этого не узнали, если бы пытались учить его по западным учебникам или сайтам по изучению японского. Почему нет? Потому что они не учат структуре японского языка. Они учат структуре английского, а затем пытаются втиснуть в неё японский. И он не подходит, и это работает не очень хорошо. Это главная причина, я думаю, почему так много людей бросают японский. Западная система заставляет его казаться сложным, полным странных исключений и причудливых правил, которые нужно зубрить. И ничего из этого не является правдой, если вы учите язык таким, какой он есть на самом деле.
+Nhưng bạn sẽ không biết điều đó nếu bạn cố gắng học nó từ sách giáo khoa phương Tây hoặc các trang web học tiếng Nhật. Tại sao không? Bởi vì họ không dạy cấu trúc tiếng Nhật. Họ dạy cấu trúc tiếng Anh và sau đó cố gắng ép tiếng Nhật vào đó. Và nó không phù hợp, và nó không hoạt động tốt lắm. Đó là lý do chính, tôi nghĩ, tại sao rất nhiều người bỏ cuộc tiếng Nhật. Hệ thống phương Tây làm cho nó có vẻ phức tạp, đầy những ngoại lệ kỳ lạ và quy tắc kỳ quặc mà bạn phải ghi nhớ. Và không có gì trong số này là đúng nếu bạn học ngôn ngữ theo cách nó thực sự là.
 
-Итак, этот курс не только для новичков в японском. Он очень хорош для таких людей — это лучший способ начать. Но если вы уже какое-то время учите японский и обнаруживаете, что путаетесь в вещах, было бы очень полезно посмотреть эту серию и с самого начала узнать, как японский должен был быть объяснен в первую очередь. Хорошо, давайте начнем.
+Vì vậy, khóa học này không chỉ dành cho những người bắt đầu học tiếng Nhật. Nó rất tốt cho những người đó - đây là cách tốt nhất để bắt đầu. Nhưng nếu bạn đã học tiếng Nhật một thời gian và bạn thấy mình bị bối rối bởi mọi thứ, sẽ rất tốt nếu xem loạt bài này và học từ đầu theo cách tiếng Nhật lẽ ra nên được giải thích ngay từ đầu. Được rồi, hãy bắt đầu.

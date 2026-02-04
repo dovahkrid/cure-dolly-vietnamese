@@ -1,99 +1,99 @@
-# **38. Когда <code>это не</code> означает <code>это</code>: тайны じゃない janai, ではない de wa nai**
+# **38. Khi <code>it isn't</code> có nghĩa là <code>it is</code>: những bí ẩn của じゃない janai, ではない de wa nai**
 
-[**Урок 38: Знайте, когда <code>это не</code> означает <code>это</code>: тайны じゃない janai, ではない de wa nai**](https://www.youtube.com/watch?v=so7BXOwSyEU&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=40&pp=iAQB)
+[**Bài 38: Biết khi nào <code>it isn't</code> có nghĩa là <code>it is</code>: những bí ẩn của じゃない janai, ではない de wa nai**](https://www.youtube.com/watch?v=so7BXOwSyEU&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=40&pp=iAQB)
 
 こんにちは。
 
-Сегодня мы поговорим о том, что ставит в тупик многих изучающих японский язык, особенно когда они уже немного выучили японский и начинают читать японские тексты или слушать аниме и т.д. И это тот факт, что японцы часто делают, казалось бы, отрицательные утверждения, хотя на самом деле могут иметь в виду утвердительное.
+Hôm nay chúng ta sẽ nói về điều gì đó làm bối rối nhiều người học tiếng Nhật, đặc biệt là khi họ đã học được một chút tiếng Nhật và bắt đầu đọc tiếng Nhật hoặc nghe anime, v.v. Và đó là thực tế rằng người Nhật thường đưa ra những phát biểu có vẻ như phủ định nhưng thực tế có thể có nghĩa tích cực.
 
-Например, кто-то может сказать <code>さくらじゃない</code>, что, казалось бы, означает <code>Это не Сакура.</code> Но его фактическое значение — <code>Это Сакура, не так ли?</code> или даже просто <code>Это Сакура</code>. Итак, как это работает, как нам это распознать и как это понять?
+Ví dụ, ai đó có thể nói <code>さくらじゃない</code>, điều này có vẻ như có nghĩa là <code>Đó không phải là Sakura.</code> Nhưng ý nghĩa thực tế của nó là <code>Đó là Sakura, phải không?</code> hoặc thậm chí đơn giản là <code>Đó là Sakura</code>. Bây giờ, điều này hoạt động như thế nào, làm thế nào để chúng ta nhận ra nó, và làm thế nào để chúng ta hiểu nó?
 
-Для начала, <code>じゃない</code> — это сокращение от <code>ではない</code>, что, конечно, является отрицательной формой связки, как мы узнали ещё в нашем уроке об отрицаниях в японском языке.
+Đầu tiên, <code>じゃない</code> là dạng rút gọn của <code>ではない</code>, tất nhiên, đây là dạng phủ định của copula, như chúng ta đã học ngay từ bài học về phủ định trong tiếng Nhật.
 
 ![](../media/image427.webp)
 
-Итак, <code>А,Бだ</code> или <code>А,Бです</code> означает <code>А — это Б</code>. <code>А,Бではない (или ではありません)</code> означает <code>А — это не Б</code>. Так что нет никаких сомнений, что мы на самом деле слышим то, что грамматически является отрицательным утверждением.
+Vậy, <code>A,Bだ</code> hoặc <code>A,Bです</code> có nghĩa là <code>A là B</code>. <code>A,Bではない (hoặc ではありません)</code> có nghĩa là <code>A không phải là B</code>. Vì vậy không có nghi vấn gì ở đây rằng chúng ta thực sự đang nghe một phát biểu về mặt ngữ pháp là phủ định.
 
-Как же нам это интерпретировать? Ну, для начала, давайте напомним себе о том, что отрицательные вопросы используются в большинстве языков, включая английский, чтобы получить утвердительный ответ.
+Vậy làm thế nào để chúng ta diễn giải điều này? Chà, để bắt đầu, hãy nhắc nhở bản thân về thực tế rằng câu hỏi phủ định được sử dụng trong hầu hết các ngôn ngữ, bao gồm cả tiếng Anh, để gợi ra một phản hồi tích cực.
 
-Так, если мы говорим <code>Хороший день, не так ли?</code>, мы имеем в виду, что день хороший, и ожидаем, что наш собеседник согласится. Если мы говорим <code>Вы Сакура?</code>, это нейтральный вопрос.
+Vì vậy, nếu chúng ta nói <code>It's a nice day, isn't it?</code> (Hôm nay thời tiết đẹp, phải không?), chúng ta có ý rằng đó là một ngày đẹp trời và chúng ta mong đợi người nghe đồng ý. Nếu chúng ta nói <code>Are you Sakura?</code> (Bạn có phải là Sakura không?) thì đây là một câu hỏi trung tính.
 
-Мы не предполагаем, что это так или не так. Мы просто задаём вопрос. Но если мы говорим <code>Разве вы не Сакура?</code>, тогда мы на самом деле указываем, что считаем вас Сакурой.
+Chúng ta không gợi ý rằng chúng ta nghĩ đó là hay không phải. Chúng ta chỉ đơn giản là đặt câu hỏi. Nhưng nếu chúng ta nói <code>Aren't you Sakura?</code> (Bạn không phải là Sakura sao?) thì chúng ta thực sự đang chỉ ra rằng chúng ta nghĩ bạn là Sakura.
 
-И отрицательный вопрос, запрашивающий утвердительный ответ, такой как <code>Хороший день, не так ли?</code>, безусловно, распространён во всех языках, которые я знаю. Во французском у нас есть <code>n'est-ce pas</code>, в немецком у нас есть <code>nicht wahr</code>, и, конечно, в японском у нас есть <code>ね</code>, который изначально является отрицательным вопросом.
+Và một câu hỏi phủ định yêu cầu một phản hồi tích cực như <code>It's a nice day, isn't it?</code> chắc chắn là phổ biến trong tất cả các ngôn ngữ mà tôi biết. Trong tiếng Pháp chúng ta có <code>n'est-ce pas</code>, trong tiếng Đức chúng ta có <code>nicht wahr</code>, và tất nhiên trong tiếng Nhật chúng ta có <code>ね</code>, ban đầu là một câu hỏi phủ định.
 
-Так что, если мы говорим <code>さくらじゃないですか</code>, мы говорим то же самое, что и в английском <code>Разве это не Сакура?</code>, имея в виду, что мы так считаем.
+Vì vậy, nếu chúng ta nói <code>さくらじゃないですか</code>, chúng ta đang nói chính xác điều tương tự như trong tiếng Anh <code>Isn't that Sakura?</code> có nghĩa là chúng ta nghĩ đó là Sakura.
 
 ![](../media/image283.webp)
 
-Первая проблема, которая здесь возникает, заключается в том, что, хотя мы говорим в формальной речи <code>さくらじゃないですか</code>, потому что в формальной речи <code>か</code> действует как словесный вопросительный знак, превращая любое утверждение в вопрос, мы обычно не используем <code>か</code> как вопросительный конечный элемент предложения в обычной, неформальной японской речи. Таким образом, то, что было бы <code>さくらじゃないですか</code> в формальном японском, становится <code>さくらじゃない</code> в обычной японской речи.
+Vấn đề đầu tiên phát sinh ở đây là, trong khi chúng ta nói trong lời nói trang trọng <code>さくらじゃないですか</code> vì trong lời nói trang trọng <code>か</code> hoạt động như một dấu hỏi bằng lời, biến bất kỳ phát biểu nào thành câu hỏi, chúng ta thường không sử dụng <code>か</code> như một từ kết thúc câu tạo câu hỏi trong tiếng Nhật thông thường, không trang trọng. Vì vậy, cái mà sẽ là <code>さくらじゃないですか</code> trong tiếng Nhật trang trọng trở thành <code>さくらじゃない</code> trong tiếng Nhật thông thường.
 
-<code>さくらじゃない</code> имеет по сути три потенциальных значения. *(определяемые тоном в речи)* Мы можем сказать <code>さくらじゃない。</code> — это означает <code>Это не Сакура</code>.
+<code>さくらじゃない</code> về cơ bản có ba ý nghĩa tiềm năng. *(được chỉ ra bằng ngữ điệu trong lời nói)* Chúng ta có thể nói <code>さくらじゃない。</code> — có nghĩa là <code>Đó không phải là Sakura</code>.
 
-Мы можем сказать <code>さくらじゃない？</code>, и это означает <code>Это Сакура, не так ли?</code> Но мы также можем сказать, возможно, встретив Сакуру после довольно долгого времени, <code>さくらじゃない！</code>, и это, конечно, не означает, что это не Сакура, и это также не вопрос.
+Chúng ta có thể nói <code>さくらじゃない？</code> và có nghĩa là <code>Đó là Sakura, phải không?</code> Nhưng chúng ta cũng có thể nói, có lẽ gặp Sakura sau một thời gian khá dài, <code>さくらじゃない！</code>, và điều đó chắc chắn không có nghĩa là đó không phải là Sakura và nó cũng không phải là một câu hỏi.
 
-Мы на самом деле узнали её, и то, что мы говорим, можно, пожалуй, лучше всего передать на русский как <code>Если это не Сакура!</code>, что означает, что это Сакура. В этом нет ничего особенно мистического или чисто японского.
+Chúng ta thực sự đã nhận ra cô ấy và điều chúng ta đang nói có lẽ có thể được diễn đạt tốt nhất sang tiếng Anh là <code>If it isn't Sakura!</code> (Ôi, đó là Sakura!) có nghĩa là đó là Sakura. Bây giờ không có gì đặc biệt huyền bí và Nhật Bản về điều này.
 
-Мы делаем то же самое в английском. Например, если мы сказали <code>She came on Saturday</code>, это просто передача информации.
+Chúng ta làm điều tương tự trong tiếng Anh. Ví dụ, nếu chúng ta nói <code>She came on Saturday</code> (Cô ấy đến vào thứ Bảy), đó chỉ đơn giản là truyền đạt một thông tin.
 
-Если мы говорим <code>She came on Saturday?</code>, мы спрашиваем, пришла ли она в субботу или нет. И если мы говорим <code>She came on Saturday?!</code>, мы только что получили информацию о том, что она пришла в субботу, и выражаем по этому поводу удивление.
+Nếu chúng ta nói <code>She came on Saturday?</code> (Cô ấy đến vào thứ Bảy?) chúng ta đang hỏi liệu cô ấy có đến vào thứ Bảy hay không. Và nếu chúng ta nói <code>She came on Saturday?!</code> (Cô ấy đến vào thứ Bảy?!) chúng ta vừa nhận được thông tin rằng cô ấy đến vào thứ Bảy và chúng ta đang bày tỏ sự ngạc nhiên về điều đó.
 
 ![](../media/image1046.webp)
 
-Мы знаем, как интерпретировать это в английском, и легко научиться интерпретировать <code>じゃない</code> в японском, как только мы поймём диапазон значений, которыми оно обладает. <code>じゃない</code> используется и с другими значениями.
+Chúng ta biết cách diễn giải điều này trong tiếng Anh và việc học cách diễn giải <code>じゃない</code> trong tiếng Nhật rất dễ dàng khi chúng ta hiểu phạm vi ý nghĩa mà nó sở hữu. <code>じゃない</code> cũng được sử dụng với các ý nghĩa khác.
 
-В частности, оно используется как отрицательный вопросительный тег-окончание, очень похожее на <code>ね</code>. Например, мы можем сказать <code>暑いじゃない</code>, что означает примерно то же самое, что и <code>暑いね</code>.
+Đặc biệt, nó được sử dụng như một từ kết thúc câu hỏi phủ định rất giống như <code>ね</code>. Ví dụ, chúng ta có thể nói <code>暑いじゃない</code> có nghĩa gần giống như <code>暑いね</code>.
 
-Это что-то вроде вопросительного тега, ожидающего согласия нашего слушателя. И здесь мы можем отметить, что в этом нет никакой двусмысленности, потому что <code>暑いじゃない</code> не является отрицанием <code>暑い</code> — это <code>暑くない</code>.
+Nó giống như một câu hỏi đuôi, mong đợi người nghe đồng ý với chúng ta. Và chúng ta có thể lưu ý ở đây rằng không có sự mơ hồ nào trong điều này, vì <code>暑いじゃない</code> không phải là dạng phủ định của <code>暑い</code> – đó là <code>暑くない</code>.
 
 ---
 
-И оно также может ставиться после глаголов. Например, <code>もう言ったじゃない</code>, что означает <code>Я же уже сказал(а) это, не так ли?</code>
+Và nó cũng có thể được đặt sau động từ. Ví dụ, <code>もう言ったじゃない</code>, có nghĩa là <code>Tôi đã nói rồi, phải không?</code>
 
-Мы также должны отметить, что <code>じゃない</code> часто сокращается до просто <code>じゃん</code> в очень разговорной речи, и оно часто используется таким образом, когда что-то утверждается или запрашивается подтверждение. Теперь ясно, что эти выражения очень разговорные, и на самом деле настолько разговорные, что при использовании их с глаголом или прилагательным они фактически не являются грамматически правильными.
+Chúng ta cũng nên lưu ý rằng <code>じゃない</code> thường được rút gọn thành chỉ <code>じゃん</code> trong lời nói rất thông tục, và nó thường được sử dụng theo cách đó khi nó khẳng định điều gì đó hoặc yêu cầu xác nhận. Bây giờ, rõ ràng là những biểu thức này rất thông tục và thực tế quá thông tục đến nỗi khi chúng ta sử dụng chúng với động từ hoặc tính từ, chúng thực tế không đúng ngữ pháp.
 
-И причина этого, как я уже намекала, заключается в том, что, например, <code>暑いじゃない</code> не является отрицанием <code>暑い</code>, потому что это <code>暑くない</code>. Почему мы не можем использовать <code>じゃない</code> с глаголами или прилагательными?
+Và lý do cho điều này, như tôi đã ám chỉ, là ví dụ, <code>暑いじゃない</code> không phải là dạng phủ định của <code>暑い</code> vì đó là <code>暑くない</code>. Tại sao chúng ta không thể sử dụng <code>じゃない</code> với động từ hoặc tính từ?
 
-Ну, это потому, что, как мы узнали ещё в первом уроке, <code>じゃない</code> на самом деле является <code>ではない</code>, что является отрицанием связки. Так что, если мы говорим <code>これはペンだ</code>, мы говорим <code>Это ручка</code>; если мы говорим <code>これはペンではない</code>, мы говорим <code>Это не ручка</code>, и вы не можете правильно использовать <code>ではない</code> ни с чем, кроме двух существительных.
+Chà, đó là vì, như chúng ta đã học ngay từ bài đầu tiên, <code>じゃない</code> thực tế là <code>ではない</code>, đây là dạng phủ định của copula. Vì vậy, nếu chúng ta nói <code>これはペンだ</code>, chúng ta đang nói <code>Đây là một cây bút</code>; nếu chúng ta nói <code>これはペンではない</code>, chúng ta đang nói <code>Đây không phải là một cây bút</code>, và bạn không thể sử dụng <code>ではない</code> một cách đúng đắn với bất cứ thứ gì ngoài hai danh từ.
 
 ![](../media/image835.webp)
 
-Я на самом деле не думаю, что эти разговорные утверждения являются принципиально неграмматичными. Просто разговорная речь может пропускать несколько шагов в процессе.
+Tôi thực sự không nghĩ rằng những phát biểu thông tục này về cơ bản là không đúng ngữ pháp. Chỉ là việc thông tục có thể bỏ qua một vài bước trong quá trình.
 
-На самом деле существуют гораздо более формальные способы использования <code>ではない</code> в качестве утвердительного высказывания, но они, конечно, упорядочивают грамматику. Так что, например, если мы говорим <code>その理論が間違っているのではないでしょうか</code>, мы говорим <code>Разве эта теория не может быть ошибочной?</code>
+Thực tế có những cách trang trọng hơn nhiều để sử dụng <code>ではない</code> như một phát biểu tích cực, nhưng tất nhiên những cách này sẽ sắp xếp ngữ pháp gọn gàng. Vì vậy, ví dụ, nếu chúng ta nói <code>その理論が間違っているのではないでしょうか</code>, chúng ta đang nói <code>Có phải lý thuyết đó không sai không?</code>
 
 ![](../media/image1106.webp)
 
-И мы видим, что у нас по сути та же конструкция, с которой мы имели дело раньше: <code>その理論が間違っている... ではない</code>, но это <code>の</code> превращает его в грамматически правильное утверждение. Почему?
+Và chúng ta thấy về cơ bản chúng ta có cùng một cấu trúc mà chúng ta đã xử lý trước đây: <code>その理論が間違っている... ではない</code>, nhưng <code>の</code> đó biến nó thành một phát biểu đúng ngữ pháp. Tại sao?
 
-Потому что <code>その理論が間違っている</code> означает буквально <code>эта теория существует в состоянии заблуждения</code>. Это глагольное предложение, завершённое само по себе.
+Vì <code>その理論が間違っている</code> có nghĩa đen là <code>lý thuyết đó tồn tại trong trạng thái sai lầm</code>. Đó là một mệnh đề động từ hoàn chỉnh.
 
 ![](../media/image155.webp)
 
-Однако, когда мы добавляем <code>の</code>, это <code>の</code>, как мы видели в [**других уроках**](https://www.youtube.com/watch?v=Bq3GO63D9bw&ab_channel=OrganicJapanesewithCureDolly), играет роль местоимения, такого как <code>вещь</code> или <code>одно</code>, которое модифицируется <code>間違っている</code>.
+Tuy nhiên, khi chúng ta thêm <code>の</code>, <code>の</code> đó, như chúng ta đã thấy trong [**các bài học khác**](https://www.youtube.com/watch?v=Bq3GO63D9bw&ab_channel=OrganicJapanesewithCureDolly), đóng vai trò của một đại từ như <code>thing</code> hoặc <code>one</code> được bổ nghĩa bởi <code>間違っている</code>.
 
-Таким образом, теперь у нас есть <code>эта теория существует в состоянии ошибки одно</code>. Таким образом, у нас есть два существительных, и теперь нам нужна связка, чтобы соединить их вместе.
+Vì vậy bây giờ chúng ta có <code>lý thuyết đó tồn tại trong trạng thái sai lầm cái</code>. Vì vậy chúng ta có hai danh từ và bây giờ chúng ta cần copula để kết nối chúng lại với nhau.
 
 ![](../media/image775.webp)
 
-Так что <code>その理論が間違っているのではない</code> означает <code>эта теория, существующая-в-ошибке-одно, не является</code>. <code>でしょうか</code> не добавляет ничего грамматически к утверждению.
+Vì vậy <code>その理論が間違っているのではない</code> có nghĩa là <code>lý thuyết đó tồn tại trong sai lầm cái không phải</code>. <code>でしょうか</code> không thêm gì về mặt ngữ pháp vào phát biểu.
 
-Как мы знаем, прилагательные, такие как <code>ない</code>, стоят сами по себе. Им не требуется <code>だ</code>, хотя они получают <code>です</code> в качестве простого украшения, неграмматического украшения, в формальной речи, так что <code>でしょうか</code> здесь просто является флагом, поставленным в конце полного грамматического утверждения: <code>その理論が間違っているのではない</code>.
+Như chúng ta biết, các tính từ như <code>ない</code> đứng độc lập. Chúng không yêu cầu <code>だ</code>, mặc dù chúng có <code>です</code> như một sự trang trí đơn thuần, một sự trang trí không ngữ pháp, trong lời nói trang trọng, vì vậy điều mà <code>でしょうか</code> đang làm ở đây là nó chỉ đơn giản là một cờ hiệu được đặt ở cuối phát biểu ngữ pháp hoàn chỉnh: <code>その理論が間違っているのではない</code>.
 
-<code>でしょうか</code> превращает его явно в вопрос и в предложение, а не в утверждение. Так что мы говорим <code>Разве эта теория не может быть ошибочной?</code>
+<code>でしょうか</code> biến nó một cách rõ ràng thành một câu hỏi và thành một gợi ý thay vì một phát biểu. Vì vậy chúng ta đang nói <code>Có phải lý thuyết đó không phải là một cái sai lầm không</code>?
 
-Итак, это может означать то, что кажется. Это может означать, что мы сомневаемся и на самом деле спрашиваем, не так ли это.
+Bây giờ, điều này có thể có nghĩa như những gì nó có vẻ nói. Nó có thể có nghĩa là chúng ta đang có một số nghi ngờ và chúng ta thực sự đang hỏi liệu điều đó có thể không phải là trường hợp.
 
-Но часто это используется не просто как утверждение, а как довольно сильное утверждение. Мы могли бы использовать это, чтобы подытожить наш аргумент, когда мы окончательно опровергли рассматриваемую теорию.
+Nhưng rất nhiều lần điều này được sử dụng không chỉ như một khẳng định mà như một khẳng định khá mạnh mẽ. Chúng ta có thể sử dụng điều này để tóm tắt lập luận của mình khi chúng ta đã bác bỏ một cách dứt khoát lý thuyết được đề cập.
 
-Американский писатель или оратор мог бы подытожить такой аргумент словами: «Теперь любому, чей интеллект превосходит интеллект робота-пылесоса Roomba, ясно, что эта теория имеет столько же смысла, сколько напёрсток без дна в пустыне Сахара».
+Một nhà văn hoặc diễn giả người Mỹ có thể tóm tắt một lập luận như vậy với "Bây giờ rõ ràng với bất kỳ ai có trí thông minh lớn hơn một chiếc Roomba rằng lý thuyết này chứa đựng khoảng bằng nước như một chiếc thimble không nắp ở sa mạc Sahara."
 
-Однако такого рода определённое утверждение в японском языке не считается ни вежливым, ни очень убедительным. Это звучит так, будто вы пытаетесь компенсировать слабый аргумент сильным утверждением.
+Tuy nhiên, loại khẳng định dứt khoát đó trong tiếng Nhật không được coi là lịch sự hoặc rất thuyết phục. Nó nghe như thể bạn đang cố gắng bù đắp cho một lập luận yếu bằng một khẳng định mạnh mẽ.
 
-Поэтому эквивалентный японский оратор может подытожить тот же полностью убедительный аргумент словами: <code>ですからその理論は間違っているのではないでしょうか</code>. И это означает абсолютно то же самое, с учётом культурных различий…
+Vì vậy, người nói tiếng Nhật tương đương có thể tóm tắt cùng một lập luận hoàn toàn thuyết phục với <code>ですからその理論は間違っているのではないでしょうか</code>. Và điều đó có nghĩa chính xác như nhau, cho phép những khác biệt văn hóa...
 
 ::: info
-если что-то всё ещё неясно, возможно, будет полезно углубиться в комментарии к видео.
+nếu có điều gì vẫn chưa rõ ràng, việc tìm hiểu các bình luận của video có thể hữu ích.
 
 ![](../media/image914.webp)
 :::
