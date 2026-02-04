@@ -66,7 +66,7 @@ Nhưng chị gái của Alice đang cho – hoặc không cho – gì cho Alice?
 
 Chà, không phải cuốn sách. Thực tế, không phải bất kỳ vật thể thực tế nào. **Cô ấy đang cho hành động mà `くれる` được kết nối bằng て-form.** Cô ấy đang cho – hoặc trong trường hợp này, không cho – hành động chơi cho Alice.
 
-Chúng ta có ý gì khi nói điều đó? **Chà, chúng ta nói `くれる` không chỉ để cho một thứ – một cuốn sách, một món quà, một viên kẹo – chúng ta cũng nói nó để cho một hành động, để làm điều gì đó vì lợi ích của chúng ta.** **Điều này được sử dụng rất rất thường xuyên trong tiếng Nhật, vậy nên việc hiểu nó là quan trọng.** Nếu ai đó làm điều gì đó vì lợi ích của chúng ta, chúng ta biến hành động đó thành て-form và thêm `くれる`. **Nếu chúng ta làm điều gì đó vì lợi ích của người khác, chúng ta biến hành động đó thành te-form và thêm `あげる`, có nghĩa là `cho lên trên`, nói cách khác, cho bạn, cho người khác.**
+Chúng ta có ý gì khi nói điều đó? **Chà, chúng ta nói `くれる` không chỉ để cho một thứ – một cuốn sách, một món quà, một viên kẹo – chúng ta cũng nói nó để cho một hành động, để làm điều gì đó vì lợi ích của chúng ta.** **Điều này được sử dụng rất rất thường xuyên trong tiếng Nhật, vậy nên việc hiểu nó là quan trọng.** Nếu ai đó làm điều gì đó vì lợi ích của chúng ta, chúng ta biến hành động đó thành て-form và thêm `くれる`. **Nếu chúng ta làm điều gì đó vì lợi ích của người khác, chúng ta biến hành động đó thành て-form và thêm `あげる`, có nghĩa là `cho lên trên`, nói cách khác, cho bạn, cho người khác.**
 
 `くれる` và `あげる` – cho xuống cho tôi hoặc nhóm của tôi / `**あげる**` **cho lên cho bạn hoặc ai đó khác hoặc nhóm của bạn hoặc nhóm của họ.**
 
@@ -97,6 +97,6 @@ Trong tiếng Anh chúng ta đặt dấu hiệu thì ở cả hai phần của c
 
 ![](../media/image461.webp)
 
-`よんでいて` có thể có nghĩa là `đang đọc` hoặc có thể có nghĩa là `đã đọc`, **nhưng vì `あそんでくれなかった` ở quá khứ và nó là một phần của cùng một câu, chúng ta đã đặt mọi thứ vào quá khứ.**
+`よんでいて` có thể có nghĩa là `đang đọc` hoặc có thể có nghĩa là `đã đang đọc`, **nhưng vì `あそんでくれなかった` ở quá khứ và nó là một phần của cùng một câu, chúng ta đã đặt mọi thứ vào quá khứ.**
 
 Chà, hôm nay chúng ta đã không đi được xa trong cuộc phiêu lưu của Alice, phải không? Nhưng chúng ta có thể tiến nhanh hơn khi quen với văn bản thực tế và học các cấu trúc tường thuật cơ bản.

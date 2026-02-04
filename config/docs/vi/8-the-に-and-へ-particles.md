@@ -1,6 +1,6 @@
 # **8. Trợ từ に và へ**
 
-[**Bài 8: Vị trí, mục tiêu và biến đổi — chìa khóa cho trợ từ ni và he**](https://www.youtube.com/watch?v=uqlQYrE2oFM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=9)
+[**Bài 8: Vị trí, mục đích và biến đổi — chìa khóa cho trợ từ ni và he**](https://www.youtube.com/watch?v=uqlQYrE2oFM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=9)
 
 ## Trợ từ に
 
@@ -142,7 +142,7 @@ Gốc là <code>うつくし</code>, sau đó thêm <code>く</code>.
 
 Và đó là tất cả những gì chúng ta cần làm. Đây là cách chúng ta sử dụng nó: <code>さくらがうつくしくなった</code> – <code>Sakura đã trở nên đẹp</code>.
 
-<code>なった</code> là thì quá khứ của <code>なる</code>, bởi vì <code>なる</code> là động từ nhóm một (godan) (nó phải là động từ nhóm một, bởi vì nó không kết thúc bằng <code>-いる</code> hoặc <code>-える</code>, nó kết thúc bằng <code>-ある</code>).
+<code>なった</code> là thì quá khứ của <code>なる</code>, bởi vì <code>なる</code> là động từ godan (nó phải là động từ godan, bởi vì nó không kết thúc bằng <code>-いる</code> hoặc <code>-える</code>, nó kết thúc bằng <code>-ある</code>).
 
 Vì vậy, bây giờ chúng ta biết một số cách để diễn đạt những khái niệm tinh tế hơn, như ý định, mục đích, biến đổi, và chúng ta đã nâng cấp trình độ của mình.
 

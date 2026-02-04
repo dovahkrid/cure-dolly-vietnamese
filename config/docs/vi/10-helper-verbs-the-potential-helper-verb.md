@@ -1,32 +1,32 @@
-# **10. Động từ trợ giúp & động từ trợ giúp tiềm năng**
+# **10. Trợ động từ & trợ động từ tiềm năng**
 
 [**Bài 10: <code>Chia động từ tiếng Nhật</code> - phá tan huyền thoại! Cũng như mở khóa bí mật của dạng động từ tiềm năng**](https://www.youtube.com/watch?v=qcOhHmU0znI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12)
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về các động từ trợ giúp chính và về dạng tiềm năng. **Khi tôi nói <code>các động từ trợ giúp chính</code>, tôi đang đề cập đến những gì mà các mô tả ngữ pháp tiếng Nhật phương Tây tiêu chuẩn gọi là <code>chia động từ</code>.** Và tôi chỉ đề cập đến từ này vì tôi không muốn bạn bị nhầm lẫn nếu thấy <code>chia động từ</code> được nhắc đến ở nơi khác.
+Hôm nay chúng ta sẽ nói về các trợ động từ chính và về dạng tiềm năng. **Khi tôi nói <code>các trợ động từ chính</code>, tôi đang đề cập đến những gì mà các mô tả ngữ pháp tiếng Nhật phương Tây tiêu chuẩn gọi là <code>chia động từ</code>.** Và tôi chỉ đề cập đến từ này vì tôi không muốn bạn bị nhầm lẫn nếu thấy <code>chia động từ</code> được nhắc đến ở nơi khác.
 
 Khi họ nói về <code>chia động từ</code>, đây là điều họ muốn nói. **Nhưng thực tế không có thứ gì gọi là chia động từ trong tiếng Nhật.** **Tất cả những gì chúng ta làm là thêm các từ trợ giúp vào bốn gốc động từ.** Và có rất nhiều từ trợ giúp và hầu hết chúng chỉ là vấn đề từ vựng bổ sung miễn là bạn không nghĩ về chúng như là chia động từ.
 
 ![](../media/image942.webp)
 
-Trong một số trường hợp chúng được gọi là <code>chia động từ</code>, trong các trường hợp khác thì không, và chúng hoàn toàn là cùng một quá trình mỗi lần. Sự khác biệt duy nhất là một số trong số chúng tình cờ, và chỉ rất mơ hồ, giống với chia động từ châu Âu còn những cái khác thì không. Tất cả các loại nhầm lẫn phát sinh từ việc nhầm lẫn các động từ trợ giúp và tính từ trợ giúp tiếng Nhật với chia động từ, nhưng vì chúng ta sẽ không sử dụng chúng, nên chúng ta không cần phải lo lắng về điều đó ở đây. Được rồi.
+Trong một số trường hợp chúng được gọi là <code>chia động từ</code>, trong các trường hợp khác thì không, và chúng hoàn toàn là cùng một quá trình mỗi lần. Sự khác biệt duy nhất là một số trong số chúng tình cờ, và chỉ rất mơ hồ, giống với chia động từ châu Âu còn những cái khác thì không. Tất cả các loại nhầm lẫn phát sinh từ việc nhầm lẫn các trợ động từ và tính từ trợ giúp tiếng Nhật với chia động từ, nhưng vì chúng ta sẽ không sử dụng chúng, nên chúng ta không cần phải lo lắng về điều đó ở đây. Được rồi.
 
-## Động từ trợ giúp tiềm năng
+## Trợ động từ tiềm năng
 
-Vậy, động từ trợ giúp chính đầu tiên mà chúng ta sẽ xem xét là động từ tiềm năng. Bây giờ, chúng ta đã xem xét, phải không, các từ trợ giúp. Chúng ta đã xem xét các tính từ trợ giúp <code>ない</code>, tạo thành phủ định, và <code>たい</code>, được sử dụng cho sự mong muốn của một hành động.
+Vậy, trợ động từ chính đầu tiên mà chúng ta sẽ xem xét là động từ tiềm năng. Bây giờ, chúng ta đã xem xét, phải không, các từ trợ giúp. Chúng ta đã xem xét các tính từ trợ giúp <code>ない</code>, tạo thành phủ định, và <code>たい</code>, được sử dụng cho sự mong muốn của một hành động.
 
 ![](../media/image314.webp)
 
-Chúng ta cũng đã xem xét động từ trợ giúp <code>がる</code>, được gắn vào một tính từ. **Bây giờ chúng ta sẽ xem xét động từ trợ giúp tiềm năng, và nó gắn vào gốc え.**
+Chúng ta cũng đã xem xét trợ động từ <code>がる</code>, được gắn vào một tính từ. **Bây giờ chúng ta sẽ xem xét trợ động từ tiềm năng, và nó gắn vào gốc え.**
 
 ![](../media/image973.webp)
 
-**Không có nhiều thứ chúng ta làm với gốc え** như chúng ta làm với gốc あ và い, nhưng có một số. Và chỉ có một trong số chúng là động từ, vì vậy không có chỗ cho sự nhầm lẫn ở đây. **Động từ trợ giúp tiềm năng có hai dạng, và chúng là <code>-る</code> và <code>-られる</code>.**
+**Không có nhiều thứ chúng ta làm với gốc え** như chúng ta làm với gốc あ và い, nhưng có một số. Và chỉ có một trong số chúng là động từ, vì vậy không có chỗ cho sự nhầm lẫn ở đây. **Trợ động từ tiềm năng có hai dạng, và chúng là <code>-る</code> và <code>-られる</code>.**
 
-Mọi người có thể hơi bối rối bởi **dạng godan của động từ trợ giúp** vì nó **chỉ là một ký tự, る(ru).** Nhưng điều đó không nên làm bạn lo lắng chút nào, và vì nó chỉ đi vào gốc え, không thể được sử dụng một mình, nó rất rất dễ nhận ra.
+Mọi người có thể hơi bối rối bởi **dạng godan của trợ động từ** vì nó **chỉ là một ký tự, る(ru).** Nhưng điều đó không nên làm bạn lo lắng chút nào, và vì nó chỉ đi vào gốc え, không thể được sử dụng một mình, nó rất rất dễ nhận ra.
 
-**<code>-られる</code> là dạng của động từ trợ giúp tiềm năng đi vào các động từ ichidan** – và chúng ta đã thảo luận về động từ godan và ichidan trước đây, phải không? Vậy, <code>かう</code> (mua) trở thành <code>かえる</code> (có thể mua); <code>きく</code> (nghe) trở thành <code>きける</code> (có thể nghe); <code>はなす</code> (nói) trở thành <code>はなせる</code> (có thể nói); <code>もつ</code> (cầm) trở thành <code>もてる</code> (có thể cầm) và vân vân.
+**<code>-られる</code> là dạng của trợ động từ tiềm năng đi vào các động từ ichidan** – và chúng ta đã thảo luận về động từ godan và ichidan trước đây, phải không? Vậy, <code>かう</code> (mua) trở thành <code>かえる</code> (có thể mua); <code>きく</code> (nghe) trở thành <code>きける</code> (có thể nghe); <code>はなす</code> (nói) trở thành <code>はなせる</code> (có thể nói); <code>もつ</code> (cầm) trở thành <code>もてる</code> (có thể cầm) và vân vân.
 
 ::: info
 chuyển sang gốc え và sau đó là dạng tiềm năng godan る. Cũng lưu ý điều này...
@@ -128,7 +128,7 @@ Và hãy nhớ rằng tiếng Nhật luôn khớp với nhau giống như Lego,
 
 ![](../media/image625.webp)
 
-vì vậy động từ trợ giúp tiềm năng, ngay cả khi nó chỉ là kana đơn lẻ る(ru), đơn giản là một động từ ichidan thông thường như hầu hết các động từ trợ giúp, và chúng ta có thể làm chính xác những điều tương tự với nó như chúng ta có thể làm với các động từ trợ giúp khác.
+vì vậy trợ động từ tiềm năng, ngay cả khi nó chỉ là kana đơn lẻ る(ru), đơn giản là một động từ ichidan thông thường như hầu hết các trợ động từ, và chúng ta có thể làm chính xác những điều tương tự với nó như chúng ta có thể làm với các trợ động từ khác.
 
 ::: info
 Tôi đoán Dolly có nghĩa là trợ giúp tiềm năng hoạt động như ichidan, vì vậy nếu thêm bất cứ thứ gì vào tiềm năng, hãy bỏ る như với bất kỳ ichidan nào và gắn vào gốc え. Câu trả lời của Dolly dưới một [**bình luận**](https://www.youtube.com/watch?v=qcOhHmU0znI&lc=UgxYARujuNXKheHlgNJ4AaABAg)

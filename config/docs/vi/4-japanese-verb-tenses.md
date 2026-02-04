@@ -8,7 +8,7 @@ Hôm nay chúng ta sẽ nói về các thì. Cho đến nay chúng ta chỉ sử
 
 ## Thì phi quá khứ
 
-Những gì chúng ta đã sử dụng cho đến nay không phải là thì hiện tại. Nó được gọi là thì phi quá khứ, và nhiều người thấy điều này khó hiểu. Tại sao tiếng Nhật không thể có thì hiện tại đơn giản như tiếng Anh, thay vì một cái gì đó mơ hồ và bí ẩn như thì phi quá khứ?
+Thì mà chúng ta đã sử dụng cho đến nay không phải là thì hiện tại. Nó được gọi là thì phi quá khứ, và nhiều người thấy điều này khó hiểu. Tại sao tiếng Nhật không thể có thì hiện tại đơn giản như tiếng Anh, thay vì một cái gì đó mơ hồ và bí ẩn như thì phi quá khứ?
 
 ![](../media/image765.webp)
 
@@ -36,11 +36,11 @@ Vì vậy, <code>Sakura is walking</code> — <code>さくらがあるいてい�
 
 ![](../media/image612.webp)
 
-Bây giờ hãy chú ý rằng trong câu như <code>いぬがたべている</code>, chúng ta có một thứ mà chúng ta chưa từng thấy, và đó là đầu máy trắng. **Đầu máy trắng là một phần tử có thể là đầu máy, nhưng trong trường hợp này nó KHÔNG phải là đầu máy của câu này. Nó bổ nghĩa hoặc cho chúng ta thêm thông tin về một trong những phần tử chính của câu.**
+Bây giờ hãy chú ý rằng trong câu như <code>いぬがたべている</code>, chúng ta có một thứ mà chúng ta chưa từng thấy, và đó là động cơ trắng. **Động cơ trắng là một phần tử có thể là động cơ, nhưng trong trường hợp này nó KHÔNG phải là động cơ của câu này. Nó bổ nghĩa hoặc cho chúng ta thêm thông tin về một trong những phần tử chính của câu.**
 
 ![](../media/image1035.webp)
 
-Vì vậy, cốt lõi của câu này là <code>いぬがいる</code> — <code>con chó tồn tại</code>. Nhưng con chó không chỉ tồn tại — con chó đang làm gì đó. Và đầu máy trắng này cho chúng ta biết nó đang làm gì. Nó đang <code>ăn</code>. Và chúng ta sẽ thấy cấu trúc với đầu máy trắng này nhiều lần khi đi sâu hơn vào tiếng Nhật.
+Vì vậy, cốt lõi của câu này là <code>いぬがいる</code> — <code>con chó tồn tại</code>. Nhưng con chó không chỉ tồn tại — con chó đang làm gì đó. Và động cơ trắng này cho chúng ta biết nó đang làm gì. Nó đang <code>ăn</code>. Và chúng ta sẽ thấy cấu trúc với động cơ trắng này nhiều lần khi đi sâu hơn vào tiếng Nhật.
 
 Và giống như trong tiếng Anh chúng ta không nói <code>the dog is eat</code>, chúng ta sử dụng một dạng đặc biệt của động từ kết hợp với động từ tồn tại. Vì vậy, trong tiếng Anh chúng ta nói <code>is walking</code>, <code>is eating</code>. Trong tiếng Nhật chúng ta nói <code>食べている/たべている</code>, <code>歩いている/あるいている</code>.
 
@@ -67,7 +67,7 @@ Chúng ta chỉ cần nói <code>ngày mai</code> trước khi nói phần còn 
 Đôi khi tôi thêm zeroが, ngay cả khi Dolly không nói trong bản ghi, NHƯNG cô ấy hiển thị nó trong video, tôi rõ ràng chỉ thêm nó khi cô ấy hiển thị, tôi không tự ý làm điều đó…
 :::
 
-Vì vậy, <code>ngày mai</code> là cái mà chúng ta gọi là <code>**biểu thức thời gian tương đối**</code>, bởi vì nó tương đối với hôm nay. Hôm nay là ngày mai của hôm qua.
+Bây giờ, <code>ngày mai</code> là cái mà chúng ta gọi là <code>**biểu thức thời gian tương đối**</code>, bởi vì nó tương đối với hôm nay. Hôm nay là ngày mai của hôm qua.
 
 ![](../media/image616.webp)
 
@@ -81,7 +81,7 @@ Thứ Ba là <code>火曜日/かようび</code>, và chúng ta có thể nói <
 
 ![](../media/image441.webp)
 
-Điều quan trọng ở đây là việc tìm ra có vẻ hơi khó: <code>Thời gian là tuyệt đối hay tương đối?</code> Và tin tốt ở đây là điều này hoàn toàn không khó, bởi vì nó hoạt động giống hệt như trong tiếng Anh.
+Điều quan trọng ở đây là việc tìm ra có vẻ hơi phức tạp: <code>Thời gian là tuyệt đối hay tương đối?</code> Và điều tốt cần biết ở đây là điều này hoàn toàn không phức tạp, bởi vì nó hoạt động giống hệt như trong tiếng Anh.
 
 Trong tiếng Anh chúng ta nói: <code>Tomorrow I eat cake</code>, <code>Next week, I have an exam</code>, v.v., **nhưng khi chúng ta sử dụng biểu thức thời gian tuyệt đối**, chúng ta nói: <code>**On Monday** I will eat cake</code>, <code>**At six o'clock** I have an exam</code>; nếu chúng ta nói về tháng, chúng ta nói: <code>**In July** I'm going to Tokyo</code>.
 

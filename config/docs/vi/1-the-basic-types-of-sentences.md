@@ -42,7 +42,7 @@ Vậy bây giờ chúng ta có câu <code>A là B</code> và câu <code>A làm B
 
 **Trong tiếng Nhật, các từ mô tả kết thúc bằng い** (i), giống như chúng thường làm trong tiếng Anh: happy, sunny, cloudy, silly. Trong tiếng Nhật cũng như vậy: vui – うれしい/嬉しい; buồn – かなしい/悲しい; xanh – あおい/青い.
 
-Bây giờ, chúng ta không cần phải học tất cả những từ này, nhưng chúng ta cần biết về các tính từ tiếng Nhật kết thúc bằng い vì chúng tạo nên loại câu thứ ba. Vì vậy hãy lấy một ví dụ dễ: ペン (đó là một từ dễ vì nó có nghĩa là bút) – <code>ペンが赤い/あかい</code> = <code>bút màu đỏ</code>.
+Bây giờ, chúng ta không cần phải học tất cả những từ này, nhưng chúng ta cần biết về các tính từ tiếng Nhật kết thúc bằng い vì chúng tạo nên loại câu thứ ba. Vì vậy hãy lấy một ví dụ dễ: ペン (đó là một từ dễ vì nó có nghĩa là bút) – <code>ペンが赤い/あかい</code> = <code>bút có màu đỏ</code>.
 
 Bây giờ, bạn nhận thấy rằng chúng ta không có だ trong câu này. Tại sao vậy? **Vì tính từ い あかい/赤い (đỏ) – nó không có nghĩa là đỏ, nó có nghĩa là là-đỏ. Chức năng だ, chức năng bằng, được tích hợp sẵn trong những tính từ い đó.**
 

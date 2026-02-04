@@ -116,13 +116,13 @@ Và nếu chúng ta muốn nói: <code>Sakura đã không đang chạy</code>, c
 
 Trong tất cả những gì chúng ta đã nói hôm nay, thực sự chỉ có hai ngoại lệ. Và tôi sẽ giới thiệu chúng để bạn biết tất cả những gì bạn cần biết.
 
-**Ngoại lệ thực sự duy nhất của quy tắc mà mỗi động từ trở nên phủ định bằng cách thêm <code>ない</code>, là động từ <code>ます</code>, là trợ động từ làm cho từ trở nên lịch sự.** *(trang trọng)* **Chúng ta thêm nó vào gốc-い của động từ**, và chúng ta sẽ xem xét gốc-い sau, nhưng tôi nghĩ bạn đã có thể đoán được nó là gì.
+**Ngoại lệ thực sự duy nhất của quy tắc mà mỗi động từ trở nên phủ định bằng cách thêm <code>ない</code>, là động từ <code>ます</code>, là trợ động từ làm cho từ trở nên trang trọng.** **Chúng ta thêm nó vào gốc-い của động từ**, và chúng ta sẽ xem xét gốc-い sau, nhưng tôi nghĩ bạn đã có thể đoán được nó là gì.
 
 Vì vậy, <code>はなす</code> trở thành <code>はなします</code>, <code>きく</code> trở thành <code>ききます</code>, v.v. Khi bạn đặt <code>ます</code> vào dạng phủ định, nó không trở thành <code>まさない</code>, như bạn có thể mong đợi — **nó trở thành <code>ません</code>.**
 
 ![](../media/image360.webp)
 
-**Vì đây là dạng lịch sự, nó hơi cổ xưa và sử dụng dạng phủ định cũ của tiếng Nhật <code>せん</code> thay vì <code>ない</code>.**
+**Vì đây là dạng trang trọng, nó hơi cổ xưa và sử dụng dạng phủ định cũ của tiếng Nhật <code>せん</code> thay vì <code>ない</code>.**
 
 ::: info
 Dolly lại mắc lỗi đánh máy ở đây trong video, tôi đã sửa lại.

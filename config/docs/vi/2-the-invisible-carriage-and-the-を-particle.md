@@ -54,7 +54,7 @@ Chúng ta có thể nói rằng <code>Tôi</code> là giá trị mặc định c
 
 ![](../media/image617.webp)
 
-Nếu tôi nói, <code>土曜日だ</code> (土曜日/どようび có nghĩa là Thứ Bảy), tôi đang nói <code>(Nó) là Thứ Bảy</code>. <code>Nó</code> là gì? Hôm nay. Tất cả những câu này là những câu tiếng Nhật đầy đủ, hoàn chỉnh, với một chủ ngữ được đánh dấu bằng が/ toa A/toa chính, và một đầu máy.
+Nếu tôi nói, <code>土曜日だ</code> (土曜日/どようび có nghĩa là Thứ Bảy), tôi đang nói <code>(Nó) là Thứ Bảy</code>. <code>Nó</code> là gì? Hôm nay. Tất cả những câu này đều là những câu tiếng Nhật đầy đủ, hoàn chỉnh, với một chủ ngữ được đánh dấu bằng が/ toa A/toa chính, và một đầu máy.
 
 ![](../media/image490.webp)
 
@@ -79,5 +79,5 @@ Bây giờ, điều thú vị ở đây là chúng ta có thể thường thấy
 **Chúng ta không thể có một câu mà không có が. Chúng ta không thể có một hành động được thực hiện mà không có người thực hiện.** Nếu chúng ta nói <code>ケーキをたべる</code>, những gì chúng ta thực sự đang nói là <code>(zeroが)ケーキをたべる</code>. Và giá trị mặc định cho <code>zero</code>, cho toa vô hình, là <code>わたし</code>. Vì vậy thường đây sẽ là <code>Tôi ăn bánh</code>, mặc dù nếu bạn đang nói về ai đó khác vào lúc đó, nó có thể có nghĩa là người đó ăn bánh.
 
 ::: info
-Chỉ trong trường hợp - như có thể thấy từ các hình ảnh, mỗi trợ từ gắn vào/gán cho từ TRƯỚC nó, Không phải sau nó.
+Chỉ để rõ ràng - như có thể thấy từ các hình ảnh, mỗi trợ từ gắn vào/gán cho từ TRƯỚC nó, không phải sau nó.
 :::

@@ -142,7 +142,7 @@ Lưu ý từ tuyên bố ở đây, たい không thể được sử dụng khi
 
 ## Biểu đạt tuyên bố về mong muốn của người khác với たがる
 
-Vậy tôi làm gì? **Tôi phải thêm vào tính từ về mong muốn một động từ trợ giúp. Tôi bỏ <code>い</code> khỏi tính từ い và tôi thêm động từ trợ giúp <code>がる</code>.** Và <code>がる</code> có nghĩa là <code>thể hiện dấu hiệu của / trông như thể đó là trường hợp</code>. Vì vậy nếu tôi nói, <code>さくらがケーキをほしがる</code> thì tôi đang nói Sakura đang thể hiện dấu hiệu muốn bánh. Đó là điều tôi đang nói theo nghĩa đen.
+Vậy tôi làm gì? **Tôi phải thêm vào tính từ về mong muốn một trợ động từ. Tôi bỏ <code>い</code> khỏi tính từ い và tôi thêm trợ động từ <code>がる</code>.** Và <code>がる</code> có nghĩa là <code>thể hiện dấu hiệu của / trông như thể đó là trường hợp</code>. Vì vậy nếu tôi nói, <code>さくらがケーキをほしがる</code> thì tôi đang nói Sakura đang thể hiện dấu hiệu muốn bánh. Đó là điều tôi đang nói theo nghĩa đen.
 
 ![](../media/image808.webp)
 

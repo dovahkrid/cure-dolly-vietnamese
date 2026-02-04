@@ -1,10 +1,10 @@
-# **13. Chia động từ bị động / Trợ động từ tiếp nhận** 
+# **13. Thể bị động / Trợ động từ tiếp nhận** 
 
-[**Bài 13: <code>Chia động từ bị động</code> được làm sáng tỏ: KHÔNG phải bị động. KHÔNG phải chia động từ. MÀ LÀ dễ.**](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15)
+[**Bài 13: <code>Thể bị động</code> được làm sáng tỏ: KHÔNG phải bị động. KHÔNG phải chia động từ. MÀ LÀ dễ.**](https://www.youtube.com/watch?v=cvV6d-RETs8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=15)
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về trợ động từ tiếp nhận. Ở những nơi khác bạn sẽ nghe nó được gọi là <code>chia động từ bị động</code>. Như chúng ta đã học, không có chia động từ trong tiếng Nhật, vậy nên nó không thể là chia động từ.
+Hôm nay chúng ta sẽ nói về trợ động từ tiếp nhận. Ở những nơi khác bạn sẽ nghe nó được gọi là <code>thể bị động</code>. Như chúng ta đã học, không có chia động từ trong tiếng Nhật, vậy nên nó không thể là chia động từ.
 
 ::: info
 Một lần nữa, Dolly nói điều này để làm cho nó dễ hiểu hơn, nhưng nếu ai đó đi sâu vào ngôn ngữ học thì có thể tranh luận. Tôi nói điều này để cho thấy có RẤT NHIỀU sắc thái khi đi sâu hơn vào một ngôn ngữ và mọi thứ hiếm khi đơn giản và thẳng thắn khi bạn vượt qua những điều cơ bản, vậy nên người ta nên ghi nhớ điều này. Nếu bạn thực sự thích đọc, dưới video này, có một [**cuộc thảo luận thú vị**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) RẤT dài về điều này.
@@ -12,7 +12,7 @@ Một lần nữa, Dolly nói điều này để làm cho nó dễ hiểu hơn, 
 
 *Nhưng nhìn chung, không có gì thực sự <code>đúng</code> hay <code>sai</code> hoàn toàn, chỉ có <code>hữu ích hơn</code> hay <code>ít hữu ích hơn</code> đối với từng cá nhân.*
 
-**Ngoài ra, nó không phải là bị động.** Vậy là sách giáo khoa sai 0/2. Và điều này quan trọng vì nếu chúng ta nghĩ về trợ động từ tiếp nhận như một chia động từ bị động, nó sẽ hoàn toàn phá vỡ sự hiểu biết của chúng ta về cấu trúc và, một lần nữa, nó ném những trợ từ tội nghiệp khắp phòng. Và như chúng ta biết, các trợ từ là những chốt then chốt, những bản lề mà tiếng Nhật xoay quanh. Vậy nên nếu chúng ta làm rối loạn các trợ từ thì chúng ta sẽ gặp rắc rối lớn. Và đây là lý do tại sao nhiều người thấy tiếng Nhật khó hiểu.
+**Ngoài ra, nó không phải là bị động.** Vậy là sách giáo khoa sai 0/2. Và điều này quan trọng vì nếu chúng ta nghĩ về trợ động từ tiếp nhận như một thể bị động, nó sẽ hoàn toàn phá vỡ sự hiểu biết của chúng ta về cấu trúc và, một lần nữa, nó ném những trợ từ tội nghiệp khắp phòng. Và như chúng ta biết, các trợ từ là những chốt then chốt, những bản lề mà tiếng Nhật xoay quanh. Vậy nên nếu chúng ta làm rối loạn các trợ từ thì chúng ta sẽ gặp rắc rối lớn. Và đây là lý do tại sao nhiều người thấy tiếng Nhật khó hiểu.
 
 ::: details Chỉ là một trong những ghi chú lan man của tôi về các khía cạnh kỹ thuật của thuật ngữ
 
@@ -28,7 +28,7 @@ Trong ngữ pháp, mọi thứ hiếm khi <code>đen trắng</code>, vậy nên 
 
 ## Tiếp nhận / Bị động
 
-Vậy, bây giờ tôi đã đề cập đến <code>chia động từ bị động</code> chỉ để bạn biết chúng ta đang nói về gì nếu bạn tìm thấy nó trong các ngữ cảnh khác, hãy bỏ hoàn toàn những từ đó và gọi nó đúng như nó là: **trợ động từ tiếp nhận.**
+Vậy, bây giờ tôi đã đề cập đến <code>thể bị động</code> chỉ để bạn biết chúng ta đang nói về gì nếu bạn tìm thấy nó trong các ngữ cảnh khác, hãy bỏ hoàn toàn những từ đó và gọi nó đúng như nó là: **trợ động từ tiếp nhận.**
 
 Vậy, trợ động từ tiếp nhận là gì? **Đó là một động từ gắn vào あ-stem của động từ khác, và あ-stem, đó là cùng một stem mà chúng ta sử dụng để gắn trợ tính từ phủ định -ない**, phải không? **Trợ động từ tiếp nhận là 「れる・られる」: đó là れる cho động từ godan, られる cho động từ ichidan.**
 
@@ -70,11 +70,11 @@ Vậy chúng ta có thể nói 「ほんがよめる」 và mặc dù よめる,
 
 ![](../media/image886.webp)
 
-**Vậy chúng ta luôn có trong một câu tiếp nhận hành động được thực hiện bởi ai đó khác, mà chúng ta có thể biết hoặc không biết, cộng với hành động thực sự của câu là れる・られる, việc nhận—việc được—hành động đó.** Và đây là điểm cơ bản cần ghi nhớ. Chính vì sách giáo khoa không ghi nhớ điều này và không giữ hai động cơ đó riêng biệt mà tất cả sự nhầm lẫn và khó khăn về cái gọi là <code>chia động từ bị động</code> phát sinh. **Động từ chính của một câu tiếp nhận れる・られる luôn là れる hoặc られる, không phải động từ mà nó được gắn vào.**
+**Vậy chúng ta luôn có trong một câu tiếp nhận hành động được thực hiện bởi ai đó khác, mà chúng ta có thể biết hoặc không biết, cộng với hành động thực sự của câu là れる・られる, việc nhận—việc được—hành động đó.** Và đây là điểm cơ bản cần ghi nhớ. Chính vì sách giáo khoa không ghi nhớ điều này và không giữ hai động cơ đó riêng biệt mà tất cả sự nhầm lẫn và khó khăn về cái gọi là <code>thể bị động</code> phát sinh. **Động từ chính của một câu tiếp nhận れる・られる luôn là れる hoặc られる, không phải động từ mà nó được gắn vào.**
 
 ---
 
-Bây giờ, **hãy cũng chú ý rằng toa A, tác nhân của câu, không nhất thiết phải là một người.** Vậy, nếu chúng ta nói, 「**水**がのまれた」 (のむ/飲む＝uống; のま＝ あ stem của uống; れた＝ được), chúng ta đang nói `**Nước** bị uống`. **Và tác nhân của câu đó là nước.**
+Bây giờ, **hãy cũng chú ý rằng toa A, chủ thể của câu, không nhất thiết phải là một người.** Vậy, nếu chúng ta nói, 「**水**がのまれた」 (のむ/飲む＝uống; のま＝ あ stem của uống; れた＝ được), chúng ta đang nói `**Nước** bị uống`. **Và chủ thể của câu đó là nước.**
 
 ![](../media/image649.webp)
 
@@ -82,7 +82,7 @@ Bây giờ, ngay cả khi chúng ta thêm một người thực hiện hành đ�
 
 ![](../media/image757.webp)
 
-**tác nhân của câu vẫn là nước, không phải con chó, vì chính nước bị uống, chính nước thực hiện việc được. Con chó thực hiện việc uống, nhưng nước thực hiện việc được.** **Và con chó uống nước là tất cả phần trắng sửa đổi động từ chính cuối cùng đó, `được`.** `Nước bị uống bởi con chó.`
+**chủ thể của câu vẫn là nước, không phải con chó, vì chính nước bị uống, chính nước thực hiện việc được. Con chó thực hiện việc uống, nhưng nước thực hiện việc được.** **Và con chó uống nước là tất cả phần trắng sửa đổi động từ chính cuối cùng đó, `được`.** `Nước bị uống bởi con chó.`
 
 Bây giờ, tại sao tôi đánh dấu con chó bằng に? Tôi sẽ đến điều đó ngay bây giờ.
 
@@ -96,11 +96,11 @@ Hãy lấy một câu đầy đủ hơn để chúng ta có thể thấy tất c
 
 ---
 
-Vậy, chuyện gì đang xảy ra ở đây? Ai là người nhận hành động? Không phải Sakura, người được đánh dấu bằng は. Không phải ai đó, người được đánh dấu bằng に. **Chính là `người` được đánh dấu bằng が, và đó là chiếc túi. Chiếc túi là thứ nhận việc ăn cắp đó, vậy chiếc túi là chủ ngữ của câu. Chiếc túi là thứ thực hiện れる, thực hiện `được`.**
+Vậy, chuyện gì đang xảy ra ở đây? Ai là người nhận hành động? Không phải Sakura, người được đánh dấu bằng は. Không phải ai đó, người được đánh dấu bằng に. **Chính là `thứ` được đánh dấu bằng が, và đó là chiếc túi. Chiếc túi là thứ nhận việc ăn cắp đó, vậy chiếc túi là chủ ngữ của câu. Chiếc túi là thứ thực hiện れる, thực hiện `được`.**
 
 ![](../media/image514.webp)
 
-Và に... nó đang làm gì ở đây? Chà, hãy nhớ rằng に đánh dấu mục tiêu cuối cùng của một hành động (だれか). Vậy, 「(zeroが)**さくらに**ボールをなげた。」 tác nhân được đánh dấu が là tôi, đối tượng của hành động là ボール, **và mục tiêu của hành động đó là Sakura**. *(Việc sử dụng に không phải tiếp nhận)*
+Và に... nó đang làm gì ở đây? Chà, hãy nhớ rằng に đánh dấu mục tiêu cuối cùng của một hành động (だれか). Vậy, 「(zeroが)**さくらに**ボールをなげた。」 chủ thể được đánh dấu が là tôi, đối tượng của hành động là ボール, **và mục tiêu của hành động đó là Sakura**. *(Việc sử dụng に không phải tiếp nhận)*
 
 ![](../media/image1119.webp)
 
@@ -129,7 +129,7 @@ Vậy bạn thấy, tất cả các trợ từ đang làm chính xác những g�
 Chà, như đã chỉ ra ở trên, trong Bị động/Tiếp nhận nó có phần thay đổi ở chỗ chúng đảo ngược cực tính của mình. Do đó tại sao に không phải là <code>đến</code> - người nhận/<code>mục tiêu</code> như trong Chủ động, mà bây giờ là <code>bởi</code> - người thực hiện, và が thay vào đó là người nhận hành động cơ bản (ぬすむ) qua れる. Nó đặc biệt có thể được giải thích qua Vai trò Ngữ nghĩa/Chủ đề.*
 :::
 
-Nếu bạn nghĩ về nó như <code>chia động từ bị động</code>, tất cả các trợ từ thực hiện một điệu nhảy kỳ lạ và dường như đang làm những việc khác với những gì chúng thường làm, nhưng nếu bạn hiểu nó như nó là - trợ động từ tiếp nhận - thì không có vấn đề gì. Và tất cả đều có ý nghĩa, giống như cách tiếng Nhật luôn làm nếu bạn biết nó thực sự đang làm gì.
+Nếu bạn nghĩ về nó như <code>thể bị động</code>, tất cả các trợ từ thực hiện một điệu nhảy kỳ lạ và dường như đang làm những việc khác với những gì chúng thường làm, nhưng nếu bạn hiểu nó như nó là - trợ động từ tiếp nhận - thì không có vấn đề gì. Và tất cả đều có ý nghĩa, giống như cách tiếng Nhật luôn làm nếu bạn biết nó thực sự đang làm gì.
 
 ## <code>Tiếp nhận/Bị động phiền toái</code>/迷惑受け身
 
@@ -145,7 +145,7 @@ Tiếp nhận bình thường.
 ![](../media/image257.webp)
 
 ::: warning
-Chú ý が trước động từ được đánh dấu tiếp nhận thay vì đối tượng trực tiếp を. Tôi khuyên đọc [**CHUỖI NÀY**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgwSvcxzsfJfg2FlFaB4AaABAg) về tại sao có が thay vì を nếu bạn không chắc chắn. Actor nên có nghĩa là Subject đối với Dolly nhưng ngay cả điều đó chỉ là phỏng đoán của tôi dựa trên khi cô ấy sử dụng nó vì cô ấy dường như không giải thích ý nghĩa thực sự của Actor đối với cô ấy, [**trong một chuỗi bình luận dưới video này**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgyjLIrKQJJ0zfRCXId4AaABAg.8wnXb0KQGCY8wtxK5KucCT&ab_channel=OrganicJapanesewithCureDolly) cô ấy thậm chí còn gọi に Tiếp nhận là <code>tác nhân thứ cấp</code> (gần giống với Actor ngôn ngữ học thực tế...hoặc Macrorole của Agent ở đó) điều này không giúp ích gì.
+Chú ý が trước động từ được đánh dấu tiếp nhận thay vì đối tượng trực tiếp を. Tôi khuyên đọc [**CHUỖI NÀY**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgwSvcxzsfJfg2FlFaB4AaABAg) về tại sao có が thay vì を nếu bạn không chắc chắn. Chủ thể nên có nghĩa là Subject đối với Dolly nhưng ngay cả điều đó chỉ là phỏng đoán của tôi dựa trên khi cô ấy sử dụng nó vì cô ấy dường như không giải thích ý nghĩa thực sự của chủ thể đối với cô ấy, [**trong một chuỗi bình luận dưới video này**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgyjLIrKQJJ0zfRCXId4AaABAg.8wnXb0KQGCY8wtxK5KucCT&ab_channel=OrganicJapanesewithCureDolly) cô ấy thậm chí còn gọi に Tiếp nhận là <code>chủ thể thứ cấp</code> (gần giống với chủ thể ngôn ngữ học thực tế...hoặc Macrorole của Agent ở đó) điều này không giúp ích gì.
 :::
 
 ::: details Ghi chú <code>Giải thích</code> RẤT tùy chọn & ví dụ về việc lan man mãn tính của tôi (hoặc bất cứ gì lol)
@@ -166,9 +166,9 @@ Lưu ý rằng Cú pháp / Cú pháp và Ngữ nghĩa / Ngữ nghĩa là hai lĩ
 Đó là vì đây là Bị động/Tiếp nhận, かばん có chức năng CÚ PHÁP của CHỦ NGỮ (do đó được đánh dấu が) NHƯNG nó có cùng chức năng NGỮ NGHĨA của PATIENT - nó nhận hành động của (động từ) ăn cắp/bị ăn cắp bởi ai đó. Trong giọng Chủ động かばん có chức năng CÚ PHÁP của ĐỐI TƯỢNG TRỰC TIẾP nhưng vẫn sẽ có chức năng NGỮ NGHĨA của PATIENT.
 
 Do đó, nếu chúng ta có かばん được đánh dấu bằng を (Đối tượng Trực tiếp - chức năng Cú pháp), nó sẽ phải ở giọng Chủ động (vì trong Bị động, chúng ta có xu hướng đặt Đối tượng Trực tiếp làm Chủ ngữ thay thế) HOẶC, như sẽ được chỉ ra dưới đây, nó sẽ phải ở dạng <code>Tiếp nhận Phiền toái</code> như một Đối tượng thứ cấp được kết nối với một Động từ thứ cấp thêm thông tin <code>mô tả</code> về phần chính.  
-**Thuật ngữ Actor** mà Dolly sử dụng NÊN có nghĩa giống như Agent như đã nói [****ở đây****](https://linguistics.stackexchange.com/questions/20451/what-is-the-difference-between-actor-and-subject-in-systemic-functional-gram) và [****ở đây****](https://english.stackexchange.com/a/569830) từ những gì tôi tìm thấy, nhưng Dolly dường như sử dụng nó ở đây cho Subject, theo cách Actor nên ngụ ý người thực hiện hành động của động từ chính, vậy tôi bối rối Actor có nghĩa gì đối với cô ấy ở đây, nhưng có thể là... trong trường hợp đó, tôi hiểu Dolly có ý gì, mặc dù cô ấy có thể đang hợp nhất các chức năng Cú pháp và Ngữ nghĩa ở đây, nếu không thì tôi hiểu sai những gì cô ấy ngụ ý bằng Actor ở đây, vì cô ấy dường như chỉ nó đến Subject là một thuộc tính CÚ PHÁP, trong khi Actor (hay đúng hơn là Agent) là một thuộc tính NGỮ NGHĨA và trong câu này, trong bình luận cô ấy gọi かばん là <code>actor</code>, かばん nên là Patient, không phải <code>actor</code> vì nó nhận hành động, không thực hiện hành động của động từ chính. Có nghĩa là nếu Actor thực sự giống như Agent.
+**Thuật ngữ Chủ thể** mà Dolly sử dụng NÊN có nghĩa giống như Agent như đã nói [****ở đây****](https://linguistics.stackexchange.com/questions/20451/what-is-the-difference-between-actor-and-subject-in-systemic-functional-gram) và [****ở đây****](https://english.stackexchange.com/a/569830) từ những gì tôi tìm thấy, nhưng Dolly dường như sử dụng nó ở đây cho Subject, theo cách Chủ thể nên ngụ ý người thực hiện hành động của động từ chính, vậy tôi bối rối Chủ thể có nghĩa gì đối với cô ấy ở đây, nhưng có thể là... trong trường hợp đó, tôi hiểu Dolly có ý gì, mặc dù cô ấy có thể đang hợp nhất các chức năng Cú pháp và Ngữ nghĩa ở đây, nếu không thì tôi hiểu sai những gì cô ấy ngụ ý bằng Chủ thể ở đây, vì cô ấy dường như chỉ nó đến Subject là một thuộc tính CÚ PHÁP, trong khi Chủ thể (hay đúng hơn là Agent) là một thuộc tính NGỮ NGHĨA và trong câu này, trong bình luận cô ấy gọi かばん là <code>chủ thể</code>, かばん nên là Patient, không phải <code>chủ thể</code> vì nó nhận hành động, không thực hiện hành động của động từ chính. Có nghĩa là nếu Chủ thể thực sự giống như Agent.
 
-*Thành thật mà nói, thuật ngữ Actor tôi chỉ thấy sử dụng hiếm khi và nó nên ngụ ý chức năng Ngữ nghĩa, NHƯNG nó có thể được sử dụng để chỉ <code>Macrorole Ngữ nghĩa</code> cho Subject trong giọng Chủ động và cụm từ by trong Bị động (trong khi Patient là Đối tượng Trực tiếp trong Chủ động và Subject trong Bị động, có Macrorole được gọi là <code>Undergoer</code>), như được đưa ra [**ở đây**](https://rrg.caset.buffalo.edu/rrg/vanvalin_papers/SemMRsRRG.pdf) trong bài báo của nhà ngôn ngữ học Robert Van Valin...*[1] (trang 1 & 3) và nó chỉ ra mối quan hệ giữa Ngữ nghĩa và Cú pháp. Thường Agent (hoặc các tên phụ của nó) được sử dụng, vậy nó làm tôi rất bối rối, nhưng từ các bài học khác, **Dolly dường như chỉ Subject là Actor đôi khi và sử dụng chúng thay thế cho nhau ngay cả trong Bị động/Tiếp nhận, vậy chỉ cần ghi nhớ rằng bằng Actor cô ấy có ý là Subject** ngay cả khi nó nên chỉ những thứ khác nhau trong Bị động từ những gì tôi CÁCH NHÂN nghiên cứu...  
+*Thành thật mà nói, thuật ngữ Chủ thể tôi chỉ thấy sử dụng hiếm khi và nó nên ngụ ý chức năng Ngữ nghĩa, NHƯNG nó có thể được sử dụng để chỉ <code>Macrorole Ngữ nghĩa</code> cho Subject trong giọng Chủ động và cụm từ by trong Bị động (trong khi Patient là Đối tượng Trực tiếp trong Chủ động và Subject trong Bị động, có Macrorole được gọi là <code>Undergoer</code>), như được đưa ra [**ở đây**](https://rrg.caset.buffalo.edu/rrg/vanvalin_papers/SemMRsRRG.pdf) trong bài báo của nhà ngôn ngữ học Robert Van Valin...*[1] (trang 1 & 3) và nó chỉ ra mối quan hệ giữa Ngữ nghĩa và Cú pháp. Thường Agent (hoặc các tên phụ của nó) được sử dụng, vậy nó làm tôi rất bối rối, nhưng từ các bài học khác, **Dolly dường như chỉ Subject là Chủ thể đôi khi và sử dụng chúng thay thế cho nhau ngay cả trong Bị động/Tiếp nhận, vậy chỉ cần ghi nhớ rằng bằng Chủ thể cô ấy có ý là Subject** ngay cả khi nó nên chỉ những thứ khác nhau trong Bị động từ những gì tôi CÁCH NHÂN nghiên cứu...  
 Hơn nữa điều này dường như cũng là trường hợp trong tiếng Nhật, như [**IMABI**](https://imabi.org/the-passive/) dường như nói trong bài học Bị động, được cấp chỉ sử dụng thuật ngữ Agent, trong Bị động được đánh dấu bằng に / によって.  
 Trong giọng CHỦ ĐỘNG hai chức năng NGỮ NGHĨA này thường được diễn đạt CÚ PHÁP thông qua Subject (Agent) và Direct Object (Patient), nhưng chúng chỉ các lĩnh vực khác nhau.  
 Trong Bị động/Tiếp nhận, Patient thay vào đó chủ yếu được đặt vào vai trò CÚ PHÁP của Subject.  
@@ -188,7 +188,7 @@ Nhưng có một trường hợp đặc biệt của Bị động/Tiếp nhận 
 
 ![](../media/image30.webp)
 
-Vậy chuyện gì đang xảy ra ở đây? **Tác nhân được đánh dấu が bây giờ là Sakura, phải không? Cô ấy là người thực hiện việc nhận.**
+Vậy chuyện gì đang xảy ra ở đây? **Chủ thể được đánh dấu が bây giờ là Sakura, phải không? Cô ấy là người thực hiện việc nhận.**
 
 ::: info
 ![](../media/image368.webp)

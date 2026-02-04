@@ -95,9 +95,9 @@ Vì vậy, chúng ta có thể nói <code>やんちゃないぬがねている</
 Đây là những gì sách giáo khoa gọi là <code>な-tính từ</code>, và đây là một thuật ngữ hơi gây nhầm lẫn, bởi vì, như chúng ta thấy, thực ra đây là danh từ, **nhưng đây là một lớp danh từ nhất định.**
 
 ::: info
-Lưu ý rằng <code>một lớp danh từ nhất định</code>, chúng KHÔNG phải là danh từ đúng nghĩa. Chỉ là một phân lớp. Chúng không thể được sử dụng độc lập, như danh từ đúng nghĩa (ví dụ: làm chủ ngữ). Vì lý do này, chúng có nhiều tên gọi khác nhau — danh từ tính từ, な-tính từ, tính danh từ, tính từ danh nghĩa, v.v...
+Lưu ý rằng <code>một lớp danh từ nhất định</code>, chúng KHÔNG phải là danh từ thực sự. Chỉ là một phân lớp. Chúng không thể được sử dụng độc lập như danh từ thực sự (ví dụ: làm chủ ngữ). Vì lý do này, chúng có nhiều tên gọi khác nhau — Danh từ tính từ, な-tính từ, Tính từ danh nghĩa, v.v...
 
-Chỉ là chúng chủ yếu giống dạng với danh từ đúng nghĩa, và nhận hệ từ như chúng, vì vậy chúng có thể được coi là (và có lẽ là) một lớp danh từ, nhưng không phải danh từ đúng nghĩa.
+Chỉ là chúng chủ yếu giống dạng với danh từ thực sự và nhận hệ từ như chúng, vì vậy chúng có thể được coi là (và có lẽ là) một lớp danh từ, nhưng không phải danh từ thực sự.
 :::
 
 ---
@@ -165,5 +165,5 @@ Tại sao không? Hãy nhìn vào điều này một cách logic. Nếu bạn ng
 Đối với tôi, tiếng Nhật không phải là một trò chơi học thông tin trừu tượng mà không có lý do cụ thể. Đây là một ngôn ngữ mà phần lớn chúng ta có thể học một cách tự nhiên, và việc hiểu cấu trúc thực sự của nó giúp chúng ta rất nhiều trong việc đó.
 
 ::: info
-Nếu điều này quá nhiều để tiếp thu, tôi luôn khuyên bạn nên xem các bình luận dưới [video](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12). Và, rõ ràng, đọc lại và tiếp thu từng phần nhỏ. Bạn làm được mà!
+Nếu điều này quá nhiều để tiếp thu, tôi luôn khuyên bạn nên xem các bình luận dưới [video](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12). Và, rõ ràng, đọc lại và tiếp thu từng phần nhỏ. Bạn làm được mà! ＼(⌒▽⌒)
 :::

@@ -48,7 +48,7 @@ Trong câu cụ thể này, ý nghĩa của 「そのとき」 là ngay vào lú
 
 そのとき、白いウサギがとおりすぎた。
 
-白い có nghĩa là `trắng`; đó là một い-adjective. ウサギ có nghĩa là `thỏ`. Và 「とおりすぎた」được tạo thành từ hai từ, và nó đang làm điều mà chúng ta sẽ thấy lặp đi lặp lại trong tiếng Nhật. **Nó đang sử dụng い-stem của một động từ để gắn một động từ khác để tạo thêm ý nghĩa.** Vậy とおる có nghĩa là `đi qua` và すぎる có nghĩa là `vượt quá hoặc đi xa hơn`. Vậy とおりすぎる kết nối hai từ đó lại với nhau: とおる (đi qua); すぎる (đi xa hơn) và nó có nghĩa là `đi ngang qua`. Một con thỏ trắng đi ngang qua. 
+白い có nghĩa là `trắng`; đó là một tính từ đuôi い. ウサギ có nghĩa là `thỏ`. Và 「とおりすぎた」được tạo thành từ hai từ, và nó đang làm điều mà chúng ta sẽ thấy lặp đi lặp lại trong tiếng Nhật. **Nó đang sử dụng thân い của một động từ để gắn một động từ khác để tạo thêm ý nghĩa.** Vậy とおる có nghĩa là `đi qua` và すぎる có nghĩa là `vượt quá hoặc đi xa hơn`. Vậy とおりすぎる kết nối hai từ đó lại với nhau: とおる (đi qua); すぎる (đi xa hơn) và nó có nghĩa là `đi ngang qua`. Một con thỏ trắng đi ngang qua. 
 
 ![](../media/image46.webp)
 
@@ -62,15 +62,15 @@ Trong câu cụ thể này, ý nghĩa của 「そのとき」 là ngay vào lú
 
 > ふつうのウサギではなくて…
 
-Bây giờ, ふつう có nghĩa là `bình thường`, và phần còn lại bạn đã biết rồi. **ではない có nghĩa là `nó không phải / nó đã không phải` và chúng ta đang đặt vào て-form vì đây là một phần của câu phức** – và chúng ta đã xem xét câu phức tuần trước, phải không? 
+Bây giờ, ふつう có nghĩa là `bình thường`, và phần còn lại bạn đã biết rồi. **ではない có nghĩa là `nó không phải / nó đã không phải` và chúng ta đang đặt vào thể て vì đây là một phần của câu phức** – và chúng ta đã xem xét câu phức tuần trước, phải không? 
 
-*(Bài 11, Dolly đưa ra 7, nhưng có thể là lỗi vì て-form không có ở đó… nhưng cũng kiểm tra 5)*
+*(Bài 11, Dolly đưa ra 7, nhưng có thể là lỗi vì thể て không có ở đó… nhưng cũng kiểm tra 5)*
 
 Vậy, 「ふつうのウサギではなくて」= `Nó không phải là một con thỏ bình thường.`
 
 > …チョッキをきているウサギだった。
 
-チョッキ có nghĩa là áo vest; きる có nghĩa là `mặc`, vậy 「きている」 có nghĩa là `đang mặc / đang trong hành động mặc`. **Và `だった`, tất nhiên, là thì quá khứ của copula.** 
+チョッキ có nghĩa là áo vest; きる có nghĩa là `mặc`, vậy 「きている」 có nghĩa là `đang mặc / đang trong hành động mặc`. **Và `だった`, tất nhiên, là thì quá khứ của hệ từ.** 
 
 ![](../media/image857.webp)
 
@@ -84,7 +84,7 @@ Vậy đây là: `Nó không phải là một con thỏ bình thường, nó là
 
 かいちゅうどけい không phải là một từ chúng ta sẽ gặp thường xuyên vì ngày nay không có nhiều cái như vậy, nhưng nó là một ví dụ về điều chúng ta sẽ thấy rất nhiều, đó là trong tiếng Nhật, như bạn biết, **chúng ta có thể bổ nghĩa cho một danh từ bằng một danh từ khác bằng cách đánh dấu từ đầu tiên với の** (hoặc な, là một dạng của だ) **nhưng chúng ta cũng có thể, khi chúng ta không chỉ bổ nghĩa một danh từ với một danh từ khác mà tạo thành một danh từ mới, chúng ta có thể đơn giản ghép chúng lại với nhau.** 
 
-**Chúng ta không cần phải bổ nghĩa chúng theo bất kỳ cách nào, như cách chúng ta làm với động từ** (chúng ta biến chúng thành い-stem), **nhưng bạn không thể làm điều đó với danh từ, danh từ không có stem nào, chúng không bổ nghĩa theo bất kỳ cách nào – vậy, khi bạn ghép hai danh từ lại với nhau để tạo thành một danh từ mới, bạn chỉ cần đẩy chúng vào nhau. Điều này giống như những gì chúng ta làm trong tiếng Anh, với các từ như seaweed hoặc bookshelf. Chúng ta chỉ đẩy hai danh từ lại với nhau để tạo thành một danh từ mới.**
+**Chúng ta không cần phải bổ nghĩa chúng theo bất kỳ cách nào, như cách chúng ta làm với động từ** (chúng ta biến chúng thành thân い), **nhưng bạn không thể làm điều đó với danh từ, danh từ không có thân nào, chúng không bổ nghĩa theo bất kỳ cách nào – vậy, khi bạn ghép hai danh từ lại với nhau để tạo thành một danh từ mới, bạn chỉ cần đẩy chúng vào nhau. Điều này giống như những gì chúng ta làm trong tiếng Anh, với các từ như seaweed hoặc bookshelf. Chúng ta chỉ đẩy hai danh từ lại với nhau để tạo thành một danh từ mới.**
 
 ---
 
@@ -120,7 +120,7 @@ Bây giờ, chúng ta sẽ xem xét と thực sự làm gì, và khi chúng ta 
 
 ---
 
-Vậy một toa と là một toa danh từ trắng được đánh dấu bằng と. Và chúng ta sẽ thấy khi tiếp tục rằng **điều này được sử dụng không chỉ để đánh dấu những thứ mọi người nói và những thứ mọi người nghĩ, mà còn tất cả các loại thứ khác.** Và chúng ta sẽ có một ví dụ về điều đó một chút sau trong bài học này. **Nhưng cấu trúc と này về cơ bản đang tạo ra một quasi-noun từ bất cứ thứ gì được đánh dấu bằng と, và と sau đó làm cho nó hoạt động như một modifier cho động từ theo sau.**
+Vậy một toa と là một toa danh từ trắng được đánh dấu bằng と. Và chúng ta sẽ thấy khi tiếp tục rằng **điều này được sử dụng không chỉ để đánh dấu những thứ mọi người nói và những thứ mọi người nghĩ, mà còn tất cả các loại thứ khác.** Và chúng ta sẽ có một ví dụ về điều đó một chút sau trong bài học này. **Nhưng cấu trúc と này về cơ bản đang tạo ra một quasi-noun từ bất cứ thứ gì được đánh dấu bằng と, và と sau đó làm cho nó hoạt động như một bổ ngữ cho động từ theo sau.**
 
 ![](../media/image322.webp)
 
@@ -128,7 +128,7 @@ Khi đó là một trích dẫn đơn giản như vậy, động từ sẽ là �
 
 『「おそい！おそい！」と言って、はしり出した。』
 
-おそい có nghĩa là `muộn`. **Và để tạo thành một câu, rõ ràng chúng ta phải có một zero-pronoun ở đây.** Vậy con thỏ đang nói `Muộn rồi!` hoặc `Tôi muộn rồi!`
+おそい có nghĩa là `muộn`. **Và để tạo thành một câu, rõ ràng chúng ta phải có một đại từ không ở đây.** Vậy con thỏ đang nói `Muộn rồi!` hoặc `Tôi muộn rồi!`
 
 ![](../media/image56.webp)
 
@@ -158,11 +158,11 @@ Con thỏ nhìn đồng hồ, nó nói 「おそい！おそい！」, và sau �
 
 > はしり出した。
 
-はしる có nghĩa là `chạy` và 出す theo nghĩa đen có nghĩa là `lấy ra`, nhưng đây là một sự kết hợp chúng ta sẽ thấy rất thường xuyên trong tiếng Nhật. Một lần nữa, chúng ta đang sử dụng い-stem đó, là stem kết nối chính, để kết nối はしる với 出す. Và nó có nghĩa gì ở đây?
+はしる có nghĩa là `chạy` và 出す theo nghĩa đen có nghĩa là `lấy ra`, nhưng đây là một sự kết hợp chúng ta sẽ thấy rất thường xuyên trong tiếng Nhật. Một lần nữa, chúng ta đang sử dụng thân い đó, là thân kết nối chính, để kết nối はしる với 出す. Và nó có nghĩa gì ở đây?
 
 ![](../media/image480.webp)
 
-Chà, **出す đó khi được kết nối với một động từ có nghĩa là hành động của động từ `bùng phát`.** Vậy chúng ta có thể nói rằng ai đó 泣き出した: 泣く/なく là `khóc`, và chúng ta kết nối い stem của 泣く với 出す, và 泣き出す có nghĩa là `bùng khóc`. Chúng ta có thể nói 笑い出す: 笑う là `cười` và nếu chúng ta kết nối い-stem của 笑う với 出す, chúng ta đang nói `bùng cười`. Và trong trường hợp này điều gì đã xảy ra? Con thỏ đột nhiên bùng chạy – nó bắt đầu chạy.
+Chà, **出す đó khi được kết nối với một động từ có nghĩa là hành động của động từ `bùng phát`.** Vậy chúng ta có thể nói rằng ai đó 泣き出した: 泣く/なく là `khóc`, và chúng ta kết nối thân い của 泣く với 出す, và 泣き出す có nghĩa là `bùng khóc`. Chúng ta có thể nói 笑い出す: 笑う là `cười` và nếu chúng ta kết nối thân い của 笑う với 出す, chúng ta đang nói `bùng cười`. Và trong trường hợp này điều gì đã xảy ra? Con thỏ đột nhiên bùng chạy – nó bắt đầu chạy.
 
 ウサギはかいちゅうどけいを見て「おそい！おそい！」と言って、はしり出した。
 
@@ -176,19 +176,19 @@ Chà, **出す đó khi được kết nối với một động từ có nghĩa
 
 「ちょっとまってください」là một cụm từ bạn sẽ nghe rất nhiều trong tiếng Nhật. Đôi khi ください sẽ bị bỏ đi. Nó có nghĩa gì? 
 
-ちょっと có nghĩa là `một chút`; まって là て-form của `待つ/まつ`, có nghĩa là `đợi`; và ください có nghĩa là `xin hãy`. Nó thực sự được kết nối với くれる, mà chúng ta đã nói về lần trước *(bài 11)*; cũng đề cập đến việc cho xuống – đó là `xin hãy cho xuống cho tôi / xin hãy hạ xuống mức độ của tôi`, vậy đó là cách lịch sự để nói `xin hãy cho`. Nhưng nó không chỉ cho một thứ, giống như với くれる và あげる, nó không chỉ cho một thứ, **nó cũng có thể, nếu bạn kết nối nó với て-form của một động từ, cho hành động của động từ đó.** Vậy bạn có thể thấy nó rất liên quan đến くれる và あげる mà chúng ta đã học tuần trước.
+ちょっと có nghĩa là `một chút`; まって là thể て của `待つ/まつ`, có nghĩa là `đợi`; và ください có nghĩa là `xin hãy`. Nó thực sự được kết nối với くれる, mà chúng ta đã nói về lần trước *(bài 11)*; cũng đề cập đến việc cho xuống – đó là `xin hãy cho xuống cho tôi / xin hãy hạ xuống mức độ của tôi`, vậy đó là cách lịch sự để nói `xin hãy cho`. Nhưng nó không chỉ cho một thứ, giống như với くれる và あげる, nó không chỉ cho một thứ, **nó cũng có thể, nếu bạn kết nối nó với thể て của một động từ, cho hành động của động từ đó.** Vậy bạn có thể thấy nó rất liên quan đến くれる và あげる mà chúng ta đã học tuần trước.
 
 > ちょっとまってください
 
-Bây giờ, vì điều này rất phổ biến, rất thường khi chúng ta đặt một động từ vào て-form và hướng nó đến ai đó, nó giống như viết tắt của てください. 「ちょっとまってください」có nghĩa là `Xin hãy đợi một chút`. Vậy cô ấy đang yêu cầu con thỏ dừng lại; cô ấy muốn gặp con thỏ.
+Bây giờ, vì điều này rất phổ biến, rất thường khi chúng ta đặt một động từ vào thể て và hướng nó đến ai đó, nó giống như viết tắt của てください. 「ちょっとまってください」có nghĩa là `Xin hãy đợi một chút`. Vậy cô ấy đang yêu cầu con thỏ dừng lại; cô ấy muốn gặp con thỏ.
 
 「ちょっとまってください」とアリスはよんだ。
 
-Vậy chúng ta có trợ từ と đó một lần nữa, trợ từ trích dẫn, mà chúng ta cần khi trích dẫn bất cứ thứ gì, và sau đó よんだ. 「よんだ」: điều đó có nghĩa gì? Chà, chúng ta đã gặp よんだ trước đây rồi tôi nghĩ, phải không? Và nó có nghĩa là `đọc`, `đọc` trong quá khứ. Đó là た form —dạng だ trong trường hợp này—của 読む. **Nhưng trong trường hợp này nó khác. Đó là dạng だ của 呼ぶ.**
+Vậy chúng ta có trợ từ と đó một lần nữa, trợ từ trích dẫn, mà chúng ta cần khi trích dẫn bất cứ thứ gì, và sau đó よんだ. 「よんだ」: điều đó có nghĩa gì? Chà, chúng ta đã gặp よんだ trước đây rồi tôi nghĩ, phải không? Và nó có nghĩa là `đọc`, `đọc` trong quá khứ. Đó là thể た —dạng だ trong trường hợp này—của 読む. **Nhưng trong trường hợp này nó khác. Đó là dạng だ của 呼ぶ.**
 
 ![](../media/image801.webp)
 
-Nếu bạn nhớ từ bài học て và た form của chúng ta<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>, nhóm New Boom của động từ, động từ kết thúc bằng ぬ, ぶ, và む, tất cả đều tạo thành て form với んで và た form với んだ. **Vậy cả 読む và 呼ぶ đều có dạng quá khứ よんだ.** May mắn thay, chúng ta không thường xuyên có khả năng nhầm lẫn giữa đọc và gọi, phải không? 呼ぶ này có nghĩa là `gọi`, `hét lên`. Nó có thể có nghĩa là `gọi` trong bất kỳ nghĩa nào mà `gọi` được sử dụng trong tiếng Anh. Bạn có thể gọi ai đó bằng một cái tên, bạn có thể gọi một quả táo là một quả chanh (nhưng bạn sẽ sai) hoặc bạn có thể hét lên.
+Nếu bạn nhớ từ bài học thể て và た của chúng ta<sup>[[5]](./5-verb-groups-and-the-て-form.md)</sup>, nhóm New Boom của động từ, động từ kết thúc bằng ぬ, ぶ, và む, tất cả đều tạo thành thể て với んで và thể た với んだ. **Vậy cả 読む và 呼ぶ đều có dạng quá khứ よんだ.** May mắn thay, chúng ta không thường xuyên có khả năng nhầm lẫn giữa đọc và gọi, phải không? 呼ぶ này có nghĩa là `gọi`, `hét lên`. Nó có thể có nghĩa là `gọi` trong bất kỳ nghĩa nào mà `gọi` được sử dụng trong tiếng Anh. Bạn có thể gọi ai đó bằng một cái tên, bạn có thể gọi một quả táo là một quả chanh (nhưng bạn sẽ sai) hoặc bạn có thể hét lên.
 
 「ちょっとまってください」とアリスはよんだ。
 
@@ -202,7 +202,7 @@ Nếu bạn nhớ từ bài học て và た form của chúng ta<sup>[[5]](./5
 Nếu bạn muốn gõ 続ける/つづける, bạn phải gõ tsuDUkeru. Dzu cho `ｄず`.
 :::
 
-でも có nghĩa là `nhưng`. はしる có nghĩa là `chạy`. Và chúng ta sẽ bỏ qua ピョンピョン một lúc ở đây. つづける có nghĩa là `tiếp tục`. Vậy một lần nữa chúng ta có dạng lấy い-stem của một động từ, はしる trở thành はしり và sau đó chúng ta thêm vào đó động từ つづける (tiếp tục). Vậy 「ウサギははしりつづけた」có nghĩa là `Con thỏ tiếp tục chạy`. 
+でも có nghĩa là `nhưng`. はしる có nghĩa là `chạy`. Và chúng ta sẽ bỏ qua ピョンピョン một lúc ở đây. つづける có nghĩa là `tiếp tục`. Vậy một lần nữa chúng ta có dạng lấy thân い của một động từ, はしる trở thành はしり và sau đó chúng ta thêm vào đó động từ つづける (tiếp tục). Vậy 「ウサギははしりつづけた」có nghĩa là `Con thỏ tiếp tục chạy`. 
 
 ---
 
