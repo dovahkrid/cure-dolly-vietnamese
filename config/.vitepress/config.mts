@@ -15,9 +15,9 @@ export default defineConfig({
       label: 'English',
       lang: 'en',
     },
-    ru: {
-      label: 'Russian',
-      lang: 'ru',
+    vi: {
+      label: 'Tiếng Việt',
+      lang: 'vi',
     }
   },
 

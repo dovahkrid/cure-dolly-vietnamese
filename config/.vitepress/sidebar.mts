@@ -1,5 +1,5 @@
-// Этот файл генерируется автоматически. Не редактируйте его вручную.
-// Запустите "npm run generate:sidebar" для обновления.
+// Tệp này được tạo tự động. Không chỉnh sửa thủ công.
+// Chạy "npm run generate:sidebar" để cập nhật.
 
 import type { DefaultTheme } from 'vitepress';
 
@@ -446,443 +446,443 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       ]
     }
   ],
-  "/ru/": [
+  "/vi/": [
     {
-      "text": "О сайте",
+      "text": "Giới thiệu",
       "collapsed": false,
       "items": [
         {
-          "text": "Вступление",
-          "link": "/ru/about"
+          "text": "Lời mở đầu",
+          "link": "/vi/about"
         },
         {
-          "text": "От nunko/dinuz",
-          "link": "/ru/original"
+          "text": "Tác giả nunko/dinuz",
+          "link": "/vi/original"
         }
       ]
     },
     {
-      "text": "Основы грамматики и структура предложения",
+      "text": "Cấu trúc câu cơ bản và Ngữ pháp nền tảng",
       "collapsed": false,
       "items": [
         {
-          "text": "1. Основные типы предложений",
-          "link": "/ru/1-the-basic-types-of-sentences"
+          "text": "1. Các loại câu cơ bản",
+          "link": "/vi/1-the-basic-types-of-sentences"
         },
         {
-          "text": "2. Невидимый вагон и частица を",
-          "link": "/ru/2-the-invisible-carriage-and-the-を-particle"
+          "text": "2. Toa tàu vô hình và trợ từ を",
+          "link": "/vi/2-the-invisible-carriage-and-the-を-particle"
         },
         {
-          "text": "3. Частица は",
-          "link": "/ru/3-the-は-particle"
+          "text": "3. Trợ từ は",
+          "link": "/vi/3-the-は-particle"
         },
         {
-          "text": "4. Японские глагольные времена",
-          "link": "/ru/4-japanese-verb-tenses"
+          "text": "4. Thì động từ trong tiếng Nhật",
+          "link": "/vi/4-japanese-verb-tenses"
         },
         {
-          "text": "5. Группы глаголов и て-форма",
-          "link": "/ru/5-verb-groups-and-the-て-form"
+          "text": "5. Nhóm động từ và thể て",
+          "link": "/vi/5-verb-groups-and-the-て-form"
         },
         {
-          "text": "6. Прилагательные",
-          "link": "/ru/6-adjectives"
+          "text": "6. Tính từ",
+          "link": "/vi/6-adjectives"
         },
         {
-          "text": "7. Отрицательные формы и прилагательные в прошедшем времени",
-          "link": "/ru/7-negative-forms-and-adjectives-in-past-tense"
+          "text": "7. Thể phủ định và tính từ ở thì quá khứ",
+          "link": "/vi/7-negative-forms-and-adjectives-in-past-tense"
         },
         {
-          "text": "7.5. Спряжение",
-          "link": "/ru/7-5-conjugation"
+          "text": "7.5. Chia động từ",
+          "link": "/vi/7-5-conjugation"
         },
         {
-          "text": "8. Частицы に и へ",
-          "link": "/ru/8-the-に-and-へ-particles"
+          "text": "8. Trợ từ に và へ",
+          "link": "/vi/8-the-に-and-へ-particles"
         },
         {
-          "text": "8b. Объяснение частиц.",
-          "link": "/ru/8b-particles-explained"
+          "text": "8b. Giải thích về trợ từ",
+          "link": "/vi/8b-particles-explained"
         },
         {
-          "text": "9. Подлежащее японского предложения и выражение желания: ほしい, たい, たがる",
-          "link": "/ru/9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる"
+          "text": "9. Chủ ngữ trong câu tiếng Nhật và cách diễn đạt mong muốn: ほしい, たい, たがる",
+          "link": "/vi/9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる"
         },
         {
-          "text": "10. Вспомогательные глаголы и потенциальный вспомогательный глагол",
-          "link": "/ru/10-helper-verbs-the-potential-helper-verb"
+          "text": "10. Trợ động từ và trợ động từ khả năng",
+          "link": "/vi/10-helper-verbs-the-potential-helper-verb"
         },
         {
-          "text": "11. Сложные предложения, くれる, あげる и другие применения て-формы",
-          "link": "/ru/11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form"
+          "text": "11. Câu ghép, くれる, あげる và các cách dùng khác của thể て",
+          "link": "/vi/11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form"
         },
         {
-          "text": "12. Частица цитирования と, составные глаголы и существительные",
-          "link": "/ru/12-quotation-particle-と-compound-verbs-nouns"
+          "text": "12. Trợ từ trích dẫn と, động từ ghép và danh từ ghép",
+          "link": "/vi/12-quotation-particle-と-compound-verbs-nouns"
         },
         {
-          "text": "13. Пассивное спряжение / Вспомогательный глагол получения",
-          "link": "/ru/13-passive-conjugation-receptive-helper-verb"
+          "text": "13. Chia bị động / Trợ động từ tiếp nhận",
+          "link": "/vi/13-passive-conjugation-receptive-helper-verb"
         },
         {
-          "text": "14. Наречия и частица も",
-          "link": "/ru/14-adverbs-and-the-も-particle"
+          "text": "14. Trạng từ và trợ từ も",
+          "link": "/vi/14-adverbs-and-the-も-particle"
         },
         {
-          "text": "15. Переходные и непереходные глаголы",
-          "link": "/ru/15-transitive-intransitive-verbs"
+          "text": "15. Động từ ngoại động và nội động",
+          "link": "/vi/15-transitive-intransitive-verbs"
         },
         {
-          "text": "16. てみる, частица や, частица から, эксклюзивное и",
-          "link": "/ru/16-てみる-や-particle-から-particle-exclusive-and"
+          "text": "16. てみる, trợ từ や, trợ từ から, liên từ loại trừ",
+          "link": "/vi/16-てみる-や-particle-から-particle-exclusive-and"
         },
         {
-          "text": "17. Вежливый японский и волитив",
-          "link": "/ru/17-polite-japanese-and-the-volitional"
+          "text": "17. Tiếng Nhật lịch sự và thể ý chí",
+          "link": "/vi/17-polite-japanese-and-the-volitional"
         },
         {
-          "text": "18. って = は?? Загадки разгаданы! -おうとする, とする, として, という, っていう",
-          "link": "/ru/18-って-は-mysteries-explained-おうとする-とする-として-という-っていう"
+          "text": "18. って = は?? Giải mã bí ẩn! -おうとする, とする, として, という, っていう",
+          "link": "/vi/18-って-は-mysteries-explained-おうとする-とする-として-という-っていう"
         },
         {
-          "text": "19. Каузатив + каузативный рецептив",
-          "link": "/ru/19-causative-causative-receptive"
+          "text": "19. Thể sai khiến + thể sai khiến tiếp nhận",
+          "link": "/vi/19-causative-causative-receptive"
         },
         {
-          "text": "20. Указательные слова: それ・その・そんな・そう и т.д.",
-          "link": "/ru/20-directionals-それ-その-そんな-そう-etc"
+          "text": "20. Từ chỉ định: それ・その・そんな・そう v.v.",
+          "link": "/vi/20-directionals-それ-その-そんな-そう-etc"
         }]
     },
     {
-      "text": "Продвинутая грамматика",
+      "text": "Ngữ pháp nâng cao và Biểu đạt",
       "collapsed": false,
       "items": [
         {
           "text": "21. てある/ている & ておく",
-          "link": "/ru/21-てある-ている-ておく"
+          "link": "/vi/21-てある-ている-ておく"
         },
         {
           "text": "22. ては & ても",
-          "link": "/ru/22-ては-ても"
+          "link": "/vi/22-ては-ても"
         },
         {
           "text": "23. だって + だから & それから",
-          "link": "/ru/23-だって-だから-それから"
+          "link": "/vi/23-だって-だから-それから"
         },
         {
-          "text": "24. Слухи и догадки — そう・そうだ・そうです",
-          "link": "/ru/24-hearsay-guesses-そう-そうだ-そうです"
+          "text": "24. Tin đồn và suy đoán — そう・そうだ・そうです",
+          "link": "/vi/24-hearsay-guesses-そう-そうだ-そうです"
         },
         {
           "text": "25. らしい vs そうだ / そうです + っぽい (ppoi)",
-          "link": "/ru/25-らしい-vs-そうだ-そうです-っぽい-ppoi"
+          "link": "/vi/25-らしい-vs-そうだ-そうです-っぽい-ppoi"
         },
         {
-          "text": "26. Сравнения: ようだ・のように・のような ・みたい",
-          "link": "/ru/26-similes-ようだ-のように-のような-みたい"
+          "text": "26. So sánh: ようだ・のように・のような ・みたい",
+          "link": "/vi/26-similes-ようだ-のように-のような-みたい"
         },
         {
           "text": "27. ばかり",
-          "link": "/ru/27-ばかり"
+          "link": "/vi/27-ばかり"
         },
         {
-          "text": "28. ように — один ключ ко всем основным применениям",
-          "link": "/ru/28-ように-one-key-to-all-the-main-uses"
+          "text": "28. ように — chìa khóa cho mọi cách dùng chính",
+          "link": "/vi/28-ように-one-key-to-all-the-main-uses"
         },
         {
           "text": "29. ことにする & ことになる",
-          "link": "/ru/29-ことにする-ことになる"
+          "link": "/vi/29-ことにする-ことになる"
         },
         {
-          "text": "30. Японские условные конструкции: と",
-          "link": "/ru/30-japanese-conditionals-と"
+          "text": "30. Câu điều kiện tiếng Nhật: と",
+          "link": "/vi/30-japanese-conditionals-と"
         },
         {
-          "text": "31. Условная конструкция ば / れば",
-          "link": "/ru/31-the-ば-れば-conditional"
+          "text": "31. Câu điều kiện ば / れば",
+          "link": "/vi/31-the-ば-れば-conditional"
         },
         {
-          "text": "32. Условные конструкции たら, なら",
-          "link": "/ru/32-the-たら-なら-conditionals"
+          "text": "32. Câu điều kiện たら, なら",
+          "link": "/vi/32-the-たら-なら-conditionals"
         },
         {
-          "text": "33. Ограничительные слова: だけ, しか, ばかり, のみ",
-          "link": "/ru/33-limiting-terms-だけ-しか-ばかり-のみ"
+          "text": "33. Từ giới hạn: だけ, しか, ばかり, のみ",
+          "link": "/vi/33-limiting-terms-だけ-しか-ばかり-のみ"
         },
         {
-          "text": "34. Поймите любое предложение",
-          "link": "/ru/34-understand-any-sentence"
+          "text": "34. Hiểu bất kỳ câu nào",
+          "link": "/vi/34-understand-any-sentence"
         },
         {
           "text": "35. より, のほう, 一方",
-          "link": "/ru/35-より-のほう-一方"
+          "link": "/vi/35-より-のほう-一方"
         },
         {
-          "text": "36. 所 — концепция места",
-          "link": "/ru/36-所-the-concept-of-place"
+          "text": "36. 所 — khái niệm về địa điểm",
+          "link": "/vi/36-所-the-concept-of-place"
         },
         {
-          "text": "37. Новые секреты структуры + な vs の, なる & たる прилагательные",
-          "link": "/ru/37-new-structure-secrets-な-vs-の-なる-たる-adjectives"
+          "text": "37. Bí mật cấu trúc mới + な vs の, tính từ なる & たる",
+          "link": "/vi/37-new-structure-secrets-な-vs-の-なる-たる-adjectives"
         },
         {
-          "text": "38. Когда это не означает это: тайны じゃない janai, ではない de wa nai",
-          "link": "/ru/38-when-it-isn-t-means-it-is-じゃない-ではない"
+          "text": "38. Khi phủ định lại có nghĩa khẳng định: bí ẩn của じゃない, ではない",
+          "link": "/vi/38-when-it-isn-t-means-it-is-じゃない-ではない"
         },
         {
-          "text": "39. Частица か: «Скрытые вопросы», かな, もんか, かどうか...",
-          "link": "/ru/39-the-か-particle-buried-questions-かな-もんか-かどうか"
+          "text": "39. Trợ từ か: Câu hỏi ẩn, かな, もんか, かどうか...",
+          "link": "/vi/39-the-か-particle-buried-questions-かな-もんか-かどうか"
         },
         {
-          "text": "40. 3 подводных камня в японском языке и как их избежать",
-          "link": "/ru/40-3-pitfalls-in-japanese-and-how-to-avoid-them"
+          "text": "40. 3 cạm bẫy trong tiếng Nhật và cách tránh",
+          "link": "/vi/40-3-pitfalls-in-japanese-and-how-to-avoid-them"
         }
       ]
     },
     {
-      "text": "Стратегии изучения и анализ предложений",
+      "text": "Chiến lược học ngôn ngữ và Phân tích câu",
       "collapsed": false,
       "items": [
         {
-          "text": "41. 5 ключевых фактов о базовой структуре японского языка",
-          "link": "/ru/41-5-key-facts-about-the-basic-structure-of-japanese"
+          "text": "41. 5 sự thật quan trọng về cấu trúc cơ bản của tiếng Nhật",
+          "link": "/vi/41-5-key-facts-about-the-basic-structure-of-japanese"
         },
         {
-          "text": "42. Базовая путаница со словами | まま",
-          "link": "/ru/42-basic-word-confusion-まま"
+          "text": "42. Nhầm lẫn từ cơ bản | まま",
+          "link": "/vi/42-basic-word-confusion-まま"
         },
         {
-          "text": "43. СМЕНА ПАРАДИГМЫ: Прорубитесь сквозь путаницу",
-          "link": "/ru/43-paradigm-shift-cut-through-the-confusion"
+          "text": "43. THAY ĐỔI TƯ DUY: Xuyên qua sự nhầm lẫn",
+          "link": "/vi/43-paradigm-shift-cut-through-the-confusion"
         },
         {
-          "text": "44. Как использовать естественный японский: ちゃう, ちゃった",
-          "link": "/ru/44-how-to-use-natural-japanese-ちゃう-ちゃった"
+          "text": "44. Cách dùng tiếng Nhật tự nhiên: ちゃう, ちゃった",
+          "link": "/vi/44-how-to-use-natural-japanese-ちゃう-ちゃった"
         },
         {
-          "text": "45. Руководство по первому шагу в технику самостоятельного погружения",
-          "link": "/ru/45-first-step-guide-into-self-immersion-technique"
+          "text": "45. Hướng dẫn bước đầu về kỹ thuật tự học qua ngâm mình",
+          "link": "/vi/45-first-step-guide-into-self-immersion-technique"
         },
         {
-          "text": "46. Порядок слов ИМЕЕТ ЗНАЧЕНИЕ 2 Простых правила для разбора сложных предложений",
-          "link": "/ru/46-word-order-matters-2-simple-rules-to-crack-tough-sentences"
+          "text": "46. Thứ tự từ QUAN TRỌNG - 2 quy tắc đơn giản để phân tích câu khó",
+          "link": "/vi/46-word-order-matters-2-simple-rules-to-crack-tough-sentences"
         },
         {
-          "text": "47. Как понять японский: Ваше секретное оружие для разбора предложений",
-          "link": "/ru/47-how-to-understand-japanese-your-secret-weapon-for-breaking-down-sentences"
+          "text": "47. Cách hiểu tiếng Nhật: Vũ khí bí mật để phân tích câu",
+          "link": "/vi/47-how-to-understand-japanese-your-secret-weapon-for-breaking-down-sentences"
         },
         {
-          "text": "48. Как справляться с двусмысленностью в японском языке",
-          "link": "/ru/48-dealing-with-ambiguity-in-japanese"
+          "text": "48. Xử lý sự mơ hồ trong tiếng Nhật",
+          "link": "/vi/48-dealing-with-ambiguity-in-japanese"
         },
         {
-          "text": "49. Японская точка зрения: больше никакой путаницы! -もらう・てもらう",
-          "link": "/ru/49-japanese-point-of-view-deconfused-もらう-てもらう"
+          "text": "49. Làm rõ quan điểm tiếng Nhật! -もらう・てもらう",
+          "link": "/vi/49-japanese-point-of-view-deconfused-もらう-てもらう"
         },
         {
-          "text": "50. 2 аспекта японского языка, которые иностранцы не могут постичь: させてもらう Последний секрет потенциала",
-          "link": "/ru/50-2-aspects-of-japanese-that-foreigners-can-t-fathom-させてもらう-last-secret-of-the-potential"
+          "text": "50. 2 khía cạnh tiếng Nhật mà người nước ngoài khó hiểu: させてもらう - Bí mật cuối cùng của thể khả năng",
+          "link": "/vi/50-2-aspects-of-japanese-that-foreigners-can-t-fathom-させてもらう-last-secret-of-the-potential"
         },
         {
-          "text": "51. Как читать японскую 怪談 / かいだん (историю о привидениях)",
-          "link": "/ru/51-how-to-read-a-japanese-怪談-かいだん-ghost-story"
+          "text": "51. Cách đọc 怪談 / かいだん (truyện ma) tiếng Nhật",
+          "link": "/vi/51-how-to-read-a-japanese-怪談-かいだん-ghost-story"
         },
         {
-          "text": "52. Глубокий анализ японских предложений в реальном контексте",
-          "link": "/ru/52-in-depth-japanese-sentence-analysis-in-real-native-context"
+          "text": "52. Phân tích sâu câu tiếng Nhật trong ngữ cảnh thực tế",
+          "link": "/vi/52-in-depth-japanese-sentence-analysis-in-real-native-context"
         },
         {
-          "text": "53. Наслаждайтесь японскими ужасами на японском",
-          "link": "/ru/53-enjoy-japanese-horror-in-japanese"
+          "text": "53. Thưởng thức truyện kinh dị Nhật Bản bằng tiếng Nhật",
+          "link": "/vi/53-enjoy-japanese-horror-in-japanese"
         },
         {
-          "text": "54. НЕРЕГУЛЯРНОСТИ и как они работают | 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる",
-          "link": "/ru/54-irregularities-how-they-work-見る-見られる-見れる-見える-聞く-聞ける-聞こえる"
+          "text": "54. BẤT QUY TẮC và cách chúng hoạt động | 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる",
+          "link": "/vi/54-irregularities-how-they-work-見る-見られる-見れる-見える-聞く-聞ける-聞こえる"
         },
         {
-          "text": "55. Секреты частицы で. Почему мы говорим みんなで行く? и 世界で一番?",
-          "link": "/ru/55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番"
+          "text": "55. Bí mật của trợ từ で. Tại sao nói みんなで行く? và 世界で一番?",
+          "link": "/vi/55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番"
         },
         {
-          "text": "56. Гибкость: Глубокие тайны частиц は и の",
-          "link": "/ru/56-agility-deeper-secrets-of-は-and-の-particles"
+          "text": "56. Tính linh hoạt: Bí mật sâu xa của trợ từ は và の",
+          "link": "/vi/56-agility-deeper-secrets-of-は-and-の-particles"
         },
         {
-          "text": "57. 込む (Komu) и секрет многозначных японских слов",
-          "link": "/ru/57-込む-komu-and-the-secret-of-multi-meaning-japanese-words"
+          "text": "57. 込む (Komu) và bí mật của từ đa nghĩa tiếng Nhật",
+          "link": "/vi/57-込む-komu-and-the-secret-of-multi-meaning-japanese-words"
         },
         {
-          "text": "58. Японские двойные частицы. Как они работают",
-          "link": "/ru/58-japanese-double-particles-how-they-work"
+          "text": "58. Trợ từ kép tiếng Nhật. Cách chúng hoạt động",
+          "link": "/vi/58-japanese-double-particles-how-they-work"
         },
         {
-          "text": "59. Существует непереводимый японский язык! Как его понять",
-          "link": "/ru/59-untranslatable-japanese-exists-how-to-understand-it"
+          "text": "59. Tiếng Nhật không thể dịch tồn tại! Cách hiểu nó",
+          "link": "/vi/59-untranslatable-japanese-exists-how-to-understand-it"
         },
         {
-          "text": "60. ДРУГАЯ ПОЛОВИНА Японской Структуры — нелогическая структура «тема-комментарий»",
-          "link": "/ru/60-the-other-half-of-japanese-structure-non-logical-topic-comment-structure"
+          "text": "60. NỬA CÒN LẠI của Cấu trúc tiếng Nhật — cấu trúc chủ đề-bình luận phi logic",
+          "link": "/vi/60-the-other-half-of-japanese-structure-non-logical-topic-comment-structure"
         }
       ]
     },
     {
-      "text": "Сложные темы и культурные особенности",
+      "text": "Chủ đề nâng cao và Bối cảnh văn hóa",
       "collapsed": false,
       "items": [
         {
-          "text": "61. は и が: Глубокие секреты! Инь-ян структура японского языка",
-          "link": "/ru/61-は-and-が-the-deeper-secrets-the-yin-yang-structure-of-japanese"
+          "text": "61. は và が: Bí mật sâu xa! Cấu trúc âm dương của tiếng Nhật",
+          "link": "/vi/61-は-and-が-the-deeper-secrets-the-yin-yang-structure-of-japanese"
         },
         {
-          "text": "62. ておく vs てしまう, секреты вспомогательных глаголов",
-          "link": "/ru/62-ておく-vs-てしまう-helper-verb-secrets"
+          "text": "62. ておく vs てしまう, bí mật trợ động từ",
+          "link": "/vi/62-ておく-vs-てしまう-helper-verb-secrets"
         },
         {
-          "text": "63. «Дикие» завершители предложений в реальном японском: かい, だい, ぜ, ぞ, さ, から, し, ちょうだい",
-          "link": "/ru/63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい"
+          "text": "63. Từ kết thúc câu 'hoang dã' trong tiếng Nhật thực tế: かい, だい, ぜ, ぞ, さ, から, し, ちょうだい",
+          "link": "/vi/63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい"
         },
         {
-          "text": "64. Вещи становятся старнными! もの и こと — Продвинутые секреты: ものだ, ことがある, こと как завершители предложений",
-          "link": "/ru/64-things-get-strange-もの-and-こと-advanced-secrets-ものだ-ことがある-こと-as-sentence-ender"
+          "text": "64. Mọi thứ trở nên kỳ lạ! もの và こと — Bí mật nâng cao: ものだ, ことがある, こと kết thúc câu",
+          "link": "/vi/64-things-get-strange-もの-and-こと-advanced-secrets-ものだ-ことがある-こと-as-sentence-ender"
         },
         {
-          "text": "65. Приходить и уходить: Глубокие секреты 行く и 来る, て行く и て来る (te-iku, te-kuru)",
-          "link": "/ru/65-coming-and-going-deeper-secrets-of-行く-and-来る-て行くand-て来る-te-iku-te-kuru"
+          "text": "65. Đi và Đến: Bí mật sâu xa của 行く và 来る, て行く và て来る (te-iku, te-kuru)",
+          "link": "/vi/65-coming-and-going-deeper-secrets-of-行く-and-来る-て行くand-て来る-te-iku-te-kuru"
         },
         {
-          "text": "66. СКРЫТЫЕ подлежащие в японском языке — и как их понять",
-          "link": "/ru/66-hidden-subjects-in-japanese-and-how-to-understand-them"
+          "text": "66. Chủ ngữ ẨN trong tiếng Nhật — và cách hiểu chúng",
+          "link": "/vi/66-hidden-subjects-in-japanese-and-how-to-understand-them"
         },
         {
-          "text": "67. もう и まだ: временные отношения, которые объясняют их смысл",
-          "link": "/ru/67-もう-and-まだ-the-time-relations-that-make-sense-of-them"
+          "text": "67. もう và まだ: quan hệ thời gian giúp hiểu nghĩa của chúng",
+          "link": "/vi/67-もう-and-まだ-the-time-relations-that-make-sense-of-them"
         },
         {
-          "text": "68. Глубинная логика японского языка: わけ、そういうわけ、わけが分からない、わけない",
-          "link": "/ru/68-japanese-underlying-logic-わけ-そういうわけ-わけが分からない-わけない"
+          "text": "68. Logic cơ bản của tiếng Nhật: わけ、そういうわけ、わけが分からない、わけない",
+          "link": "/vi/68-japanese-underlying-logic-わけ-そういうわけ-わけが分からない-わけない"
         },
         {
-          "text": "69. Японский в естественной среде! Разбираемся с аутентичными японскими материалами. 怪談 4",
-          "link": "/ru/69-japanese-in-the-wild-tackling-native-japanese-material-怪談-4"
+          "text": "69. Tiếng Nhật trong tự nhiên! Xử lý tài liệu tiếng Nhật bản xứ. 怪談 4",
+          "link": "/vi/69-japanese-in-the-wild-tackling-native-japanese-material-怪談-4"
         },
         {
-          "text": "70. かける / かかる: Японский язык на все случаи жизни объяснён!",
-          "link": "/ru/70-かける-かかる-all-purpose-japanese-explained"
+          "text": "70. かける / かかる: Tiếng Nhật đa năng được giải thích!",
+          "link": "/vi/70-かける-かかる-all-purpose-japanese-explained"
         },
         {
-          "text": "71. Японские счётные слова: 3 простых правила",
-          "link": "/ru/71-japanese-counters-3-simple-rules"
+          "text": "71. Từ đếm tiếng Nhật: 3 quy tắc đơn giản",
+          "link": "/vi/71-japanese-counters-3-simple-rules"
         },
         {
-          "text": "72. Великий Соединитель (магия い-основы)",
-          "link": "/ru/72-the-great-connector-い-stem-magic"
+          "text": "72. Bộ kết nối vĩ đại (phép thuật い-stem)",
+          "link": "/vi/72-the-great-connector-い-stem-magic"
         },
         {
-          "text": "73. Секреты 気: 気になる, 気にする, 気がする, 気に入る и т.д.",
-          "link": "/ru/73-secrets-of-気-気になる-気にする-気がする-気に入る-etc"
+          "text": "73. Bí mật của 気: 気になる, 気にする, 気がする, 気に入る v.v.",
+          "link": "/vi/73-secrets-of-気-気になる-気にする-気がする-気に入る-etc"
         },
         {
-          "text": "74. ЛЮБОВЬ и другие тайны こと! あなたのことが好き, 私のことが嫌い, ということ, そういうこと, どういうこと, そんなこと",
-          "link": "/ru/74-love-and-other-mysteries-of-こと-あなたのことが好き-私のことが嫌い-ということ-そういうこと-どういうこと-そんなこと"
+          "text": "74. TÌNH YÊU và các bí ẩn khác của こと! あなたのことが好き, 私のことが嫌い, ということ, そういうこと, どういうこと, そんなこと",
+          "link": "/vi/74-love-and-other-mysteries-of-こと-あなたのことが好き-私のことが嫌い-ということ-そういうこと-どういうこと-そんなこと"
         },
         {
-          "text": "75. Японский — это НЕ английский: Как стратегии выражения отличаются | вежливый Эйхонго = грубый японский",
-          "link": "/ru/75-japanese-is-not-english-how-expression-strategies-differ-polite-英本語-rude-japanese"
+          "text": "75. Tiếng Nhật KHÔNG PHẢI tiếng Anh: Chiến lược diễn đạt khác nhau thế nào | tiếng Anh lịch sự = tiếng Nhật thô lỗ",
+          "link": "/vi/75-japanese-is-not-english-how-expression-strategies-differ-polite-英本語-rude-japanese"
         },
         {
-          "text": "76. Правильное Открытие? | あく, あける, ひらく, ひらける, 開く, 開け",
-          "link": "/ru/76-the-right-opening-あく-あける-ひらく-ひらける-開く-開け"
+          "text": "76. Mở đúng cách? | あく, あける, ひらく, ひらける, 開く, 開け",
+          "link": "/vi/76-the-right-opening-あく-あける-ひらく-ひらける-開く-開け"
         },
         {
-          "text": "77. Реальная структура японского языка против Тэ Кима: Структурный обзор японской грамматики Тэ Кима",
-          "link": "/ru/77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar"
+          "text": "77. Cấu trúc tiếng Nhật thực vs Tae Kim: Đánh giá cấu trúc ngữ pháp tiếng Nhật của Tae Kim",
+          "link": "/vi/77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar"
         },
         {
-          "text": "78. Разрушая ядро: Тэ Ким против связки | Критический обзор японской грамматики на основе структуры",
-          "link": "/ru/78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review"
+          "text": "78. Phá vỡ cốt lõi: Tae Kim vs hệ từ | Đánh giá phê bình ngữ pháp tiếng Nhật dựa trên cấu trúc",
+          "link": "/vi/78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review"
         },
         {
-          "text": "79. Более глубокий секрет связки",
-          "link": "/ru/79-deeper-secret-of-the-copula"
+          "text": "79. Bí mật sâu xa hơn của hệ từ",
+          "link": "/vi/79-deeper-secret-of-the-copula"
         },
         {
-          "text": "80. Опущенные частицы и неформальные опущения",
-          "link": "/ru/80-dropped-particles-casual-omissions"
+          "text": "80. Trợ từ bị lược bỏ và việc lược bỏ trong văn nói",
+          "link": "/vi/80-dropped-particles-casual-omissions"
         }
       ]
     },
     {
-      "text": "Совершенствование японского языка",
+      "text": "Hoàn thiện tiếng Nhật của bạn",
       "collapsed": false,
       "items": [
         {
-          "text": "81. Глобальный принцип всех японских словоформ.",
-          "link": "/ru/81-global-principle-of-all-japanese-word-forms"
+          "text": "81. Nguyên tắc tổng quát của mọi dạng từ tiếng Nhật",
+          "link": "/vi/81-global-principle-of-all-japanese-word-forms"
         },
         {
-          "text": "82. なんて、なんか、など: 3 распространённых слова, прояснённых.",
-          "link": "/ru/82-なんて-なんか-など-3-common-words-clarified"
+          "text": "82. なんて、なんか、など: 3 từ phổ biến được làm rõ",
+          "link": "/vi/82-なんて-なんか-など-3-common-words-clarified"
         },
         {
-          "text": "83. Три уровня повелительного наклонения в японском: て-форма, なさい, な-повелительное, императив.",
-          "link": "/ru/83-three-levels-of-command-in-japanese-て-form-commands-なさい-な-commands-imperative-form"
+          "text": "83. Ba cấp độ mệnh lệnh trong tiếng Nhật: mệnh lệnh thể て, なさい, mệnh lệnh な, thể mệnh lệnh",
+          "link": "/vi/83-three-levels-of-command-in-japanese-て-form-commands-なさい-な-commands-imperative-form"
         },
         {
-          "text": "84. である и структура японского языка. Что нам говорят старые связки: である, であります, でござる, でございます",
-          "link": "/ru/84-である-and-the-structure-of-japanese-what-older-copulas-tell-us-である-であります-でござる-でございます"
+          "text": "84. である và cấu trúc tiếng Nhật. Các hệ từ cổ cho ta biết gì: である, であります, でござる, でございます",
+          "link": "/vi/84-である-and-the-structure-of-japanese-what-older-copulas-tell-us-である-であります-でござる-でございます"
         },
         {
-          "text": "85. まい — отрицательный хелпер",
-          "link": "/ru/85-まい-the-negative-helper"
+          "text": "85. まい — trợ từ phủ định",
+          "link": "/vi/85-まい-the-negative-helper"
         },
         {
           "text": "86. 次第 (shidai)",
-          "link": "/ru/86-次第-shidai"
+          "link": "/vi/86-次第-shidai"
         },
         {
-          "text": "87. Японская структура НАИЗНАНКУ: странная жизнь しか",
-          "link": "/ru/87-japanese-structure-inverted-strange-life-of-しか"
+          "text": "87. Cấu trúc tiếng Nhật ĐẢO NGƯỢC: cuộc sống kỳ lạ của しか",
+          "link": "/vi/87-japanese-structure-inverted-strange-life-of-しか"
         },
         {
           "text": "88. Xをしたい vs Xがしたい",
-          "link": "/ru/88-xをしたい-vs-xがしたい"
+          "link": "/vi/88-xをしたい-vs-xがしたい"
         },
         {
-          "text": "89. Развенчивая мифы о японском языке. Универсальное подлежащее",
-          "link": "/ru/89-de-mystifying-japanese-the-universal-subject"
+          "text": "89. Giải mã tiếng Nhật. Chủ ngữ phổ quát",
+          "link": "/vi/89-de-mystifying-japanese-the-universal-subject"
         },
         {
-          "text": "90. Японская пунктуация: Как она работает.",
-          "link": "/ru/90-japanese-punctuation-how-it-works"
+          "text": "90. Dấu câu tiếng Nhật: Cách hoạt động",
+          "link": "/vi/90-japanese-punctuation-how-it-works"
         },
         {
-          "text": "91. Внешние пределы! 限る & 限り: Множество значений и как они работают 知っている限り、とは限らない и многое другое",
-          "link": "/ru/91-outer-limits-限る-限り-its-many-meanings-and-how-they-work-知っている限り-とは限らない-and-more"
+          "text": "91. Giới hạn bên ngoài! 限る & 限り: Nhiều nghĩa và cách hoạt động 知っている限り、とは限らない và hơn thế",
+          "link": "/vi/91-outer-limits-限る-限り-its-many-meanings-and-how-they-work-知っている限り-とは限らない-and-more"
         },
         {
-          "text": "92. Съест ли английский японский? Вторжение заимствованных слов — действительно ли это угроза?",
-          "link": "/ru/92-will-english-eat-japanese-loan-word-invasion-is-it-really-a-threat"
+          "text": "92. Tiếng Anh sẽ NUỐT tiếng Nhật? Sự xâm lăng từ mượn — có thực sự là mối đe dọa?",
+          "link": "/vi/92-will-english-eat-japanese-loan-word-invasion-is-it-really-a-threat"
         },
         {
-          "text": "93. Отчитываем их с помощью くせに. Как это работает.",
-          "link": "/ru/93-cussin-em-out-with-くせに-how-it-works"
+          "text": "93. Mắng mỏ bằng くせに. Cách hoạt động",
+          "link": "/vi/93-cussin-em-out-with-くせに-how-it-works"
         },
         {
           "text": "94. くらい VS ほど",
-          "link": "/ru/94-くらい-vs-ほど"
+          "link": "/vi/94-くらい-vs-ほど"
         },
         {
-          "text": "95. Использование истории слов с умом: どうも, やっぱり, やはり",
-          "link": "/ru/95-using-word-history-the-smart-way-どうも-やっぱり-やはり"
+          "text": "95. Sử dụng lịch sử từ một cách thông minh: どうも, やっぱり, やはり",
+          "link": "/vi/95-using-word-history-the-smart-way-どうも-やっぱり-やはり"
         },
         {
-          "text": "96. 通り и せっかく: Метафорическая дорога и непереводимое слово.",
-          "link": "/ru/96-通り-and-せっかく-a-metaphorical-road-and-an-untranslatable-word"
+          "text": "96. 通り và せっかく: Con đường ẩn dụ và từ không thể dịch",
+          "link": "/vi/96-通り-and-せっかく-a-metaphorical-road-and-an-untranslatable-word"
         },
         {
-          "text": "97. Значения うち: Дом, Я, Социальная граница, Маркер времени: いまのうち、そのうち",
-          "link": "/ru/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち"
+          "text": "97. Các nghĩa của うち: Nhà, Bản thân, Ranh giới xã hội, Đánh dấu thời gian: いまのうち、そのうち",
+          "link": "/vi/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち"
         }
       ]
     }
