@@ -4,13 +4,13 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về <code>ようだ</code> và đề cập một chút đến người anh em họ <code>みたい</code>. Chúng ta sẽ khám phá rằng <code>ようだ</code> tạo thành đầu kia của thang trượt với các biểu thức phỏng đoán và sự giống nhau mà chúng ta đã thảo luận trong hai bài học trước.
+Hôm nay chúng ta sẽ nói về <code>ようだ</code> và đề cập một chút đến người anh em <code>みたい</code>. Chúng ta sẽ khám phá rằng <code>ようだ</code> tạo thành đầu kia của thang trượt với các biểu thức phỏng đoán và sự tương tự mà chúng ta đã thảo luận trong hai bài học trước.
 
 ![](../media/image709.webp)
 
 Ở một đầu chúng ta có <code>そうだ</code>, ở đầu kia chúng ta có <code>ようだ</code>, và ở giữa chúng ta có <code>らしい</code>. Tất cả những biểu thức này có thể được đặt ở cuối một câu logic hoàn chỉnh để diễn tả rằng câu đó là điều chúng ta đã nghe hoặc điều chúng ta phỏng đoán từ thông tin có được hoặc từ những gì chúng ta có thể thấy. Nhưng khi chúng ta gắn chúng vào các từ riêng lẻ, thì chúng ta có thang trượt ý nghĩa này.
 
-Với <code>そうだ</code>, như chúng ta biết, chúng ta sử dụng nó để phỏng đoán chất lượng của một cái gì đó. Chúng ta có thể nói <code>おいしそうだ</code> - <code>Trông có vẻ ngon /Tôi chưa thử, nhưng tôi nghĩ nếu thử thì tôi sẽ thấy ngon.</code> Với <code>らしい</code> chúng ta có mức độ chủ quan lớn hơn nhiều. <code>らしい</code> chồng lấp với <code>そうだ</code> ở nhiều khía cạnh, nhưng nó cũng có thể làm những điều mà <code>そうだ</code> không thể làm.
+Với <code>そうだ</code>, như chúng ta biết, chúng ta sử dụng nó để phỏng đoán tính chất của một cái gì đó. Chúng ta có thể nói <code>おいしそうだ</code> - <code>Trông có vẻ ngon /Tôi chưa thử, nhưng tôi nghĩ nếu thử thì tôi sẽ thấy ngon.</code> Với <code>らしい</code> chúng ta có mức độ chủ quan lớn hơn nhiều. <code>らしい</code> chồng lấp với <code>そうだ</code> ở nhiều khía cạnh, nhưng nó cũng có thể làm những điều mà <code>そうだ</code> không thể làm.
 
 Nó có thể so sánh những thứ với những thứ khác, với những thứ mà chúng ta biết chúng không phải. Chúng ta có thể nói rằng một con vật là <code>ウサギらしい</code> - <code>giống thỏ</code> - mặc dù chúng ta biết nó không phải là thỏ. Chúng ta có thể nói rằng một người là <code>子どもらしい</code> - <code>giống trẻ con</code> - dù cô ấy có thực sự là trẻ con hay không. Chúng ta không nhất thiết phỏng đoán rằng con vật đó là thỏ hay người đó là trẻ con. Chúng ta chỉ đang thực hiện phép so sánh đó.
 
@@ -30,7 +30,7 @@ Chúng ta thậm chí có thể nói <code>Tôi thực sự đông cứng đến
 
 Không có tuyết trên đầu anh ta! Nhưng lý do chúng ta nói những điều như <code>chính xác</code> và <code>thực sự</code> là để nhấn mạnh một phép so sánh thơ ca. Và trong tiếng Nhật, cách kết hợp thường dùng ở đây là <code>まるで</code>.
 
-Và điều này cũng chứng minh sự khác biệt giữa <code>ようだ/ような/ように</code> và các biểu thức tạo sự giống nhau khác. Bạn không thể sử dụng <code>まるで</code> với <code>そうだ</code> hoặc <code>そうです</code>. Bạn không nên sử dụng <code>まるで</code> với <code>らしい</code>. Nó không phù hợp với những biểu thức đó.
+Và điều này cũng chứng minh sự khác biệt giữa <code>ようだ/ような/ように</code> và các biểu thức tạo sự tương tự khác. Bạn không thể sử dụng <code>まるで</code> với <code>そうだ</code> hoặc <code>そうです</code>. Bạn không nên sử dụng <code>まるで</code> với <code>らしい</code>. Nó không phù hợp với những biểu thức đó.
 
 Chúng ta sử dụng <code>まるで</code> khi chúng ta đang thực hiện một loại bay bổng thơ ca. Đó là một biểu thức cường điệu báo hiệu sự xuất hiện của một phép so sánh hoặc ẩn dụ. Khi chúng ta nói rằng một người là <code>子どもらしい</code> hoặc một con vật là <code>ウサギらしい</code>, chúng ta đang mở rộng thực tế một chút; chúng ta đang so sánh nó với cái gì đó mà nó có thể là nhưng không phải.
 
@@ -40,7 +40,7 @@ Bây giờ, nếu chúng ta nhìn vào cách sử dụng của những biểu th
 
 Các sách giáo khoa đôi khi sẽ đưa cho bạn danh sách các kết nối và cách sử dụng chúng. Nhưng thực ra chúng đều có ý nghĩa. Chúng ta không cần một danh sách để nói cho chúng ta rằng <code>ようだ</code> cũng có thể được sử dụng như trạng từ <code>ように</code> hoặc nó có thể được đặt trước cái gì đó như tính từ <code>ような</code> - bởi vì những kết nối này đơn giản là những kết nối giống nhau mà bạn có thể thực hiện với bất kỳ danh từ tính từ nào.
 
-Điều duy nhất chúng ta phải biết là, giống như <code>らしい</code> và không giống <code>そうだ</code>, chúng ta có thể sử dụng nó với bất kỳ loại danh từ nào, không chỉ danh từ tính từ. Và điều đó cũng có ý nghĩa bởi vì với cả <code>らしい</code> và <code>ようだ</code> chúng ta có thể so sánh những thứ với những thứ khác, trong khi với <code>そうだ</code> chúng ta chỉ có thể phỏng đoán chất lượng của một thứ, cái gì đó có thể được diễn tả bằng một tính từ hoặc danh từ tính từ. Và khi chúng ta gắn nó vào một động từ, như chúng ta đã thấy, nó có ý nghĩa hơi khác.
+Điều duy nhất chúng ta phải biết là, giống như <code>らしい</code> và không giống <code>そうだ</code>, chúng ta có thể sử dụng nó với bất kỳ loại danh từ nào, không chỉ danh từ tính từ. Và điều đó cũng có ý nghĩa bởi vì với cả <code>らしい</code> và <code>ようだ</code> chúng ta có thể so sánh những thứ với những thứ khác, trong khi với <code>そうだ</code> chúng ta chỉ có thể phỏng đoán tính chất của một thứ, cái gì đó có thể được diễn tả bằng một tính từ hoặc danh từ tính từ. Và khi chúng ta gắn nó vào một động từ, như chúng ta đã thấy, nó có ý nghĩa hơi khác.
 
 Tuy nhiên, <code>ようだ</code> có một kết nối đặc biệt mà những cái khác không có.
 
@@ -72,11 +72,11 @@ Bây giờ, điều khác mà chúng ta cần hiểu về <code>か</code> này 
 
 Vậy điều nó đang làm là biến mệnh đề logic hoàn chỉnh này thành một câu hỏi, một giả thuyết, một nếu, sau đó hoạt động về mặt cấu trúc như một danh từ. Vậy nó có thể được đánh dấu bởi の, điều chỉ có thể xảy ra với danh từ. Và vậy danh từ mới này, đối tượng mà chúng ta đã tạo ra từ toàn bộ mệnh đề logic, bây giờ có thể được kết nối với danh từ khác bằng trợ từ の.
 
-<code>よう</code> là một <code>hình thức</code> hoặc <code>sự giống nhau</code> - <code>やまのよう</code> là hình thức của một ngọn núi, <code>風のよう</code> là hình thức hoặc sự giống nhau của gió, và trong trường hợp này, <code>ゆうれいを見たかのよう</code> là sự giống nhau của đối tượng này mà chúng ta đã tạo ra từ giả thuyết về việc nhìn thấy ma. Bây giờ, một lần nữa, đây không phải là điều chúng ta có thể làm với bất kỳ cái nào khác. Chúng ta thậm chí không thể làm điều đó với <code>みたい</code>, cái hoạt động ở hầu hết các khía cạnh khá giống hệt như <code>のよう</code>.
+<code>よう</code> là một <code>hình thức</code> hoặc <code>sự tương tự</code> - <code>やまのよう</code> là hình thức của một ngọn núi, <code>風のよう</code> là hình thức hoặc sự tương tự của gió, và trong trường hợp này, <code>ゆうれいを見たかのよう</code> là sự tương tự của đối tượng này mà chúng ta đã tạo ra từ giả thuyết về việc nhìn thấy ma. Bây giờ, một lần nữa, đây không phải là điều chúng ta có thể làm với bất kỳ cái nào khác. Chúng ta thậm chí không thể làm điều đó với <code>みたい</code>, cái hoạt động ở hầu hết các khía cạnh khá giống hệt như <code>のよう</code>.
 
 ## みたい
 
-<code>みたい</code> là người anh em họ ít trang trọng hơn của <code>よう</code> và về cơ bản có nghĩa giống nhau và về cơ bản có thể được sử dụng theo những cách giống nhau.
+<code>みたい</code> là người anh em ít trang trọng hơn của <code>よう</code> và về cơ bản có nghĩa giống nhau và về cơ bản có thể được sử dụng theo những cách giống nhau.
 
 ![](../media/image676.webp)
 
@@ -93,7 +93,7 @@ Bạn có thể nói <code>まるでヒツジみたい</code> - <code>giống h�
 Đây không phải ngữ pháp đúng - bạn nên nói <code>みたいだ</code> - nhưng việc bỏ nó đi rất phổ biến. Không phổ biến khi bỏ nó khỏi <code>ようだ</code>.
 
 ::: info
-Tôi sẽ thêm vào trường hợp này rằng danh từ tính từ みたい này KHÔNG giống với 見たい (một tính từ có nghĩa là <code>gây ra việc nhìn</code>). Đây là hai <code>みたい</code> khác nhau. Bạn không thể viết みたい này thành 見たい, nếu không nó sẽ là tính từ <code>gây ra việc nhìn</code>. Điều Dolly-先生 nói trong các bình luận:  
+Tôi sẽ thêm vào trường hợp này rằng danh từ tính từ みたい này KHÔNG giống với 見たい (một tính từ có nghĩa là <code>muốn nhìn</code>). Đây là hai <code>みたい</code> khác nhau. Bạn không thể viết みたい này thành 見たい, nếu không nó sẽ là tính từ <code>muốn nhìn</code>. Điều Dolly-先生 nói trong các bình luận:  
 
 ![](../media/image602.webp)
 

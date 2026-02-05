@@ -118,15 +118,15 @@ Chúng ta có thể không biết chính xác nó trông như thế nào, nhưng
 
 ## Một trường hợp です không hoạt động như copula
 
-**Có một trường hợp mà <code>です</code> được sử dụng mà nó không hoạt động như copula, và đó là trường hợp của tính từ.** Như tôi đã chứng minh trong video trước đó<sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup>, **tính từ là trường hợp duy nhất mà <code>です</code> được sử dụng và nó không phải là copula, nó chỉ là một dấu hiệu hình thức rỗng** *(lịch sự)* **.**
+**Có một trường hợp mà <code>です</code> được sử dụng mà nó không hoạt động như copula, và đó là trường hợp của tính từ.** Như tôi đã chứng minh trong video trước đó<sup>[[78]](./78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review.md)</sup>, **tính từ là trường hợp duy nhất mà <code>です</code> được sử dụng và nó không phải là copula, nó chỉ là một dấu hiệu lịch sự rỗng** *(lịch sự)* **.**
 
 ![](../media/image512.webp)
 
 ### です trong tính từ không chỉ là một dấu hiệu lịch sự ngẫu nhiên
 
-Nhưng có một điểm khác mà chúng ta phải xem xét ở đây, và đó là trong khi trong những trường hợp đó — có nghĩa là, **trong trường hợp của tính từ và không có trường hợp nào khác** (nó chỉ xảy ra trong trường hợp của tính từ như tôi đã chứng minh trong video đó) — **trong khi trong trường hợp của tính từ, đúng là nói rằng <code>です</code> là một dấu hiệu hình thức rỗng, nó không chỉ là một dấu hiệu hình thức rỗng ngẫu nhiên.**
+Nhưng có một điểm khác mà chúng ta phải xem xét ở đây, và đó là trong khi trong những trường hợp đó — có nghĩa là, **trong trường hợp của tính từ và không có trường hợp nào khác** (nó chỉ xảy ra trong trường hợp của tính từ như tôi đã chứng minh trong video đó) — **trong khi trong trường hợp của tính từ, đúng là nói rằng <code>です</code> là một dấu hiệu lịch sự rỗng, nó không chỉ là một dấu hiệu lịch sự rỗng ngẫu nhiên.**
 
-***Như tôi đã đề cập trước đó, です / ます là những dấu hiệu lịch sự hơn, không phải dấu hiệu hình thức.*** ***Chúng là một phần của 丁寧語 (ngôn ngữ lịch sự). Vì vậy, gọi chúng là lịch sự sẽ chính xác hơn.***
+***Như tôi đã đề cập trước đó, です / ます là những dấu hiệu lịch sự, không phải dấu hiệu hình thức.*** ***Chúng là một phần của 丁寧語 (ngôn ngữ lịch sự). Vì vậy, gọi chúng là lịch sự sẽ chính xác hơn.***
 
 Như chúng ta biết, **chỉ có hai loại câu, câu A-là-B và câu A-làm-B**, và **trong tiếng Nhật có hai loại câu A-là-B**, đó là, **câu tính từ**, **trong dạng đơn giản của chúng phải kết thúc bằng -い**, và **câu copula**, phải **kết thúc bằng <code>だ</code> hoặc <code>です</code>.
 
@@ -147,7 +147,7 @@ Ví dụ tại sao có rất nhiều cách để nghiên cứu nó, diễn giả
 
 **Vậy điều đang xảy ra khi chúng ta đặt <code>です</code> ở cuối câu tính từ là chúng ta đang nhân đôi copula.** Nói <code>さくらは**かわいい**です</code> giống như nói <code>*(Nói về)* Sakura *(cô ấy)* **là-dễ thương** là</code>. Nói <code>ペンが**赤い**です</code> về cơ bản là nói <code>Bút **là-đỏ** là</code>.
 
-Chúng ta đang nhân đôi copula đó. **Vậy trong khi <code>です</code> là một dấu hiệu hình thức rỗng, nó không chỉ là một dấu hiệu hình thức ngẫu nhiên.** Nó đang làm một thứ đôi khi được thực hiện trong các ngôn ngữ, và đó là, *(nó là)* **hoạt động như một sự dư thừa** — **nói cùng một thứ hai lần.**
+Chúng ta đang nhân đôi copula đó. **Vậy trong khi <code>です</code> là một dấu hiệu lịch sự rỗng, nó không chỉ là một dấu hiệu lịch sự ngẫu nhiên.** Nó đang làm một thứ đôi khi được thực hiện trong các ngôn ngữ, và đó là, *(nó là)* **hoạt động như một sự dư thừa** — **nói cùng một thứ hai lần.**
 
 ::: info
  Tôi hiểu rằng vì nó là một sự dư thừa, chúng ta có thể nói rằng nó không phải là copula được sử dụng nghiêm ngặt để thực hiện chức năng copula của mệnh đề hoặc câu, mà đúng hơn trọng tâm chính của nó là nó cung cấp khía cạnh lịch sự này cho copula trong -い để cho thấy câu là lịch sự.

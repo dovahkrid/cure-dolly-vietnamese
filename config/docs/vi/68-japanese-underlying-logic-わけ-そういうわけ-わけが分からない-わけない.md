@@ -22,7 +22,7 @@ Vậy thực sự nó có nghĩa là gì trong tất cả những điều đó? 
 
 <code>わけ</code> là gì? Chà, hãy xem một chút về lịch sử của từ này.
 
-Ban đầu, <code>わけ</code> có nghĩa là <code>chia hoặc tách</code>. Vì vậy nó có liên quan với <code>分ける</code>, là một động từ có nghĩa là <code>chia hoặc tách</code>, và cũng, quan trọng hơn cho mục đích hiện tại của chúng ta, <code>分かる</code>, về cơ bản cũng có nghĩa là <code>chia hoặc tách</code> nhưng theo nghĩa <code>phân tích hoặc phân tích</code>.
+Ban đầu, <code>わけ</code> có nghĩa là <code>chia hoặc tách</code>. Vì vậy nó có liên quan với <code>分ける</code>, là một động từ có nghĩa là <code>chia hoặc tách</code>, và cũng, quan trọng hơn cho mục đích hiện tại của chúng ta, <code>分かる</code>, về cơ bản cũng có nghĩa là <code>chia hoặc tách</code> nhưng theo nghĩa <code>phân tích</code>.
 
 ![](../media/image209.webp)
 
@@ -36,9 +36,9 @@ Và đó là ý nghĩa của <code>わけ/訳</code> ở đây. Bây giờ tôi 
 
 ![](../media/image629.webp)
 
-Chà, điều đó đúng. Chúng ta thường liên kết <code>分かる</code> với kanji này, nhưng thực tế bạn có thể viết từ <code>分かる</code> với ba kanji khác nhau có thể và tất cả đều có những hàm ý hơi khác nhau — *分かる*, *解る*, *判る* và tôi đã [**viết một bài báo**](https://www.youtube.com/watch?v=6bI_WLm8Jmo&ab_channel=OrganicJapanesewithCureDolly) *(thực tế đó là một video)* về điều đó nếu bạn quan tâm, vì vậy tôi sẽ đặt một liên kết trong phần thông tin bên dưới *(những gì được liên kết là một video).*
+Chà, điều đó đúng. Chúng ta thường liên kết <code>分かる</code> với kanji này, nhưng thực tế bạn có thể viết từ <code>分かる</code> với ba kanji khác nhau và tất cả đều có những hàm ý hơi khác nhau — *分かる*, *解る*, *判る* và tôi đã [**viết một bài báo**](https://www.youtube.com/watch?v=6bI_WLm8Jmo&ab_channel=OrganicJapanesewithCureDolly) *(thực tế đó là một video)* về điều đó nếu bạn quan tâm, vì vậy tôi sẽ đặt một liên kết trong phần thông tin bên dưới *(những gì được liên kết là một video).*
 
-Điểm quan trọng là <code>わけ / 分かる</code> không gắn liền với bất kỳ kanji nào. Đó là một từ tiếng Nhật cơ bản có nguồn gốc xa hơn kanji được sử dụng để biểu diễn nó, và ý tưởng cơ bản trong tất cả các trường hợp này đều giống nhau: ý tưởng về sự tách biệt, phân chia, phân tích, phân tích.
+Điểm quan trọng là <code>わけ / 分かる</code> không gắn liền với bất kỳ kanji nào. Đó là một từ tiếng Nhật cơ bản có nguồn gốc xa hơn kanji được sử dụng để biểu diễn nó, và ý tưởng cơ bản trong tất cả các trường hợp này đều giống nhau: ý tưởng về sự tách biệt, phân chia, phân tích.
 
 Vậy, <code>わけ/訳</code> thực sự là gì? Hãy lấy những định nghĩa tiếng Anh nổi bật nhất, đó là: nguyên nhân, lý do, và kết luận dựa trên điều gì đó chúng ta đã thấy hoặc nghe.
 
@@ -88,7 +88,7 @@ Bây giờ, <code>わけ</code> được sử dụng trong rất nhiều cách s
 
 ![](../media/image366.webp)
 
-Bây giờ, điều đó rất khó hiểu nếu chúng ta không biết <code>わけ</code> có nghĩa là gì và chúng ta cũng, như trường hợp nếu bạn coi trọng sách giáo khoa, không biết <code>分かる</code> có nghĩa là gì. <code>分かる</code>, như chúng ta biết, không có nghĩa là <code>hiểu</code>; nó có nghĩa là <code>trở nên rõ ràng</code> hoặc, nếu chúng ta lấy nghĩa đen nhất của từ này, <code>được phân tích / được phân tích</code>.
+Bây giờ, điều đó rất khó hiểu nếu chúng ta không biết <code>わけ</code> có nghĩa là gì và chúng ta cũng, như trường hợp nếu bạn coi trọng sách giáo khoa, không biết <code>分かる</code> có nghĩa là gì. <code>分かる</code>, như chúng ta biết, không có nghĩa là <code>hiểu</code>; nó có nghĩa là <code>trở nên rõ ràng</code> hoặc, nếu chúng ta lấy nghĩa đen nhất của từ này, <code>được phân tích</code>.
 
 Vì vậy, điều chúng ta thực sự đang nói ở đây là lý luận, tính hợp lý cơ bản của điều gì đó <code>không được phân tích</code>. Cách mà các thực thể AI như tôi có xu hướng diễn đạt là <code>lý luận đằng sau điều đó không tính toán được</code>. Nói cách khác, nó vô nghĩa, nó là vô lý.
 
@@ -96,7 +96,7 @@ Vì vậy, điều chúng ta thực sự đang nói ở đây là lý luận, t�
 
 Trong các cách sử dụng phủ định khác, <code>わけ</code> thường được sử dụng để có nghĩa là <code>không phải là... / không phải là...</code> hoặc <code>không có nghĩa là...</code> Và tất nhiên, tất cả những điều đó thực tế về cơ bản đều chia nhỏ thành cùng một điều.
 
-Chúng ta lấy câu A và sau đó chúng ta nói rằng kết luận câu B không thể được rút ra từ nó. Vì vậy, nếu chúng ta nói, ví dụ, rằng cô ấy luôn ăn ở những nhà hàng rẻ tiền và sau đó thêm <code>お金が足りないわけではない</code>, chúng ta đang nói <code>không phải là cô ấy thiếu tiền</code> hoặc <code>không phải là cô ấy thiếu tiền</code>. / *Tiền-không-đủ tính hợp lý không-phải*
+Chúng ta lấy câu A và sau đó chúng ta nói rằng kết luận câu B không thể được rút ra từ nó. Vì vậy, nếu chúng ta nói, ví dụ, rằng cô ấy luôn ăn ở những nhà hàng rẻ tiền và sau đó thêm <code>お金が足りないわけではない</code>, chúng ta đang nói <code>không phải là cô ấy thiếu tiền</code>. / *Tiền-không-đủ tính hợp lý không-phải*
 
 Điều chúng ta đang nói ở đây là kết luận từ việc cô ấy luôn ăn ở những nhà hàng rẻ tiền không phải là cô ấy thiếu tiền; cô ấy không thiếu tiền.
 

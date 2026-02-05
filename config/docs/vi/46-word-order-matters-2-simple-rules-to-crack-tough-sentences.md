@@ -4,11 +4,11 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về trật tự từ trong tiếng Nhật, bởi vì đây thực sự là điều cơ bản. Khi các câu trở nên phức tạp hơn, trật tự từ ngày càng trở nên cần thiết hơn để hiểu chính xác điều gì đang xảy ra trong bất kỳ câu nào. Và, như thường lệ, cái gọi là ngữ pháp tiếng Nhật bằng tiếng Anh không giúp chúng ta nhiều trong vấn đề này. Nếu bạn tìm kiếm <code>Japanese word order</code> trên Internet, bạn sẽ phát hiện rằng có hai quan điểm khác nhau được lan truyền ở đó.
+Hôm nay chúng ta sẽ nói về trật tự từ trong tiếng Nhật, bởi vì đây thực sự là điều cơ bản. Khi các câu trở nên phức tạp hơn, trật tự từ ngày càng trở nên cần thiết để hiểu chính xác điều gì đang xảy ra trong bất kỳ câu nào. Và, như thường lệ, cái gọi là ngữ pháp tiếng Nhật bằng tiếng Anh không giúp chúng ta nhiều trong vấn đề này. Nếu bạn tìm kiếm <code>Japanese word order</code> trên Internet, bạn sẽ thấy có hai quan điểm khác nhau được lan truyền.
 
 ![](../media/image787.webp)
 
-Quan điểm đầu tiên là tiếng Nhật là ngôn ngữ SOV, tức là ngôn ngữ có trật tự từ Chủ ngữ-Tân ngữ-Động từ. Và quan điểm thứ hai là trật tự từ trong tiếng Nhật thực ra không quan trọng và không có ý nghĩa lắm, bởi vì bạn có thể sắp xếp các từ theo hầu hết bất kỳ thứ tự nào và vẫn có nghĩa giống nhau. Và cả hai quan điểm này đều hoàn toàn sai. Và, điều thú vị là, mặc dù chúng trái ngược nhau, chúng đều xuất phát từ cùng một sai lầm.
+Quan điểm đầu tiên là tiếng Nhật là ngôn ngữ SOV, tức là ngôn ngữ có trật tự từ Chủ ngữ-Tân ngữ-Động từ. Và quan điểm thứ hai là trật tự từ trong tiếng Nhật thực ra không quan trọng và không có ý nghĩa lắm, bởi vì bạn có thể sắp xếp các từ theo hầu hết bất kỳ thứ tự nào và vẫn có nghĩa giống nhau. Và cả hai quan điểm này đều hoàn toàn sai. Và điều thú vị là mặc dù chúng trái ngược nhau, chúng đều xuất phát từ cùng một sai lầm.
 
 Cả hai đều xuất phát từ việc đưa ra các câu trả lời khác nhau cho cùng một câu hỏi, mà đó là câu hỏi sai để hỏi ngay từ đầu. Nói cách khác, chúng xuất phát từ người quen cũ của chúng ta: đối xử với tiếng Nhật như thể nó không phải tiếng Nhật mà là ngôn ngữ châu Âu, và đặt câu hỏi và đưa ra câu trả lời phù hợp với ngôn ngữ châu Âu, không phải tiếng Nhật. Vậy, hãy tìm hiểu điều này, xem nó hoạt động như thế nào, và hiểu cách trật tự từ trong tiếng Nhật thực sự hoạt động.
 
@@ -24,7 +24,7 @@ Không, nó không phải. Bởi vì mặc dù <code>メアリーがスーザン
 
 ![](../media/image921.webp)
 
-Bởi vì trong tiếng Nhật, câu hỏi ai làm gì cho ai, và hầu hết các câu hỏi logic khác, như nó được thực hiện ở đâu, bằng cách nào, và tất cả những thứ như vậy, được xử lý bởi các trợ từ logic. Vì vậy, điều quan trọng trong câu này — không phải thứ tự Mary và Susan, mà là từ nào trong số chúng được đánh dấu bằng trợ từ が, và từ nào — bằng trợ từ を.
+Bởi vì trong tiếng Nhật, câu hỏi ai làm gì cho ai, và hầu hết các câu hỏi logic khác như nó được thực hiện ở đâu, bằng cách nào, và tất cả những thứ như vậy, được xử lý bởi các trợ từ logic. Vì vậy, điều quan trọng trong câu này không phải thứ tự Mary và Susan, mà là từ nào trong số chúng được đánh dấu bằng trợ từ が, và từ nào bằng trợ từ を.
 
 Vì vậy, những cuộc nói chuyện về ngôn ngữ có trật tự từ Chủ ngữ-Tân ngữ-Động từ là vô nghĩa. Thực sự không quan trọng bạn đặt chúng theo thứ tự nào. Và đây, tất nhiên, là cơ sở cho những người nói rằng trật tự từ trong tiếng Nhật không quan trọng. Vậy họ không đúng sao?
 
@@ -52,7 +52,7 @@ Chúng ta cũng có câu kiểu <code>A là B</code>. Và bất kể chúng ta c
 
 ![](../media/image13.webp)
 
-Có ba loại Đầu máy có thể có. Có Đầu máy Động từ, đó là câu <code>A làm B</code>. Và sau đó trong câu <code>A là B</code>, chúng ta có hoặc là Đầu máy Tính từ, đầu máy được tạo thành từ tính từ, luôn kết thúc bằng -い (đây là điều mà sách giáo khoa gọi là <code>tính từ い</code> và thực ra là tính từ duy nhất trong tiếng Nhật), hoặc Danh từ cộng hệ từ, đó là <code>だ</code> hoặc <code>です</code>.
+Có ba loại Đầu máy có thể có. Có Đầu máy Động từ, đó là câu <code>A làm B</code>. Và sau đó trong câu <code>A là B</code>, chúng ta có hoặc là Đầu máy Tính từ, đầu máy được tạo thành từ tính từ luôn kết thúc bằng -い (đây là điều mà sách giáo khoa gọi là <code>tính từ い</code> và thực ra là tính từ duy nhất trong tiếng Nhật), hoặc Danh từ cộng hệ từ, đó là <code>だ</code> hoặc <code>です</code>.
 
 Vì vậy, mỗi câu sẽ kết thúc bằng một trong ba loại này. Và bất kể chúng ta sử dụng Đầu máy nào, Động từ, Danh từ với hệ từ hay Tính từ, nó phải ở cuối.
 
@@ -88,13 +88,13 @@ Chúng ta có thể nói <code>an interesting-looking pale blue dress</code> (ch
 
 ![](../media/image1033.webp)
 
-Tuy nhiên, khi các từ bổ nghĩa trở nên phức tạp hơn *trong tiếng Anh*, chúng ta bắt đầu đặt chúng ở phía bên kia của danh từ. Vì vậy, nếu chúng ta muốn nói <code>the dress I bought at the market on Saturday</code> (chiếc váy tôi mua ở chợ vào thứ Bảy), bây giờ <code>dress</code> (váy) đứng đầu tiên, và từ bổ nghĩa — sau nó.
+Tuy nhiên, khi các từ bổ nghĩa trở nên phức tạp hơn *trong tiếng Anh*, chúng ta bắt đầu đặt chúng ở phía bên kia của danh từ. Vì vậy, nếu chúng ta muốn nói <code>the dress I bought at the market on Saturday</code> (chiếc váy tôi mua ở chợ vào thứ Bảy), bây giờ <code>dress</code> (váy) đứng đầu tiên, và từ bổ nghĩa sau nó.
 
 Và đôi khi chúng ta đặt từ bổ nghĩa ở cả hai phía của danh từ. Vì vậy, chúng ta có thể nói: <code>the pale blue dress I bought at the market yesterday</code> (chiếc váy xanh nhạt tôi mua ở chợ hôm qua). Vì vậy, chúng ta có <code>váy</code> bị kẹp ở giữa, và các câu bổ nghĩa chiếc váy đó ở cả hai phía.
 
 Tiếng Nhật không hoạt động như vậy. Tiếng Nhật luôn giữ từ bổ nghĩa trước thứ mà chúng bổ nghĩa. Vì vậy, nó rất dễ đoán, và chúng ta luôn biết điều gì đang xảy ra.
 
-Một cách để nhìn vào trật tự từ trong tiếng Nhật là hình dung nó như một sản xuất sân khấu. Hình dung mỗi câu hoặc mỗi câu logic như một cảnh nhỏ trên sân khấu. Và tiếng Nhật hoạt động theo cách đầu tiên nó mặc trang phục cho các con búp bê nhỏ tham gia vào cảnh.
+Một cách để nhìn vào trật tự từ trong tiếng Nhật là hình dung nó như một cảnh sân khấu. Hình dung mỗi câu hoặc mỗi câu logic như một cảnh nhỏ trên sân khấu. Và tiếng Nhật hoạt động theo cách đầu tiên nó mặc trang phục cho các con búp bê nhỏ tham gia vào cảnh.
 
 Vậy, trước mỗi con búp bê là thứ mà nó mặc, thứ bổ nghĩa nó, thứ cho chúng ta biết thêm về nó, trang phục của nó, môi trường xung quanh nó. Sau đó, chúng ta đặt nó lên sân khấu. Chúng ta đánh dấu nó với vai trò mà nó đóng trong câu, và sau đó đặt danh từ tiếp theo, nếu có danh từ khác, và, cuối cùng, nhấn nút hành động, động từ.
 
@@ -114,9 +114,9 @@ Hãy lấy ví dụ mà chúng ta đã xem xét. Nếu chúng ta nói <code>い�
 
 ![](../media/image1069.webp)
 
-Và chúng ta biết đây là câu logic vì Quy tắc Một. Vậy, đây là câu logic, kết thúc bằng Đầu máy. Đây là câu <code>A làm B</code>: <code>Tôi đã mua chiếc váy xanh ở chợ.</code>
+Và chúng ta biết đây là câu logic vì Quy tắc Một. Vậy, đây là câu logic kết thúc bằng Đầu máy. Đây là câu <code>A làm B</code>: <code>Tôi đã mua chiếc váy xanh ở chợ.</code>
 
-Bây giờ, chúng ta có thể di chuyển hầu hết bất kỳ phần tử nào từ câu logic đến đầu câu, tức là vị trí gần Đầu máy nhất, tận cùng bên phải trong văn bản ngang, tận cùng dưới cùng trong văn bản dọc. Chúng ta có thể di chuyển nó đến đầu câu, và nếu chúng ta làm vậy, nếu chúng ta di chuyển bất kỳ phần tử không phải Đầu máy nào đến đầu câu, thì nó không còn hoạt động như câu logic nữa, nhưng nó hoạt động như từ bổ nghĩa cho phần tử mà chúng ta đã di chuyển đến đầu.
+Bây giờ, chúng ta có thể di chuyển hầu hết bất kỳ phần tử nào từ câu logic đến đầu câu, tức là vị trí gần Đầu máy nhất, tận cùng bên phải trong văn bản ngang, tận cùng dưới cùng trong văn bản dọc. Chúng ta có thể di chuyển nó đến đầu câu, và nếu chúng ta làm vậy, nếu chúng ta di chuyển bất kỳ phần tử không phải Đầu máy nào đến đầu câu, thì nó không còn hoạt động như câu logic nữa, mà nó hoạt động như từ bổ nghĩa cho phần tử mà chúng ta đã di chuyển đến đầu.
 
 Vậy, nếu chúng ta nói <code>いちばで *(zeroが)* 買ったドレス</code>, chúng ta nói <code>chiếc váy tôi mua ở chợ</code>.
 
@@ -138,10 +138,10 @@ Và biết được cái gì bổ nghĩa, cái gì được bổ nghĩa, biết 
 
 ![](../media/image1056.webp)
 
-Vậy, thì chúng ta nói: <code>Tôi đã tặng chiếc váy mà tôi mua ở chợ cho cô gái đeo kính.</code> Và một lần nữa, chúng ta có điều có thể là câu logic — <code>少女はメガネをかけている</code>, <code>Cô gái đeo kính</code> — nhưng chúng ta đã di chuyển danh từ <code>少女</code> — <code>cô gái</code> — đến đầu, vì vậy bây giờ đây không phải là câu logic, đây là danh từ với từ bổ nghĩa, cô gái *(少女)*, được bổ nghĩa bởi cụm từ <code>メガネをかけている</code> — <code>cô gái đeo kính</code>.
+Vậy, thì chúng ta nói: <code>Tôi đã tặng chiếc váy mà tôi mua ở chợ cho cô gái đeo kính.</code> Và một lần nữa, chúng ta có điều có thể là câu logic — <code>少女はメガネをかけている</code>, <code>Cô gái đeo kính</code> — nhưng chúng ta đã di chuyển danh từ <code>少女</code> — <code>cô gái</code> — đến đầu, vì vậy bây giờ đây không phải là câu logic, đây là danh từ với từ bổ nghĩa, cô gái *(少女)* được bổ nghĩa bởi cụm từ <code>メガネをかけている</code> — <code>cô gái đeo kính</code>.
 
 <code>Tôi đã tặng chiếc váy mà tôi mua ở chợ cho cô gái đeo kính.</code> Và đây là rất điển hình. Bạn sẽ thấy cấu trúc như vậy thường xuyên.
 
-Tiếng Nhật thực hiện một lượng công việc khổng lồ trong việc truyền đạt ý nghĩa, sử dụng các câu bổ nghĩa này, luôn đứng trước thứ mà chúng bổ nghĩa. Đầu tiên chúng ta mặc trang phục cho búp bê, sau đó đặt búp bê lên sân khấu, sau đó nhấn nút hành động.
+Tiếng Nhật thực hiện một lượng công việc khổng lồ trong việc truyền đạt ý nghĩa bằng cách sử dụng các câu bổ nghĩa này, luôn đứng trước thứ mà chúng bổ nghĩa. Đầu tiên chúng ta mặc trang phục cho búp bê, sau đó đặt búp bê lên sân khấu, sau đó nhấn nút hành động.
 
 Vậy, trật tự từ có ý nghĩa quyết định trong việc hiểu tiếng Nhật...

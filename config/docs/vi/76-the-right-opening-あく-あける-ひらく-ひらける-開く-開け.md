@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ xem xét điều gì đó quan trọng tự thân, nhưng cũng làm sáng tỏ một số sự tinh tế của tiếng Nhật rất hữu ích để biết khi chúng ta tiến tới sự đắm chìm sâu hơn. Vậy, chúng ta sẽ xem xét bốn cách khác nhau để nói điều mà trong tiếng Anh được bao phủ bởi một từ <code>open</code> (mở).
+Hôm nay chúng ta sẽ xem xét điều gì đó quan trọng, nhưng cũng làm sáng tỏ một số sự tinh tế của tiếng Nhật rất hữu ích khi chúng ta tiến tới sự đắm chìm sâu hơn. Chúng ta sẽ xem xét bốn cách khác nhau để nói điều mà trong tiếng Anh được bao phủ bởi một từ <code>open</code> (mở).
 
 ![](../media/image867.webp)
 
@@ -14,15 +14,15 @@ Hôm nay chúng ta sẽ xem xét điều gì đó quan trọng tự thân, nhưn
 Chúng được đọc là <code>あく</code>, <code>あける</code>, <code>ひらく</code> và <code>ひらける</code> tương ứng, mặc dù kanji và okurigana giống nhau. Dolly làm rõ điều này sau trong bài học.
 :::
 
-Khi chúng ta nhìn vào chúng lần đầu, chúng trông như hai cặp động từ tự chuyển động/tha chuyển động, phải không? Và ở một mức độ nào đó thì đúng vậy.
+Khi nhìn vào chúng lần đầu, chúng trông như hai cặp động từ tự chuyển động/tha chuyển động, phải không? Và ở một mức độ nào đó thì đúng vậy.
 
 Nhưng điều này sẽ minh họa sự tinh tế của toàn bộ khái niệm động từ tự chuyển động/tha chuyển động trong tiếng Nhật, khác với sự phân biệt kỹ thuật và rõ ràng hơn nhiều giữa nội động từ và ngoại động từ trong tiếng Anh và các ngôn ngữ phương Tây khác.
 
-Vậy, nếu bạn không quen với khái niệm động từ tự chuyển động và tha chuyển động (điều mà ở phương Tây thường được gọi là động từ nội động và ngoại động), tôi sẽ đặt liên kết đến video của tôi về chủ đề này trên đầu tôi và trong phần bình luận bên dưới.
+Nếu bạn không quen với khái niệm động từ tự chuyển động và tha chuyển động (điều mà ở phương Tây thường được gọi là động từ nội động và ngoại động), tôi sẽ đặt liên kết đến video của tôi về chủ đề này trên đầu tôi và trong phần bình luận bên dưới.
 
-Điều thứ hai chúng ta nhận thấy là khi viết kanji của chúng, bạn thực sự không thể thấy sự khác biệt giữa <code>あく/あける</code> và <code>ひらく/ひらける</code>. Một phần vì chúng thực sự có thể hoán đổi cho nhau trong nhiều trường hợp, và nói chung, nếu đó không phải là trường hợp thực sự cần thiết phải sử dụng <code>ひらく/ひらける</code>, mọi người thường đọc <code>あく/あける</code>.
+Điều thứ hai chúng ta nhận thấy là khi viết kanji, bạn thực sự không thể thấy sự khác biệt giữa <code>あく/あける</code> và <code>ひらく/ひらける</code>. Một phần vì chúng thực sự có thể hoán đổi cho nhau trong nhiều trường hợp, và nói chung, nếu đó không phải là trường hợp thực sự cần thiết phải sử dụng <code>ひらく/ひらける</code>, mọi người thường đọc <code>あく/あける</code>.
 
-Nhưng nếu tác giả muốn làm rõ rằng cô ấy đang sử dụng <code>ひらく</code> để tạo hiệu ứng nhất định (và chúng ta sẽ xem xét một số hiệu ứng này sau), cô ấy sẽ viết nó bằng hiragana để làm rõ tình huống.
+Nhưng nếu tác giả muốn làm rõ rằng cô ấy đang sử dụng <code>ひらく</code> để tạo hiệu ứng nhất định (và chúng ta sẽ xem xét một số hiệu ứng này sau), cô ấy sẽ viết nó bằng hiragana để làm rõ.
 
 Vậy. Trước tiên hãy lấy hai cái đầu tiên: <code>あく・あける</code>. <code>あく</code> là động từ tự chuyển động. <code>あける</code> là động từ tha chuyển động. Cả hai đều có nghĩa là <code>mở</code>. Vậy, <code>あく</code>: cửa mở, chai mở; <code>あける</code>: mở cửa, mở chai.
 
@@ -56,7 +56,7 @@ Cả hai đều có nghĩa là <code>mở</code>. <code>あく</code> chính th�
 
 Sự khác biệt giữa chúng không liên quan gì đến tự chuyển động hay tha chuyển động. Nó liên quan đến loại mở mà chúng ta đang nói.
 
-Vậy, nếu chúng ta đang nói về việc mở chai, lấy nắp khỏi hộp, bất cứ thứ gì tương tự, đó chắc chắn là <code>あける</code>. Mặt khác, nếu chúng ta đang nói về việc hoa nở, đó chắc chắn là <code>ひらく</code>.
+Nếu chúng ta đang nói về việc mở chai, lấy nắp khỏi hộp, bất cứ thứ gì tương tự, đó chắc chắn là <code>あける</code>. Mặt khác, nếu chúng ta đang nói về việc hoa nở, đó chắc chắn là <code>ひらく</code>.
 
 Vậy, thứ nở ra, mở rộng - đó là <code>ひらく</code>. Thứ đơn giản trở nên mở thay vì đóng - đó là <code>あく・あける</code>.
 
@@ -70,15 +70,15 @@ Có nhiều lĩnh vực mà hai động từ này có thể hoán đổi cho nha
 
 ![](../media/image621.webp)
 
-Vì vậy, ví dụ, cửa Pháp có thể <code>あく</code> (mở) hoặc <code>ひらく</code> (mở rộng). Mắt thường <code>あく</code>, nhưng có thể nói chúng <code>ひらく</code>, và khi chúng ta sử dụng <code>ひらく</code> thay vì <code>あく</code> trong những trường hợp này, nó giống như trong phim máy quay chậm tiến lại gần đôi mắt của ai đó đang từ từ mở, hoặc những cánh cửa đang từ từ mở rộng.
+Ví dụ, cửa Pháp có thể <code>あく</code> (mở) hoặc <code>ひらく</code> (mở rộng). Mắt thường <code>あく</code>, nhưng có thể nói chúng <code>ひらく</code>, và khi chúng ta sử dụng <code>ひらく</code> thay vì <code>あく</code> trong những trường hợp này, nó giống như trong phim máy quay chậm tiến lại gần đôi mắt của ai đó đang từ từ mở, hoặc những cánh cửa đang từ từ mở rộng.
 
 Có nhiều cảm giác hơn về chính quá trình mở, mở rộng. Do đó, điều này tạo ra một sự tinh tế mà chúng ta không có trong tiếng Anh, và có thể đưa vào lời nói hoặc văn viết chỉ bằng cách chọn <code>ひらく</code> thay vì <code>あく</code>.
 
-Bây giờ, khi chúng ta chuyển sang các ý nghĩa ẩn dụ hoặc trừu tượng hơn, sự phân biệt lại trở nên quan trọng. Ví dụ, chúng ta có thể nói <code>店をあらく</code> hoặc <code>店をひらく</code>, và cả hai đều có nghĩa là <code>mở cửa hàng</code>, nhưng <code>店を 開ける</code> ngụ ý chỉ là mở cửa buổi sáng để kinh doanh hoặc mở cửa sau giờ nghỉ trưa hoặc điều gì đó tương tự, chỉ là mở cửa hàng theo nghĩa đen, chỉ mở cửa để khách hàng có thể vào.
+Bây giờ, khi chúng ta chuyển sang các ý nghĩa ẩn dụ hoặc trừu tượng hơn, sự phân biệt lại trở nên quan trọng. Ví dụ, chúng ta có thể nói <code>店をあける</code> hoặc <code>店をひらく</code>, và cả hai đều có nghĩa là <code>mở cửa hàng</code>, nhưng <code>店をあける</code> ngụ ý chỉ là mở cửa buổi sáng để kinh doanh hoặc mở cửa sau giờ nghỉ trưa hoặc điều gì đó tương tự, chỉ là mở cửa hàng theo nghĩa đen, chỉ mở cửa để khách hàng có thể vào.
 
 ![](../media/image60.webp)
 
-<code>店をひらく</code> ngụ ý mở cửa hàng lần đầu tiên, mở cửa cho công chúng. Nói cách khác, nở ra, như một bông hoa, thay đổi từ thứ gì đó đóng thành thứ gì đó mở.
+<code>店をひらく</code> ngụ ý mở cửa hàng lần đầu tiên, mở cửa cho công chúng. Nói cách khác, nở ra như một bông hoa, thay đổi từ thứ gì đó đóng thành thứ gì đó mở.
 
 Và chỉ một lưu ý nhỏ: với ô, cũng mở ra, và bạn có thể muốn nói <code>ひらく</code>, chúng ta thường không sử dụng nó, để mở ô thường sử dụng <code>さす</code>.
 
@@ -116,13 +116,13 @@ Tương tự với <code>ひらける</code>. Vì vậy, nó được sử dụn
 
 ![](../media/image278.webp)
 
-Chúng ta có thể nói <code>運が開く</code>, và điều này sẽ có nghĩa là <code>may mắn nở ra, như một bông hoa, trở nên mở</code>, nhưng <code>ひらける</code> ngụ ý không chỉ sự nở ra, mà còn tiếp tục tồn tại trong trạng thái nở đó.
+Chúng ta có thể nói <code>運が開く</code>, và điều này sẽ có nghĩa là <code>may mắn nở ra như một bông hoa, trở nên mở</code>, nhưng <code>ひらける</code> ngụ ý không chỉ sự nở ra, mà còn tiếp tục tồn tại trong trạng thái nở đó.
 
 Lý do chúng ta có xu hướng nói <code>店をひらく</code>, một phần vì nó là động từ tha chuyển động hơn <code>ひらける</code>, và chúng ta thực sự đang làm điều đó với cửa hàng, chúng ta mở nó; cũng vì nhấn mạnh vào hành động mở cửa hàng đó.
 
 <code>運がひらける</code>: nhấn mạnh vào việc thực sự mở may mắn ít quan trọng hơn thực tế rằng nó sẽ thay đổi. Từ thời điểm này trở đi, chúng ta sẽ may mắn, trong khi bây giờ chúng ta không may mắn lắm.
 
-Vậy, tôi nghĩ điều này cho chúng ta một ý tưởng không chỉ về bốn từ cho <code>mở</code> trong tiếng Nhật và cách chúng hoạt động, cách chúng tương tác. Thường thì chúng chồng chéo lên nhau, và không quan trọng lắm bạn sử dụng cái nào.
+Vậy, tôi nghĩ điều này cho chúng ta một cái nhìn không chỉ về bốn từ cho <code>mở</code> trong tiếng Nhật và cách chúng hoạt động, cách chúng tương tác. Thường thì chúng chồng chéo lên nhau, và không quan trọng lắm bạn sử dụng cái nào.
 
 Trong một số trường hợp, nó thực sự quan trọng, hoặc cho những gì bạn đang cụ thể nói, hoặc cho sắc thái, hàm ý và bầu không khí mà bạn muốn tạo ra khi nói điều đó.
 

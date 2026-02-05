@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Tuần trước<sup>[[24]](./24-hearsay-guesses-そう-そうだ-そうです.md)</sup> chúng ta đã nói về danh từ tính từ hỗ trợ <code>そう</code> và cách chúng ta sử dụng nó để diễn tả điều gì đó có thể như thế nào, ấn tượng của chúng ta về điều gì đó, và tin đồn. Hôm nay chúng ta sẽ nói về những cách khác để diễn tả một loạt ý tưởng tương tự, cách chúng hoạt động, chúng giống nhau như thế nào, và chúng khác nhau như thế nào.
+Tuần trước<sup>[[24]](./24-hearsay-guesses-そう-そうだ-そうです.md)</sup> chúng ta đã nói về danh từ tính từ hỗ trợ <code>そう</code> và cách sử dụng nó để diễn tả ấn tượng về điều gì đó, và tin đồn. Hôm nay chúng ta sẽ nói về những cách khác để diễn tả các ý tưởng tương tự, cách chúng hoạt động, điểm giống và khác nhau.
 
 ## らしい
 
@@ -48,7 +48,7 @@ Bây giờ, bạn thấy điều này giống như nếu trong tiếng Anh tôi 
 
 ![](../media/image845.webp)
 
-Trong trường hợp này, bạn có thể sẽ kết luận từ những gì tôi đang làm rằng bằng cách nói <code>**Có vẻ như** nó là thỏ</code>, tôi đang nói, <code>**Từ bằng chứng tôi đang xem xét ở đây, vẻ ngoài cho thấy rằng** nó là thỏ.</code> Vậy bạn thấy, không có gì đặc biệt về mặt ngữ pháp hoặc phức tạp về điều này. Nó giống như trong tiếng Anh nếu bạn nói <code>Có vẻ như nó là thỏ</code> hoặc <code>Dường như nó là thỏ</code>, **nó phụ thuộc vào ngữ cảnh liệu điều đó có ngụ ý rằng đó là thông tin bạn đã nghe** **hay đó là kết luận bạn đang rút ra từ những quan sát của mình.**
+Trong trường hợp này, bạn có thể sẽ kết luận từ những gì tôi đang làm rằng bằng cách nói <code>**Có vẻ như** nó là thỏ</code>, tôi đang nói, <code>**Từ bằng chứng tôi đang xem xét ở đây, có vẻ như** nó là thỏ.</code> Vậy bạn thấy, không có gì đặc biệt về mặt ngữ pháp hoặc phức tạp về điều này. Nó giống như trong tiếng Anh nếu bạn nói <code>Có vẻ như nó là thỏ</code> hoặc <code>Dường như nó là thỏ</code>, **nó phụ thuộc vào ngữ cảnh liệu điều đó có ngụ ý rằng đó là thông tin bạn đã nghe** **hay đó là kết luận bạn đang rút ra từ những quan sát của mình.**
 
 ---
 
@@ -96,11 +96,11 @@ Vậy bạn thấy, **với <code>らしい</code> chúng ta đang đi vào nh�
 
 ## っぽい
 
-Bây giờ, chúng ta cũng sẽ nhanh chóng xem xét っぽい, đây là một っ nhỏ theo sau bởi -ぽい, vậy nên chúng ta có một khoảng nghỉ nhỏ giữa điều đó và những gì chúng ta đang nói. Vậy nếu chúng ta muốn nói <code>trẻ con</code>, chúng ta có thể nói <code>子ども**っぽい**</code>. **Nó hoạt động rất giống <code>らしい</code>. Nó cũng là một tính từ hỗ trợ.** **Nó bình dân hơn nhiều so với <code>らしい</code>** và chúng ta thường nghe nó chính xác ở dạng đó – <code>子ども**っぽい**</code>, <code>ウサギ**っぽい**</code>.
+Bây giờ, chúng ta cũng sẽ nhanh chóng xem xét っぽい, đây là một っ nhỏ theo sau bởi -ぽい, vậy nên chúng ta có một khoảng nghỉ nhỏ giữa điều đó và những gì chúng ta đang nói. Vậy nếu chúng ta muốn nói <code>trẻ con</code>, chúng ta có thể nói <code>子ども**っぽい**</code>. **Nó hoạt động rất giống <code>らしい</code>. Nó cũng là một tính từ hỗ trợ.** **Nó thân mật hơn nhiều so với <code>らしい</code>** và chúng ta thường nghe nó chính xác ở dạng đó – <code>子ども**っぽい**</code>, <code>ウサギ**っぽい**</code>.
 
 ---
 
-**Bạn không thể sử dụng っぽい ở cuối một mệnh đề hoàn chỉnh. Bạn chỉ có thể gắn nó vào một từ.** Và ngoài bản chất thông tục của nó, một sự khác biệt trong xu hướng từ <code>らしい</code> là **<code>らしい</code> sẽ có xu hướng ngụ ý rằng phẩm chất đó là thứ mà điều gì đó nên có.** **-っぽい thường có xu hướng ngụ ý điều ngược lại.** *(về cơ bản, nó có xu hướng ngụ ý một phẩm chất không mong muốn)*
+**Bạn không thể sử dụng っぽい ở cuối một mệnh đề hoàn chỉnh. Bạn chỉ có thể gắn nó vào một từ.** Và ngoài bản chất thân mật của nó, một sự khác biệt trong xu hướng từ <code>らしい</code> là **<code>らしい</code> sẽ có xu hướng ngụ ý rằng phẩm chất đó là thứ mà điều gì đó nên có.** **-っぽい thường có xu hướng ngụ ý điều ngược lại.** *(về cơ bản, nó có xu hướng ngụ ý một phẩm chất không mong muốn)*
 
 ---
 

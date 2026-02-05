@@ -4,7 +4,7 @@
 
 こんにちは。
 
-*Hôm nay* chúng ta sẽ nói về <code>ようになる</code>, <code>ようにする</code>, <code>ことにする</code>, <code>ことになる</code>*(không)*. Bây giờ, tất cả các yếu tố của những biểu thức này chúng ta đã học rồi, vì vậy điều chúng ta cần làm bây giờ là xem chúng kết hợp với nhau như thế nào trong những trường hợp này, chúng có nghĩa gì, và tại sao chúng lại có nghĩa như vậy.
+*Hôm nay* chúng ta sẽ nói về <code>ようになる</code>, <code>ようにする</code>, <code>ことにする</code>, <code>ことになる</code>*(không)*. Tất cả các yếu tố của những biểu thức này chúng ta đã học rồi, vì vậy điều chúng ta cần làm bây giờ là xem chúng kết hợp với nhau như thế nào trong những trường hợp này, chúng có nghĩa gì, và tại sao chúng lại có nghĩa như vậy.
 
 Vậy hãy cùng ôn tập nhanh về <code>になる</code> và <code>にする</code>. Như chúng ta đã biết, hai động từ nguyên thủy của tiếng Nhật là <code>ある</code> và <code>する</code>. <code>ある</code> là mẹ của tất cả các động từ tự động và <code>する</code> là cha của tất cả các động từ tha động.
 
@@ -20,19 +20,21 @@ Bây giờ, chúng ta biết rằng khi chúng ta sử dụng một danh từ th
 
 Vậy, khi chúng ta nói <code>ようになる</code>... À, chúng ta đã xem xét <code>よう</code> tuần trước, phải không, và chúng ta đã thấy rằng khi chúng ta so sánh hoặc ví von các thứ thì <code>よう</code> có nghĩa là một <code>hình thức</code> hoặc một <code>sự giống nhau</code>. Nghĩa cơ bản của nó là một hình thức hoặc một trạng thái tồn tại.
 
-Khi chúng ta nói <code>りきしは山のようだ</code> — <code>đô vật sumo giống như một ngọn núi</code> — chúng ta không nói rằng đô vật sumo <code>là</code> một ngọn núi, chúng ta đang trích xuất hình thức hoặc trạng thái tồn tại của ngọn núi và áp dụng nó cho đô vật sumo. Chúng ta không nói rằng đô vật sumo là ngọn núi, chúng ta nói rằng đô vật là <code>よう</code> của ngọn núi, hình thức hoặc trạng thái tồn tại của ngọn núi — chúng ta có thể nói, <code>sự giống nhau</code> của ngọn núi. Bây giờ, khi chúng ta sử dụng <code>よう</code> trong các biểu thức mà chúng ta đang nói hôm nay, chúng ta không thêm chúng vào một danh từ như <code>山</code>, chúng ta thêm chúng vào một mệnh đề logic hoàn chỉnh.
+Khi chúng ta nói <code>りきしは山のようだ</code> — <code>đô vật sumo giống như một ngọn núi</code> — chúng ta không nói rằng đô vật sumo <code>là</code> một ngọn núi, chúng ta đang trích xuất hình thức hoặc trạng thái tồn tại của ngọn núi và áp dụng nó cho đô vật sumo. Chúng ta không nói rằng đô vật sumo là ngọn núi, chúng ta nói rằng đô vật là <code>よう</code> của ngọn núi, hình thức hoặc trạng thái tồn tại của ngọn núi — chúng ta có thể nói, <code>sự giống nhau</code> của ngọn núi. 
+
+Bây giờ, khi chúng ta sử dụng <code>よう</code> trong các biểu thức mà chúng ta đang nói hôm nay, chúng ta không thêm chúng vào một danh từ như <code>山</code>, chúng ta thêm chúng vào một mệnh đề logic hoàn chỉnh.
 
 Các sách giáo khoa đôi khi nói rằng chúng ta đang thêm chúng vào một động từ, nhưng điều chúng ta thực sự đang làm là thêm chúng vào một mệnh đề logic với một động từ-động cơ.
 
 ![](../media/image364.webp)
 
-Và <code>よう</code>, như chúng ta đã biết, là một danh từ; mệnh đề logic trở thành tính từ, từ mô tả, cho danh từ đó, vì vậy chúng ta biết rằng bất kỳ động từ-động cơ nào cùng với mệnh đề logic mà nó dẫn đầu đều có thể trở thành một tính từ vì vậy chúng ta không nói <code>のよう</code>, chúng ta KHÔNG nói sự giống nhau của cái gì khác ở đây. Vậy khi chúng ta có một mệnh đề logic cộng <code>ようになる</code>, chúng ta đang nói rằng cái gì đó đã trở thành hoặc đi vào trạng thái tồn tại hoặc hình thức của mệnh đề logic đó.
+Và <code>よう</code>, như chúng ta đã biết, là một danh từ; mệnh đề logic trở thành tính từ, từ mô tả, cho danh từ đó, vì vậy chúng ta biết rằng bất kỳ động từ-động cơ nào cùng với mệnh đề logic mà nó dẫn đầu đều có thể trở thành một tính từ. Vì vậy chúng ta không nói <code>のよう</code>, chúng ta KHÔNG nói sự giống nhau của cái gì khác ở đây. Vậy khi chúng ta có một mệnh đề logic cộng <code>ようになる</code>, chúng ta đang nói rằng cái gì đó đã trở thành hoặc đi vào trạng thái tồn tại hoặc hình thức của mệnh đề logic đó.
 
-Vì vậy, ví dụ, nếu chúng ta nói <code>彼を信じるようになった</code>, chúng ta đang nói <code>Tôi đã tin anh ấy.</code>
+Vì vậy, ví dụ, nếu chúng ta nói <code>彼を信じるようになった</code>, chúng ta đang nói <code>Tôi đã bắt đầu tin anh ấy.</code>
 
 ![](../media/image893.webp)
 
-<code>彼を信じる</code> (hoặc <code>zeroが彼を信じる</code>) — <code>Tôi tin anh ấy</code> — là một mệnh đề logic, và chúng ta đang nói rằng tôi đã chuyển vào trạng thái đó, tôi đã trở thành trạng thái của mệnh đề logic đó: <code>Tôi đã tin anh ấy.</code> Điều này thường được sử dụng với một động từ phụ trợ khả năng.
+<code>彼を信じる</code> (hoặc <code>zeroが彼を信じる</code>) — <code>Tôi tin anh ấy</code> — là một mệnh đề logic, và chúng ta đang nói rằng tôi đã chuyển vào trạng thái đó, tôi đã trở thành trạng thái của mệnh đề logic đó: <code>Tôi đã bắt đầu tin anh ấy.</code> Điều này thường được sử dụng với một động từ phụ trợ khả năng.
 
 Ví dụ, chúng ta có thể nói, <code>日本語のマンガが読めるようになった</code> — <code>manga tiếng Nhật đã trở nên có thể đọc được (đối với tôi)</code>.
 
@@ -48,7 +50,7 @@ Bây giờ, khi chúng ta nói <code>ようにする</code> chúng ta biết r�
 
 ![](../media/image93.webp)
 
-Vậy <code>ようにする</code> là làm cho cái gì đó đi vào một trạng thái. Nó không tự đi vào; ai đó đang làm cho nó đi vào trạng thái đó. Vậy nếu chúng ta nói <code>よく見えるにする</code> — <code>よく見える</code> có nghĩa là <code>trông đẹp</code>, vì vậy <code>よく見えるようにする</code> là làm cho ai đó hoặc cái gì đó trông đẹp.
+Vậy <code>ようにする</code> là làm cho cái gì đó đi vào một trạng thái. Nó không tự đi vào; ai đó đang làm cho nó đi vào trạng thái đó. Vậy nếu chúng ta nói <code>よく見えるようにする</code> — <code>よく見える</code> có nghĩa là <code>trông đẹp</code>, vì vậy <code>よく見えるようにする</code> là làm cho ai đó hoặc cái gì đó trông đẹp.
 
 Bây giờ, <code>ようにする</code> có một nghĩa mở rộng, và đó là khi chúng ta nói cái gì đó về cơ bản tương đương với <code>xin hãy đảm bảo rằng bạn làm điều gì đó</code>. Vậy, chúng ta có thể nói <code>ドアにかぎをかけるようにしてください</code> và điều đó có nghĩa là <code>xin hãy làm sao cho bạn khóa cửa</code>.
 

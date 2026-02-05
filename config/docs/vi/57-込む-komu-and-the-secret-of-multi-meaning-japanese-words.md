@@ -20,7 +20,7 @@ Từ <code>focus</code> ban đầu có nghĩa là <code>lò sưởi</code>. Mọ
 
 Từ <code>stimulus</code> ban đầu có nghĩa là <code>gậy thúc bò</code>, một cây gậy nhọn mà bạn sẽ dùng để dẫn dắt bò. Và từ đó đến tất cả các nghĩa trừu tượng của <code>stimulus</code>. <code>Politics</code> đến từ một từ đơn giản có nghĩa là <code>thành phố</code>.
 
-<code>Economics</code> đến từ một từ đơn giản có nghĩa là <code>nhà</code>. Bây giờ, chúng ta không cần biết các ẩn dụ vật lý mà những từ như thế này dựa trên, nhưng khi chúng ta gặp những từ trong tiếng Nhật dường như có nghĩa khác nhau và mâu thuẫn, chúng ta cần hiểu ẩn dụ cơ bản để nắm bắt các nghĩa khác mà không cần học chúng như một danh sách giặt dài những thứ dường như ngẫu nhiên.
+<code>Economics</code> đến từ một từ đơn giản có nghĩa là <code>nhà</code>. Bây giờ, chúng ta không cần biết các ẩn dụ vật lý mà những từ như thế này dựa trên, nhưng khi chúng ta gặp những từ trong tiếng Nhật dường như có nghĩa khác nhau và mâu thuẫn, chúng ta cần hiểu ẩn dụ cơ bản để nắm bắt các nghĩa khác mà không cần học chúng như một danh sách dài những thứ dường như ngẫu nhiên.
 
 Vì vậy, nếu chúng ta thấy từ <code>切る</code> trong từ điển — có nghĩa là <code>cắt</code> — chúng ta thấy rất nhiều nghĩa cho nó như <code>kết thúc cuộc trò chuyện</code>, <code>cắt đứt mối quan hệ</code>, <code>băng qua cánh đồng</code>.
 
@@ -52,7 +52,7 @@ Nó có thể có nghĩa đen là nhảy xuống nước hoặc gì đó, nhưng
 
 ### 黙り込む
 
-Nó có thể trở nên trừu tượng hơn, với các khái niệm như <code>黙り込む</code>. <code>黙る</code> có nghĩa là <code>im lặng</code>. <code>黙り込む</code> có nghĩa là <code>im lặng</code> về điều gì đó / <code>câm miệng</code> về điều gì đó, nói cách khác, im lặng và giữ mọi thứ 込む-ed bên trong bản thân, không để bất cứ thứ gì ra ngoài.
+Nó có thể trở nên trừu tượng hơn, với các khái niệm như <code>黙り込む</code>. <code>黙る</code> có nghĩa là <code>im lặng</code>. <code>黙り込む</code> có nghĩa là <code>im lặng</code> về điều gì đó / <code>câm miệng</code> về điều gì đó, nói cách khác, im lặng và giữ mọi thứ được nhồi nhét bên trong bản thân, không để bất cứ thứ gì ra ngoài.
 
 ### 読み込む
 
@@ -100,5 +100,5 @@ Chúng ta cũng sẽ gặp một vài nghĩa khác của <code>込む</code>, đ
 như nó rất thường xuyên, như một động từ phụ trợ được đặt vào い-stem của động từ khác. Nhưng một khi chúng ta hiểu điểm này, rằng nó liên quan đến việc nhồi nhét, rằng nó liên quan đến việc lấp đầy, rằng nó liên quan đến sự kỹ lưỡng, hoàn chỉnh, hoặc với việc khóa lại, thì chúng ta có thể hiểu những từ khác này sẽ hoạt động như thế nào khi chúng ta nghe chúng.
 
 ::: info
-có một [**bình luận**](https://www.youtube.com/watch?v=31xnxSFUCiw&lc=Ugx7rl5ZlBI3QADLH3R4AaABAg&ab_channel=OrganicJapanesewithCureDolly) thú vị này*. Tiếc là chúng ta không thể nghe suy nghĩ của Dolly về nó :{
+có một [**bình luận**](https://www.youtube.com/watch?v=31xnxSFUCiw&lc=Ugx7rl5ZlBI3QADLH3R4AaABAg&ab_channel=OrganicJapanesewithCureDolly) thú vị này. Tiếc là chúng ta không thể nghe suy nghĩ của Dolly về nó :{
 :::

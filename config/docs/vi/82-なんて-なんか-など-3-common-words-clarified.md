@@ -1,10 +1,10 @@
-# **82. なんて、なんか、など: 3 từ phổ biến được giải thích rõ ràng.**
+# **82. なんて、なんか、など: 3 từ phổ biến được làm rõ.**
 
 [**なんて Nante なんか Nanka など Nado: 3 Common words clarified. Lesson 82**](https://www.youtube.com/watch?v=OlUG9ym-b4Y&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về ba từ mà bạn sẽ gặp thường xuyên trong quá trình tiếp xúc với ngôn ngữ. **Chúng có phổ nghĩa khá rộng, và điều đó có nghĩa là từ điển không thể thực sự bao quát toàn bộ phạm vi ý nghĩa của chúng,** đặc biệt khi, như thường xảy ra, chúng được sử dụng theo những cách rất thông tục. Và tôi muốn cảm ơn tất cả những người đã cho tôi biết những từ nào gây khó khăn cho họ trong quá trình tiếp xúc với ngôn ngữ.
+Hôm nay chúng ta sẽ nói về ba từ mà bạn sẽ gặp thường xuyên trong quá trình immersion. **Chúng có phổ nghĩa khá rộng, và điều đó có nghĩa là từ điển không thể thực sự bao quát toàn bộ phạm vi ý nghĩa của chúng,** đặc biệt khi, như thường xảy ra, chúng được sử dụng theo những cách rất thông tục. Và tôi muốn cảm ơn tất cả những người đã cho tôi biết những từ nào gây khó khăn cho họ trong quá trình immersion.
 
 Điều này giúp tôi biết nên đề cập những gì và theo thứ tự nào. Nhiều người muốn biết về <code>なんて</code> và <code>なんか</code>. Vì vậy nếu bạn có những từ đang gây khó khăn cho bạn, xin hãy để lại trong phần Bình luận bên dưới. Rất hữu ích để biết điều gì đang gây ra vấn đề.
 
@@ -41,7 +41,7 @@ Xe đạp là <code>自転車/じてんしゃ</code>, tàu điện là <code>電
 Vì vậy về cơ bản điều đó có nghĩa là <code>cửa kính của ô tô, **vân vân**</code>, mà **trong trường hợp này có nghĩa là bất kỳ loại phương tiện mặt đất nào có cửa kính**, vì vậy không phải <code>自転車</code> nhưng <code>電車</code>, vân vân: <code>cửa kính của phương tiện</code>.
 
 ::: info
-Lưu ý cách など ở đây được sử dụng ngay sau 自転車 (đứng trước cả trợ từ の).
+Lưu ý cách など ở đây được sử dụng ngay sau 自動車 (đứng trước cả trợ từ の).
 など dường như được sử dụng trực tiếp sau danh từ / cụm danh từ của nó giống như bất kỳ trợ từ nào khác (など cũng là một trợ từ). Hơn nữa, nhìn vào một số câu Yomichan nơi nó được sử dụng, có vẻ như nó được ưu tiên hơn các trợ từ logic như の, が, を ở chỗ nó là cái đầu tiên gắn vào/sau danh từ được gắn của nó, với các trợ từ logic chỉ theo sau nó một khi nó đã được gắn. Như đã thấy ở trên hoặc trong một câu từ Yomichan:
 >大学では<code>**フランス語やドイツ語**</code>など<code>**を**</code>勉強した。
 
@@ -56,17 +56,17 @@ Và <code>など</code> này là cách sử dụng rất điển hình của t�
 
 ![](../media/image513.webp)
 
-Bây giờ, <code>hạ thấp</code> và <code>coi thường</code> không chính xác là những từ đúng để sử dụng ở đây, nhưng tôi không nghĩ có những từ hoàn toàn đúng trong tiếng Anh. **Nó ném một ánh sáng tiêu cực, trong trường hợp của <code>など</code> thường là làm nhẹ hoặc hơi từ chối bất cứ điều gì.**
+Bây giờ, <code>hạ thấp</code> và <code>coi thường</code> không chính xác là những từ đúng để sử dụng ở đây, nhưng tôi không nghĩ có những từ hoàn toàn đúng trong tiếng Anh. **Nó tạo ra một ánh sáng tiêu cực, trong trường hợp của <code>など</code> thường là làm nhẹ hoặc hơi từ chối bất cứ điều gì.**
 
 Vì vậy chúng ta có thể nói, <code>タバコ**など**不要だ</code>, có nghĩa là <code>Tôi không cần thuốc lá</code>. Bây giờ, <code>タバコは不要だ</code> có nghĩa tương tự về cơ bản **(lưu ý rằng <code>など</code> loại bỏ các trợ từ khác)**. *- vì vậy Dolly xác nhận quan sát của tôi ở trên, ngoại trừ ở đây nó loại bỏ hoàn toàn trợ từ は, có lẽ vì nó không phải là trợ từ logic.*
 
 ---
 
-**Sự khác biệt duy nhất ở đây là <code>など</code> đang ném ánh sáng hơi khinh thường đó lên thuốc lá.** Vì vậy cách chúng ta có thể đọc nó là một cái gì đó như, trong tiếng Anh, <code>Tôi không cần thứ như thuốc lá</code>. **Bây giờ, thực tế điều này không có nghĩa đó theo nghĩa đen.**
+**Sự khác biệt duy nhất ở đây là <code>など</code> đang tạo ra ánh sáng hơi khinh thường đó lên thuốc lá.** Vì vậy cách chúng ta có thể đọc nó là một cái gì đó như, trong tiếng Anh, <code>Tôi không cần thứ như thuốc lá</code>. **Bây giờ, thực tế điều này không có nghĩa đó theo nghĩa đen.**
 
 **Nó không nói tôi không cần thuốc lá hoặc xì gà hoặc tẩu hoặc ống điếu.** **Nó có nghĩa là tôi không cần loại thứ đó — đó là thứ tôi không cần trong cuộc sống của mình.** Và như tôi nói, cách sử dụng này chồng chéo với hai từ khác của chúng ta.
 
-**Cả <code>なんか</code> và <code>なんて</code> đều có thể được sử dụng theo cách ném-ánh-sáng-tiêu-cực-lên-danh-từ-chúng-theo-sau này.** **Mạnh nhất và thông tục nhất trong ba cái là <code>なんか</code>,** **và <code>なんて</code> nằm ở đâu đó giữa.**
+**Cả <code>なんか</code> và <code>なんて</code> đều có thể được sử dụng theo cách tạo-ánh-sáng-tiêu-cực-lên-danh-từ-chúng-theo-sau này.** **Mạnh nhất và thông tục nhất trong ba cái là <code>なんか</code>,** **và <code>なんて</code> nằm ở đâu đó giữa.**
 
 ## なんか
 
@@ -76,13 +76,13 @@ Vì vậy chúng ta có thể nói, <code>タバコ**など**不要だ</code>, c
 
 Và cái hạ thấp bạn sẽ đôi khi nghe thấy rất mạnh trong những trường hợp mà... chẳng hạn trong anime một em gái đang tức giận với chị gái. Cô ấy có thể nói, <code>お姉ちゃん**なんか**大嫌い!</code> (Em thực sự ghét **thứ như** chị em gái).
 
-Bây giờ, tất nhiên, **đó không phải theo nghĩa đen những gì cô ấy muốn nói.** **Cô ấy không có nghĩa là cô ấy ghét <code>thứ như</code> chị gái,** **nhưng bằng cách sử dụng cách diễn đạt này — <code>thứ như chị</code>, <code>thứ như chị gái tôi</code> —** **bạn đang ném một ánh sáng rất khinh thường lên những gì bạn đang nói về.**
+Bây giờ, tất nhiên, **đó không phải theo nghĩa đen những gì cô ấy muốn nói.** **Cô ấy không có nghĩa là cô ấy ghét <code>thứ như</code> chị gái,** **nhưng bằng cách sử dụng cách diễn đạt này — <code>thứ như chị</code>, <code>thứ như chị gái tôi</code> —** **bạn đang tạo ra một ánh sáng rất khinh thường lên những gì bạn đang nói về.**
 
 ---
 
 **Nó có thể nhẹ hơn:** chúng ta có thể nói, <code>サッカー**なんか**興味がない</code> (Tôi không có hứng thú **với thứ như** bóng đá / Tôi không quan tâm đến bóng đá). **Và nó có thể coi thường nhẹ hơn nữa:** chúng ta có thể nói, <code>雨なんか平気だ</code>.
 
-Và những gì chúng ta nói ở đó là "*(Thứ như)* Mưa không làm tôi phiền / Tôi không bị phiền bởi *(thứ như)* mưa / Tôi ổn với *(thứ như)* mưa". **Và <code>なんか</code> chỉ đang ném ánh sáng hơi giảm bớt đó lên mưa,** **cho thấy chúng ta ít lo lắng về nó như thế nào.**
+Và những gì chúng ta nói ở đó là "*(Thứ như)* Mưa không làm tôi phiền / Tôi không bị phiền bởi *(thứ như)* mưa / Tôi ổn với *(thứ như)* mưa". **Và <code>なんか</code> chỉ đang tạo ra ánh sáng hơi giảm bớt đó lên mưa,** **cho thấy chúng ta ít lo lắng về nó như thế nào.**
 
 ### なんか sử dụng với chính mình
 
@@ -202,7 +202,7 @@ Vậy sự khác biệt giữa việc sử dụng <code>-という</code> thông
 
 Chà, <code>山田**という**人は知らない</code> giống như nói trong tiếng Anh đơn giản <code>Tôi không biết người **tên là** Yamada</code>. Nhưng <code>山田**なんて**人は知らない</code> giống như nói <code>Tôi không biết nhân vật nào **tên là** Yamada cả</code>.
 
-**Nó ném nhiều nghi ngờ và đặt câu hỏi hơn vào toàn bộ sự việc.**
+**Nó tạo ra nhiều nghi ngờ và đặt câu hỏi hơn vào toàn bộ sự việc.**
 
 Vì vậy, chúng ta đã đề cập đến các cách sử dụng chính của ba từ hoặc biểu đạt này ở đây. Nó không hoàn toàn đầy đủ, nhưng tôi nghĩ nó cho bạn những chìa khóa cơ bản về cách chúng hoạt động, chúng có nghĩa gì, chúng được sử dụng như thế nào.
 

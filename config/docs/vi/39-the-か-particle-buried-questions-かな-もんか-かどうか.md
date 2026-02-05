@@ -8,7 +8,7 @@ Hôm nay chúng ta sẽ nói về những câu hỏi không phải là câu hỏ
 
 Bây giờ, chúng ta có lẽ đã biết trợ từ -か như một loại dấu hỏi bằng lời nói được đặt ở cuối câu です/ます để biến chúng thành câu hỏi. Tuy nhiên, chúng ta không sử dụng -か, như chúng ta đã giải thích tuần trước, ở cuối câu để đánh dấu chúng là câu hỏi trong tiếng Nhật thông thường, không trang trọng.
 
-Tại sao không? Bởi vì đặt -か ở cuối câu không trang trọng nghe có vẻ hơi cộc lốc và thô. Nó không sai ngữ pháp, và đôi khi được sử dụng bởi những người nói nam muốn nghe có vẻ cộc lốc hoặc thô.
+Tại sao không? Bởi vì đặt -か ở cuối câu không trang trọng nghe có vẻ hơi cộc lốc và thô. Nó không sai ngữ pháp, và đôi khi được sử dụng bởi những người nam muốn nghe có vẻ cộc lốc hoặc thô.
 
 Nhưng nói chung, chúng ta không sử dụng nó. Chúng ta biểu thị câu hỏi bằng ngữ điệu trong lời nói thông thường. Nhưng chúng ta sử dụng dấu hiệu -か mọi lúc, chỉ là không ở cuối câu.
 
@@ -130,7 +130,7 @@ Vậy nếu chúng ta nói, ví dụ, <code>漢字が読めるどころかひら
 
 ![](../media/image1131.webp)
 
-<code>どころか</code> đang làm gì ở đây? Chà, tất nhiên nó đang phủ định, giống như chúng ta đã thấy rằng nó có thể, nhưng nó cũng đang sử dụng khái niệm về nơi / <code>ところ</code>, nghĩa là, không gian khái niệm hơn là nơi đen.
+<code>どころか</code> đang làm gì ở đây? Chà, tất nhiên nó đang phủ định, giống như chúng ta đã thấy rằng nó có thể, nhưng nó cũng đang sử dụng khái niệm về nơi / <code>ところ</code>, nghĩa là, không gian khái niệm hơn là nơi thực tế.
 
 Chúng ta đang nói <code>Không chỉ tôi không thể đi xa đến mức đọc kanji, tôi thậm chí không thể đến điểm đọc hiragana.</code> Đó là ẩn dụ đang được sử dụng ở đây: không chỉ tình huống chưa đạt đến nơi xa này, nó thậm chí chưa đạt đến một nơi gần hơn thế.
 

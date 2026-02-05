@@ -1,18 +1,18 @@
-# **43. CHUYỂN ĐỔI MÔ HÌNH TƠ BẢN: Vượt qua sự bối rối**
+# **43. CHUYỂN ĐỔI TƯ DUY: Vượt qua sự bối rối**
 
 [**Japanese learning PARADIGM SHIFT: Cut through the confusion. Lesson 43**](https://www.youtube.com/watch?v=X_HlngOAvX8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=45&pp=iAQB)
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về cái mà tôi gọi hơi kịch tính là <code>Vấn đề cuối cùng</code>. Ý tôi là chúng ta sẽ mở khóa một lĩnh vực mới của tiếng Nhật và chúng ta sẽ làm điều đó bằng cùng một phương pháp mà chúng ta đã bắt đầu, tức là nhìn tiếng Nhật như tiếng Nhật chứ không phải như tiếng Anh được viết bằng một mật mã bí mật nào đó. Lý do tôi gọi nó là <code>vấn đề cuối cùng</code> là vì đây là một vấn đề duy nhất mà một số học sinh sắc sảo và có tính phân tích nhất của tôi gặp phải với các mô hình cấu trúc tiếng Nhật của tôi.
+Hôm nay chúng ta sẽ nói về cái mà tôi gọi hơi kịch tính là <code>Vấn đề cuối cùng</code>. Ý tôi là chúng ta sẽ mở khóa một lĩnh vực mới của tiếng Nhật bằng cùng phương pháp mà chúng ta đã bắt đầu, tức là nhìn tiếng Nhật như tiếng Nhật chứ không phải như tiếng Anh được viết bằng mật mã bí mật. Lý do tôi gọi nó là <code>vấn đề cuối cùng</code> là vì đây là vấn đề duy nhất mà một số học sinh sắc sảo và có tính phân tích nhất của tôi gặp phải với các mô hình cấu trúc tiếng Nhật của tôi.
 
-Phần lớn, nếu ai đó hiểu được mô hình của tôi, chúng sẽ trở nên hiển nhiên. Và đó là điều tôi dựa vào trong công việc của mình. Tôi không yêu cầu ai tin tưởng tôi. Hãy xem chúng có hiệu quả không. Nếu chúng không hiệu quả, hãy vứt bỏ chúng. Nếu chúng hiệu quả, hãy sử dụng chúng. Không có hành động tin tưởng mù quáng nào ở đây cả. Bây giờ, tôi coi vấn đề này như một lời khen ngợi cho công việc của mình. Một phần vì, tất nhiên, chỉ có một vấn đề duy nhất, điều này khá thú vị đối với một mô hình hoàn chỉnh và rất cấp tiến về tiếng Nhật. Nhưng lý do thứ hai là: mọi người gặp vấn đề này vì tôi đã làm hỏng họ.
+Phần lớn, nếu ai đó hiểu được mô hình của tôi, chúng sẽ trở nên hiển nhiên. Và đó là điều tôi dựa vào trong công việc của mình. Tôi không yêu cầu ai tin tưởng tôi. Hãy xem chúng có hiệu quả không. Nếu không hiệu quả, hãy vứt bỏ. Nếu hiệu quả, hãy sử dụng. Không có hành động tin tưởng mù quáng nào ở đây cả. Bây giờ, tôi coi vấn đề này như một lời khen ngợi cho công việc của mình. Một phần vì chỉ có một vấn đề duy nhất, điều này khá thú vị đối với một mô hình hoàn chỉnh và rất cấp tiến về tiếng Nhật. Nhưng lý do thứ hai là: mọi người gặp vấn đề này vì tôi đã làm hỏng họ.
 
-Tôi nói điều này có phần hài hước, nhưng sự thật là mọi người thoát ra khỏi thế giới của các <code>giải thích ngữ pháp tiếng Nhật</code> bằng tiếng Anh trong Genki và các trang web ngữ pháp tiếng Nhật (cái gọi là) khác nhau và họ đang rời bỏ một thế giới của một khối rối rắm những thứ kỳ lạ mà chỉ tình cờ có nghĩa như vậy mà không có lý do cụ thể nào và với một loạt các ngoại lệ và quy tắc ngẫu nhiên để bước vào một thế giới logic tinh thể nơi mọi thứ đều có ý nghĩa, nơi mọi thứ đều là như vậy vì một lý do chính đáng.
+Tôi nói điều này có phần hài hước, nhưng sự thật là mọi người thoát ra khỏi thế giới của các <code>giải thích ngữ pháp tiếng Nhật</code> bằng tiếng Anh trong Genki và các trang web ngữ pháp tiếng Nhật khác và họ đang rời bỏ một thế giới rối rắm những thứ kỳ lạ mà chỉ tình cờ có nghĩa như vậy mà không có lý do cụ thể và với một loạt ngoại lệ và quy tắc ngẫu nhiên để bước vào một thế giới logic tinh thể nơi mọi thứ đều có ý nghĩa, nơi mọi thứ đều là như vậy vì một lý do chính đáng.
 
 ![](../media/image413.webp)
 
-Và vì vậy khi họ gặp phải thứ gì đó trông giống như một ngoại lệ hoặc một quy tắc ngẫu nhiên, họ muốn loại bỏ nó. Họ sẽ không chịu đựng thêm một thứ như vậy nữa và tôi không thể trách họ. Tuy nhiên, đây không phải là một quy tắc ngẫu nhiên. Đây là điều gì đó rất dễ hiểu nếu chúng ta có thể thực hiện cùng loại chuyển đổi mô hình tư duy mà chúng ta đã thực hiện ngay từ đầu và nhìn thấy nó như nó thực sự là trong tiếng Nhật, không nhìn nó qua con mắt tiếng Anh. Vậy đây là gì? Hãy lấy một ví dụ.
+Và vì vậy khi họ gặp phải thứ gì đó trông giống như một ngoại lệ hoặc một quy tắc ngẫu nhiên, họ muốn loại bỏ nó. Họ sẽ không chịu đựng thêm một thứ như vậy nữa và tôi không thể trách họ. Tuy nhiên, đây không phải là một quy tắc ngẫu nhiên. Đây là điều rất dễ hiểu nếu chúng ta có thể thực hiện cùng loại chuyển đổi tư duy mà chúng ta đã thực hiện ngay từ đầu và nhìn thấy nó như nó thực sự là trong tiếng Nhật, không nhìn nó qua con mắt tiếng Anh. Vậy đây là gì? Hãy lấy một ví dụ.
 
 Nếu chúng ta nói <code>クレープが好きだ</code>, chúng ta đã học rằng điều này không có nghĩa là <code>I like crepes</code>. Nếu bạn nghĩ nó có nghĩa là <code>I like crepes</code>, thì bạn thực sự đã từ bỏ mọi hy vọng hiểu được cấu trúc tiếng Nhật. Bởi vì, như chúng ta biết, mọi câu tiếng Nhật đều có hai yếu tố cốt lõi. Nó có thể có bất kỳ một trong ba động cơ nào, có thể là động từ, tính từ, hoặc danh từ cộng với copula. Và phần thứ hai của câu cốt lõi luôn giống nhau: đó là một danh từ được đánh dấu bằng が. Chúng ta không thể luôn nhìn thấy nó, nhưng nó luôn ở đó.
 
@@ -28,7 +28,7 @@ Cốt lõi của câu chính là câu và mọi thứ khác là phần phụ c�
 
 Bởi vì <code>I</code> không làm gì ở đây, crepes là toa chính được đánh dấu が. Và phần đầu của câu, động cơ, không phải là động từ, mà là tính từ. Đó là tính từ trợ giúp <code>-たい</code>. Nó được gắn vào một động từ, nhưng động cơ thực sự của câu không phải là động từ, mà là tính từ <code>-たい</code>. Nó không thể có nghĩa là <code>want</code>, vì <code>want</code> là một động từ.
 
-Vậy điều này thực sự đang nói là chất lượng của crepes sao cho nó gây ra sự muốn trong tôi. Đây là cách diễn đạt dài dòng, nhưng nó tránh được bất kỳ loại hiểu sai dựa trên tiếng Anh nào về câu này. Đó là điều nó thực sự có nghĩa. Nó mô tả crepes một cách tính từ, và điều nó nói về chúng là chúng có chất lượng khiến tôi muốn ăn chúng. Và điều chúng ta học ngay từ đầu là tiếng Anh là một ngôn ngữ rất tự ngã trung tâm.
+Vậy điều này thực sự đang nói là chất lượng của crepes khiến nó gây ra sự muốn trong tôi. Đây là cách diễn đạt dài dòng, nhưng nó tránh được bất kỳ loại hiểu sai dựa trên tiếng Anh nào về câu này. Đó là điều nó thực sự có nghĩa. Nó mô tả crepes một cách tính từ, và điều nó nói về chúng là chúng có chất lượng khiến tôi muốn ăn chúng. Và điều chúng ta học ngay từ đầu là tiếng Anh là một ngôn ngữ rất tự ngã trung tâm.
 
 Nếu có một hành động, một chủ quan tính, nó luôn muốn đặt một tác nhân tự ngã ở trung tâm. Tiếng Nhật không có mệnh lệnh mạnh mẽ đó.
 

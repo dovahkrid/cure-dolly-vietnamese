@@ -1,6 +1,11 @@
 /**
  * QA and Fix script for Vietnamese translations
  * Reviews each file for natural Vietnamese and fixes issues
+ *
+ * Usage:
+ *   npm run qa                    # Run all files
+ *   npm run qa -- --start-from 15 # Resume from file 15
+ *   npm run qa:file "filename.md" # Run single file
  */
 
 const fs = require("fs");
@@ -32,43 +37,35 @@ const CONFIG = {
   viDir: "./config/docs/vi",
   enDir: "./config/docs/en",
   reportFile: "./qa-report.md",
+  progressFile: "./qa-progress.json",
   delayBetweenRequests: 2000,
 };
 
-// Known terminology fixes - add more as discovered
+// Known terminology fixes - only for clear errors, not style preferences
+// Add fixes here as you discover consistent mistranslations
 const TERMINOLOGY_FIXES = {
-  "Động từ tự động & tha động": "Tự động từ và tha động từ",
-  "Động từ tự động và tha động": "Tự động từ và tha động từ",
-  "động từ tự động": "tự động từ",
-  "động từ tha động": "tha động từ",
-  // Add more known fixes here as you discover them
+  // Add specific fixes as discovered during QA
+  // Example: "mistranslated term": "correct term",
 };
 
-const QA_SYSTEM_PROMPT = `You are a Vietnamese language expert reviewing translations of Japanese grammar lessons.
-Your task is to review and fix the Vietnamese translation for naturalness and accuracy.
+const QA_SYSTEM_PROMPT = `You are editing Vietnamese translations of Japanese grammar lessons from "Cure Dolly's Organic Japanese".
 
-CRITICAL RULES:
-1. KEEP ALL JAPANESE TEXT UNCHANGED - Do not modify any kanji, hiragana, katakana
-2. KEEP ALL MARKDOWN FORMATTING - Headers, bold, code blocks, links, images must stay intact
-3. KEEP ALL HTML/VUE COMPONENTS unchanged
+TARGET AUDIENCE: Vietnamese learners studying Japanese (N5-N3 level), familiar with textbooks like Minna no Nihongo.
 
-REVIEW CRITERIA:
-1. **Natural Vietnamese**: Fix awkward phrasing, word order issues, unnatural expressions
-2. **Linguistic terminology**: Use proper Vietnamese grammar terms:
-   - "Tự động từ" (intransitive verb), NOT "Động từ tự động"
-   - "Tha động từ" (transitive verb), NOT "Động từ tha động"
-   - "Hệ từ" (copula)
-   - "Trợ từ" (particle)
-   - "Trợ động từ" (auxiliary verb)
-3. **Consistency**: Use consistent terminology throughout
-4. **Completeness**: Ensure nothing was lost in translation
-5. **Grammar**: Fix Vietnamese grammatical errors
+RULES:
+1. PRESERVE all Japanese text (kanji, hiragana, katakana) exactly
+2. PRESERVE all markdown formatting (headers, bold, links, images, code blocks)
+3. PRESERVE all HTML/Vue components (::: info, ::: tip, etc.)
 
-OUTPUT FORMAT:
-If the translation is good and needs no changes, respond with exactly: NO_CHANGES_NEEDED
+GOALS:
+- Natural Vietnamese: Fix awkward phrasing, improve flow
+- Concise: Prefer shorter sentences over verbose translations
+- Consistent: Same concept = same Vietnamese term throughout
+- Match Vietnamese Japanese-learning conventions when applicable
 
-If changes are needed, respond with the COMPLETE corrected markdown content.
-Do NOT include explanations - only output the corrected content or NO_CHANGES_NEEDED.`;
+OUTPUT:
+- If translation is good: respond exactly "NO_CHANGES_NEEDED"
+- If changes needed: respond with the COMPLETE corrected markdown (no explanations)`;
 
 async function reviewWithOpenRouter(viContent, enContent, filename) {
   const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
@@ -206,6 +203,39 @@ Generated: ${new Date().toISOString()}
   console.log(`\n📄 Report saved to: ${CONFIG.reportFile}`);
 }
 
+function loadProgress() {
+  try {
+    if (fs.existsSync(CONFIG.progressFile)) {
+      return JSON.parse(fs.readFileSync(CONFIG.progressFile, "utf8"));
+    }
+  } catch (e) {
+    console.warn("⚠️ Could not load progress file, starting fresh");
+  }
+  return { completed: [], lastIndex: 0 };
+}
+
+function saveProgress(progress) {
+  fs.writeFileSync(CONFIG.progressFile, JSON.stringify(progress, null, 2), "utf8");
+}
+
+function parseArgs() {
+  const args = process.argv.slice(2);
+  const options = { startFrom: null, file: null };
+
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === "--start-from" && args[i + 1]) {
+      options.startFrom = parseInt(args[i + 1], 10);
+      i++;
+    } else if (args[i] === "--file" && args[i + 1]) {
+      options.file = args[i + 1];
+      i++;
+    } else if (args[i] === "--resume") {
+      options.resume = true;
+    }
+  }
+  return options;
+}
+
 async function main() {
   console.log("=".repeat(60));
   console.log("Vietnamese Translation QA Script");
@@ -216,6 +246,8 @@ async function main() {
     process.exit(1);
   }
 
+  const options = parseArgs();
+
   const files = await glob("*.md", { cwd: CONFIG.viDir });
   const sortedFiles = files.sort((a, b) => {
     const numA = parseInt(a.match(/^(\d+)/)?.[1] || "999");
@@ -223,13 +255,32 @@ async function main() {
     return numA - numB;
   });
 
-  console.log(`\n📝 Found ${sortedFiles.length} files to review\n`);
+  // Determine starting index
+  let startIndex = 0;
+  const progress = loadProgress();
+
+  if (options.startFrom) {
+    // --start-from N: start from file number N (1-indexed display, but we find by file prefix)
+    startIndex = sortedFiles.findIndex((f) => {
+      const num = parseInt(f.match(/^(\d+)/)?.[1] || "0");
+      return num >= options.startFrom;
+    });
+    if (startIndex === -1) startIndex = 0;
+    console.log(`\n▶️  Starting from file #${options.startFrom} (index ${startIndex})`);
+  } else if (options.resume) {
+    // --resume: continue from last saved progress
+    startIndex = progress.lastIndex;
+    console.log(`\n▶️  Resuming from index ${startIndex} (${sortedFiles[startIndex] || "end"})`);
+  }
+
+  console.log(`\n📝 Found ${sortedFiles.length} files, processing ${sortedFiles.length - startIndex} files\n`);
 
   const results = [];
 
-  for (let i = 0; i < sortedFiles.length; i++) {
+  for (let i = startIndex; i < sortedFiles.length; i++) {
     const file = sortedFiles[i];
-    console.log(`[${i + 1}/${sortedFiles.length}] ${file}`);
+    const fileNum = parseInt(file.match(/^(\d+)/)?.[1] || "?");
+    console.log(`[${i + 1}/${sortedFiles.length}] (Lesson ${fileNum}) ${file}`);
 
     try {
       const result = await qaFile(file);
@@ -242,9 +293,18 @@ async function main() {
       } else {
         console.log(`   ⏭️ Skipped: ${result.reason}`);
       }
+
+      // Save progress after each file
+      progress.completed.push(file);
+      progress.lastIndex = i + 1;
+      saveProgress(progress);
     } catch (error) {
       console.log(`   ❌ Error: ${error.message}`);
       results.push({ filename: file, status: "error", error: error.message });
+
+      // Save progress even on error
+      progress.lastIndex = i;
+      saveProgress(progress);
     }
 
     if (i < sortedFiles.length - 1) {
@@ -262,14 +322,10 @@ async function main() {
   console.log(`❌ Errors: ${results.filter((r) => r.status === "error").length}`);
 }
 
-// Single file mode
-if (process.argv[2] === "--file") {
-  const filename = process.argv[3];
-  if (!filename) {
-    console.error("Usage: node qa-translations.js --file <filename>");
-    process.exit(1);
-  }
-  qaFile(filename)
+// Parse arguments and run
+const args = parseArgs();
+if (args.file) {
+  qaFile(args.file)
     .then((result) => {
       console.log(JSON.stringify(result, null, 2));
     })

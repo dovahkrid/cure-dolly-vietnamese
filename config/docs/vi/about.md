@@ -1,8 +1,8 @@
 # Giới thiệu
 
-Trước hết và quan trọng nhất, dự án này chỉ tồn tại bởi vì Mordraug và Nunko đã dành rất nhiều thời gian để phiên âm tất cả các video của Cure Dolly và chia sẻ chúng trong [Google Docs này](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/). Xin chân thành cảm ơn họ!
+Trước hết và quan trọng nhất, dự án này chỉ tồn tại nhờ Mordraug và Nunko đã dành rất nhiều thời gian để phiên âm tất cả các video của Cure Dolly và chia sẻ chúng trong [Google Docs này](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/). Xin chân thành cảm ơn họ!
 
-Về phần mình, [tôi (Kellen)](https://bento.me/kln) đã chuyển đổi script sang Markdown, thay đổi định dạng một chút, và xuất bản nó bằng Vitepress, điều mà tôi thấy thuận tiện hơn Google Docs hoặc PDF.
+Về phần mình, [tôi (Kellen)](https://bento.me/kln) đã chuyển đổi script sang Markdown, thay đổi định dạng một chút, và xuất bản bằng Vitepress, điều mà tôi thấy thuận tiện hơn Google Docs hoặc PDF.
 
 ## Những gì đã thay đổi
 
@@ -22,9 +22,9 @@ Hiếm khi, cũng có các container như thế này
 Badoom
 :::
 
-4. Tôi đã thêm một cách nhóm các bài học rất thô và không chính xác. Điều này chỉ được thực hiện để cho phép danh sách có thể được thu gọn.
-5. Hợp nhất văn bản từng dòng thành văn bản đoạn văn có thể đọc được.
+4. Tôi đã thêm cách nhóm các bài học khá thô và không chính xác. Điều này chỉ để cho phép danh sách có thể thu gọn.
+5. Hợp nhất văn bản từng dòng thành đoạn văn dễ đọc.
 6. Liên kết tất cả các bài học với nhau.
-7. Đã thêm bản dịch dễ đọc bằng tiếng Nga.
+7. Đã thêm bản dịch tiếng Nga dễ đọc.
 
-Có thể có gì đó khác đã bị hỏng trong quá trình thay đổi, nhưng không nên có những lỗi nghiêm trọng nào.
+Có thể có gì đó khác bị hỏng trong quá trình thay đổi, nhưng không nên có lỗi nghiêm trọng nào.

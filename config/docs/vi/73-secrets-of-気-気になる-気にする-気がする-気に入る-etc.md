@@ -4,13 +4,13 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về từ <code>気</code> và các cách diễn đạt khác nhau bao gồm nó, như <code>気にする</code>, <code>気がする</code>, <code>気になる</code>, <code>気に入る</code>, v.v.
+Hôm nay chúng ta sẽ nói về từ <code>気</code> và các cách diễn đạt khác nhau có chứa nó, như <code>気にする</code>, <code>気がする</code>, <code>気になる</code>, <code>気に入る</code>, v.v.
 
 ![](../media/image295.webp)
 
-Mọi người thường thấy chúng khó hiểu và khó nắm bắt cách chúng được cấu trúc, cách chúng hoạt động và cách sử dụng chúng. Có hai lý do cho điều này. Đầu tiên - chúng ta cần hiểu <code>気</code> thực sự có nghĩa là gì.
+Mọi người thường thấy chúng khó hiểu và khó nắm bắt cách chúng được cấu trúc, cách chúng hoạt động và cách sử dụng. Có hai lý do cho điều này. Đầu tiên là chúng ta cần hiểu <code>気</code> thực sự có nghĩa là gì.
 
-Và thứ hai - chúng ta cần có hiểu biết rất vững chắc về các trợ từ logic nếu muốn phân biệt những thứ như <code>気にする</code>, <code>気になる</code>, <code>気がする</code> với nhau. Và, tất nhiên, nếu bạn học tiếng Nhật thông thường từ sách giáo khoa, bạn sẽ không có hiểu biết vững chắc về bản chất bất biến của các trợ từ logic, bởi vì nếu bạn được dạy rằng <code>コーヒーが好きだ</code> có nghĩa là <code>Tôi thích cà phê</code>, bạn sẽ không bao giờ thực sự hiểu bản chất bất biến của, ví dụ, trợ từ <code>が</code>.
+Và thứ hai là chúng ta cần hiểu rất vững về các trợ từ logic nếu muốn phân biệt những thứ như <code>気にする</code>, <code>気になる</code>, <code>気がする</code> với nhau. Và tất nhiên, nếu bạn học tiếng Nhật theo sách giáo khoa thông thường, bạn sẽ không có hiểu biết vững chắc về bản chất bất biến của các trợ từ logic, bởi vì nếu bạn được dạy rằng <code>コーヒーが好きだ</code> có nghĩa là <code>Tôi thích cà phê</code>, bạn sẽ không bao giờ thực sự hiểu bản chất bất biến của trợ từ <code>が</code> chẳng hạn.
 
 ![](../media/image969.webp)
 
@@ -36,7 +36,7 @@ Ngày nay, ý nghĩa <code>hơi thở</code> của <code>気</code> không còn 
 
 Nếu chúng ta nhìn vào kanji, điều thú vị là phần 气 này ***([Bộ 84](https://vi.wikipedia.org/wiki/B%E1%BB%99_84))*** (cũng được đọc là <code>き</code>) có nghĩa là hơi nước hoặc bay hơi. Vì vậy, <code>汽車</code> là tàu hỏa chạy bằng hơi nước.
 
-Và sau đó chúng ta có <code>メ</code> này, có thể nói, và ở đây <code>メ</code> thực sự <code>chỉ định vị trí</code>. (気)
+Và sau đó chúng ta có <code>メ</code> này, có thể nói, và ở đây <code>メ</code> thực sự <code>đánh dấu vị trí</code>. (気)
 ![](../media/image592.webp)
 
 Chúng ta có phần cố định hình chữ thập và phần lưu động, giống hơi nước. Và cả hai khía cạnh này của <code>気</code> đều quan trọng, và bạn không bao giờ có thể tách biệt hoàn toàn chúng, mặc dù chúng ta có thể di chuyển từ đầu cố định của thang đo đến đầu lưu động của thang đo.
@@ -45,7 +45,7 @@ Vậy, để đưa ra ví dụ về hai đầu của thang đo, hãy lấy hai c
 
 ---
 
-Đầu tiên là <code>元気</code>, thứ hai là <code>やる気</code>. Vậy, <code>元気</code>, như bạn biết, là sự sống động hoặc sức khỏe. <code>元</code> có nghĩa là nguyên bản, cơ bản.
+Đầu tiên là <code>元気</code>, thứ hai là <code>やる気</code>. Như bạn biết, <code>元気</code> là sự sống động hoặc sức khỏe. <code>元</code> có nghĩa là nguyên bản, cơ bản.
 
 ![](../media/image267.webp)
 
@@ -71,7 +71,7 @@ Gắn tinh thần, ý thức, cảm xúc, suy nghĩ của bạn vào cầu thang
 
 ## 気になる & 気にする
 
-Bây giờ, khi chúng ta đến những thứ như <code>気になる</code> và <code>気にする</code> - chúng ta đã xem xét <code>になる</code> và <code>にする</code> trong bài học trước. *(không chắc, có thể là Bài 8 và 18)*
+Bây giờ, khi chúng ta đến những thứ như <code>気になる</code> và <code>気にする</code> - chúng ta đã xem xét <code>になる</code> và <code>にする</code> trong bài học trước<sup>[[8]](./8-the-に-and-へ-particles.md)</sup><sup>[[18]](./18-って-は-mysteries-explained-おうとする-とする-として-という-っていう.md)</sup>.
 
 ![](../media/image39.webp)
 
@@ -83,7 +83,7 @@ Nếu chúng ta nói <code>魔女がさくらをカエルにする</code>, chún
 
 ![](../media/image685.webp)
 
-Và, tất nhiên, chúng ta biết ai làm gì nhờ các trợ từ logic. Vậy điều gì xảy ra khi chúng ta nói về <code>気になる</code> và <code>気にする</code>?
+Và tất nhiên, chúng ta biết ai làm gì nhờ các trợ từ logic. Vậy điều gì xảy ra khi chúng ta nói về <code>気になる</code> và <code>気にする</code>?
 
 ![](../media/image39.webp)
 
@@ -97,7 +97,7 @@ Và điều này có nghĩa là <code>Rằng tôi có thể trở thành cảm g
 
 Và tôi nghĩ rằng điều này liên quan ở một mức độ nào đó với khái niệm <code>気</code>, cũng như ý tưởng Phật giáo rằng thực sự không có <code>cái tôi</code> nào. Những gì chúng ta là không phải là một thứ cố định và tuyệt đối. <code>Cái tôi</code> về cơ bản là một tập hợp thay đổi của các hành động và phản ứng, cảm xúc và cảm giác.
 
-Và do đó, chúng ta có thể tạm thời trở thành một cảm giác nhất định. Bạn thậm chí có thể trở thành, trong tiếng Nhật, một biểu hiện của cảm giác. Chúng ta có thể nói <code>深刻な表情になる</code> - ai đó đã trở thành một khuôn mặt nghiêm trọng hoặc lo lắng. Vào thời điểm đó, toàn bộ con người đã biến đổi thành biểu hiện của sự nghiêm trọng và lo lắng này.
+Và do đó, chúng ta có thể tạm thời trở thành một cảm giác nhất định. Bạn thậm chí có thể trở thành, trong tiếng Nhật, biểu hiện của một cảm giác. Chúng ta có thể nói <code>深刻な表情になる</code> - ai đó đã trở thành một khuôn mặt nghiêm trọng hoặc lo lắng. Vào thời điểm đó, toàn bộ con người đã biến đổi thành biểu hiện của sự nghiêm trọng và lo lắng này.
 
 Vậy, đây là những gì chúng ta đang nói khi nói <code>気になる</code> và <code>気にする</code>. Nếu chúng ta nói <code>あの人は気になる</code>, chúng ta đang nói người đó biến thành tinh thần của tôi.
 

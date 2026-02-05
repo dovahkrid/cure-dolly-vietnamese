@@ -75,7 +75,7 @@ Nhưng từ đặc biệt này <code>無用心</code> có xu hướng có nghĩa
 
 Được rồi, vậy điều này trông có vẻ hơi phức tạp và chúng ta vẫn chưa hoàn thành câu, nhưng hãy cứ từng phần một. Trước tiên cô ấy nghĩ <code>無用心</code> — <code>không an toàn, hành vi nguy hiểm</code>; <code>cô ấy nghĩ</code> — <code>と思った彼女</code> — cô ấy người đã nghĩ điều đó, sau đó nghĩ điều gì khác; <code>電気をつけて</code> — <code>点ける/つける</code>, tất nhiên, là phiên bản other-move của <code>点く/つく</code>, vì vậy cô ấy nghĩ về việc bật đèn; <code>先輩を起こそう</code> — bây giờ, như chúng ta biết, kết thúc <code>そう</code> đó là một kết thúc ý chí; <code>起こそうか</code> — cô ấy nghĩ về việc thực hiện hành động đánh thức senpai.
 
-<code>起こす</code> —để <code>đánh thức ai đó</code>; <code>起きる</code>, bạn tự thức dậy; <code>起こす</code> — kết thúc -す, như chúng ta biết, có nghĩa là động từ other-move, vì vậy <code>起こす</code> là đánh thức người khác. <code>起こそうか</code> — vậy, cô ấy đang nghĩ về hành động này.
+<code>起こす</code> — để <code>đánh thức ai đó</code>; <code>起きる</code>, bạn tự thức dậy; <code>起こす</code> — kết thúc -す, như chúng ta biết, có nghĩa là động từ other-move, vì vậy <code>起こす</code> là đánh thức người khác. <code>起こそうか</code> — vậy, cô ấy đang nghĩ về hành động này.
 
 ![](../media/image745.webp)
 
@@ -105,7 +105,7 @@ Vậy bây giờ chúng ta có một câu ghép ba phần. Trước tiên, chún
 
 ![](../media/image1000.webp)
 
-Gắn <code>おけ</code> vào dạng て của một động từ có nghĩa là đặt hành động đó vào vị trí. Và, như chúng ta biết, sách giáo khoa thường nói nó có nghĩa là <code>làm trước</code> hoặc <code>làm để chuẩn bị</code>, nhưng thực tế nó có nghĩa là <code>đặt hành động vào vị trí</code>.
+Gắn <code>おく</code> vào dạng て của một động từ có nghĩa là đặt hành động đó vào vị trí. Và, như chúng ta biết, sách giáo khoa thường nói nó có nghĩa là <code>làm trước</code> hoặc <code>làm để chuẩn bị</code>, nhưng thực tế nó có nghĩa là <code>đặt hành động vào vị trí</code>.
 
 Vậy cô ấy về cơ bản đang nói ở đây, <code>làm những gì cô ấy phải làm, đặt hành động của cô ấy vào vị trí, một cách yên lặng</code>. <code>そっとしておくことにした</code>: bây giờ, <code>ことにする</code>, như chúng ta cũng đã đề cập trong một bài học trước, có nghĩa là <code>quyết định làm</code>. Vậy phần cuối này có nghĩa là cô ấy quyết định đặt hành động của mình một cách yên lặng vào vị trí, theo nghĩa đen.
 
@@ -123,7 +123,7 @@ Vậy, "'Điều đó nguy hiểm, phải không, để cửa mở,' cô ấy ng
 
 "Trong bóng tối đen như mực — 真っ暗の中で — 自分の携帯電話 — điện thoại của chính cô ấy — 探し出す". <code>探し出す</code>: <code>探す</code> như chúng ta biết, là <code>tìm kiếm</code>; <code>探し出す</code> theo nghĩa đen là <code>tìm ra</code>, vì vậy cô ấy đã tìm kiếm nó, cô ấy đã tìm thấy nó — <code>と</code>.
 
-****「忘れ物をしたので取りに戻りましたー」とひと声かけて部屋を後にした"
+<code>「忘れ物をしたので取りに戻りましたー」とひと声かけて部屋を後にした</code>
 
 Vậy cô ấy đã nói điều gì đó to ở đây, nhưng có lẽ khá yên lặng để cô ấy không đánh thức senpai. Cô ấy nói: <code>忘れ物</code> — <code>thứ bị quên</code> — <code>をしたので</code> — "Tôi đã làm một thứ bị quên / Tôi đã quên một thứ / Tôi đã để lại một thứ<code> — </code>忘れ物をしたので" — vì điều đó — <code>取りに戻りました</code> — <code>Tôi đã quay lại để lấy nó / để lấy nó, tôi đã quay lại</code> — <code>とひと声かけて</code> — <code>声 (を) かける</code> là nói điều gì đó với ai đó, để tham gia vào cuộc trò chuyện với họ, ở đây <code>ひと声</code> — cô ấy chỉ nói từ đơn đó, cô ấy chỉ nói giọng đơn đó, theo nghĩa đen, cô ấy chỉ nói điều đó — <code>部屋を後にした</code> — vì vậy cô ấy chỉ nói điều đó, có lẽ yên lặng để senpai thậm chí không nghe thấy cô ấy, nhưng cô ấy cảm thấy cô ấy nên nói điều gì đó — <code>部屋を後にした</code> — <code>後にする</code> theo nghĩa đen có nghĩa là <code>biến nó thành phía sau</code>, nói cách khác, đặt nó phía sau bạn, nói cách khác, rời đi — cô ấy rời khỏi phòng — <code>部屋を後にした</code> — cô ấy làm cho phòng trở thành thứ phía sau cô ấy bằng cách rời khỏi nó.
 

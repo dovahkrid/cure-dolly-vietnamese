@@ -47,11 +47,11 @@ Chúng ta được nói rằng trong tiếng Anh nó có thể có nghĩa là <c
 
 ![](../media/image913.webp)
 
-Nó không có nghĩa là <code>Tôi ép con chó ăn</code>, đúng không? Nhưng nó cũng không có nghĩa là <code>Tôi cho phép con chó ăn</code>. **Nó không có nghĩa là tôi cho con chó sự cho phép để ăn hoặc tôi tháo xích để nó có thể với tới thức ăn.** Đó không phải là ý nghĩa của nó. **Nó có nghĩa là tôi thiết lập các điều kiện để nó có thể ăn; tôi cho nó thức ăn; tôi khiến nó ăn.**
+Nó không có nghĩa là <code>Tôi ép con chó ăn</code>, đúng không? Nhưng nó cũng không có nghĩa là <code>Tôi cho phép con chó ăn</code>. **Nó không có nghĩa là tôi cho con chó sự cho phép để ăn hoặc tôi tháo xích để nó có thể với tới thức ăn.** Đó không phải là ý nghĩa của nó. **Nó có nghĩa là tôi tạo ra các điều kiện để nó có thể ăn; tôi cho nó thức ăn; tôi khiến nó ăn.**
 
 ---
 
-**Vì vậy <code>せる/させる</code> có nghĩa là <code>khiến</code> một người hoặc một vật thực hiện một hành động bằng bất kỳ phương tiện nào, dù việc khiến đó là cho phép, ép buộc hay thiết lập các điều kiện để điều đó xảy ra.**
+**Vì vậy <code>せる/させる</code> có nghĩa là <code>khiến</code> một người hoặc một vật thực hiện một hành động bằng bất kỳ phương tiện nào, dù việc khiến đó là cho phép, ép buộc hay tạo ra các điều kiện để điều đó xảy ra.**
 
 Bây giờ, điều duy nhất có thể có vẻ hơi khó hiểu về thể sai khiến là **đôi khi người hoặc vật mà chúng ta đang khiến làm điều gì đó có thể được đánh dấu bằng を và đôi khi bằng に.** Bây giờ, tôi đã nói với bạn trước đó rằng các trợ từ tiếng Nhật không thay đổi chức năng của chúng một cách ngẫu nhiên, như các sách giáo khoa ngụ ý mạnh mẽ và đôi khi công khai nói rằng chúng làm – và như chúng ta phải tin nếu chúng ta nghĩ rằng <code>コーヒーが好きだ</code> *(Cà phê làm hài lòng)* nghĩa đen là <code>Tôi thích cà phê</code>. Và nếu bạn không biết tôi đang nói gì ở đây, xin hãy xem video liên quan<sup>[[9]](./9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる.md)</sup>, bởi vì điều này hoàn toàn quan trọng để hiểu tiếng Nhật một cách chính xác. Vậy làm sao hai trợ từ logic khác nhau có thể áp dụng cho vật hoặc người mà chúng ta đang khiến làm điều gì đó?
 
@@ -73,7 +73,7 @@ Vâng, tôi nghĩ đó là khía cạnh phức tạp nhất của toàn bộ v�
 
 ## Thể sai khiến tiếp nhận / thể sai khiến bị động
 
-Bây giờ, thực tế là, một khi chúng ta đã hiểu thể sai khiến và thể tiếp nhận thực sự là gì và thực sự làm gì, tôi không nghĩ có gì đặc biệt về thể sai khiến tiếp nhận cả. Chúng ta biết rằng các trợ động từ đơn giản là động từ. Chúng gắn vào các động từ khác, nhưng chúng là động từ theo đúng nghĩa của chúng. Nếu chúng ta không hiểu điều này, mọi thứ trở nên rất khó khăn. Ngoài ra, các trợ động từ cấu trúc chính, như thể sai khiến, thể khả năng và thể tiếp nhận, là động từ nhóm 2. Vì vậy nếu chúng ta cần gắn bất cứ thứ gì khác vào chúng, chúng ta chỉ cần làm điều chúng ta làm với mọi động từ nhóm 2 khác – chúng ta bỏ -る và gắn bất cứ thứ gì chúng ta sẽ gắn. Vì vậy **nếu chúng ta muốn gắn thể tiếp nhận vào thể sai khiến, chúng ta chỉ cần bỏ -る khỏi thể sai khiến, <code>せる</code> hoặc <code>させる</code>, và gắn <code>られる</code>**, đó là dạng trợ động từ nhóm 2 của thể tiếp nhận.
+Bây giờ, thực tế là, một khi chúng ta đã hiểu thể sai khiến và thể tiếp nhận thực sự là gì và thực sự làm gì, tôi không nghĩ có gì đặc biệt về thể sai khiến tiếp nhận cả. Chúng ta biết rằng các trợ động từ đơn giản là động từ. Chúng gắn vào các động từ khác, nhưng chúng là động từ theo đúng nghĩa của chúng. Nếu chúng ta không hiểu điều này, mọi thứ trở nên rất khó khăn. Ngoài ra, các trợ động từ cấu trúc chính, như thể sai khiến, thể khả năng và thể tiếp nhận, là động từ ichidan. Vì vậy nếu chúng ta cần gắn bất cứ thứ gì khác vào chúng, chúng ta chỉ cần làm điều chúng ta làm với mọi động từ ichidan khác – chúng ta bỏ -る và gắn bất cứ thứ gì chúng ta sẽ gắn. Vì vậy **nếu chúng ta muốn gắn thể tiếp nhận vào thể sai khiến, chúng ta chỉ cần bỏ -る khỏi thể sai khiến, <code>せる</code> hoặc <code>させる</code>, và gắn <code>られる</code>**, đó là dạng trợ động từ ichidan của thể tiếp nhận.
 
 ![](../media/image1027.webp)
 
@@ -95,7 +95,7 @@ Vậy **động từ đầu tiên trong câu, động từ mà hai động từ 
 
 ---
 
-Vậy **chúng ta có ba động từ**, **hai** trong số đó **được gắn với người đã nhận sự ép buộc và người đã thực hiện hành động vì cô ấy nhận sự ép buộc.** **Và cái ở giữa thuộc về người đã thực hiện sự ép buộc.**
+Vậy **chúng ta có ba động từ**, **hai** trong số đó **được gắn với người đã nhận sự ép buộc và người đã thực hiện hành động vì họ nhận sự ép buộc.** **Và cái ở giữa thuộc về người đã thực hiện sự ép buộc.**
 
 ::: info
 Nếu cần, hãy xem [**các bình luận**](https://www.youtube.com/watch?v=LCvGHWbhDKw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=38), như thường lệ.

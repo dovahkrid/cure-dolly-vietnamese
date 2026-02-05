@@ -68,7 +68,7 @@ Vậy đó thực sự là tất cả những gì chúng ta cần nói về ba c
 
 **Nhưng <code>である</code>, là gốc của tất cả chúng, là cái chúng ta cần chú ý.**
 
-Bạn có thể gọi nó, theo một cách nào đó, **là <code>copula thẳng</code>.**
+Bạn có thể gọi nó, theo một cách nào đó, **là <code>copula trực tiếp</code>.**
 
 **<code>だ</code> nghe có vẻ thân mật, <code>です</code> là lịch sự, nhưng <code>である</code> chỉ là copula.**
 
@@ -82,10 +82,10 @@ Bạn có thể gọi nó, theo một cách nào đó, **là <code>copula thẳn
 ---
 
 **Như chúng ta biết, <code>だ</code> và <code>です</code> chỉ có thể được sử dụng ở cuối một mệnh đề logic.**
-**Chúng là kết thúc mệnh đề logic và chúng không thể được sử dụng để tiền tu sức danh từ.**
-**Nếu chúng ta muốn tiền tu sức một danh từ với một danh từ khác được đánh dấu bởi copula,**
+**Chúng là kết thúc mệnh đề logic và chúng không thể được sử dụng để bổ nghĩa trước cho danh từ.**
+**Nếu chúng ta muốn bổ nghĩa trước cho một danh từ với một danh từ khác được đánh dấu bởi copula,**
 **chúng ta chỉ có thể làm điều đó nếu nó là một danh từ tính từ, bởi vì các danh từ tính từ**
-**có thể sử dụng phiên bản tiền tu sức của copula, đó là <code>な</code>.**
+**có thể sử dụng phiên bản bổ nghĩa trước của copula, đó là <code>な</code>.**
 
 ---
 
@@ -98,13 +98,13 @@ Và chính xác vì nhóm danh từ này
 và tôi đã nói về ba nhóm danh từ đặc biệt
 trong một video khác nếu bạn muốn xem<sup>[[41]](./41-5-key-facts-about-the-basic-structure-of-japanese.md)</sup> 
 **nhóm danh từ đặc biệt cụ thể này, danh từ tính từ, có tính chất**
-**là nó có thể sử dụng dạng tiền tu sức của copula, <code>な</code>.**
+**là nó có thể sử dụng dạng bổ nghĩa trước của copula, <code>な</code>.**
 
 Đây là điều mà các sách giáo khoa dường như không biết. Họ không nói cho bạn biết <code>な</code> là gì và họ nói với bạn rằng các danh từ tính từ
 thực sự là một thứ kỳ lạ gọi là <code>tính từ な</code>. Nhưng đó là vấn đề khác.
 
 **Vậy chúng ta làm gì nếu chúng ta muốn sử dụng một danh từ được đánh dấu copula**
-**như một tiền tu sức và nó không phải là danh từ tính từ?**
+**như một bổ nghĩa trước và nó không phải là danh từ tính từ?**
 
 Bây giờ, chúng ta không làm điều này nhiều lắm vì
 chúng ta có thể giải quyết tình huống bằng cách sử dụng <code>の</code>. Nhưng trong một số trường hợp hoặc điều này không hiệu quả
@@ -117,7 +117,7 @@ Nhưng giả sử chúng ta không muốn nói như vậy. **Giả sử chúng t
 ![](../media/image803.webp)
 
 Nó không hoàn toàn giống nhau, trong tiếng Nhật hay tiếng Anh. **Để làm điều này chúng ta phải sử dụng copula và**
-**chúng ta phải sử dụng nó như một tiền tu sức, vì vậy chúng ta phải sử dụng <code>である</code>.**
+**chúng ta phải sử dụng nó như một bổ nghĩa trước, vì vậy chúng ta phải sử dụng <code>である</code>.**
 
 **Đó là lựa chọn duy nhất của chúng ta. Chúng ta không thể sử dụng <code>だ</code> hoặc <code>です</code>**
 **bởi vì chúng chỉ có thể được sử dụng ở cuối một mệnh đề logic.**
@@ -142,7 +142,7 @@ Bây giờ, **<code>さま</code> là một trạng thái hoặc điều kiện.
 
 Vậy chúng ta thực sự phải nói <code>円形**である**さま</code>.
 
-Bây giờ, **khi tôi nói rằng <code>である</code> là copula thẳng,**
+Bây giờ, **khi tôi nói rằng <code>である</code> là copula trực tiếp,**
 không phải cái thân mật, không phải cái lịch sự, chỉ là copula đơn giản,
 có một lý do khác cho điều này,
 **bởi vì cuối cùng và về mặt lịch sử
@@ -272,12 +272,12 @@ Câu hỏi thứ hai là, **điều này có nghĩa là nó thực sự không p
 **Và nó có nghĩa là nó là một động từ không?**
 
 **Bởi vì rõ ràng <code>ある</code> là một động từ, và chính vì**
-**<code>ある</code> là một động từ mà chúng ta có thể sử dụng nó như một tiền tu sức.**
+**<code>ある</code> là một động từ mà chúng ta có thể sử dụng nó như một bổ nghĩa trước.**
 
 ![](../media/image654.webp)
 
 Chúng ta có thể nói <code>大学生**である**さくら</code> bởi vì
-**bạn luôn có thể sử dụng một động từ để tiền tu sức một danh từ.**
+**bạn luôn có thể sử dụng một động từ để bổ nghĩa trước cho một danh từ.**
 
 Và câu trả lời cho câu hỏi là đây là một câu hỏi về mô hình hóa.
 

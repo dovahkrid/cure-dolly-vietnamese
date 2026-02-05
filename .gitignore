@@ -2,3 +2,4 @@
 /config/.vitepress/dist
 /config/.vitepress/cache
 .env
+qa-progress.json

@@ -106,4 +106,4 @@ Chà, nếu bạn nghĩ về nó, nó tương tự như những gì chúng ta c�
 Tôi cũng sẽ kiểm tra [**bình luận này**](https://www.youtube.com/watch?v=uSJukXcyccw&lc=Ugy3WGJ0efK8lG72-N94AaABAg&ab_channel=OrganicJapanesewithCureDolly) nữa...
 :::
 
-Và điều đó cũng giống như vậy trong tiếng Nhật chỉ có hệ thống hơn một chút. **<code>そうだ/そうです</code> khi được thêm làm động cơ B vào một câu hoàn chỉnh, hoàn thành luôn luôn** **nói rằng đây là điều chúng ta đã nghe, đây là thông tin chúng ta có, dù có giá trị gì đi nữa.**
+Và điều đó cũng giống như vậy trong tiếng Nhật chỉ có hệ thống hơn một chút. **<code>そうだ/そうです</code> khi được thêm làm động cơ B vào một câu hoàn chỉnh luôn luôn** **nói rằng đây là điều chúng ta đã nghe, đây là thông tin chúng ta có, dù có giá trị gì đi nữa.**

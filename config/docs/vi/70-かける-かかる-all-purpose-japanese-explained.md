@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về các từ <code>かかる</code> và <code>かける</code>, có lẽ có danh sách định nghĩa dài nhất và đa dạng nhất trong toàn bộ từ điển Nhật-Anh. Và vì vậy đây là một thử thách khá lớn, nhưng chúng ta sẽ vượt qua nó.
+Hôm nay chúng ta sẽ nói về các từ <code>かかる</code> và <code>かける</code>, có lẽ có danh sách định nghĩa dài nhất và đa dạng nhất trong toàn bộ từ điển Nhật-Anh. Đây là một thử thách khá lớn, nhưng chúng ta sẽ vượt qua nó.
 
 Động lực cho video này đến từ một câu hỏi của một trong những patron Gold Kokeshi của tôi — và là một trong những patron Gold Kokeshi lâu năm nhất, ngay từ gần như khởi đầu của series này. Đó là Scykoh-sama, người cũng là một YouTuber khác và là YouTuber nổi tiếng hơn tôi nhiều — và xứng đáng như vậy. Anh ấy có một kênh tuyệt vời tập trung vào Nintendo và tôi sẽ đặt link trong phần thông tin bên dưới.
 
@@ -20,7 +20,7 @@ nhưng như tôi đã chỉ ra trong một [**video gần đây**](https://www.y
 
 ![](../media/image287.webp)
 
-Và nếu bạn không biết tôi có ý gì, tôi sẽ đặt một link phía trên đầu tôi. Và hãy bắt đầu với <code>かける</code>, vì tôi nghĩa rằng điều đó cho chúng ta một lối vào dễ dàng hơn vào toàn bộ thế giới kỳ lạ của các ẩn dụ này.
+Và nếu bạn không biết tôi có ý gì, tôi sẽ đặt một link phía trên đầu tôi. Và hãy bắt đầu với <code>かける</code>, vì tôi nghĩ rằng điều đó cho chúng ta một lối vào dễ dàng hơn vào toàn bộ thế giới kỳ lạ của các ẩn dụ này.
 
 ## かける
 
@@ -141,6 +141,6 @@ Vậy chúng ta thực sự có ý gì với điều này? Chà, chúng ta có �
 
 Và một lần nữa, <code>かける</code> này như một động từ phụ trợ có thể được sử dụng trong các hoàn cảnh khác nhau để chỉ ra một hành động chưa hoàn thành, một hành động đã được tham gia, kết nối, và sau đó không được thực hiện đến hoàn thành.
 
-Bây giờ, đây không phải là tất cả các nghĩa của <code>かける</code>, nhưng tôi nghĩ chúng là những nghĩa chính, quan trọng và tôi nghĩa chúng cho bạn ý tưởng về cách ẩn dụ này hoạt động và tại sao nó hoạt động và sẽ cho phép bạn tìm ra cách những nghĩa khác hoạt động.
+Bây giờ, đây không phải là tất cả các nghĩa của <code>かける</code>, nhưng tôi nghĩ chúng là những nghĩa chính, quan trọng và tôi nghĩ chúng cho bạn ý tưởng về cách ẩn dụ này hoạt động và tại sao nó hoạt động và sẽ cho phép bạn tìm ra cách những nghĩa khác hoạt động.
 
 ![](../media/image811.webp)

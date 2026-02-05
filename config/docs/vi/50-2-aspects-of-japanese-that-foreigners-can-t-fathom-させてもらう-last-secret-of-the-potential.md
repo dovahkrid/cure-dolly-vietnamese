@@ -1,83 +1,83 @@
-# **50. 2 khía cạnh của tiếng Nhật mà người nước ngoài không thể hiểu nổi: させてもらう Bí mật cuối cùng của thể tiềm năng**
+# **50. 2 khía cạnh của tiếng Nhật mà người nước ngoài không thể hiểu nổi: させてもらう Bí mật cuối cùng của thể khả năng**
 
 [**2 Aspects of Japanese that Foreigners Can't Fathom: させてもらう Last Secret of the Potential | Lesson 50**](https://www.youtube.com/watch?v=r2j1o9wj2oA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=52&pp=iAQB)
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về một loạt các biểu đạt trong tiếng Nhật gây ra nhiều khó khăn và nhầm lẫn cho người học nước ngoài. Tuần trước chúng ta đã nói về việc sử dụng <code>もらう</code> với dạng て, tức là <code>〇〇てもらう</code>, cũng gây ra nhiều nhầm lẫn và có vẻ rất không trực quan đối với người nói tiếng nước ngoài học tiếng Nhật, mặc dù, một khi chúng ta hiểu cách nó thực sự được cấu trúc, nó trở nên rất trực quan. Dựa trên điều này, chúng ta sau đó tìm thấy nhiều biểu đạt kết hợp dạng て + <code>もらう</code> với trợ động từ nguyên nhân <code>-せる/-させる</code>, vì vậy chúng ta có <code>させてもらう</code>.
+Hôm nay chúng ta sẽ nói về một loạt biểu đạt trong tiếng Nhật gây nhiều khó khăn và nhầm lẫn cho người học nước ngoài. Tuần trước chúng ta đã nói về việc sử dụng <code>もらう</code> với dạng て, tức <code>〇〇てもらう</code>, cũng gây nhiều nhầm lẫn và có vẻ rất không trực quan với người nước ngoài học tiếng Nhật, mặc dù một khi hiểu cách nó thực sự được cấu trúc, nó lại rất trực quan. Dựa trên điều này, chúng ta tìm thấy nhiều biểu đạt kết hợp dạng て + <code>もらう</code> với trợ động từ sai khiến <code>-せる/-させる</code>, tạo thành <code>させてもらう</code>.
 
-Và điều này thực sự quá phức tạp đối với nhiều người học nước ngoài, bởi vì có vẻ rất khó hiểu. Nhưng một khi chúng ta đã hiểu cách <code>もらう</code> hoạt động với dạng て, tất cả điều này trở nên khá logic, ngoại trừ thực tế là chúng ta cũng cần phải tiếp thu một thực tế quan trọng về trợ động từ nguyên nhân <code>-せる/-させる</code>. Tôi đã dành một bài học hoàn chỉnh cho điều này<sup>[[19]](./19-causative-causative-receptive.md)</sup>, và chúng ta đã thảo luận về hầu hết các khía cạnh gây ra vấn đề cho người nước ngoài. Tuy nhiên, có một phần mà tôi đã không đi sâu vào, bởi vì lúc đó nó không liên quan, vì vậy chúng ta sẽ xem xét nó bây giờ.
+Điều này thực sự quá phức tạp với nhiều người học nước ngoài vì có vẻ rất rắc rối. Nhưng một khi đã hiểu cách <code>もらう</code> hoạt động với dạng て, tất cả đều khá logic, ngoại trừ việc chúng ta cũng cần tiếp thu một thực tế quan trọng về trợ động từ sai khiến <code>-せる/-させる</code>. Tôi đã dành một bài học hoàn chỉnh cho điều này<sup>[[19]](./19-causative-causative-receptive.md)</sup> và đã thảo luận hầu hết các khía cạnh gây vấn đề cho người nước ngoài. Tuy nhiên, có một phần tôi chưa đi sâu vì lúc đó không liên quan, nên bây giờ chúng ta sẽ xem xét.
 
-Như tôi đã nói lúc đó, trợ động từ nguyên nhân, đáng ngạc nhiên, được đặt tên rất tốt trong ngữ pháp tiếng Nhật bằng tiếng Anh, bởi vì đó chính xác là những gì nó là — đây là dạng nguyên nhân. Vì vậy, khi chúng ta gắn nó vào động từ khác, chúng ta nói: <code>làm cho ai đó làm động từ đó</code>. Bây giờ, một điều làm người nói tiếng Anh bối rối là nó có thể có nghĩa là <code>cho phép ai đó làm</code> hoặc <code>bắt buộc hoặc ép buộc ai đó làm</code>, và bản thân động từ nguyên nhân không phân biệt giữa hai nghĩa này.
+Như tôi đã nói, trợ động từ sai khiến, hiếm hoi, được đặt tên rất tốt trong ngữ pháp tiếng Nhật bằng tiếng Anh vì đó chính xác là bản chất của nó — đây là dạng sai khiến. Khi gắn nó vào động từ khác, chúng ta có nghĩa <code>khiến ai đó làm động từ đó</code>. Điều làm người nói tiếng Anh bối rối là nó có thể có nghĩa <code>cho phép ai đó làm</code> hoặc <code>bắt buộc ai đó làm</code>, và bản thân động từ sai khiến không phân biệt hai nghĩa này.
 
-Điều này làm người nói tiếng Anh bối rối, bởi vì tiếng Anh phân biệt điều này. Chúng ta nói <code>make someone do something</code> (bắt ai đó làm gì) hoặc <code>let someone do something</code> (cho phép ai đó làm gì); chúng ta không nói <code>cause someone to do something</code> (làm cho ai đó làm gì). Bây giờ chúng ta cần hiểu rằng nguyên nhân tiếng Nhật có thể có nghĩa là <code>bắt buộc</code>, nó có thể có nghĩa là <code>cho phép</code>, nhưng nó không bắt buộc phải có nghĩa là cái nào.
+Điều này làm người nói tiếng Anh bối rối vì tiếng Anh có phân biệt. Chúng ta nói <code>make someone do something</code> hoặc <code>let someone do something</code>; không nói <code>cause someone to do something</code>. Điều cần hiểu là sai khiến tiếng Nhật có thể có nghĩa <code>bắt buộc</code>, có thể có nghĩa <code>cho phép</code>, nhưng không nhất thiết phải là cái nào.
 
-Nó có nghĩa chính xác như những gì viết trên bao bì. Nó có nghĩa là <code>*gây ra — bằng bất kỳ phương tiện nào*</code>, không chỉ rõ phương tiện nào chúng ta sử dụng để làm cho ai đó làm điều gì đó. Và điều này làm người nói tiếng Anh bối rối, bởi vì họ không có cách để diễn đạt điều này.
+Nó có nghĩa chính xác như tên gọi. Nó có nghĩa <code>*khiến — bằng bất kỳ cách nào*</code>, không chỉ rõ phương tiện nào để khiến ai đó làm gì. Điều này làm người nói tiếng Anh bối rối vì họ không có cách diễn đạt này.
 
-Bạn không thể thực sự nói <code>cause someone to do something</code> (làm cho ai đó làm gì), ít nhất là trong tiếng Anh hiện đại. Và trên thực tế, tiếng Anh đôi khi cảm thấy sự mất mát này và buộc phải bù đắp bằng cách gian lận với những gì nó có. Vì vậy, một ví dụ về điều này là khi chúng ta nói <code>Would you let me know tomorrow?</code> (Bạn có thể cho tôi biết vào ngày mai không?) hoặc <code>I'll let you know tomorrow</code> (Tôi sẽ cho bạn biết vào ngày mai).
+Bạn không thể nói <code>cause someone to do something</code>, ít nhất trong tiếng Anh hiện đại. Thực tế tiếng Anh đôi khi cảm thấy thiếu sót này và phải bù đắp bằng cách "gian lận" với những gì có. Ví dụ khi chúng ta nói <code>Would you let me know tomorrow?</code> hoặc <code>I'll let you know tomorrow</code>.
 
-Thực ra chúng ta không có nghĩa là <code>let you know</code> (cho phép bạn biết) hay <code>let me know</code> (cho phép tôi biết). Chúng ta có nghĩa là <code>cause me to know</code> (làm cho tôi biết). Chúng ta không có nghĩa là <code>allow me to know</code> (cho phép tôi biết); chúng ta không có nghĩa là <code>force me to know</code> (bắt buộc tôi biết). Chúng ta có nghĩa là <code>cause me to know</code> (làm cho tôi biết).
+Thực ra chúng ta không có nghĩa <code>let you know</code> hay <code>let me know</code>. Chúng ta có nghĩa <code>cause me to know</code>. Không phải <code>allow me to know</code>; không phải <code>force me to know</code>. Mà là <code>cause me to know</code>.
 
-Nhưng vì chúng ta không có biểu đạt <code>cause someone to do something</code> (làm cho ai đó làm gì) trong tiếng Anh hiện đại, chúng ta buộc phải gian lận và nói <code>let me know</code> (cho tôi biết), điều không hoàn toàn là những gì chúng ta thực sự có nghĩa. Trong tiếng Nhật, tất nhiên, chúng ta sử dụng nguyên nhân cho điều này.
+Nhưng vì không có biểu đạt <code>cause someone to do something</code> trong tiếng Anh hiện đại, chúng ta phải "gian lận" và nói <code>let me know</code>, không hoàn toàn là ý muốn thực sự. Trong tiếng Nhật, tất nhiên chúng ta dùng sai khiến cho điều này.
 
-Vậy, <code>知る</code> là <code>biết</code>, và <code>知らせる</code> là <code>làm cho ai đó biết</code>.
+Vậy <code>知る</code> là <code>biết</code> và <code>知らせる</code> là <code>khiến ai đó biết</code>.
 
 ![](../media/image543.webp)
 
-Vì vậy, điều này, về cơ bản, làm điều tương tự như tiếng Anh <code>let me know</code> (cho tôi biết), mà không bẻ cong ngữ pháp như tiếng Anh làm. Và nguyên nhân này có thể được sử dụng theo nhiều cách khác không có nghĩa là <code>bắt buộc</code> hay <code>cho phép</code>. Vì vậy, <code>聞く</code>, ví dụ, có nghĩa là <code>nghe</code>; vì vậy <code>聞かせる</code> có nghĩa là <code>làm cho nghe</code>.
+Về cơ bản điều này làm những gì tiếng Anh <code>let me know</code> làm, mà không cần bẻ cong ngữ pháp như tiếng Anh. Sai khiến này có thể được dùng theo nhiều cách khác không có nghĩa <code>bắt buộc</code> hay <code>cho phép</code>. Ví dụ <code>聞く</code> là <code>nghe</code>; nên <code>聞かせる</code> có nghĩa <code>khiến nghe</code>.
 
-Và chúng ta có thể nói <code>後で聞かせよう</code>, có nghĩa là "Tôi sẽ nói với bạn vào ngày mai *(sau)* / ngày mai tôi sẽ làm cho bạn nghe / ngày mai tôi sẽ cho bạn tất cả thông tin".
+Chúng ta có thể nói <code>後で聞かせよう</code>, có nghĩa "Tôi sẽ nói với bạn sau / sau này tôi sẽ khiến bạn nghe / sau này tôi sẽ cho bạn tất cả thông tin".
 
 ![](../media/image682.webp)
 
-Và chúng ta có thể kết hợp điều này với các từ khác, vì vậy chúng ta có thể có thứ gì đó như <code>読み聞かせる</code>, có nghĩa là <code>đọc và làm cho nghe</code>/*đọc-làm-cho-nghe*.
+Chúng ta có thể kết hợp với từ khác, tạo thành <code>読み聞かせる</code>, có nghĩa <code>đọc và khiến nghe</code>/*đọc-khiến-nghe*.
 
 ![](../media/image666.webp)
 
-Và đây là điều chúng ta nói nếu đọc cho ai đó nghe một câu chuyện, đọc cho ai đó nghe một lá thư hoặc thứ gì đó tương tự: <code>読み聞かせる</code>. Và một khi chúng ta hiểu cách hoạt động này của trợ động từ nguyên nhân, chúng ta có thể thấy cách nó tạo thành dạng て để <code>もらう</code> gắn vào. Ví dụ, chúng ta có thể nói <code>聞かせてもらえますか</code>, có nghĩa là <code>Bạn có thể nói cho tôi không?</code>
+Đây là cách nói khi đọc truyện cho ai nghe, đọc thư cho ai nghe: <code>読み聞かせる</code>. Một khi hiểu cách hoạt động này của trợ động từ sai khiến, chúng ta thấy cách nó tạo dạng て để gắn <code>もらう</code>. Ví dụ <code>聞かせてもらえますか</code>, có nghĩa <code>Bạn có thể nói cho tôi không?</code>
 
-<code>聞かせて</code> — <code>làm cho tôi nghe</code>; <code>もらえる</code>, là dạng tiềm năng của <code>もらう</code>, nói cách khác <code>có thể nhận</code>.
+<code>聞かせて</code> — <code>khiến tôi nghe</code>; <code>もらえる</code> là dạng khả năng của <code>もらう</code>, tức <code>có thể nhận</code>.
 
 ![](../media/image1101.webp)
 
-<code>Có thể nhận được việc bạn làm cho tôi nghe không?</code> mà bằng tiếng Anh chúng ta có lẽ sẽ nói <code>Can you tell me?</code> (Bạn có thể nói cho tôi không?). Vậy, <code>聞かせてもらえますか</code> này có thể có vẻ rất khó hiểu cho người nói tiếng nước ngoài, bởi vì đây không phải là cách chúng ta diễn đạt bằng tiếng Anh, nhưng, như bạn thấy, về mặt cấu trúc nó rất đơn giản. Nó được xây dựng từ các phần tử mà chúng ta đã biết và hiểu, và hoàn toàn có nghĩa.
+<code>Có thể nhận được việc bạn khiến tôi nghe không?</code> — bằng tiếng Anh có lẽ là <code>Can you tell me?</code>. <code>聞かせてもらえますか</code> có thể khó hiểu với người nước ngoài vì không phải cách diễn đạt tiếng Anh, nhưng về cấu trúc rất đơn giản. Nó được xây dựng từ các yếu tố đã biết và hiểu, hoàn toàn hợp lý.
 
-Chúng ta có thể lấy câu <code>学生でも下宿させてもらえませんか</code>. Và điều này thường được dịch là <code>Bạn có nhận sinh viên không?</code> Nhưng theo nghĩa đen nó có nghĩa là <code>Ngay cả khi ai đó là sinh viên...</code> — <code>学生でも</code> — <code>...không thể nhận được việc làm cho tôi ở đây sao?</code>
+Câu <code>学生でも下宿させてもらえませんか</code> thường được dịch là <code>Bạn có nhận sinh viên không?</code> Nhưng nghĩa đen là <code>Dù là sinh viên...</code> — <code>学生でも</code> — <code>...có thể nhận được việc được cho ở đây không?</code>
 
 ![](../media/image133.webp)
 
-Đây là cấu trúc của điều này, vì vậy, khi bạn thấy <code>学生でも下宿させてもらえませんか</code> này và được nói rằng nó có nghĩa là <code>Bạn có nhận sinh viên không?</code>, bạn có thể nhìn nó tiến, lùi và lộn ngược và tự hỏi làm sao những từ này có thể có nghĩa như vậy. Và, tất nhiên, chúng thực sự không có nghĩa như vậy chút nào.
+Đây là cấu trúc, nên khi thấy <code>学生でも下宿させてもらえませんか</code> và được nói nghĩa là <code>Bạn có nhận sinh viên không?</code>, bạn có thể nhìn xuôi ngược và thắc mắc sao những từ này lại có nghĩa như vậy. Tất nhiên chúng không thực sự có nghĩa như vậy.
 
-Đó chỉ là những gì chúng ta sẽ nói bằng tiếng Anh. Bằng tiếng Nhật, chúng ta nói: <code>Ngay cả khi ai đó là sinh viên, không thể nhận được việc làm cho tôi ở đây sao?</code> Và không nhất thiết phải là bản thân mình bị làm cho làm gì đó trong những câu này.
+Đó chỉ là cách nói tiếng Anh. Tiếng Nhật chúng ta nói <code>Dù là sinh viên, có thể nhận được việc được cho ở đây không?</code> Không nhất thiết phải là bản thân mình bị khiến làm gì trong những câu này.
 
-Ví dụ, nếu chúng ta nói <code> *(zeroが)* メガネを合わせてもらった</code>, điều này được dịch là <code>Tôi được điều chỉnh kính</code>, nhưng theo nghĩa đen nó có nghĩa là <code>nhận được việc kính được điều chỉnh</code>.
+Ví dụ <code> *(zeroが)* メガネを合わせてもらった</code> được dịch là <code>Tôi được đo kính</code>, nhưng nghĩa đen là <code>nhận được việc kính được điều chỉnh</code>.
 
 ![](../media/image954.webp)
 
-Vậy, đó là kính bị làm cho. Chúng trải qua hành động <code>させる</code>, nhưng tôi là người nhận được việc chúng được điều chỉnh. Vì vậy, không nhất thiết phải là tôi cá nhân nhận được việc bị làm cho.
+Kính là thứ bị khiến. Chúng trải qua <code>させる</code>, nhưng tôi là người nhận việc chúng được điều chỉnh. Không nhất thiết phải là tôi cá nhân nhận được việc bị khiến.
 
-Tôi cũng có thể nhận được việc thứ gì đó khác bị làm cho. Vậy, chúng ta phải nhìn vào câu và hiểu nó có nghĩa gì, và, tất nhiên, áp dụng các quy tắc mà chúng ta đã nói trong bài học về giải quyết sự mơ hồ *<sup>[[48]](./48-dealing-with-ambiguity-in-japanese.md)</sup>* — chúng ta nhìn vào điều gì có khả năng xảy ra nhất, biết rằng nếu điều gì đó không có khả năng được nói, người nói sẽ phải làm rõ, giống như được làm trong tiếng Anh.
+Tôi cũng có thể nhận việc thứ khác bị khiến. Chúng ta phải nhìn câu và hiểu nghĩa, áp dụng quy tắc đã nói trong bài về giải quyết sự mơ hồ *<sup>[[48]](./48-dealing-with-ambiguity-in-japanese.md)</sup>* — nhìn điều có khả năng nhất, biết rằng nếu điều không có khả năng được nói, người nói sẽ phải làm rõ, như trong tiếng Anh.
 
-Bây giờ, tất nhiên, đôi khi điều này thực sự có thể có nghĩa là <code>cho phép</code>, vì vậy, ví dụ, nếu chúng ta nói <code>帰らせてもらいます</code>, thì theo nghĩa đen chúng ta nói: <code>Tôi sẽ nhận sự cho phép của bạn để về nhà</code>. Đó là nghĩa đen.
+Đôi khi nó thực sự có nghĩa <code>cho phép</code>, ví dụ <code>帰らせてもらいます</code> nghĩa đen là <code>Tôi sẽ nhận sự cho phép của bạn để về nhà</code>.
 
 ![](../media/image1134.webp)
 
-Điều này giống như cách nói tiếng Anh: <code>With your permission, I'll leave now</code> (Với sự cho phép của bạn, tôi sẽ rời đi bây giờ), điều hoàn toàn có thể có nghĩa là <code>Tôi sẽ rời đi bây giờ, với sự cho phép của bạn hay không</code>, nhưng nó phủ lớp lịch sự lên vấn đề. Và liệu đây là sự lịch sự chân thành hay chỉ là thông báo cho ai đó rằng bạn đang rời đi, với lớp lịch sự mỏng manh, đó là điều bạn rõ ràng sẽ hiểu từ ngữ cảnh và giọng điệu v.v., giống như trong tiếng Anh.
+Giống như tiếng Anh <code>With your permission, I'll leave now</code>, có thể có nghĩa <code>Tôi sẽ đi bây giờ, có hay không có sự cho phép của bạn</code>, nhưng phủ lớp lịch sự lên vấn đề. Liệu đây là lịch sự chân thành hay chỉ thông báo với lớp lịch sự mỏng, bạn sẽ hiểu từ ngữ cảnh và giọng điệu, như trong tiếng Anh.
 
-Có sự khác biệt đáng kể giữa việc nói "Với sự cho phép của bạn, tôi sẽ về nhà bây giờ"**** \[nhẹ nhàng\] và nói "Với sự cho phép của bạn, tôi sẽ về nhà bây giờ"**** \[cộc lốc\] — và điều này giống hệt trong tiếng Nhật cũng như trong tiếng Anh. Vậy, như bạn thấy, có nhiều cách mà các phần tử này có thể được kết hợp, nhưng nếu chúng ta hiểu từng cái và hiểu cách chúng kết hợp với nhau, chúng ta có các công cụ cần thiết để tiếp thu từ việc ngâm mình cách những thứ này được sử dụng.
+Có sự khác biệt lớn giữa nói "Với sự cho phép của bạn, tôi về nhà bây giờ" \[nhẹ nhàng\] và nói "Với sự cho phép của bạn, tôi về nhà bây giờ" \[cộc lốc\] — điều này giống nhau trong tiếng Nhật và tiếng Anh. Có nhiều cách kết hợp các yếu tố này, nhưng nếu hiểu từng cái và cách chúng kết hợp, chúng ta có công cụ cần thiết để tiếp thu từ immersion cách sử dụng những thứ này.
 
-Hãy nhớ, *cấu trúc không dạy chúng ta hiểu tiếng Nhật.* **Nó cho chúng ta các công cụ cơ bản cần thiết để tiếp thu nó từ nơi duy nhất mà bạn có thể** **thực sự học cách ngôn ngữ hoạt động** — và đó là **ngâm mình trực tiếp**.
+Nhớ rằng, *cấu trúc không dạy chúng ta hiểu tiếng Nhật.* **Nó cho chúng ta công cụ cơ bản cần thiết để tiếp thu từ nơi duy nhất có thể** **thực sự học cách ngôn ngữ hoạt động** — đó là **immersion trực tiếp**.
 
 ---
 
-Và tôi chỉ thêm, trước khi chúng ta kết thúc... Tôi không dạy 敬語/けいご ở giai đoạn này. 敬語 là tiếng Nhật siêu lịch sự, gần như là ngôn ngữ con riêng của nó. Nó không quá khó, nhưng sẽ cần vài bài học để đi sâu vào.
+Tôi chỉ thêm trước khi kết thúc... Tôi không dạy 敬語/けいご ở thời điểm này. 敬語 là tiếng Nhật siêu lịch sự, gần như ngôn ngữ con riêng. Không quá khó nhưng cần vài bài để đi sâu.
 
-Nhưng tôi muốn đề cập ở đây rằng có một từ 敬語 cho <code>もらう</code>. Và đó là <code>頂く/いただく</code>. Vì nó siêu lịch sự, nó thường được sử dụng ở dạng ます, vì vậy đây thường là <code>いただきます</code>. Và, chắc chắn, bạn quen thuộc với điều này như những gì mọi người nói trước khi ăn: <code>いただきます!</code>
+Tôi muốn đề cập có từ 敬語 cho <code>もらう</code> là <code>頂く/いただく</code>. Vì siêu lịch sự, thường dùng dạng ます, tức <code>いただきます</code>. Chắc chắn bạn quen thuộc với điều mọi người nói trước khi ăn: <code>いただきます!</code>
 
-Nhưng theo nghĩa đen nó có nghĩa là thứ gì đó như <code>Tôi khiêm tốn chấp nhận</code>. Nó, rõ ràng, có nghĩa là <code>Tôi nhận</code>, bởi vì <code>いただく</code> có nghĩa là <code>もらう</code>, nhưng đây là dạng 敬語, được gọi là <code>謙譲語/けんじょうご</code> hay <code>ngôn ngữ khiêm tốn</code>, vì vậy bạn nói <code>Tôi khiêm tốn chấp nhận</code>. Và tôi đề cập điều này bây giờ bởi vì bạn có lẽ sẽ thấy một số dạng kiểu <code>させてもらう</code> này được sử dụng với <code>いただく</code>: <code>させていただきます</code> v.v.
+Nghĩa đen là <code>Tôi khiêm tốn nhận</code>. Rõ ràng có nghĩa <code>Tôi nhận</code> vì <code>いただく</code> có nghĩa <code>もらう</code>, nhưng đây là dạng 敬語 gọi là <code>謙譲語/けんじょうご</code> hay <code>ngôn ngữ khiêm tốn</code>, nên bạn nói <code>Tôi khiêm tốn nhận</code>. Tôi đề cập điều này vì bạn có thể thấy các dạng kiểu <code>させてもらう</code> dùng với <code>いただく</code>: <code>させていただきます</code> v.v.
 
-Và phần 敬語 này có thể được sử dụng thường xuyên hơn một chút so với 敬語 thông thường, bởi vì nó thêm lịch sự vào khái niệm <code>もらう</code>.
+Phần 敬語 này có thể được dùng thường xuyên hơn 敬語 thông thường vì thêm lịch sự vào khái niệm <code>もらう</code>.
 
 ![](../media/image1060.webp)
 
-Vì vậy, đôi khi, nếu có vẻ có nguy cơ hơi đòi hỏi hoặc táo bạo khi nói về việc bạn sẽ nhận hoặc bạn muốn nhận, bạn có thể sử dụng <code>いただく</code> để làm mềm và cho thấy bạn thực sự khiêm tốn và lịch sự. Vì vậy, nếu bạn thấy <code>いただく / いただきます</code> được sử dụng ở bất kỳ nơi nào trong số này, nó có nghĩa giống như <code>もらう</code>. Nó chỉ thêm sắc thái lịch sự hơn. Vì vậy, bạn không cần nhầm lẫn khi thấy nó.
+Đôi khi nếu có nguy cơ hơi đòi hỏi hoặc tham lam khi nói về việc sẽ nhận hoặc muốn nhận, bạn có thể dùng <code>いただく</code> để làm mềm và thể hiện sự khiêm tốn, lịch sự. Nếu thấy <code>いただく / いただきます</code> được dùng ở bất kỳ đâu, nó có nghĩa giống <code>もらう</code>. Chỉ thêm sắc thái lịch sự hơn. Bạn không cần nhầm lẫn khi thấy.

@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ bắt đầu nói về điều mà tôi gọi là cầu nối giữa việc học cấu trúc và việc tiếp xúc thực tế, bởi vì chúng ta học các biểu thức và cấu trúc rồi đôi khi khi chúng ta gặp chúng trong sử dụng thực tế, chúng ta không hiểu hoàn toàn chúng đang làm gì ở đó.
+Hôm nay chúng ta sẽ bắt đầu nói về điều mà tôi gọi là cầu nối giữa việc học cấu trúc và việc tiếp xúc thực tế, bởi vì chúng ta học các biểu thức và cấu trúc rồi đôi khi khi gặp chúng trong sử dụng thực tế, chúng ta không hiểu hoàn toàn chúng đang làm gì ở đó.
 
 Tôi sẽ lấy một ví dụ từ patron của tôi Kimika-sama, người đưa cho tôi câu này:
 
@@ -82,6 +82,6 @@ Như tôi đã nói trong video về <code>しまう</code><sup>[[44]](./44-how-
 
 **<code>おく</code> không có cảm giác dấu chấm than đó.**
 
-**Nó có cảm giác làm việc thực tế:**
+**Nó có cảm giác thực tế:**
 
 nó được làm để đặt hành động vào vị trí, để đạt được một kết quả, để thay đổi hoàn cảnh từ những gì nó là trước đây thành một hoàn cảnh phù hợp hơn với những gì chúng ta muốn, cho dù đó là mở cửa sổ hay giải thích cho một số nhóm tình hình là gì...

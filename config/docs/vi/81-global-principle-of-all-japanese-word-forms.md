@@ -114,7 +114,7 @@ và cũng nếu nó đứng một mình — và như chúng ta biết, gốc đ�
 ### Gốc か (かっ)
 
 **Gốc か có một phụ tố nhỏ, đó là っ nhỏ, vì vậy nó trở thành かっ** và chúng ta sử dụng nó để gắn trợ từ quá khứ -た,
-vì vậy chúng ta nói -かった: <code>おいしかった</code> (ngon quá).
+vì vậy chúng ta nói -かった: <code>おいしかった</code> (đã ngon).
 
 ![](../media/image1036.webp)
 
@@ -147,7 +147,7 @@ Bây giờ, còn hệ từ thì sao? Đó là yếu tố động lực khác, đ
 Bây giờ, hệ từ chỉ có một kana *(だ trong trường hợp này)* để bắt đầu,
 vì vậy thường chúng ta thêm điều gì đó vào đó.
 
-**Chúng ta có thể thêm っ nhỏ, để tạo gốc だ~**, *(Tôi nghĩ bằng ~ ở đây có nghĩa là っ = だっ)* **sau đó có thể có trợ từ quá khứ -た gắn vào để tạo <code>だった</code>.** Chúng ta có thể thêm -ろ, vì vậy nó có thể có trợ từ ý chí gắn vào để tạo <code>だろう</code>.
+**Chúng ta có thể thêm っ nhỏ, để tạo gốc だっ**, **sau đó có thể có trợ từ quá khứ -た gắn vào để tạo <code>だった</code>.** Chúng ta có thể thêm -ろ, vì vậy nó có thể có trợ từ ý chí gắn vào để tạo <code>だろう</code>.
 
 **Và trong dạng て, bản thân だ thay đổi — tất nhiên chỉ có một kana, だ là kana cuối cùng —** **và nó có thể trở thành <code>で</code> để tạo dạng て.** Nó hơi kém đều đặn hơn những cái khác, nhưng thực sự đó là vì **chỉ có một hệ từ**, vì vậy nó không có nhiều thứ khác trong cùng nhóm để nó đều đặn với.
 
@@ -157,7 +157,7 @@ Vậy, đó là cấu trúc tổng thể của tiếng Nhật.
 
 ![](../media/image207.webp)
 
-**(Tiếng Nhật) có hai loại từ, từ hoạt động và từ thụ động, từ biến đổi và từ trơ.**
+**(Tiếng Nhật) có hai loại từ, từ hoạt động và từ tĩnh, từ biến đổi và từ trơ.**
 
 **Từ trơ** **không thể thay đổi theo bất kỳ cách nào, nhưng chúng có thể gắn các trợ từ cho chúng ta biết chúng đang làm gì.** Và may mắn thay, **vì chúng không bao giờ thay đổi, không có gì khó khăn về danh từ.**
 

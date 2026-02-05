@@ -109,7 +109,7 @@ Và **điểm thú vị ở đây là**, như chúng ta thấy, **với việc s
 
 Vì vậy **chúng ta không nói <code>さくらはすぐに帰ろう</code>.**
 
-**Điều đó không có nghĩa là <code>Sakura có lẽ sẽ đến</code>.**
+**Điều đó không có nghĩa là <code>Sakura có lẽ sẽ về</code>.**
 
 **Chúng ta nói** <code>さくらはすぐに**来るでしょう** (hoặc だろう)</code>, vì đó là cách chúng ta làm. **Chúng ta làm điều đó với copula ý chí khi chúng ta đưa ra loại suy đoán đó.**
 

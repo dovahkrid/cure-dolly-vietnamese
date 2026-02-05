@@ -174,7 +174,7 @@ Như tôi giải thích trong video, **nó có một loạt các cách sử dụ
 
 ---
 
-Và lý do chính tôi đề cập đến những điều này là bởi vì **nếu bạn gặp chúng** **trong quá trình học ngôn ngữ và bạn thấy thứ gì đó thường làm việc khác** **trông giống như một mệnh lệnh, <code>のだ</code> hoặc <code>ように</code>, thì đừng bối rối vì nó.** **Trong những trường hợp này, đó là một mệnh lệnh.**
+Và lý do chính tôi đề cập đến những điều này là bởi vì **nếu bạn gặp chúng** **trong quá trình immersion và bạn thấy thứ gì đó thường làm việc khác** **trông giống như một mệnh lệnh, <code>のだ</code> hoặc <code>ように</code>, thì đừng bối rối vì nó.** **Trong những trường hợp này, đó là một mệnh lệnh.**
 
 ::: info
 Điều này có thể hữu ích:

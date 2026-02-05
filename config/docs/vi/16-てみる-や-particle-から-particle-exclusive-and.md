@@ -1,8 +1,8 @@
 # **16. てみる, trợ từ や, trợ từ から, liên từ "và" loại trừ**
 
-[**Bài 16: Te-miru, <code>thử làm gì đó</code>, trợ từ ya, trợ từ kara, liên từ "và" loại trừ + thêm về Alice**](https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9u9u_A-vcqqyOFZu06WlhnypWj&index=18)
+[**Bài 16: Te-miru, <code>thử làm gì đó</code>, trợ từ ya, trợ từ kara, liên từ "và" loại trừ + thêm về Alice**](https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18)
 
-こんにちは.
+こんにちは。
 
 Hôm nay chúng ta quay lại với Alice, và lần này chúng ta sẽ sử dụng khá nhiều "tàu hỏa", vì tôi muốn chúng ta thực sự nắm vững cấu trúc của những câu này. Vậy, nếu bạn còn nhớ từ lần trước, Alice vừa bước vào hang thỏ và, trước sự ngạc nhiên của mình, phát hiện ra rằng cô đang rơi rất chậm xuống một hố thẳng đứng.
 
@@ -14,7 +14,7 @@ Hôm nay chúng ta quay lại với Alice, và lần này chúng ta sẽ sử d�
 
 <code>落ちる間に</code>
 
-<code>落ちる</code>, như chúng ta biết, có nghĩa là <code>rơi</code>. <code>間</code> là một khoảng thời gian, **và cũng là khoảng không gian giữa hai thứ.** Và, rõ ràng, một khoảng thời gian, theo cách nói ẩn dụ — và chúng ta chỉ có thể nói về thời gian bằng các ẩn dụ không gian — một khoảng thời gian luôn là khoảng không gian giữa hai điểm, phải không? Nó có điểm bắt đầu và kết thúc. Vì vậy <code>落ちる間に</code> có nghĩa là <code>**trong khi** (cô ấy) rơi / **trong suốt thời gian** (cô ấy) rơi</code>.
+<code>落ちる</code>, như chúng ta biết, có nghĩa là <code>rơi</code>. <code>間</code> là một khoảng thời gian **và cũng là khoảng không gian giữa hai thứ.** Và, rõ ràng, một khoảng thời gian, theo cách nói ẩn dụ — và chúng ta chỉ có thể nói về thời gian bằng các ẩn dụ không gian — một khoảng thời gian luôn là khoảng không gian giữa hai điểm, phải không? Nó có điểm bắt đầu và kết thúc. Vì vậy <code>落ちる間に</code> có nghĩa là <code>**trong khi** (cô ấy) rơi / **trong suốt thời gian** (cô ấy) rơi</code>.
 
 ---
 
@@ -22,11 +22,11 @@ Hôm nay chúng ta quay lại với Alice, và lần này chúng ta sẽ sử d�
 
 ---
 
-<code>たっぷり</code> có nghĩa là <code>với số lượng lớn</code>. **Đây là một trong những trạng từ kết thúc bằng り không cần trợ từ に.** Và nó có nghĩa là <code>với số lượng lớn / dồi dào</code> — giống như đang chảy từ vòi nước: <code>たっぷり</code>, <code>với số lượng lớn</code>. Và **ở đây nó là một trạng từ, mô tả thực tế rằng <code>ひま</code>, <code>thời gian rảnh</code>, tồn tại.** **Vì vậy thời gian rảnh tồn tại với số lượng lớn.**
+<code>たっぷり</code> có nghĩa là <code>với số lượng lớn</code>. **Đây là một trong những trạng từ kết thúc bằng り không cần に.** Và nó có nghĩa là <code>với số lượng lớn / dồi dào</code> — giống như đang chảy từ vòi nước: <code>たっぷり</code>, <code>với số lượng lớn</code>. Và **ở đây nó là một trạng từ mô tả việc <code>ひま</code>, <code>thời gian rảnh</code>, tồn tại.** **Vì vậy thời gian rảnh tồn tại với số lượng lớn.**
 
 ![](../media/image853.webp)
 
-Vậy, đây là phần logic đầu tiên của chúng ta: <code>落ちる間に…</code> (**đơn giản thiết lập bối cảnh, thời gian cho hành động — đây là một biểu thức thời gian tuyệt đối, vì đó là một thời điểm cụ thể, nên nó nhận に**) <code>...ひまがたっぷりあって</code> (<code>có nhiều thời gian rảnh</code>).
+Vậy, đây là mệnh đề logic đầu tiên: <code>落ちる間に…</code> (**đơn giản thiết lập bối cảnh, thời gian cho hành động — đây là một biểu thức thời gian tuyệt đối vì đó là một thời điểm cụ thể, nên nó nhận に**) <code>...ひまがたっぷりあって</code> (<code>có nhiều thời gian rảnh</code>).
 
 ---
 
@@ -34,7 +34,7 @@ Bây giờ phần tiếp theo — <code>まわりをゆっくり見まわせた<
 
 ![](../media/image134.webp)
 
-<code>回る</code> có nghĩa là <code>đi xung quanh / di chuyển xung quanh</code>. Một cách gọi khá trẻ con của cảnh sát là <code>おまわりさん</code>, có nghĩa là <code>người đi xung quanh / người tuần tra khu vực</code>.
+<code>回る</code> có nghĩa là <code>đi xung quanh / di chuyển xung quanh</code>. Một cách gọi khá trẻ con của cảnh sát là <code>おまわりさん</code>, có nghĩa là <code>người đi xung quanh / người tuần tra</code>.
 
 ---
 
@@ -42,7 +42,7 @@ Bây giờ phần tiếp theo — <code>まわりをゆっくり見まわせた<
 
 ---
 
-Thực ra, ở đây chúng ta không có <code>回る</code>; chúng ta có <code>まわり</code>. Và, như chúng ta đã đề cập, **khi chúng ta lấy gốc い của động từ và sử dụng nó một mình, nó thường trở thành danh từ.** Còn có cách sử dụng khác mà chúng ta sẽ không đi sâu vào bây giờ, nhưng trong trường hợp này nó trở thành danh từ. Vậy, <code>まわり</code> có nghĩa là gì? <code>まわり</code> thực ra có thể có hai nghĩa: **nó có thể là dạng danh từ của <code>回る</code>**, và trong trường hợp đó nó là <code>việc đi xung quanh</code>, <code>việc tuần tra khu vực</code>, và đó là những gì chúng ta có trong <code>おまわりさん</code>, cảnh sát — đó là người thực hiện hành động tuần tra khu vực, **<code>まわり</code> là <code>hành động tuần tra khu vực</code>,**
+Thực ra, ở đây chúng ta không có <code>回る</code>; chúng ta có <code>まわり</code>. Và, như chúng ta đã đề cập, **khi chúng ta lấy gốc い của động từ và sử dụng nó một mình, nó thường trở thành danh từ.** Còn có cách sử dụng khác mà chúng ta sẽ không đi sâu vào bây giờ, nhưng trong trường hợp này nó trở thành danh từ. Vậy, <code>まわり</code> có nghĩa là gì? <code>まわり</code> thực ra có thể có hai nghĩa: **nó có thể là dạng danh từ của <code>回る</code>**, và trong trường hợp đó nó là <code>việc đi xung quanh</code>, <code>việc tuần tra</code>, và đó là những gì chúng ta có trong <code>おまわりさん</code>, cảnh sát — đó là người thực hiện hành động tuần tra, **<code>まわり</code> là <code>hành động tuần tra</code>,**
 
 ---
 
@@ -66,7 +66,7 @@ Vậy, <code> *(zeroが)* まわりをゆっくり見まわせた</code> có ngh
 
 cô ấy có thể chậm rãi <code>見まわす</code>
 
-<code>見まわす</code> có nghĩa là gì? Chúng ta biết <code>まわす</code> có nghĩa gì — nó có nghĩa là <code>làm (cái gì đó) đi xung quanh</code>. <code>**見**まわす</code> **gắn <code>まわす</code> vào gốc い của <code>見る</code>.** Chúng ta thực sự không thể nói đó là gốc い, vì đây là động từ nhóm ichidan, và tất cả các gốc của ichidan trông giống nhau, như chúng ta biết, **nhưng chúng ta biết rằng đây thực sự là れんようけい/連用形, gốc い, vì đó là gốc được sử dụng để gắn động từ với các động từ khác.**
+<code>見まわす</code> có nghĩa là gì? Chúng ta biết <code>まわす</code> có nghĩa gì — nó có nghĩa là <code>làm (cái gì đó) đi xung quanh</code>. <code>**見**まわす</code> **gắn <code>まわす</code> vào gốc い của <code>見る</code>.** Chúng ta thực sự không thể nói đó là gốc い, vì đây là động từ ichidan, và tất cả các gốc của ichidan trông giống nhau, như chúng ta biết, **nhưng chúng ta biết rằng đây thực sự là れんようけい/連用形, gốc い, vì đó là gốc được sử dụng để gắn động từ với các động từ khác.**
 
 ---
 
@@ -117,7 +117,7 @@ Vậy, <code>下を見てみたけど、暗すぎて</code>. <code>暗い</code>
 ::: info
 Có lẽ dịch tốt hơn là <code>có thể được nhìn thấy/có thể thấy được/được nhìn thấy</code> (phiên bản "tự di chuyển" của 見る)
 
-Tôi thêm điều này phòng trường hợp có sự nhầm lẫn, vì đây là một sự khác biệt khá tinh tế, và mọi người đã nhầm lẫn về điều này trong phần bình luận dưới [**video**](https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9u9u_A-vcqqyOFZu06WlhnypWj&index=22), chưa kể đến tôi lần đầu tiên.
+Tôi thêm điều này phòng trường hợp có sự nhầm lẫn, vì đây là một sự khác biệt khá tinh tế, và mọi người đã nhầm lẫn về điều này trong phần bình luận dưới [**video**](https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=22), chưa kể đến tôi lần đầu tiên.
 
 Những gì Cure Dolly nói [**trong bình luận**](https://www.youtube.com/watch?v=H_jePzcPFAQ&lc=UgzYIfuuuSD1tlN7tr54AaABAg.9JDoZ9EQc-O9JDzxV8JLGd). Tôi khuyên bạn nên đọc tất cả các bình luận về vấn đề này.
 
@@ -130,11 +130,11 @@ Như Dolly nói [**trong bình luận**](https://www.youtube.com/watch?v=H_jePzc
 
 見る. Nó là một động từ khác với 見られる, nhưng 見える cũng có thể hoạt động như dạng khả năng bất quy tắc của 見る, cũng như là đối tác "tự di chuyển" của 見る. **Hãy kiểm tra bài 54 về điều này, ngay cả ngay sau đó.**
 
-Ngoài ra, [**điểm này**](https://japanese.stackexchange.com/questions/43881/is-%E8%A6%8B%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B-the-potential-form-of-%E8%81%96%E8%A6%8B%E3%81%88%E3%82%8B) (nếu bạn kiểm tra các biến đổi của 見える trên Jisho), cũng như ghi chú về 出来る trong Bài 10.
+Ngoài ra, [**điểm này**](https://japanese.stackexchange.com/questions/43881/is-%E8%A6%8B%E3%81%88%E3%82%89%E3%82%8C%E3%82%8B-the-potential-form-of-%E8%A6%8B%E3%81%88%E3%82%8B) (nếu bạn kiểm tra các biến đổi của 見える trên Jisho), cũng như ghi chú về 出来る trong Bài 10.
 Điểm mấu chốt ở đây là mặc dù cả hai đều ngụ ý khả năng, có sự khác biệt, với bản dịch <code>có thể nhìn thấy</code> liên quan nhiều hơn đến <code>見られる</code>, không phải 見える, do đó có ghi chú này.
 :::
 
-Và nếu chúng ta nhìn vào "tàu hỏa" ở đây, **chúng ta phải có chủ ngữ được đánh dấu bằng が, trong phần thứ hai của câu:** <code>何も **(zeroが)** 見えなかった</code>.
+Và nếu chúng ta nhìn vào "tàu hỏa" ở đây, **chúng ta phải có chủ ngữ được đánh dấu bằng が trong mệnh đề thứ hai:** <code>何も **(zeroが)** 見えなかった</code>.
 
 ![](../media/image633.webp)
 
@@ -153,7 +153,7 @@ Mặc dù -ない, là dạng phủ định của nó, khá là tính từ ([**x
 
 ![](../media/image203.webp)
 
-<code>その後</code>: <code>後</code>, như chúng ta biết, có nghĩa là <code>sau</code> — chúng ta đã gặp nó với nghĩa "theo sau ai đó", **nhưng nó cũng có nghĩa là <code>sau</code> theo nghĩa khác, <code>sau đó</code>.** <code>その</code> có nghĩa là <code>cái đó</code>; **<code>その後</code> có nghĩa là <code>sau đó</code>.** Vì vậy một lần nữa, **đây chỉ là một biểu thức thời gian, thiết lập thời điểm.** Và **lần này đây là một biểu thức thời gian tương đối, <code>sau đó / sau một điều nhất định</code>, nên nó không cần trợ từ に.**
+<code>その後</code>: <code>後</code>, như chúng ta biết, có nghĩa là <code>sau</code> — chúng ta đã gặp nó với nghĩa "theo sau ai đó", **nhưng nó cũng có nghĩa là <code>sau</code> theo nghĩa khác, <code>sau đó</code>.** <code>その</code> có nghĩa là <code>cái đó</code>; **<code>その後</code> có nghĩa là <code>sau đó</code>.** Vì vậy một lần nữa, **đây chỉ là một biểu thức thời gian, thiết lập thời điểm.** Và **lần này đây là một biểu thức thời gian tương đối, <code>sau đó / sau một điều nhất định</code>, nên nó không cần に.**
 
 ![](../media/image827.webp)
 
@@ -167,7 +167,7 @@ Mặc dù -ない, là dạng phủ định của nó, khá là tính từ ([**x
 
 ![](../media/image587.webp)
 
-Vậy, điều này khá phức tạp. Phần đầu của câu khá đơn giản. <code>その後、穴のまわり見て</code> — <code>Sau đó cô ấy nhìn vào xung quanh cái hang</code>. Phần thứ hai của câu có khá nhiều thứ để chúng ta xem xét. <code>目に止まるのは</code> nghĩa đen là <code>thứ dừng lại trong mắt cô ấy</code>.
+Vậy, điều này khá phức tạp. Mệnh đề đầu khá đơn giản. <code>その後、穴のまわり見て</code> — <code>Sau đó cô ấy nhìn vào xung quanh cái hang</code>. Mệnh đề thứ hai có khá nhiều thứ để chúng ta xem xét. <code>目に止まるのは</code> nghĩa đen là <code>thứ dừng lại trong mắt cô ấy</code>.
 
 ![](../media/image734.webp)
 
@@ -183,7 +183,7 @@ Nhưng trong trường hợp này nó được mở rộng như sau: <code>目�
 
 ![](../media/image717.webp)
 
-<code> *(zeroが)* ぎっしりならんだとだなや本だなだった</code>. **<code>ぎっしり</code> là một trong những trạng từ kết thúc bằng り không cần trợ từ に.** <code>ぎっしり</code> có nghĩa là <code>xếp chặt</code>. <code>ならんだ</code> là quá khứ của <code>ならぶ</code>, có nghĩa là <code>xếp thành hàng</code>, vì vậy <code>**ぎっしり ならんだ**</code> có nghĩa là <code>**xếp thành hàng chặt chẽ** / **xếp chặt** / **xếp thành hàng và xếp chặt**</code>. <code>ぎっしりならんだとだなや本だなだった</code>.
+<code> *(zeroが)* ぎっしりならんだとだなや本だなだった</code>. **<code>ぎっしり</code> là một trong những trạng từ kết thúc bằng り không cần に.** <code>ぎっしり</code> có nghĩa là <code>xếp chặt</code>. <code>ならんだ</code> là quá khứ của <code>ならぶ</code>, có nghĩa là <code>xếp thành hàng</code>, vì vậy <code>**ぎっしり ならんだ**</code> có nghĩa là <code>**xếp thành hàng chặt chẽ** / **xếp chặt** / **xếp thành hàng và xếp chặt**</code>. <code>ぎっしりならんだとだなや本だなだった</code>.
 
 ---
 
@@ -195,7 +195,7 @@ Vậy, <code>た</code> trở thành <code>だ</code>: <code>とだな</code> �
 
 ## Trợ từ や + liên từ "và" loại trừ
 
-Bây giờ, <code>や</code> này là thứ chúng ta cần xem xét. Khi bạn muốn nói <code>và</code> — cái gì đó <code>và</code> cái gì đó khác — làm thế nào để nói điều đó bằng tiếng Nhật? Chúng ta biết rằng khi bạn nối hai phần của câu, chúng ta sử dụng dạng て, hoặc đôi khi chúng ta sử dụng những thứ khác như <code>でも</code>. Trong tiếng Anh chúng ta sử dụng <code>and</code> trong mọi trường hợp: chúng ta nói <code>bread and butter</code> (bánh mì và bơ), <code>pencil and paper</code> (bút chì và giấy). Chúng ta cũng nói <code>I went into the baker's and bought some bread</code> (Tôi vào tiệm bánh và mua ít bánh mì). **Nhưng trong tiếng Nhật, chúng ta không sử dụng cùng một từ <code>và</code> trong cả hai trường hợp.** Chúng ta đã biết một số cách để nối hai phần của câu, nhưng khi chúng ta nối hai thứ với nhau, có hai cách để làm điều đó. Và một trong số đó là sử dụng trợ từ と. Chúng ta biết rằng trợ từ と là trợ từ trích dẫn, **nhưng nó cũng là trợ từ <code>và</code>.** Vì vậy nếu bạn muốn nói <code>pen and book</code> (bút và sách), chúng ta nói <code>ペンと本</code>. **Nhưng chúng ta cũng có thể sử dụng trợ từ や, vì vậy chúng ta có thể nói <code>と</code> hoặc <code>や</code>, khi muốn nối hai hoặc nhiều đối tượng.** Sự khác biệt là gì?
+Bây giờ, <code>や</code> này là thứ chúng ta cần xem xét. Khi bạn muốn nói <code>và</code> — cái gì đó <code>và</code> cái gì đó khác — làm thế nào để nói điều đó bằng tiếng Nhật? Chúng ta biết rằng khi bạn nối hai mệnh đề, chúng ta sử dụng dạng て, hoặc đôi khi chúng ta sử dụng những thứ khác như <code>でも</code>. Trong tiếng Anh chúng ta sử dụng <code>and</code> trong mọi trường hợp: chúng ta nói <code>bread and butter</code> (bánh mì và bơ), <code>pencil and paper</code> (bút chì và giấy). Chúng ta cũng nói <code>I went into the baker's and bought some bread</code> (Tôi vào tiệm bánh và mua ít bánh mì). **Nhưng trong tiếng Nhật, chúng ta không sử dụng cùng một từ <code>và</code> trong cả hai trường hợp.** Chúng ta đã biết một số cách để nối hai mệnh đề, nhưng khi chúng ta nối hai thứ với nhau, có hai cách để làm điều đó. Và một trong số đó là sử dụng trợ từ と. Chúng ta biết rằng trợ từ と là trợ từ trích dẫn, **nhưng nó cũng là trợ từ <code>và</code>.** Vì vậy nếu bạn muốn nói <code>pen and book</code> (bút và sách), chúng ta nói <code>ペンと本</code>. **Nhưng chúng ta cũng có thể sử dụng trợ từ や, vì vậy chúng ta có thể nói <code>と</code> hoặc <code>や</code>, khi muốn nối hai hoặc nhiều đối tượng.** Sự khác biệt là gì?
 
 ---
 
@@ -203,7 +203,7 @@ Chà, thực ra đây là một sự khác biệt rất hữu ích, và nó sẽ
 
 ![](../media/image832.webp)
 
-Nếu bạn nói <code>ペンやえんぴつ</code>, bạn đang nói rằng có bút và bút chì, **và có thể có gì đó khác** — **và rất thường bạn ngụ ý rằng có gì đó khác ở đó, vì bạn tránh sử dụng liên từ "và" loại trừ.** Vì vậy thứ <code>dừng lại trong mắt cô ấy</code> là thực tế rằng tủ và kệ sách **(cùng với những thứ khác)** được xếp chặt dọc theo các bức tường.
+Nếu bạn nói <code>ペンやえんぴつ</code>, bạn đang nói rằng có bút và bút chì, **và có thể có gì đó khác** — **và rất thường bạn ngụ ý rằng có gì đó khác ở đó, vì bạn tránh sử dụng liên từ "và" loại trừ.** Vì vậy thứ <code>dừng lại trong mắt cô ấy</code> là việc tủ và kệ sách **(cùng với những thứ khác)** được xếp chặt dọc theo các bức tường.
 
 ![](../media/image449.webp)
 
@@ -246,5 +246,5 @@ Hầu hết các khóa học sẽ coi đây là một chủ đề trung cấp, "
 <code>びん</code> thường được dịch là <code>chai</code>; thực ra trong trường hợp này nó giống <code>lọ</code> hơn. Có gì trong đó? Chà, chúng ta sẽ phải đợi đến lần sau để biết…
 
 ::: info
-Một lần nữa, tôi thực sự khuyến khích bạn xem qua tất cả các bình luận dưới [**video này**](https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9u9u_A-vcqqyOFZu06WlhnypWj&index=18) của bài học, vì một số phần của nó được Dolly giải thích thêm ở đó, do bài học này khá <code>căng thẳng</code> (；￣Д￣)
+Một lần nữa, tôi thực sự khuyến khích bạn xem qua tất cả các bình luận dưới [**video này**](https://www.youtube.com/watch?v=H_jePzcPFAQ&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=18) của bài học, vì một số phần của nó được Dolly giải thích thêm ở đó, do bài học này khá <code>căng thẳng</code> (；￣Д￣)
 :::

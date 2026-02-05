@@ -1,14 +1,14 @@
-# **78. Phá Vỡ Cốt Lõi: Tae Kim vs Copula | Đánh Giá Phê Phán Cấu Trúc Tiếng Nhật của Tae Kim** 
+# **78. Phá Vỡ Cốt Lõi: Tae Kim vs Copula | Đánh Giá Phê Phán Cấu Trúc Tiếng Nhật** 
 
 [**Cấu Trúc Tiếng Nhật Thực vs Tae Kim - Đánh Giá Cấu Trúc về Ngữ Pháp Tiếng Nhật của Tae Kim | Bài 77**](https://www.youtube.com/watch?v=-JuHi-yKGFc&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=80&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về cốt lõi của cấu trúc tiếng Nhật và chúng ta sẽ nhìn nó từ một góc độ khác bằng cách đối chiếu nó với thứ gì đó khác với những gì chúng ta thường đối chiếu.
+Hôm nay chúng ta sẽ nói về cốt lõi của cấu trúc tiếng Nhật và sẽ nhìn nó từ một góc độ khác bằng cách đối chiếu với thứ gì đó khác với những gì chúng ta thường đối chiếu.
 
 ![](../media/image1158.webp)
 
-Và đó là, chúng ta sẽ xem Tae Kim-sensei làm gì với nó. Tuần trước chúng ta đã xem Tae Kim-sensei làm gì với trợ từ が, cái mà là cốt lõi và trung tâm tuyệt đối của mọi câu tiếng Nhật có logic.
+Và đó là, chúng ta sẽ xem Tae Kim-sensei làm gì với nó. Tuần trước chúng ta đã xem Tae Kim-sensei làm gì với trợ từ が, cái là cốt lõi và trung tâm tuyệt đối của mọi câu tiếng Nhật có logic.
 
 Hôm nay chúng ta sẽ xem anh ấy làm gì với <code>だ</code>.
 
@@ -26,7 +26,7 @@ Bây giờ, tại sao anh ấy làm điều này? Một lần nữa, về cơ b�
 
 ![](../media/image438.webp)
 
-Nhưng về cơ bản một lần nữa những gì anh ấy làm là lấy phần sai của nó và cố gắng hòa giải phần đúng của nó với điều đó. Vì vậy chúng ta kết thúc với thứ gì đó thực sự có hại hơn và ít hữu ích hơn so với mớ hỗn độn Eihongo mà chúng ta có ngay từ đầu, cái mà ít nhất có một số cấu trúc thực sự của tiếng Nhật trong đó, dù theo cách hơi phi logic và lộn xộn.
+Nhưng về cơ bản một lần nữa những gì anh ấy làm là lấy phần sai của nó và cố gắng hòa giải phần đúng của nó với điều đó. Vì vậy chúng ta kết thúc với thứ gì đó thực sự có hại hơn và ít hữu ích hơn so với mớ hỗn độn Eihongo mà chúng ta có ngay từ đầu, cái ít nhất có một số cấu trúc thực sự của tiếng Nhật trong đó, dù theo cách hơi phi logic và lộn xộn.
 
 Và anh ấy cũng phủ nhận rằng <code>だ</code> và <code>です</code> thực sự là cùng một thứ, và điều này thực sự vì ba lý do.
 
@@ -36,11 +36,11 @@ Thứ nhất, nếu bạn phủ nhận chức năng copula thì thực sự khô
 
 Nó làm một việc mà <code>だ</code> không làm. Chỉ một việc.
 
-Nhưng cũng bởi vì mô hình tiếng Nhật Eihongo rất khó hiểu và rất gắn bó với huyền thoại về cái gọi là <code>biến đổi tiếng Nhật</code>, cái mà không tồn tại, đến nỗi nó làm cho sự lập dị đó của <code>です</code> trông như nhiều hơn một.
+Nhưng cũng bởi vì mô hình tiếng Nhật Eihongo rất khó hiểu và rất gắn bó với huyền thoại về cái gọi là <code>biến đổi tiếng Nhật</code>, cái không tồn tại, đến nỗi nó làm cho sự lập dị đó của <code>です</code> trông như nhiều hơn một.
 
 ---
 
-Nó trông như thể nó ở khắp mọi nơi trong khi thực tế nó chỉ có một sự lập dị — cái mà hơi khó hiểu một chút, nhưng khi bạn thấy nó như thực chất của nó, nó chỉ là một việc đó thôi.
+Nó trông như thể nó ở khắp mọi nơi trong khi thực tế nó chỉ có một sự lập dị — cái hơi khó hiểu một chút, nhưng khi bạn thấy nó như thực chất của nó, nó chỉ là một việc đó thôi.
 
 Vậy, việc chúng ta hiểu sai copula <code>だ</code> quan trọng như thế nào?
 
@@ -156,7 +156,7 @@ Và tôi nên nói rằng **<code>だ</code> và <code>です</code> thực tế
 
 ## Dạng copula である
 
-Đôi khi chúng ta sử dụng <code>である</code>, cái mà hơi giống một hóa thạch.
+Đôi khi chúng ta sử dụng <code>である</code>, cái hơi giống một hóa thạch.
 
 ![](../media/image380.webp)
 
@@ -211,7 +211,7 @@ Và nếu chúng ta theo ngữ pháp tiếng Nhật Eihongo thông thường, ch
 
 ## Vấn đề với biến đổi
 
-Và chúng ta thực sự nên đề cập ở đây về vấn đề khác với Tae Kim, cái mà thực sự không tệ hơn các sách giáo khoa Eihongo, nhưng nó cũng không tốt hơn.
+Và chúng ta thực sự nên đề cập ở đây về vấn đề khác với Tae Kim, cái thực sự không tệ hơn các sách giáo khoa Eihongo, nhưng nó cũng không tốt hơn.
 
 ![](../media/image307.webp)
 

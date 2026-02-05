@@ -2,18 +2,30 @@
 
 ## Resume QA from where we left off
 
-The QA was paused at file 15/102 (lesson 13). To continue:
+The QA was paused at file 15/102 (lesson 14). To continue:
 
 ```bash
-# Set your API key
-$env:OPENROUTER_API_KEY="your-key-here"
+# Set your API key in .env file
+OPENROUTER_API_KEY=your-key-here
 
-# Run full QA (will re-check all files)
+# Resume from lesson 15 (file number in filename)
+npm run qa -- --start-from 15
+
+# Or auto-resume from last saved progress
+npm run qa -- --resume
+
+# Run full QA (will re-check all files from beginning)
 npm run qa
 
-# Or run QA on a single file
-npm run qa:file "15-transitive-intransitive-verbs.md"
+# Run QA on a single file
+npm run qa -- --file "15-transitive-intransitive-verbs.md"
 ```
+
+## Progress tracking
+
+The script automatically saves progress to `qa-progress.json`. If the script crashes or you stop it, you can:
+- Use `--resume` to continue from where it stopped
+- Use `--start-from N` to start from a specific lesson number
 
 ## Files already QA'd (lessons 1-13)
 - 1-the-basic-types-of-sentences.md
@@ -42,6 +54,16 @@ const TERMINOLOGY_FIXES = {
   // Add more as discovered
 };
 ```
+
+### Standard terminology (Vietnamese Japanese education)
+
+| English | Vietnamese (correct) | Wrong |
+|---------|---------------------|-------|
+| intransitive verb (自動詞) | tự động từ | động từ tự động |
+| transitive verb (他動詞) | tha động từ | động từ tha động |
+| particle (助詞) | trợ từ | hạt, tiểu từ |
+| auxiliary verb (助動詞) | trợ động từ | động từ phụ |
+| causative | thể cầu khiến | thể sai khiến |
 
 ## After QA completes
 

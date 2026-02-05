@@ -37,7 +37,7 @@ Không nhầm lẫn bản dịch <code>làm cho cái gì đó</code> như biểu
 Vì vậy trong trường hợp đầu tiên, bất cứ thứ gì đó đang tự di chuyển; nó đang ra ngoài; nó đang xuất hiện. **Trong trường hợp thứ hai, chủ thể của câu, chủ thể của động từ, đang đưa cái gì đó khác ra ngoài hoặc lấy cái gì đó khác ra ngoài.**
 
 ::: info
-vì vậy, giống như chuyển tiếp, tha chuyển động DẠO như ngụ ý cái gì đó đối với tân ngữ ngữ pháp, trong khi động từ không chuyển tiếp/tự chuyển động không có tân ngữ trực tiếp, vì nó mô tả/<code>di chuyển</code> chỉ chính nó.
+vì vậy, giống như chuyển tiếp, tha chuyển động DƯỜNG NHƯ ngụ ý cái gì đó đối với tân ngữ ngữ pháp, trong khi động từ không chuyển tiếp/tự chuyển động không có tân ngữ trực tiếp, vì nó mô tả/<code>di chuyển</code> chỉ chính nó.
 :::
 
 Bây giờ, điều này thường rất hữu ích, bởi vì trong nhiều trường hợp nó cho chúng ta hai từ riêng biệt dễ hiểu vì chúng có liên quan chặt chẽ.
@@ -151,4 +151,4 @@ Vậy tại sao các từ điển gọi nó là không chuyển tiếp? **Bởi 
 
 **Không có quá nhiều trường hợp như vậy, vì vậy không quan trọng nếu bạn muốn sử dụng chuyển tiếp và không chuyển tiếp, chỉ cần lưu ý rằng ý nghĩa không hoàn toàn giống nhau trong mọi trường hợp, và trong một số trường hợp nó không phù hợp chút nào.**
 
-Bây giờ, như tôi đã nói, nếu bạn chỉ muốn nhớ ba quy tắc và không gì khác, điều đó sẽ phá vỡ phần lớn các động từ tự chuyển động và tha chuyển động cho bạn. Trong hầu hết các trường hợp, bạn có thể hiểu chúng chỉ với điều đó. Vì vậy phần còn lại của những gì tôi đã nói với bạn rất hữu ích khi bạn trở nên thành thạo hơn trong tiếng Nhật, nhưng nếu bạn chỉ nhớ khái niệm tự chuyển động và tha chuyển động và ba quy tắc cơ bản: **phiên bản -ある luôn là tự chuyển động,** **các phiên bản -す và -せる luôn là tha chuyển động** và nếu bạn cũng nhớ rằng **phiên bản -める luôn là tha chuyển động**, điều đó đáng để thêm vào bởi vì nó bao phủ rất nhiều. Và với những điều đó, bạn thực sự đã kiểm soát được phần lớn vấn đề của các động từ tự chuyển động và tha chuyển động.
+Bây giờ, như tôi đã nói, nếu bạn chỉ muốn nhớ ba quy tắc và không gì khác, điều đó sẽ phá vỡ phần lớn các động từ tự chuyển động và tha chuyển động cho bạn. Trong hầu hết các trường hợp, bạn có thể hiểu chúng chỉ với điều đó. Vì vậy phần còn lại của những gì tôi đã nói với bạn rất hữu ích khi bạn trở nên thành thạo hơn trong tiếng Nhật, nhưng nếu bạn chỉ nhớ khái niệm tự chuyển động và tha chuyển động và ba quy tắc cơ bản: **phiên bản -ある luôn là tự chuyển động,** **các phiên bản -す và -める luôn là tha chuyển động** và nếu bạn cũng nhớ rằng **phiên bản -める luôn là tha chuyển động**, điều đó đáng để thêm vào bởi vì nó bao phủ rất nhiều. Và với những điều đó, bạn thực sự đã kiểm soát được phần lớn vấn đề của các động từ tự chuyển động và tha chuyển động.

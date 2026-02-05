@@ -4,9 +4,9 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về điều gì đó làm bối rối nhiều người học tiếng Nhật, đặc biệt là khi họ đã học được một chút tiếng Nhật và bắt đầu đọc tiếng Nhật hoặc nghe anime, v.v. Và đó là thực tế rằng người Nhật thường đưa ra những phát biểu có vẻ như phủ định nhưng thực tế có thể có nghĩa tích cực.
+Hôm nay chúng ta sẽ nói về điều gì đó làm bối rối nhiều người học tiếng Nhật, đặc biệt là khi họ đã học được một chút tiếng Nhật và bắt đầu đọc tiếng Nhật hoặc nghe anime, v.v. Và đó là việc người Nhật thường đưa ra những phát biểu có vẻ phủ định nhưng thực tế lại có nghĩa tích cực.
 
-Ví dụ, ai đó có thể nói <code>さくらじゃない</code>, điều này có vẻ như có nghĩa là <code>Đó không phải là Sakura.</code> Nhưng ý nghĩa thực tế của nó là <code>Đó là Sakura, phải không?</code> hoặc thậm chí đơn giản là <code>Đó là Sakura</code>. Bây giờ, điều này hoạt động như thế nào, làm thế nào để chúng ta nhận ra nó, và làm thế nào để chúng ta hiểu nó?
+Ví dụ, ai đó có thể nói <code>さくらじゃない</code>, điều này có vẻ có nghĩa là <code>Đó không phải là Sakura.</code> Nhưng ý nghĩa thực tế của nó là <code>Đó là Sakura, phải không?</code> hoặc thậm chí đơn giản là <code>Đó là Sakura</code>. Vậy điều này hoạt động như thế nào, làm sao để chúng ta nhận ra nó, và làm sao để chúng ta hiểu nó?
 
 Đầu tiên, <code>じゃない</code> là dạng rút gọn của <code>ではない</code>, tất nhiên, đây là dạng phủ định của copula, như chúng ta đã học ngay từ bài học về phủ định trong tiếng Nhật.
 
@@ -14,7 +14,7 @@ Ví dụ, ai đó có thể nói <code>さくらじゃない</code>, điều nà
 
 Vậy, <code>A,Bだ</code> hoặc <code>A,Bです</code> có nghĩa là <code>A là B</code>. <code>A,Bではない (hoặc ではありません)</code> có nghĩa là <code>A không phải là B</code>. Vì vậy không có nghi vấn gì ở đây rằng chúng ta thực sự đang nghe một phát biểu về mặt ngữ pháp là phủ định.
 
-Vậy làm thế nào để chúng ta diễn giải điều này? Chà, để bắt đầu, hãy nhắc nhở bản thân về thực tế rằng câu hỏi phủ định được sử dụng trong hầu hết các ngôn ngữ, bao gồm cả tiếng Anh, để gợi ra một phản hồi tích cực.
+Vậy làm sao để chúng ta diễn giải điều này? Chà, để bắt đầu, hãy nhắc nhở bản thân về việc câu hỏi phủ định được sử dụng trong hầu hết các ngôn ngữ, bao gồm cả tiếng Anh, để gợi ra một phản hồi tích cực.
 
 Vì vậy, nếu chúng ta nói <code>It's a nice day, isn't it?</code> (Hôm nay thời tiết đẹp, phải không?), chúng ta có ý rằng đó là một ngày đẹp trời và chúng ta mong đợi người nghe đồng ý. Nếu chúng ta nói <code>Are you Sakura?</code> (Bạn có phải là Sakura không?) thì đây là một câu hỏi trung tính.
 
@@ -40,7 +40,7 @@ Nếu chúng ta nói <code>She came on Saturday?</code> (Cô ấy đến vào th
 
 ![](../media/image1046.webp)
 
-Chúng ta biết cách diễn giải điều này trong tiếng Anh và việc học cách diễn giải <code>じゃない</code> trong tiếng Nhật rất dễ dàng khi chúng ta hiểu phạm vi ý nghĩa mà nó sở hữu. <code>じゃない</code> cũng được sử dụng với các ý nghĩa khác.
+Chúng ta biết cách diễn giải điều này trong tiếng Anh và việc học cách diễn giải <code>じゃない</code> trong tiếng Nhật rất dễ dàng khi chúng ta hiểu phạm vi ý nghĩa mà nó có. <code>じゃない</code> cũng được sử dụng với các ý nghĩa khác.
 
 Đặc biệt, nó được sử dụng như một từ kết thúc câu hỏi phủ định rất giống như <code>ね</code>. Ví dụ, chúng ta có thể nói <code>暑いじゃない</code> có nghĩa gần giống như <code>暑いね</code>.
 

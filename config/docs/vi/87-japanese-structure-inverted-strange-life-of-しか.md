@@ -10,7 +10,7 @@ Chỉ để đề phòng, しか này khác với trợ từ しか trong bài h
 :::
 ![](../media/image754.webp)
 
-**nhưng có một yếu tố <code>しか</code> khác trong tiếng Nhật là một trợ từ** **và có tác động khá bất thường đến cấu trúc của câu.**
+**nhưng có một yếu tố <code>しか</code> khác trong tiếng Nhật là một trợ từ** **và có tác động khá bất thường đến cấu trúc câu.**
 
 Vậy chúng ta sẽ tìm hiểu tác động đó. Một người bình luận đã nhắc tôi về một trò chơi chữ khá duyên dáng trong tiếng Nhật:
 
@@ -146,7 +146,7 @@ Chà, tất nhiên nó có tồn tại, **điều này rất thông tục**, nh�
 
 **Trong tiếng Anh** chúng ta có thể nói, <code>**Hoặc chạy hoặc không có gì**</code>, và một lần nữa, **điều đó không đúng ngữ pháp và vì cùng lý do** **mà tiếng Nhật không đúng ngữ pháp, rằng <code>chạy</code> không phải là danh từ.**
 
-**Nhưng, khi thứ đó đang đuổi theo bạn, ai quan tâm đến ngữ pháp?.**
+**Nhưng, khi thứ đó đang đuổi theo bạn, ai quan tâm đến ngữ pháp?**
 ::: info
 Một số bình luận hữu ích tôi đoán dưới video…
 

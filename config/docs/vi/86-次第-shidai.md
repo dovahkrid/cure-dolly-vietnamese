@@ -4,7 +4,7 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về một trong những từ có danh sách rất dài các nghĩa dường như không liên quan gì đến nhau, nếu bạn tin tưởng từ điển Anh-Nhật, điều này khiến nó cảm thấy rất khó khăn. Nhưng như thường lệ trong những trường hợp này, vấn đề thực sự chỉ đơn giản là cố gắng nhét cái chốt vuông của định nghĩa tiếng Anh vào lỗ tròn của tiếng Nhật. Vậy nên, nếu chúng ta nhìn vào từ này, chúng ta sẽ có thể hiểu ý nghĩa thực sự của nó và cách nó thực sự hoạt động.
+Hôm nay chúng ta sẽ nói về một trong những từ có danh sách rất dài các nghĩa dường như không liên quan gì đến nhau, nếu bạn tin tưởng từ điển Anh-Nhật, điều này khiến nó trở nên rất khó khăn. Nhưng như thường lệ trong những trường hợp này, vấn đề thực sự chỉ đơn giản là cố gắng nhét cái chốt vuông của định nghĩa tiếng Anh vào lỗ tròn của tiếng Nhật. Vậy nên, nếu chúng ta nhìn vào từ này, chúng ta sẽ có thể hiểu ý nghĩa thực sự của nó và cách nó thực sự hoạt động.
 
 **Từ đó là <code>次第</code>.**
 
@@ -69,7 +69,7 @@ Vậy, nếu chúng ta nói, <code>分かり**次第**お電話します</code>,
 
 <code>食事の用意が出来次第食べる.</code>
 
-Vậy, mặc dù **ở đây chúng ta thực sự có một mệnh đề logic**: <code>食事の用意が出来る</code> (việc chuẩn bị bữa ăn được hoàn thành; theo nghĩa đen, ra ngoài), **chúng ta thực sự có thể của できる ở đây, đó là <code>出来 / でき</code>,** **và điều đó được gắn vào <code>次第</code>.**
+Vậy, mặc dù **ở đây chúng ta thực sự có một mệnh đề logic**: <code>食事の用意が出来る</code> (việc chuẩn bị bữa ăn được hoàn thành; theo nghĩa đen, ra ngoài), **chúng ta thực sự có thể i của できる ở đây, đó là <code>出来 / でき</code>,** **và điều đó được gắn vào <code>次第</code>.**
 
 ![](../media/image210.webp)
 
@@ -170,13 +170,13 @@ Hoặc <code>夜は**次第に**長くなる</code> (đêm đang trở nên dài
 **Và bởi vì điều này được đưa ra như một <code>điểm ngữ pháp</code>, nó có thể hơi khó hiểu.** **Điều chúng ta cần chú ý là không phải mọi cách sử dụng <code>次第</code> được theo sau bởi に** **đều tương ứng với cái gọi là điểm ngữ pháp này.**
 
 Vấn đề thực sự ở đây, thường không được giải thích, là  
-**khi <code>次第</code> không được sửa đổi bởi một danh từ khác** **và nó đứng một mình hoạt động như một trạng từ độc lập,** **đó là khi nó có nghĩa này.**
+**khi <code>次第</code> không được bổ nghĩa bởi một danh từ khác** **và nó đứng một mình hoạt động như một trạng từ độc lập,** **đó là khi nó có nghĩa này.**
 
 Vậy, trong ví dụ chúng ta đã thấy trước đó, <code>身分**次第に**暮らす</code>,
 
 ![](../media/image971.webp)
 
-**đó không phải là một ví dụ của điều này. Nó đang được sử dụng như trạng từ,** **nhưng cái đang sửa đổi <code>暮らす</code> không phải là <code>次第</code> một mình mà là từ ghép <code>身分次第</code>.**
+**đó không phải là một ví dụ của điều này. Nó đang được sử dụng như trạng từ,** **nhưng cái đang bổ nghĩa <code>暮らす</code> không phải là <code>次第</code> một mình mà là từ ghép <code>身分次第</code>.**
 
 ---
 

@@ -6,13 +6,13 @@
 
 Hôm nay chúng ta sẽ nói về đến và đi trong tiếng Nhật.
 
-Vậy, <code>行く</code> và <code>来る</code> là một trong những từ đầu tiên chúng ta học khi bắt đầu học tiếng Nhật, và chúng ta biết rằng chúng có nghĩa là <code>come</code> (đến) và <code>go</code> (đi), và nhìn chung điều đó đúng. Nhưng khi chúng ta trở nên nâng cao hơn, chúng ta nhận ra rằng mọi thứ không đơn giản như vậy. Chúng có nhiều ý nghĩa ẩn dụ và tinh tế hơn, nhưng ngay cả ý nghĩa vật lý cũng không tương ứng chính xác với <code>come</code> và <code>go</code> trong tiếng Anh.
+<code>行く</code> và <code>来る</code> là hai từ đầu tiên chúng ta học khi bắt đầu học tiếng Nhật, và chúng ta biết rằng chúng có nghĩa là <code>come</code> (đến) và <code>go</code> (đi), và nhìn chung điều đó đúng. Nhưng khi trình độ cao hơn, chúng ta hiểu rằng mọi thứ không đơn giản như vậy. Chúng có nhiều ý nghĩa ẩn dụ và tinh tế hơn, nhưng ngay cả ý nghĩa vật lý cũng không tương ứng chính xác với <code>come</code> và <code>go</code> trong tiếng Anh.
 
-Về cơ bản, <code>いく</code> có nghĩa là <code>rời khỏi nơi người nói đang ở, đến một nơi khác</code>, và <code>くる</code> có nghĩa là <code>đến từ một nơi khác đến nơi người nói đang ở</code>.
+Về cơ bản, <code>いく</code> có nghĩa là <code>đi từ nơi người nói đang ở đến một nơi khác</code>, và <code>くる</code> có nghĩa là <code>đến từ một nơi khác đến nơi người nói đang ở</code>.
 
 > ![](../media/image1005.webp)
 
-Điều đó không giống với <code>come</code> và <code>go</code> trong tiếng Anh sao? Ừ, không hoàn toàn.
+Điều đó không giống với <code>come</code> và <code>go</code> trong tiếng Anh sao? Không hoàn toàn.
 
 Ví dụ, chúng ta có thể nói với ai đó qua điện thoại: <code>Shall I come over to see you?</code> (Tôi có nên đến gặp bạn không?) hoặc bạn có thể nói: <code>Will you come to me, or shall I come to you?</code> (Bạn sẽ đến chỗ tôi, hay tôi nên đến chỗ bạn?)
 
@@ -28,7 +28,7 @@ Và trong tiếng Nhật điều này hoàn toàn không thể, vì bạn không
 
 Chúng ta có thể nói về việc ai đó <code>行く</code>-đi từ A đến B, khi chúng ta thực sự đang ở C, nhưng <code>来る</code> luôn phải có nghĩa là di chuyển đến C, nơi chúng ta đang ở. Và điều này quan trọng để hiểu khi chúng ta đi đến các ý nghĩa ẩn dụ hơn của <code>来る</code> và <code>行く</code>.
 
-Chúng ta đã nói về một số ý nghĩa mở rộng trong một bài học trước, nhưng vẫn là vật lý, đặc biệt là những ý nghĩa [**liên quan đến việc gắn <code>来る</code> hoặc <code>行く</code> vào dạng て của động từ**](https://www.youtube.com/watch?v=PsTsliRe2Cg).
+Chúng ta đã nói về một số ý nghĩa mở rộng trong bài học trước, nhưng vẫn là vật lý, đặc biệt là những ý nghĩa [**liên quan đến việc gắn <code>来る</code> hoặc <code>行く</code> vào dạng て của động từ**](https://www.youtube.com/watch?v=PsTsliRe2Cg).
 
 Vì vậy, <code>持ってくる</code> có nghĩa là <code>mang đến (nơi tôi đang ở)</code>; <code>持っていく</code> có nghĩa là <code>mang đi (từ nơi tôi đang ở)</code>. Nhưng <code>nơi tôi đang ở</code> thực sự có thể là một thời điểm hoặc có thể là một trạng thái tinh thần của sự đồng nhất.
 
@@ -57,7 +57,7 @@ Hãy xem xét một ví dụ tại sao. Chúng ta có thể nói <code>勉強す
 
 Và, như bạn thấy, nếu bạn đang chú ý, có một mâu thuẫn ở đây. Bạn không thể đến nơi bạn chưa ở, trong tiếng Nhật. Bạn không thể sử dụng <code>くる</code> để nói về việc đến đâu đó mà bạn không ở tại thời điểm này, nhưng sẽ ở trong tương lai. Đó phải là <code>いく</code>, phải không?
 
-Vậy tại sao <code>くる</code> được sử dụng ở đây? Ừ, nếu bạn đã theo dõi khóa học này, bạn có thể đã biết câu trả lời.
+Vậy tại sao <code>くる</code> được sử dụng ở đây? Nếu bạn đã theo dõi khóa học này, bạn có thể đã biết câu trả lời.
 
 <code>分かる</code> không có nghĩa là <code>understand</code> (hiểu). Nó có nghĩa là <code>be understandable / be clear</code> (có thể hiểu được / rõ ràng) hoặc theo nghĩa đen những gì nó thực sự có nghĩa là <code>do understandable</code> (làm có thể hiểu được).
 
@@ -69,7 +69,7 @@ Nói cách khác, toán học sẽ đến từ trạng thái xa bạn đến tr�
 
 Và đây là điều quan trọng để hiểu, và quan trọng để hiểu rằng <code>くる</code> và <code>いく</code> có thể đại diện cho sự di chuyển trong thời gian, hướng về mình hoặc ra khỏi mình, sự di chuyển trong không gian, hướng về mình hoặc ra khỏi mình, sự di chuyển trong tính chủ quan, hướng đến trạng thái tinh thần của mình hoặc ra khỏi nó, nhưng cũng <code>iku</code> có thể đại diện cho tính khách quan, trong khi <code>kuru</code> đại diện cho tính chủ quan.
 
-Và lý do cho điều này — điều chúng ta đã thảo luận, cụ thể là <code>iku</code> có thể có nghĩa là di chuyển từ A đến B, trong khi chúng ta ở C. Do đó, <code>iku</code> có thể đại diện cho sự di chuyển từ một nơi đến nơi khác không bao gồm chúng ta, về mặt vật lý, thời gian, tinh thần hay cảm xúc.
+Và lý do cho điều này là điều chúng ta đã thảo luận, cụ thể là <code>iku</code> có thể có nghĩa là di chuyển từ A đến B, trong khi chúng ta ở C. Do đó, <code>iku</code> có thể đại diện cho sự di chuyển từ một nơi đến nơi khác không bao gồm chúng ta, về mặt vật lý, thời gian, tinh thần hay cảm xúc.
 
 Vậy, nếu chúng ta nói <code>samuku natte kita</code>
 ![](../media/image82.webp)

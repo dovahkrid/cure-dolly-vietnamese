@@ -4,13 +4,13 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về một từ có cả một danh sách dài các định nghĩa trong từ điển, nhiều trong số đó dường như không liên quan gì đến nhau. Tôi thậm chí sẽ không đi vào danh sách này. Chúng ta sẽ chỉ giải quyết từ này và ý nghĩa thực sự của nó và xem nó có được nhiều nghĩa mở rộng khác như thế nào.
+Hôm nay chúng ta sẽ nói về một từ có cả một danh sách dài các định nghĩa trong từ điển, nhiều trong số đó dường như không liên quan gì đến nhau. Tôi thậm chí sẽ không đi vào danh sách này. Chúng ta sẽ chỉ tìm hiểu từ này và ý nghĩa thực sự của nó và xem nó có được nhiều nghĩa mở rộng khác như thế nào.
 
 **Từ đó là <code>うち</code> và đây là một trong những từ bạn học sớm trong tiếng Nhật.**
 
 ![](../media/image870.webp)
 
-**Có lẽ bối cảnh đầu tiên mà bạn học nó là nó là một cách phát âm thay thế cho kanji này** *(家)*. **Nó có thể là <code>いえ</code> nhưng cũng có thể là <code>うち</code>, và cả hai đều có nghĩa là <code>nhà</code>.**
+**Có lẽ ngữ cảnh đầu tiên mà bạn học nó là nó là một cách phát âm thay thế cho kanji này** *(家)*. **Nó có thể là <code>いえ</code> nhưng cũng có thể là <code>うち</code>, và cả hai đều có nghĩa là <code>nhà</code>.**
 
 **Đây là cách duy nhất chúng ta có thể sử dụng kanji này.**
 
@@ -20,7 +20,7 @@ Hôm nay chúng ta sẽ nói về một từ có cả một danh sách dài các
 
 ---
 
-Vậy, **khi <code>うち</code> có nghĩa là <code>nhà</code> *(家)*, sự khác biệt giữa <code>いえ</code> và <code>うち</code> là <code>いえ</code> chỉ tòa nhà vật lý, ngôi nhà thực tế.** **<code>うち</code> chỉ cái mà bạn có thể gọi là nội thất tinh thần của ngôi nhà:** **gia đình, cuộc sống diễn ra trong nhà.**
+Vậy, **khi <code>うち</code> có nghĩa là <code>nhà</code> *(家)*, sự khác biệt giữa <code>いえ</code> và <code>うち</code> là <code>いえ</code> chỉ tòa nhà vật lý, ngôi nhà thực tế.** **<code>うち</code> chỉ cái mà bạn có thể gọi là không gian tinh thần bên trong ngôi nhà:** **gia đình, cuộc sống diễn ra trong nhà.**
 
 Ở một mức độ nhỏ, chúng ta có thể nói rằng nó hơi giống với sự khác biệt trong tiếng Anh giữa các từ <code>house</code> và <code>home</code>. **Nếu chúng ta nói rằng chúng ta đang thăm nhà của ai đó, chúng ta thường nói <code>うち</code> vì đó là <code>nhà</code> theo nghĩa gia đình của họ, ngôi nhà của họ.** **Đó là những gì chúng ta đang thăm. Chúng ta không thăm tòa nhà vật lý.**
 
@@ -28,7 +28,7 @@ Và chỉ như một ghi chú nhỏ, **bạn đôi khi có thể gặp các bi�
 
 ![](../media/image192.webp)
 
-**Vậy điều này thực sự cho chúng ta cơ sở cho tất cả các nghĩa khác của <code>うち</code>,** dù nó được viết bằng kanji nào: **khái niệm này về một nội thất tinh thần, một vỏ bọc, được định nghĩa, như vậy, bởi nội dung của nó.**
+**Vậy điều này thực sự cho chúng ta cơ sở cho tất cả các nghĩa khác của <code>うち</code>,** dù nó được viết bằng kanji nào: **khái niệm này về một không gian tinh thần bên trong, một vỏ bọc, được định nghĩa, như vậy, bởi nội dung của nó.**
 
 ## うち có nghĩa là <code>tôi</code> / 私 v.v.
 
@@ -110,9 +110,9 @@ Và ý nghĩa đó theo nghĩa đen là <code>**trong nhà của bây giờ** / 
 
 <code>Bây giờ</code> có nghĩa gì trong trường hợp này? Chà, **<code>bây giờ</code> có nghĩa là tình huống như hiện tại,** trong trường hợp này, **trong khi** kẻ phản diện vẫn có thể thanh tẩy được, **trong khi** hắn bị vô hiệu hóa, **trong khi** chúng ta thực sự có thể làm những gì chúng ta cần làm.
 
-Nó có thể có nghĩa là, **trong khi** chúng ta vẫn có thể chạy trốn. Nó có thể có nghĩa là, **trong khi** Cánh Cửa Vĩ Đại vẫn chưa đóng. Nói cách khác, <code>**今のうち**</code> là <code>**trong khi các hoàn cảnh hiện tại vẫn tiếp tục hiện hữu**</code>.
+Nó có thể có nghĩa là, **trong khi** chúng ta vẫn có thể chạy trốn. Nó có thể có nghĩa là, **trong khi** Cánh Cửa Vĩ Đại vẫn chưa đóng. Nói cách khác, <code>**今のうち**</code> là <code>**trong khi các hoàn cảnh hiện tại vẫn tiếp tục tồn tại**</code>.
 
-**Một khi chúng ngừng hiện hữu, bạn sẽ không còn ở <code>今のうち</code> nữa.**
+**Một khi chúng ngừng tồn tại, bạn sẽ không còn ở <code>今のうち</code> nữa.**
 
 ### そのうち
 

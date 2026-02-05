@@ -65,7 +65,7 @@ Nhưng với cách đọc on <code>らん</code> thì nó được sử dụng, 
 
 ![](../media/image291.webp)
 
-Bây giờ, **ở đây tất nhiên chúng ta đang sử dụng い-stem của <code>思う</code>,** được dịch là <code>think</code> trong tiếng Anh **nhưng thực sự có nghĩa nhiều hơn thế, nó có nghĩa là <code>feel</code>.**
+Bây giờ, **ở đây tất nhiên chúng ta đang sử dụng い-stem của <code>思う</code>,** được dịch là <code>think</code> trong tiếng Anh **nhưng thực sự có nghĩa nhiều hơn thế, nó có nghĩa là <code>cảm thấy</code>.**
 
 **Nhưng <code>思い</code> thường cũng có nghĩa là ý chí, mong muốn của một người,** và tôi đã đề cập điều này trong một video trước<sup>[[42]](./42-basic-word-confusion-まま.md)</sup> khi tôi giải thích cách **<code>思いのまま</code>** có nghĩa là **<code>trong tình trạng không thay đổi của ý chí hoặc mong muốn của một người</code>.** Và tôi sẽ đặt một liên kết cho điều đó trong trường hợp bạn quan tâm theo dõi.
 
@@ -83,7 +83,7 @@ Bây giờ, <code>せっかく</code> có cả một loạt định nghĩa nếu
 
 ![](../media/image507.webp)
 
-**Nó được định nghĩa là "với khó khăn, nỗ lực lớn; hiếm, có giá trị, quý giá, được chờ đợi lâu; tử tế, hào phóng; đặc biệt, rõ ràng",** đó là khá nhiều thứ cho một từ có nghĩa.
+**Nó được định nghĩa là "với khó khăn, nỗ lực lớn; hiếm, có giá trị, quý giá, được chờ đợi lâu; tử tế, hào phóng; đặc biệt, rõ ràng",** đó là khá nhiều thứ cho một từ.
 
 **Nhưng về cơ bản chúng đều quy về cùng một điều, đó là khái niệm rằng cái gì đó có giá trị và theo một nghĩa nào đó không thể thay thế được.**
 

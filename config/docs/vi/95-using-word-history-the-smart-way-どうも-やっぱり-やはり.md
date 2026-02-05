@@ -4,19 +4,19 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ xem xét một câu hỏi thỉnh thoảng xuất hiện bởi vì tôi xử lý tiếng Nhật theo cách cấu trúc và mọi người đôi khi hỏi, **"Có giúp ích trong việc hiểu cấu trúc chi tiết của ngôn ngữ khi biết điều gì đó về lịch sử của nó, biết các từ đến từ đâu không?"**
+Hôm nay chúng ta sẽ xem xét một câu hỏi thỉnh thoảng xuất hiện vì tôi xử lý tiếng Nhật theo cách cấu trúc và mọi người đôi khi hỏi, **"Có giúp ích trong việc hiểu cấu trúc chi tiết của ngôn ngữ khi biết điều gì đó về lịch sử của nó, biết các từ đến từ đâu không?"**
 
 ![](../media/image1155.webp)
 
-Và câu trả lời của tôi là một câu trả lời thực dụng, bởi vì toàn bộ cách tiếp cận của tôi là thực dụng, và câu trả lời là, **<code>Tôi sẽ nói hầu hết thời gian là không, nhưng đôi khi là có.</code>** Tôi giả định rằng hầu hết mọi người xem những video này muốn học cách sử dụng tiếng Nhật, đọc nó, nghe nó, nói nó, viết nó, và không quan tâm cơ bản đến lịch sử của ngôn ngữ. **Nếu chúng ta quan tâm đến lịch sử của ngôn ngữ, đó là một vấn đề khác.**
+Và câu trả lời của tôi là thực dụng, vì toàn bộ cách tiếp cận của tôi là thực dụng, và câu trả lời là, **<code>Tôi sẽ nói hầu hết thời gian là không, nhưng đôi khi là có.</code>** Tôi giả định rằng hầu hết mọi người xem những video này muốn học cách sử dụng tiếng Nhật, đọc nó, nghe nó, nói nó, viết nó, và không quan tâm cơ bản đến lịch sử của ngôn ngữ. **Nếu chúng ta quan tâm đến lịch sử của ngôn ngữ, đó là một vấn đề khác.**
 
-**hoàn toàn từ góc độ tiếp thu ngôn ngữ, nó làm lộn xộn tâm trí chúng ta với thông tin mà chúng ta không đặc biệt cần.** **Nhưng có những lúc việc biết điều gì đó về lịch sử của ngôn ngữ trở nên rất hữu ích và những lúc mà các câu đố cấu trúc không thể được giải quyết hoàn toàn mà không có nó.** Và tôi sẽ cố gắng cảnh báo bạn khi đó là trường hợp và cung cấp cho bạn thông tin cần thiết.
+**Hoàn toàn từ góc độ tiếp thu ngôn ngữ, nó làm lộn xộn tâm trí chúng ta với thông tin mà chúng ta không đặc biệt cần.** **Nhưng có những lúc việc biết điều gì đó về lịch sử của ngôn ngữ trở nên rất hữu ích và những lúc mà các câu đố cấu trúc không thể được giải quyết hoàn toàn mà không có nó.** Và tôi sẽ cố gắng cảnh báo bạn khi đó là trường hợp và cung cấp cho bạn thông tin cần thiết.
 
 **Cũng có những lúc,** có thể có vẻ lạ, **khi không phải là lịch sử thực tế của ngôn ngữ mà là lịch sử dân gian, những ý tưởng từ nguyên học không thực sự chính xác, có thể rất hữu ích.**
 
 ![](../media/image923.webp)
 
-Điều đó nghe có vẻ lạ, tôi biết, nhưng tại sao lại như vậy? Chà, đó là bởi vì **một trong những điều về lịch sử của ngôn ngữ và tại sao nó thường không hữu ích lắm là nó không nói cho chúng ta biết về cách ngôn ngữ hoạt động bây giờ, nó nói cho chúng ta biết về cách ngôn ngữ từng hoạt động vài trăm năm trước.** Và chúng ta không đặc biệt cần biết điều đó.
+Điều đó nghe có vẻ lạ, tôi biết, nhưng tại sao lại như vậy? Chà, đó là vì **một trong những điều về lịch sử của ngôn ngữ và tại sao nó thường không hữu ích lắm là nó không nói cho chúng ta biết về cách ngôn ngữ hoạt động bây giờ, nó nói cho chúng ta biết về cách ngôn ngữ từng hoạt động vài trăm năm trước.** Và chúng ta không đặc biệt cần biết điều đó.
 
 **Mặt khác, từ nguyên dân gian, những ý tưởng về nguồn gốc của từ không thực sự đúng về mặt lịch sử, có xu hướng đại diện cho ý tưởng gần đây hơn của mọi người về cách ngôn ngữ thực sự hoạt động bây giờ.** **Và vì những từ nguyên dân gian này đến từ những người nói tiếng Nhật trong môi trường Nhật Bản, chúng có xu hướng được tô màu bởi sự đánh giá của người Nhật về cách ngôn ngữ hoạt động bây giờ hơn là cách nó từng hoạt động, khi các từ được hình thành.**
 
@@ -41,7 +41,7 @@ Một trong những lý do tôi trích dẫn bình luận của Algirion-san là
 
 ---
 
-**<code>どうも</code> thực sự bắt đầu trong thời đại Edo và nó là một sự rút gọn của cụm từ <code>どうも言えぬ</code>.** **Và điều đó có nghĩa là <code>bằng bất kỳ cách nào</code> — phần <code>どうも</code> có nghĩa là <code>bằng bất kỳ cách nào</code> — và <code>言えぬ</code> có nghĩa là <code>không thể nói</code>.**
+**<code>どうも</code> thực sự bắt đầu trong thời đại Edo và nó là sự rút gọn của cụm từ <code>どうも言えぬ</code>.** **Và điều đó có nghĩa là <code>bằng bất kỳ cách nào</code> — phần <code>どうも</code> có nghĩa là <code>bằng bất kỳ cách nào</code> — và <code>言えぬ</code> có nghĩa là <code>không thể nói</code>.**
 
 Cái -ぬ phủ định đó là thứ [**tôi đã nói về trong một video gần đây**](https://www.youtube.com/watch?v=E7Qop8dwP4w), vậy nếu bạn không biết về điều đó, tôi sẽ đặt một liên kết phía trên đầu tôi.
 
@@ -61,7 +61,7 @@ Cái -ぬ phủ định đó là thứ [**tôi đã nói về trong một video 
 
 <code>**どうも**すみません</code>: <code>Tôi **không thể diễn tả được** sự xin lỗi</code>.
 
-**Bây giờ tất nhiên đây là một cách nói cường điệu và, như luôn xảy ra với cách nói cường điệu khi chúng trở thành ổn định trong ngôn ngữ như những biểu hiện thường xuyên, nó mất đi nhiều sức mạnh của nó, vậy nó kết thúc chỉ có nghĩa là <code>rất</code>.**
+**Bây giờ tất nhiên đây là cách nói cường điệu và, như luôn xảy ra với cách nói cường điệu khi chúng trở thành ổn định trong ngôn ngữ như những biểu hiện thường xuyên, nó mất đi nhiều sức mạnh của nó, vậy nó kết thúc chỉ có nghĩa là <code>rất</code>.**
 
 Vậy, <code>**どうも**すみません</code> (Tôi **rất** xin lỗi); <code>**どうも**ありがとうございます</code> (Cảm ơn **rất nhiều**).
 
@@ -75,7 +75,7 @@ Vậy, <code>**どうも**すみません</code> (Tôi **rất** xin lỗi); <co
 
 ---
 
-**Và nó là một cái rất hữu ích bởi vì hơi phô trương, nó có vẻ dễ chịu và lịch sự, nó không quá trang trọng, nó không quá thân mật, nó chỉ là một biểu hiện rất hữu ích để ném vào thay cho một 挨拶.**
+**Và nó là một cái rất hữu ích vì hơi phô trương, nó có vẻ dễ chịu và lịch sự, nó không quá trang trọng, nó không quá thân mật, nó chỉ là một biểu hiện rất hữu ích để ném vào thay cho một 挨拶.**
 
 **Tất nhiên, nó thay thế những cái mà nó có ý nghĩa logic hơn, vậy chúng ta có thể nói <code>どうも</code> cho <code>Tôi xin lỗi</code>, và <code>どうも</code> cho <code>cảm ơn</code>.**
 
@@ -112,7 +112,7 @@ Tôi không thể **bằng bất kỳ cách nào** nói tại sao, nhưng tôi k
 
 ## やっぱり / やはり
 
-Bây giờ, **một cái mà chúng ta sẽ nói về một từ nguyên sai là <code>やっぱり</code>, cũng có dạng hơi trang trọng hơn <code>やはり</code>.**
+Bây giờ, **một cái mà chúng ta sẽ nói về từ nguyên sai là <code>やっぱり</code>, cũng có dạng hơi trang trọng hơn <code>やはり</code>.**
 
 ![](../media/image275.webp)
 
@@ -147,7 +147,7 @@ Bây giờ, có một từ nguyên dân gian cho <code>やっぱり</code>.
 
 ![](../media/image936.webp)
 
-**Đừng viết như thế này bởi vì bạn sẽ trông như ai đó đã học Heisig và không biết gì được viết bằng kanji và gì không.**
+**Đừng viết như thế này vì bạn sẽ trông như ai đó đã học Heisig và không biết gì được viết bằng kanji và gì không.**
 
 *Ghi chú; Đây thực sự là lời khuyên tốt, vì một trong những điều của tiếng Nhật là biết khi nào một biểu hiện có dạng Kanji lỗi thời/không cần thiết không còn thực sự được sử dụng ngoài một số tác phẩm cụ thể trong ngôn ngữ chung. Thường nói, ít nhất qua bàn phím tiếng Nhật, những gì được gợi ý cho bạn đầu tiên có thể là phiên bản phổ biến nhất; các biểu hiện phổ biến và từ chức năng có xu hướng không sử dụng Kanji và viết mọi từ bằng Kanji có thể có vẻ quá mức. Bạn sẽ nắm được những từ nào có xu hướng không sử dụng dạng Kanji của chúng càng đọc nhiều.*
 
@@ -238,7 +238,7 @@ Và **may mắn thay tôi sẽ nói không thường xuyên lắm mà chúng ta 
 
 Nhưng rõ ràng có những trường hợp, **đặc biệt với các biểu hiện được rút ra từ tục ngữ và những thứ như thế, nơi nó giúp biết tục ngữ, và trong một số trường hợp với các từ thực tế như thế này nơi nó giúp biết <code>どうも</code> ban đầu có nghĩa là gì.**
 
-**Và trong trường hợp của <code>やっぱり</code>, đó là một khái niệm mà chúng ta không thực sự có trong tiếng Anh, khái niệm trọng tâm ban đầu này, và mặc dù đó là một từ nguyên dân gian, không phải từ nguyên lịch sử, nó thực sự giúp chúng ta hiểu cách người Nhật nhìn và hiểu biểu hiện đó.**
+**Và trong trường hợp của <code>やっぱり</code>, đó là một khái niệm mà chúng ta không thực sự có trong tiếng Anh, khái niệm trọng tâm ban đầu này, và mặc dù đó là từ nguyên dân gian, không phải từ nguyên lịch sử, nó thực sự giúp chúng ta hiểu cách người Nhật nhìn và hiểu biểu hiện đó.**
 
 ::: info
 Như thường lệ, bạn có thể kiểm tra [**bình luận**](https://www.youtube.com/watch?v=WUmByRnrx_U&ab_channel=OrganicJapanesewithCureDolly) của video để có một số thông tin thú vị.

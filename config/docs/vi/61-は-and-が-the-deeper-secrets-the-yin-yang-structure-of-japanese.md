@@ -60,7 +60,7 @@ Vì vậy trong khi <code>私は本を買った</code> ngầm là câu trả l�
 
 ---
 
-Điều quan trọng nữa là phải hiểu cách nói tự nhiên, trung lập là gì. Chúng ta biết trong trường hợp này rằng cách tự nhiên, trung lập để nói <code>Tôi đã mua một quyển sách</code> mà không nhấn mạnh bất cứ điều gì chỉ đơn giản là nói <code>本をかった</code>.
+Điều quan trọng nữa là phải hiểu cách nói tự nhiên, trung lập là gì. Chúng ta biết trong trường hợp này rằng cách tự nhiên, trung lập để nói <code>Tôi đã mua một quyển sách</code> mà không nhấn mạnh bất cứ điều gì chỉ đơn giản là nói <code>本を買った</code>.
 
 Vì vậy nếu chúng ta nói <code>私は</code> hoặc <code>私が</code>, **chúng ta đang cụ thể đưa ra một quan điểm ở đây.** **Chúng ta đang thêm điều gì đó vào câu nói trung lập rằng tôi đã mua một quyển sách.**
 
@@ -81,8 +81,8 @@ Bây giờ, suốt thời gian chúng ta đang nói về các xu hướng ở đ
 
 Chúng ta mong đợi ai đó rất có khả năng có chó và vì vậy đây không phải là thông tin mới hoặc quan trọng. Chúng ta không mong đợi ai đó có kỳ nhông, vì vậy điều này được tính là thông tin mới, quan trọng và bạn không thể lướt qua nó với <code>the</code> theo cách mà bạn có thể với con chó.
 
-**Tương tự, が có thể đánh dấu tài liệu mới cũng như tài liệu cũ,
-nhưng は không thể đánh dấu tài liệu mới.** **は có thể đánh dấu những thứ cụ thể cũng như những khái quát nhưng が không thể thực sự đánh dấu những khái quát.**
+**Tương tự, が có thể đánh dấu thông tin mới cũng như thông tin cũ,
+nhưng は không thể đánh dấu thông tin mới.** **は có thể đánh dấu những thứ cụ thể cũng như những khái quát nhưng が không thể thực sự đánh dấu những khái quát.**
 
 Vì vậy chúng ta đang nói về những sắc thái khá tinh tế ở đây. Bây giờ, biết cách thông thường để nói điều gì đó, một lần nữa, là những gì mang lại sự nhấn mạnh khi sử dụng một chiến lược khác.
 

@@ -4,13 +4,13 @@
 
 こんにちは。
 
-Hôm nay chúng ta sẽ nói về một điều rất quan trọng ảnh hưởng đến toàn bộ cấu trúc của tiếng Nhật. Và, thật bất ngờ, các giáo trình không bao giờ giải thích điều này một cách đúng đắn. Điều chúng ta sẽ thảo luận là các từ tiếng Nhật. Không phải từ vựng, mà là bản chất thực sự của các từ và cách chúng hoạt động về mặt cấu trúc trong ngôn ngữ. Điều này không khó. Thực tế, nó rất đơn giản. Nhưng nếu bạn không biết nó, nó sẽ rất khó hiểu vì bạn nhìn vào một câu và không biết các từ thực sự đang làm gì trong câu đó. Và đây là tình trạng mà các giáo trình để bạn rơi vào.
+Hôm nay chúng ta sẽ nói về một điều rất quan trọng ảnh hưởng đến toàn bộ cấu trúc của tiếng Nhật. Và thật bất ngờ, các giáo trình không bao giờ giải thích điều này đúng cách. Điều chúng ta sẽ thảo luận là các từ tiếng Nhật. Không phải từ vựng, mà là bản chất thực sự của các từ và cách chúng hoạt động về mặt cấu trúc trong ngôn ngữ. Điều này không khó. Thực tế, nó rất đơn giản. Nhưng nếu bạn không biết, nó sẽ rất khó hiểu vì bạn nhìn vào một câu và không biết các từ thực sự đang làm gì trong câu đó. Và đây là tình trạng mà các giáo trình để bạn rơi vào.
 
-Thực tế là tiếng Nhật đơn giản hơn nhiều so với tiếng Anh và hầu hết các ngôn ngữ khác về các loại từ mà nó có. Tuy nhiên, các giáo trình và từ điển tiếng Anh cố gắng đồng hóa các từ tiếng Nhật với các loại từ tiếng Anh khác nhau và điều này không hiệu quả chút nào và dẫn đến sự nhầm lẫn vô tận. Vì vậy, tôi sẽ trình bày năm sự thật sẽ làm rõ toàn bộ tình huống.
+Thực tế là tiếng Nhật đơn giản hơn nhiều so với tiếng Anh và hầu hết các ngôn ngữ khác về các loại từ mà nó có. Tuy nhiên, các giáo trình và từ điển tiếng Anh cố gắng đồng hóa các từ tiếng Nhật với các loại từ tiếng Anh khác nhau và điều này không hiệu quả chút nào, dẫn đến sự nhầm lẫn vô tận. Vì vậy, tôi sẽ trình bày năm sự thật sẽ làm rõ toàn bộ tình huống.
 
 ## Sự thật 1
 
-Sự thật 1: Hầu như tất cả các từ tiếng Nhật thuộc một trong ba loại. Chỉ ba. Và ba loại đó là: Danh từ, Động từ và Tính từ. Bây giờ, cũng có các trợ từ như chúng ta biết - chúng không phải là từ, nhưng chúng là những ốc vít và bu lông giữ ngôn ngữ lại với nhau. Và có một số - rất ít - từ chuyên biệt không thuộc ba loại đó.
+Sự thật 1: Hầu như tất cả các từ tiếng Nhật thuộc một trong ba loại. Chỉ ba. Và ba loại đó là: Danh từ, Động từ và Tính từ. Ngoài ra còn có các trợ từ như chúng ta biết - chúng không phải là từ, nhưng chúng là những ốc vít và bu lông giữ ngôn ngữ lại với nhau. Và có một số - rất ít - từ chuyên biệt không thuộc ba loại đó.
 
 ![](../media/image529.webp)
 
@@ -22,17 +22,17 @@ Sự thật 2: Động từ và tính từ rất dễ nhận ra và phân biệt
 
 ![](../media/image858.webp)
 
-Mọi động từ kết thúc bằng kana hàng -う - và nó phải là kana, không thể được bao gồm trong kanji. Và mọi tính từ phải kết thúc bằng kana い. Một lần nữa, nó phải là kana, không thể là một phần của kanji. Bây giờ, như chúng ta biết, có một số biến đổi hoàn toàn đều đặn mà kana hàng -う này và い này có thể thực hiện.
+Mọi động từ kết thúc bằng kana hàng -う - và nó phải là kana, không thể được bao gồm trong kanji. Và mọi tính từ phải kết thúc bằng kana い. Một lần nữa, nó phải là kana, không thể là một phần của kanji. Như chúng ta biết, có một số biến đổi hoàn toàn đều đặn mà kana hàng -う này và い này có thể thực hiện.
 
 Chúng có thể chuyển sang dạng て hoặc dạng た, và kana hàng -う cuối cùng của động từ có thể thay đổi thành kana tương đương trong cùng hàng để gắn một từ trợ giúp như tính từ trợ giúp phủ định <code>ない</code> hoặc động từ trợ giúp sai khiến <code>せる/させる</code>.
 
 ![](../media/image1009.webp)
 
-Bây giờ, một khi bạn biết các hoán vị cơ bản của động từ và tính từ, điều bạn nên làm rất sớm, bạn biết rằng nếu một từ không có một trong những đuôi động từ khả dĩ đó hoặc một trong những đuôi tính từ khả dĩ đó, nó là danh từ. Bạn biết rằng nếu một từ được viết chỉ bằng kanji hoặc có thể được viết chỉ bằng kanji, trong 99 trường hợp trên 100, nó là danh từ. Vì vậy, tiếng Nhật, như tôi đã nói trước đây, là một ngôn ngữ tập trung vào danh từ.
+Một khi bạn biết các hoán vị cơ bản của động từ và tính từ, điều bạn nên làm rất sớm, bạn biết rằng nếu một từ không có một trong những đuôi động từ khả dĩ đó hoặc một trong những đuôi tính từ khả dĩ đó, nó là danh từ. Bạn biết rằng nếu một từ được viết chỉ bằng kanji hoặc có thể được viết chỉ bằng kanji, trong 99 trường hợp trên 100, nó là danh từ. Vì vậy, tiếng Nhật, như tôi đã nói trước đây, là một ngôn ngữ tập trung vào danh từ.
 
 ## Sự thật 3
 
-Sự thật 3: Có một đội quân các siêu danh từ. Ý tôi là có một số loại danh từ đặc biệt, mỗi loại có một siêu năng lực và chỉ một. Nghĩa là các danh từ trong mỗi nhóm danh từ đặc biệt hoặc siêu danh từ này khác với danh từ thông thường chỉ ở một khía cạnh. Bây giờ, hai trong số các nhóm đó chúng ta đã biết, vì vậy như Sự thật 4 tôi sẽ chỉ xem qua chúng một cách nhanh chóng.
+Sự thật 3: Có một đội quân các siêu danh từ. Ý tôi là có một số loại danh từ đặc biệt, mỗi loại có một siêu năng lực và chỉ một. Nghĩa là các danh từ trong mỗi nhóm danh từ đặc biệt hoặc siêu danh từ này khác với danh từ thông thường chỉ ở một khía cạnh. Hai trong số các nhóm đó chúng ta đã biết, vì vậy như Sự thật 4 tôi sẽ chỉ xem qua chúng một cách nhanh chóng.
 
 ## Sự thật 4
 
@@ -77,7 +77,7 @@ Vì vậy, chúng ta có thể nói <code>勉強が好きだ</code>. Điều đ�
 
 ### Danh từ trạng từ
 
-Bây giờ, nhóm thứ ba, mà chúng ta chưa giới thiệu, là danh từ trạng từ. Bây giờ, có rất nhiều trong số này và rất nhiều trong số chúng kết thúc bằng kana <code>り</code>, nhưng không phải tất cả.
+Nhóm thứ ba, mà chúng ta chưa giới thiệu, là danh từ trạng từ. Có rất nhiều trong số này và rất nhiều trong số chúng kết thúc bằng kana <code>り</code>, nhưng không phải tất cả.
 
 ![](../media/image945.webp)
 
@@ -105,19 +105,19 @@ Hãy lấy một ví dụ khác: <code>余り/あまり</code>.
 
 #### あまり
 
-Bây giờ, danh từ này thường được giải thích theo cách hoàn toàn khó hiểu. **<code>あまり</code> là một danh từ**, và ý nghĩa của nó là <code>sự dư thừa</code>.
+Danh từ này thường được giải thích theo cách hoàn toàn khó hiểu. **<code>あまり</code> là một danh từ**, và ý nghĩa của nó là <code>sự dư thừa</code>.
 
 Bạn có thể sử dụng nó theo nghĩa hoàn toàn theo nghĩa đen. Bạn có thể nói <code>ご飯のあまり</code> — có nghĩa là <code>cơm dư / cơm thừa</code>.
 
 Nó rất thường được sử dụng theo những cách trừu tượng hơn. Vì vậy, chúng ta có thể nói <code>悲しみのあまり泣いた</code>.
 
-Bây giờ, điều này có nghĩa là <code>vì quá buồn, tôi đã khóc.</code>
+Điều này có nghĩa là <code>vì quá buồn, tôi đã khóc.</code>
 
 ![](../media/image644.webp)
 
 Và, như bạn thấy, chúng ta có thể bỏ trợ từ. **Chúng ta thường bỏ trợ từ với <code>あまり</code>.** **Vì vậy, nó đang được sử dụng như trạng từ và nó vẫn có nghĩa là <code>sự dư thừa</code>.**
 
-Bây giờ, các giáo trình thường giới thiệu nó trong một ngữ cảnh khác, điều này khiến nó rất khó hiểu khi chúng ta thấy nó trong các ngữ cảnh khác và đặc biệt là khi chúng ta không hiểu rằng nó thực sự là một danh từ. Họ cho thấy nó được sử dụng như trạng từ trong các biểu thức như <code>あまり勉強しない</code>.
+Các giáo trình thường giới thiệu nó trong một ngữ cảnh khác, điều này khiến nó rất khó hiểu khi chúng ta thấy nó trong các ngữ cảnh khác và đặc biệt là khi chúng ta không hiểu rằng nó thực sự là một danh từ. Họ cho thấy nó được sử dụng như trạng từ trong các biểu thức như <code>あまり勉強しない</code>.
 
 ![](../media/image1120.webp)
 
