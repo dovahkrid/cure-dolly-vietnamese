@@ -462,6 +462,20 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
       ]
     },
     {
+      "text": "Tài liệu tham khảo",
+      "collapsed": false,
+      "items": [
+        {
+          "text": "📋 Tóm tắt bài học",
+          "link": "/vi/summary"
+        },
+        {
+          "text": "⏰ Thì & Thể động từ",
+          "link": "/vi/tense-aspect-guide"
+        }
+      ]
+    },
+    {
       "text": "Cấu trúc câu cơ bản và Ngữ pháp nền tảng",
       "collapsed": false,
       "items": [
