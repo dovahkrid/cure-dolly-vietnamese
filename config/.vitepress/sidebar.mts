@@ -472,6 +472,10 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
         {
           "text": "⏰ Thì & Thể động từ",
           "link": "/vi/tense-aspect-guide"
+        },
+        {
+          "text": "📖 Ngữ pháp JLPT N5→N1",
+          "link": "/vi/jlpt-grammar-guide"
         }
       ]
     },
